@@ -1,0 +1,156 @@
+/* ============================================================
+   DATA NAPOLI — design system condiviso
+   Token colore campionati direttamente da logo e banner del
+   profilo X @sscnapolidata. Ogni componente qui dentro deve
+   restare riusabile da più pagine: se serve uno stile una tantum,
+   va nella pagina, non qui.
+   ============================================================ */
+
+:root{
+  --cyan:#01A0E8;
+  --cyan-dim:rgba(1,160,232,.35);
+  --cyan-faint:rgba(1,160,232,.12);
+  --bg:#08090B;
+  --panel:#0E1013;
+  --white:#FFFFFF;
+  --dim:rgba(255,255,255,.58);
+  --dimmer:rgba(255,255,255,.36);
+}
+*{box-sizing:border-box;margin:0;padding:0;}
+body{
+  background:var(--bg);
+  color:var(--white);
+  font-family:'Inter',sans-serif;
+  -webkit-font-smoothing:antialiased;
+  display:flex;
+  justify-content:center;
+}
+.page{width:100%;max-width:460px;padding:0 0 48px;}
+.display{font-family:'Space Grotesk',sans-serif;}
+
+/* header / brand */
+.brand-row{display:flex;align-items:center;justify-content:space-between;padding:18px 20px 0;}
+.brand{font-family:'Space Grotesk',sans-serif;font-weight:700;font-size:13px;letter-spacing:.14em;
+       color:var(--white);text-decoration:none;}
+.brand span{color:var(--cyan);}
+.handle{font-size:12px;color:var(--dim);}
+
+/* event-intensity chart: ogni barra rappresenta un evento verificato (altezza=tipo, colore=squadra) */
+.intensity{padding:22px 20px 0;}
+.intensity-label{font-size:10px;letter-spacing:.14em;color:var(--dim);margin-bottom:14px;}
+.intensity-chart{display:flex;align-items:flex-end;gap:6px;height:60px;
+                  border-bottom:1px solid var(--cyan-faint);}
+.ibar{flex:1;min-height:4px;border-radius:2px 2px 0 0;position:relative;background:rgba(255,255,255,.16);}
+.ibar.nap{background:var(--cyan);}
+.ibar.fio{background:rgba(255,255,255,.4);}
+.itick{position:absolute;top:100%;left:50%;transform:translateX(-50%);margin-top:7px;
+       font-size:9px;color:var(--dimmer);white-space:nowrap;font-family:'Space Grotesk',sans-serif;}
+.intensity-note{font-size:10px;color:var(--dimmer);margin-top:24px;line-height:1.5;}
+
+.meta{padding:18px 20px 0;font-size:12px;letter-spacing:.08em;color:var(--dim);
+      display:flex;flex-direction:column;gap:3px;}
+.meta b{color:var(--white);font-weight:600;}
+
+/* scoreboard */
+.scoreboard{padding:22px 20px 6px;}
+.teams-row{display:flex;align-items:center;justify-content:space-between;gap:10px;}
+.team{flex:1;text-align:center;font-size:13px;font-weight:600;letter-spacing:.04em;line-height:1.25;}
+.team.home{text-align:left;}
+.team.away{text-align:right;}
+.score{display:flex;align-items:baseline;justify-content:center;gap:14px;
+      font-family:'Space Grotesk',sans-serif;font-weight:700;font-size:64px;line-height:1;}
+.score .dash{color:var(--cyan);font-size:36px;}
+.ft-tag{text-align:center;margin-top:10px;font-size:11px;letter-spacing:.18em;color:var(--dim);}
+.ft-dot{display:inline-block;width:5px;height:5px;border-radius:50%;background:var(--cyan);margin-right:6px;}
+
+section{padding:26px 20px 0;}
+.label{font-size:11px;letter-spacing:.16em;color:var(--cyan);font-weight:600;margin-bottom:12px;
+       display:flex;align-items:center;gap:8px;}
+.label::after{content:"";flex:1;height:1px;background:var(--cyan-faint);}
+
+.summary p{font-size:14.5px;line-height:1.6;color:rgba(255,255,255,.86);}
+
+/* goal timeline */
+.goal-row{display:flex;gap:14px;padding:14px 0;border-top:1px solid var(--cyan-faint);}
+.goal-row:first-of-type{border-top:none;}
+.goal-min{font-family:'Space Grotesk',sans-serif;font-weight:700;font-size:30px;color:var(--cyan);
+           min-width:58px;line-height:1;}
+.goal-min small{display:block;font-size:9px;color:var(--dimmer);font-weight:500;margin-top:3px;letter-spacing:.06em;}
+.goal-body{flex:1;}
+.goal-scorer{font-weight:600;font-size:14.5px;}
+.goal-team{font-size:11px;color:var(--dim);letter-spacing:.06em;margin-top:2px;}
+.goal-note{font-size:12px;color:var(--dimmer);margin-top:5px;line-height:1.45;}
+.goal-run{font-family:'Space Grotesk',sans-serif;font-weight:600;font-size:13px;color:var(--white);
+          background:var(--cyan-faint);border:1px solid var(--cyan-dim);border-radius:3px;
+          padding:2px 8px;display:inline-block;margin-top:7px;}
+
+/* eventi generici (occasioni, cartellini...) */
+.event-row{display:flex;gap:14px;padding:11px 0;border-top:1px solid var(--cyan-faint);align-items:flex-start;}
+.event-row:first-of-type{border-top:none;}
+.event-min{font-family:'Space Grotesk',sans-serif;font-weight:600;font-size:15px;color:var(--white);
+           min-width:58px;}
+.event-min small{display:block;font-size:9px;color:var(--dimmer);font-weight:500;margin-top:2px;letter-spacing:.05em;}
+.event-body{flex:1;font-size:13px;line-height:1.5;}
+.event-body b{font-weight:600;}
+.event-team{font-size:10.5px;color:var(--dim);letter-spacing:.06em;}
+
+/* match flow — linea cronologica verticale */
+.flow-phase{font-size:10.5px;letter-spacing:.16em;color:var(--dimmer);margin:18px 0 10px;font-weight:600;}
+.flow-phase:first-of-type{margin-top:2px;}
+.flow-track{position:relative;margin-left:5px;padding-left:24px;border-left:2px solid var(--cyan-faint);}
+.flow-item{position:relative;padding:11px 0;}
+.flow-item::before{content:"";position:absolute;left:-31px;top:15px;width:10px;height:10px;
+                   border-radius:50%;background:var(--cyan);box-sizing:border-box;}
+.flow-item.open::before{background:var(--bg);border:2px solid var(--cyan);}
+.flow-min{font-family:'Space Grotesk',sans-serif;font-weight:700;font-size:12.5px;color:var(--cyan);}
+.flow-item.open .flow-min{color:var(--dim);font-weight:600;font-style:italic;}
+.flow-desc{font-size:13px;margin-top:3px;line-height:1.4;}
+.flow-desc b{font-weight:600;}
+.flow-tag{font-size:10px;color:var(--dim);letter-spacing:.06em;margin-left:6px;}
+.flow-run{font-family:'Space Grotesk',sans-serif;font-size:10.5px;color:var(--white);
+          background:var(--cyan-faint);border:1px solid var(--cyan-dim);border-radius:3px;
+          padding:1px 6px;margin-left:6px;}
+.flow-note{font-size:11px;color:var(--dimmer);line-height:1.6;margin-top:14px;}
+
+/* sostituzioni */
+.sub-row{display:flex;align-items:center;gap:12px;padding:10px 0;border-top:1px solid var(--cyan-faint);}
+.sub-row:first-of-type{border-top:none;}
+.sub-min{font-family:'Space Grotesk',sans-serif;font-size:13px;font-weight:600;color:var(--dim);min-width:42px;}
+.sub-names{flex:1;font-size:13.5px;display:flex;align-items:center;gap:8px;flex-wrap:wrap;}
+.sub-out{color:var(--dim);}
+.sub-arrow{color:var(--cyan);}
+.sub-in{font-weight:600;}
+.sub-team-tag{font-size:10px;letter-spacing:.08em;color:var(--dimmer);margin-left:auto;}
+
+/* stato dati non ancora verificati — mai un dato finto, ma nemmeno un buco muto */
+.empty-state{border:1px solid var(--cyan-dim);border-radius:4px;padding:16px 16px;background:var(--panel);}
+.empty-state p{font-size:12.5px;line-height:1.6;color:var(--dim);}
+.empty-state p+p{margin-top:8px;}
+.empty-state b{color:var(--white);}
+
+/* card partita, usata nella home */
+.match-card{display:block;text-decoration:none;color:inherit;border:1px solid var(--cyan-dim);
+            border-radius:4px;padding:18px;background:var(--panel);transition:border-color .15s ease;}
+.match-card:hover{border-color:var(--cyan);}
+.match-card .mc-label{font-size:10px;letter-spacing:.14em;color:var(--dim);margin-bottom:10px;}
+.match-card .mc-score{font-family:'Space Grotesk',sans-serif;font-weight:700;font-size:22px;}
+.match-card .mc-meta{font-size:11px;color:var(--dim);margin-top:8px;}
+
+/* home */
+.eyebrow{text-transform:uppercase;letter-spacing:.16em;color:var(--dim);font-size:11px;}
+.hero{padding:40px 20px 8px;}
+.hero .tagline{font-size:13px;color:rgba(255,255,255,.8);margin-top:18px;line-height:1.6;}
+
+/* footer */
+footer{padding:0 20px;margin-top:42px;}
+.foot-brand{display:flex;align-items:center;gap:10px;}
+.foot-mark{width:26px;height:26px;border-radius:50%;background:var(--cyan);display:flex;align-items:center;justify-content:center;}
+.foot-mark svg{width:13px;height:13px;}
+.foot-name{font-family:'Space Grotesk',sans-serif;font-weight:700;font-size:13px;letter-spacing:.06em;}
+.foot-sub{font-size:11px;color:var(--dim);}
+.sources{margin-top:16px;font-size:11px;color:var(--dimmer);line-height:1.7;}
+.sources a{color:var(--dim);}
+
+@media (min-width:520px){
+  .page{border-left:1px solid var(--cyan-faint);border-right:1px solid var(--cyan-faint);}
+}

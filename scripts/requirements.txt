@@ -30,3 +30,5 @@ requests>=2.31
 # Visualisation extras
 matplotlib>=3.7
 seaborn>=0.12
+jinja2
+playwright

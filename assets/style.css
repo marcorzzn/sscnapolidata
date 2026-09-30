@@ -1,9 +1,9 @@
 /* ============================================================
-   DATA NAPOLI — design system condiviso v2
-   Token colore campionati direttamente da logo e banner del
-   profilo X @sscnapolidata.
-   Light mode: sfondo azzurro brand #01A0E8, testo bianco.
-   Dark mode:  sfondo navy/nero editoriale, testo bianco.
+   DATA NAPOLI — design system condiviso v2.1
+   Light mode: sfondo bianco, testo inchiostro scuro,
+               azzurro #01A0E8 come accento su label/bordi/highlights.
+   Dark mode:  sfondo navy/nero, testo bianco, azzurro come accento.
+   I token CSS gestiscono tutto: nessun override light-mode inline.
    ============================================================ */
 
 :root{
@@ -24,30 +24,30 @@
   --border:rgba(1,160,232,.18);
   --badge-bg:rgba(1,160,232,.14);
   --badge-border:rgba(1,160,232,.38);
-  --handle-color:rgba(255,255,255,.72);
+  --handle-color:rgba(255,255,255,.65);
   --card-hover-bg:rgba(1,160,232,.06);
 }
 
-/* LIGHT MODE: sfondo azzurro brand, testo bianco */
+/* LIGHT MODE: sfondo bianco, testo inchiostro scuro, azzurro come accento */
 html[data-theme="light"]{
-  --bg:#01A0E8;
-  --bg2:#0190D0;
-  --panel:rgba(0,0,0,.12);
-  --panel2:rgba(0,0,0,.08);
-  --white:#FFFFFF;
-  --dim:rgba(255,255,255,.78);
-  --dimmer:rgba(255,255,255,.56);
-  --ink-strong:rgba(255,255,255,.96);
-  --cyan:#FFFFFF;
-  --cyan-dim:rgba(255,255,255,.45);
-  --cyan-faint:rgba(255,255,255,.18);
-  --ibar-base:rgba(255,255,255,.22);
-  --ibar-fio:rgba(255,255,255,.55);
-  --border:rgba(255,255,255,.25);
-  --badge-bg:rgba(255,255,255,.15);
-  --badge-border:rgba(255,255,255,.40);
-  --handle-color:rgba(255,255,255,.88);
-  --card-hover-bg:rgba(255,255,255,.12);
+  --bg:#FFFFFF;
+  --bg2:#F7FBFF;
+  --panel:#F0F7FD;
+  --panel2:#E8F3FB;
+  --white:#0B1219;
+  --dim:rgba(11,18,25,.56);
+  --dimmer:rgba(11,18,25,.36);
+  --ink-strong:rgba(11,18,25,.88);
+  --cyan:#01A0E8;
+  --cyan-dim:rgba(1,160,232,.32);
+  --cyan-faint:rgba(1,160,232,.12);
+  --ibar-base:rgba(1,160,232,.14);
+  --ibar-fio:rgba(11,18,25,.28);
+  --border:rgba(1,160,232,.20);
+  --badge-bg:rgba(1,160,232,.10);
+  --badge-border:rgba(1,160,232,.28);
+  --handle-color:#01A0E8;
+  --card-hover-bg:rgba(1,160,232,.06);
 }
 
 html{transition:none;background:var(--bg);}
@@ -69,7 +69,6 @@ body{
 .brand{font-family:'Space Grotesk',sans-serif;font-weight:700;font-size:13px;
        letter-spacing:.14em;color:var(--white);text-decoration:none;}
 .brand span{color:var(--cyan);}
-html[data-theme="light"] .brand span{color:rgba(255,255,255,.70);}
 
 /* Handle @sscnapolidata — cliccabile, con icona circolare */
 .handle-link{
@@ -77,13 +76,11 @@ html[data-theme="light"] .brand span{color:rgba(255,255,255,.70);}
   text-decoration:none;color:var(--handle-color);
   font-size:12px;transition:color .12s ease;
 }
-.handle-link:hover{color:var(--white);}
+.handle-link:hover{color:var(--cyan);}
 .handle-icon{
   width:18px;height:18px;border-radius:50%;object-fit:cover;
   flex-shrink:0;display:block;
 }
-html[data-theme="light"] .handle-link{color:rgba(255,255,255,.88);}
-html[data-theme="light"] .handle-link:hover{color:#fff;}
 
 /* ── Event-intensity chart ────────────────────────────────── */
 /* ogni barra = evento verificato (altezza=tipo, colore=squadra) */
@@ -93,7 +90,6 @@ html[data-theme="light"] .handle-link:hover{color:#fff;}
                   border-bottom:1px solid var(--cyan-faint);}
 .ibar{flex:1;min-height:4px;border-radius:2px 2px 0 0;position:relative;background:var(--ibar-base);}
 .ibar.nap{background:var(--cyan);}
-html[data-theme="light"] .ibar.nap{background:rgba(255,255,255,.95);}
 .ibar.fio{background:var(--ibar-fio);}
 .itick{position:absolute;top:100%;left:50%;transform:translateX(-50%);margin-top:7px;
        font-size:9px;color:var(--dimmer);white-space:nowrap;font-family:'Space Grotesk',sans-serif;}
@@ -113,17 +109,14 @@ html[data-theme="light"] .ibar.nap{background:rgba(255,255,255,.95);}
 .score{display:flex;align-items:baseline;justify-content:center;gap:14px;
       font-family:'Space Grotesk',sans-serif;font-weight:700;font-size:64px;line-height:1;}
 .score .dash{color:var(--cyan);font-size:36px;}
-html[data-theme="light"] .score .dash{color:rgba(255,255,255,.70);}
 .ft-tag{text-align:center;margin-top:10px;font-size:11px;letter-spacing:.18em;color:var(--dim);}
 .ft-dot{display:inline-block;width:5px;height:5px;border-radius:50%;
         background:var(--cyan);margin-right:6px;}
-html[data-theme="light"] .ft-dot{background:#fff;}
 
 /* ── Section label ────────────────────────────────────────── */
 section{padding:26px 20px 0;}
 .label{font-size:11px;letter-spacing:.16em;color:var(--cyan);font-weight:600;margin-bottom:12px;
        display:flex;align-items:center;gap:8px;}
-html[data-theme="light"] .label{color:rgba(255,255,255,.80);}
 .label::after{content:"";flex:1;height:1px;background:var(--cyan-faint);}
 
 /* ── Summary ──────────────────────────────────────────────── */
@@ -134,13 +127,12 @@ html[data-theme="light"] .label{color:rgba(255,255,255,.80);}
 .goal-row:first-of-type{border-top:none;}
 .goal-min{font-family:'Space Grotesk',sans-serif;font-weight:700;font-size:30px;color:var(--cyan);
            min-width:58px;line-height:1;}
-html[data-theme="light"] .goal-min{color:#fff;}
 .goal-min small{display:block;font-size:9px;color:var(--dimmer);font-weight:500;margin-top:3px;letter-spacing:.06em;}
 .goal-body{flex:1;}
 .goal-scorer{font-weight:600;font-size:14.5px;}
 .goal-team{font-size:11px;color:var(--dim);letter-spacing:.06em;margin-top:2px;}
 .goal-note{font-size:12px;color:var(--dimmer);margin-top:5px;line-height:1.45;}
-.goal-run{font-family:'Space Grotesk',sans-serif;font-weight:600;font-size:13px;color:var(--white);
+.goal-run{font-family:'Space Grotesk',sans-serif;font-weight:600;font-size:13px;color:var(--cyan);
           background:var(--badge-bg);border:1px solid var(--badge-border);border-radius:3px;
           padding:2px 8px;display:inline-block;margin-top:7px;}
 
@@ -161,16 +153,13 @@ html[data-theme="light"] .goal-min{color:#fff;}
 .flow-item{position:relative;padding:11px 0;}
 .flow-item::before{content:"";position:absolute;left:-31px;top:15px;width:10px;height:10px;
                    border-radius:50%;background:var(--cyan);box-sizing:border-box;}
-html[data-theme="light"] .flow-item::before{background:#fff;}
 .flow-item.open::before{background:var(--bg);border:2px solid var(--cyan);}
-html[data-theme="light"] .flow-item.open::before{background:var(--bg2);border-color:#fff;}
 .flow-min{font-family:'Space Grotesk',sans-serif;font-weight:700;font-size:12.5px;color:var(--cyan);}
-html[data-theme="light"] .flow-min{color:#fff;}
 .flow-item.open .flow-min{color:var(--dim);font-weight:600;font-style:italic;}
 .flow-desc{font-size:13px;margin-top:3px;line-height:1.4;}
 .flow-desc b{font-weight:600;}
 .flow-tag{font-size:10px;color:var(--dim);letter-spacing:.06em;margin-left:6px;}
-.flow-run{font-family:'Space Grotesk',sans-serif;font-size:10.5px;color:var(--white);
+.flow-run{font-family:'Space Grotesk',sans-serif;font-size:10.5px;color:var(--cyan);
           background:var(--badge-bg);border:1px solid var(--badge-border);border-radius:3px;
           padding:1px 6px;margin-left:6px;}
 .flow-note{font-size:11px;color:var(--dimmer);line-height:1.6;margin-top:14px;}
@@ -182,7 +171,6 @@ html[data-theme="light"] .flow-min{color:#fff;}
 .sub-names{flex:1;font-size:13.5px;display:flex;align-items:center;gap:8px;flex-wrap:wrap;}
 .sub-out{color:var(--dim);}
 .sub-arrow{color:var(--cyan);}
-html[data-theme="light"] .sub-arrow{color:#fff;}
 .sub-in{font-weight:600;}
 .sub-team-tag{font-size:10px;letter-spacing:.08em;color:var(--dimmer);margin-left:auto;}
 
@@ -209,17 +197,13 @@ html[data-theme="light"] .sub-arrow{color:#fff;}
 .stat-fill{height:100%;border-radius:2px;}
 .stat-fill.home-fill{float:right;background:var(--ibar-fio);}
 .stat-fill.away-fill{background:var(--cyan);}
-html[data-theme="light"] .stat-fill.away-fill{background:#fff;}
 
 /* ── Final Data ticker ────────────────────────────────────── */
 .final-grid{display:grid;grid-template-columns:1fr 1fr;gap:2px;}
 .final-cell{padding:10px 12px;background:var(--panel2);border-radius:3px;text-align:center;}
-.final-cell:nth-child(odd){margin-right:2px;}
 .final-metric{font-size:9.5px;letter-spacing:.12em;color:var(--dim);margin-bottom:4px;}
 .final-val{font-family:'Space Grotesk',sans-serif;font-weight:700;font-size:22px;color:var(--white);}
 .final-val.accent{color:var(--cyan);}
-html[data-theme="light"] .final-val.accent{color:#fff;}
-html[data-theme="light"] .final-cell{background:rgba(255,255,255,.14);}
 
 /* ── La Partita Eterna ────────────────────────────────────── */
 .eterna-head{display:flex;align-items:baseline;gap:10px;margin-bottom:16px;}
@@ -229,14 +213,12 @@ html[data-theme="light"] .final-cell{background:rgba(255,255,255,.14);}
 .eterna-stats{display:flex;gap:18px;margin-bottom:16px;}
 .eterna-stat{text-align:center;}
 .eterna-stat-n{font-family:'Space Grotesk',sans-serif;font-weight:700;font-size:20px;color:var(--cyan);}
-html[data-theme="light"] .eterna-stat-n{color:#fff;}
 .eterna-stat-l{font-size:9.5px;letter-spacing:.10em;color:var(--dimmer);}
 .eterna-note{font-size:11px;color:var(--dimmer);line-height:1.55;
              border-left:2px solid var(--cyan-faint);padding-left:10px;margin-top:8px;}
 
 /* ── Empty state (dato non disponibile) ───────────────────── */
 .empty-state{border:1px solid var(--border);border-radius:4px;padding:16px;background:var(--panel);}
-html[data-theme="light"] .empty-state{background:rgba(0,0,0,.10);}
 .empty-state p{font-size:12.5px;line-height:1.6;color:var(--dim);}
 .empty-state p+p{margin-top:8px;}
 .empty-state b{color:var(--white);}
@@ -245,8 +227,6 @@ html[data-theme="light"] .empty-state{background:rgba(0,0,0,.10);}
 .match-card{display:block;text-decoration:none;color:inherit;border:1px solid var(--border);
             border-radius:4px;padding:18px;background:var(--panel);transition:border-color .15s ease, background .15s ease;}
 .match-card:hover{border-color:var(--cyan);background:var(--card-hover-bg);}
-html[data-theme="light"] .match-card{background:rgba(255,255,255,.14);border-color:rgba(255,255,255,.35);}
-html[data-theme="light"] .match-card:hover{background:rgba(255,255,255,.24);border-color:#fff;}
 .match-card .mc-label{font-size:10px;letter-spacing:.14em;color:var(--dim);margin-bottom:10px;}
 .match-card .mc-score{font-family:'Space Grotesk',sans-serif;font-weight:700;font-size:22px;}
 .match-card .mc-meta{font-size:11px;color:var(--dim);margin-top:8px;}
@@ -261,14 +241,10 @@ html[data-theme="light"] .match-card:hover{background:rgba(255,255,255,.24);bord
 .toggle-pill{font-family:'Space Grotesk',sans-serif;font-size:10px;font-weight:700;letter-spacing:.06em;
             color:var(--dim);background:transparent;border:1px solid var(--cyan-dim);border-radius:20px;
             padding:4px 9px;cursor:pointer;line-height:1;}
-.toggle-pill:hover{border-color:var(--cyan);color:var(--white);}
-html[data-theme="light"] .toggle-pill{border-color:rgba(255,255,255,.45);color:rgba(255,255,255,.80);}
-html[data-theme="light"] .toggle-pill:hover{border-color:#fff;color:#fff;}
+.toggle-pill:hover{border-color:var(--cyan);color:var(--cyan);}
 .toggle-icon{background:transparent;border:none;color:var(--dim);cursor:pointer;padding:4px;
              display:flex;align-items:center;justify-content:center;}
 .toggle-icon:hover{color:var(--cyan);}
-html[data-theme="light"] .toggle-icon{color:rgba(255,255,255,.80);}
-html[data-theme="light"] .toggle-icon:hover{color:#fff;}
 .toggle-icon svg{width:17px;height:17px;display:block;}
 .icon-to-dark{display:none;}
 html[data-theme="light"] .icon-to-light{display:none;}
@@ -279,9 +255,9 @@ footer{padding:0 20px;margin-top:46px;}
 .foot-brand{display:flex;align-items:center;gap:10px;}
 .foot-logo-img{width:28px;height:28px;border-radius:50%;object-fit:cover;flex-shrink:0;}
 .foot-name{font-family:'Space Grotesk',sans-serif;font-weight:700;font-size:13px;letter-spacing:.06em;}
-.foot-sub{font-size:11px;color:var(--dim);}
+.foot-sub{font-size:11px;color:var(--dim);display:flex;align-items:center;gap:4px;flex-wrap:wrap;}
 .sources{margin-top:16px;font-size:11px;color:var(--dimmer);line-height:1.7;}
-.sources a{color:var(--dim);text-decoration:none;}
+.sources a{color:var(--cyan);text-decoration:none;}
 .sources a:hover{color:var(--white);}
 
 /* ── Desktop border ───────────────────────────────────────── */

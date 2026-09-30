@@ -1,0 +1,57 @@
+# config.yaml — Data Napoli pipeline configuration
+# Edit this file to configure all scripts.
+
+# ── Brand ──────────────────────────────────────────────────────────────────────
+brand:
+  name: "Data Napoli"
+  handle: "@sscnapolidata"
+  logo_circle: "scripts/assets/logo_circle.png"   # circular PNG with transparency
+
+# ── Colours (must match style.css tokens) ──────────────────────────────────────
+colors:
+  pitch_bg:      "#fbf8f8"   # light pitch background (Trozado style)
+  pitch_bg_dark: "#0B1A2E"   # dark pitch background (brand dark mode)
+  pitch_lines:   "#d3cfcf"   # light mode
+  pitch_lines_dark: "#1E2D40"
+  edge_color:    "#6b6b7b"   # pass line colour
+  node_edge:     "#ffffff"   # node border
+  brand_cyan:    "#01A0E8"   # accent / highlight
+  text_dark:     "#08090B"
+  text_light:    "#FFFFFF"
+  subtext:       "#8899AA"
+
+# ── Pass network parameters ────────────────────────────────────────────────────
+pass_network:
+  min_passes_edge: 5          # minimum passes between a pair to draw an edge
+  min_passes_node: 1          # minimum passes to include a player as a node
+  progressive_advance_m: 15   # metres forward to classify a pass as progressive
+  pitch_type: "opta"          # coordinate system: opta (0-100 × 0-100)
+  figsize: [8, 12]            # matplotlib figure size (width, height in inches)
+  node_scale: 4               # node area = passes_completed × node_scale
+  edge_alpha_max: 0.85
+  edge_alpha_min: 0.15
+  edge_lw_max: 6
+  xT_colormap: "flare"        # matplotlib/seaborn colormap for Passing xT
+
+# ── Video / animation parameters ───────────────────────────────────────────────
+video:
+  output_size: [1080, 1080]   # pixels (square for social)
+  fps: 30
+  transition_frames: 30       # frames of linear interpolation between matches
+  hold_frames: 60             # frames to hold on each match network
+  codec: "libx264"
+  pix_fmt: "yuv420p"
+
+# ── Data sources ───────────────────────────────────────────────────────────────
+napoli:
+  fbref_squad_id: "d48ad4ff"
+  sofascore_team_id: 2714
+  transfermarkt_id: 6195
+  understat_slug: "Napoli"
+
+# ── Output paths ───────────────────────────────────────────────────────────────
+output:
+  frames_dir: "output/frames"
+  png_dir:    "output/png"
+  video_dir:  "output/video"
+  data_dir:   "data"

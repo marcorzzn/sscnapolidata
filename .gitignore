@@ -1,0 +1,29 @@
+# Data Napoli — .gitignore
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+
+# Pipeline output (frame, PNG, video) — non committare file generati
+output/
+*.mp4
+*.mov
+
+# API keys e segreti
+.env
+secrets.yaml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Jupyter
+*.ipynb_checkpoints/

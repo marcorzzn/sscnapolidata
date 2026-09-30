@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Fonti e Attribuzioni — Data Napoli</title>
+<link rel="icon" href="../assets/favicon.png">
+<script>
+  (function(){
+    var theme = localStorage.getItem('dn-theme');
+    if(!theme){ theme = (window.matchMedia && matchMedia('(prefers-color-scheme: light)').matches) ? 'light' : 'dark'; }
+    document.documentElement.setAttribute('data-theme', theme);
+    document.documentElement.setAttribute('lang', localStorage.getItem('dn-lang') || 'it');
+  })();
+</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+<style>
+  .source-box { border-left: 2px solid var(--cyan-faint); padding-left: 14px; margin-bottom: 24px; line-height: 1.6; }
+  .source-box:last-child { margin-bottom: 0; }
+  .source-dim { color: var(--dim); font-size: 11.5px; text-transform: uppercase; letter-spacing: .08em; display: inline-block; width: 60px; }
+  .source-box a { color: var(--cyan); text-decoration: none; }
+  .source-box a:hover { color: var(--white); text-decoration: underline; }
+  .intro-text { font-size: 14px; color: var(--ink-strong); line-height: 1.6; margin-bottom: 32px; }
+  .method-note { font-size: 13px; color: var(--dim); line-height: 1.6; background: var(--panel); padding: 16px; border-radius: 4px; margin-top: 32px; border: 1px solid var(--border); }
+</style>
+</head>
+<body>
+<div class="page">
+
+  <div class="brand-row">
+    <a class="brand" href="../index.html">DATA <span>NAPOLI</span></a>
+    <div class="brand-right">
+      <a class="handle-link" href="https://x.com/sscnapolidata" target="_blank" rel="noopener" aria-label="Profilo X @sscnapolidata">
+        <img class="handle-icon" src="../assets/favicon.png" alt="Data Napoli logo">
+        @sscnapolidata
+      </a>
+      <button class="toggle-pill" data-lang-toggle type="button" aria-label="Cambia lingua / Change language">EN</button>
+      <button class="toggle-icon" data-theme-toggle type="button" aria-label="Cambia tema / Change theme">
+        <svg class="icon-to-light" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"><circle cx="12" cy="12" r="4"/><path d="M12 2.5v2.4M12 19.1v2.4M4.2 4.2l1.7 1.7M18.1 18.1l1.7 1.7M2.5 12h2.4M19.1 12h2.4M4.2 19.8l1.7-1.7M18.1 5.9l1.7-1.7"/></svg>
+        <svg class="icon-to-dark" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M20 14.2A8.2 8.2 0 1 1 9.8 4a6.6 6.6 0 0 0 10.2 10.2Z"/></svg>
+      </button>
+    </div>
+  </div>
+
+  <section>
+    <div class="label" data-i18n="sources_title">FONTI DEI DATI</div>
+    
+    <p class="intro-text" data-i18n="sources_intro">Questo sito aggrega e visualizza dati provenienti da fonti pubbliche. Nessun dato viene mai inventato o stimato: dove una fonte non specifica un dettaglio, la pagina lo dichiara esplicitamente.</p>
+    
+    <div class="source-box" data-i18n="sources_1">📋 RISULTATI E ALMANACCO STORICO (dal 1926)<br><span class="source-dim">Fonte:</span> <a href="https://www.10maggio87.it/" target="_blank">10maggio87.it</a><br><span class="source-dim">Dati:</span> risultati partita per partita, marcatori, presenze giocatori, statistiche stagionali, precedenti H2H.<br><span class="source-dim">Nota:</span> sito italiano dedicato alla storia del Napoli, curato manualmente. Dati verificati e incrociati.</div>
+    
+    <div class="source-box" data-i18n="sources_2">👥 ROSE, TRASFERIMENTI, VALORI DI MERCATO<br><span class="source-dim">Fonte:</span> <a href="https://www.transfermarkt.it/ssc-napoli/" target="_blank">Transfermarkt</a><br><span class="source-dim">Dati:</span> rosa per stagione, trasferimenti, schede giocatori.<br><span class="source-dim">Nota:</span> i valori di mercato sono stime della community Transfermarkt, non prezzi ufficiali di trasferimento.</div>
+    
+    <div class="source-box" data-i18n="sources_3">📊 STATISTICHE AVANZATE (dal 2017/18)<br><span class="source-dim">Fonte:</span> <a href="https://fbref.com/en/squads/d48ad4ff/Napoli-Stats" target="_blank">FBref (Sports Reference LLC)</a><br><span class="source-dim">Dati:</span> xG, possesso, tiri, PPDA, pressioni, progressive carries.</div>
+    
+    <div class="source-box" data-i18n="sources_4">⚽ EXPECTED GOALS E COORDINATE TIRI (dal 2014/15)<br><span class="source-dim">Fonte:</span> <a href="https://understat.com/team/Napoli/" target="_blank">Understat</a><br><span class="source-dim">Dati:</span> xG per partita e per tiro, coordinate per la shot map.</div>
+    
+    <div class="source-box" data-i18n="sources_5">🏟️ PRESENZE ALLO STADIO (Serie A dal 1963/64)<br><span class="source-dim">Fonte:</span> <a href="https://www.stadiapostcards.com/" target="_blank">StadiaPostcards</a><br><span class="source-dim">Dati:</span> numero di spettatori per ogni partita di Serie A.<br><span class="source-dim">Nota:</span> sito fondato nel 2001, aggiornato settimanalmente.</div>
+    
+    <div class="source-box" data-i18n="sources_6">📍 COORDINATE STADI<br><span class="source-dim">Fonte:</span> <a href="https://www.openstreetmap.org/" target="_blank">OpenStreetMap</a><br><span class="source-dim">Licenza:</span> ODbL — dati liberi con attribuzione obbligatoria.</div>
+    
+    <div class="source-box" data-i18n="sources_7">🌤️ METEO STORICO<br><span class="source-dim">Fonte:</span> <a href="https://open-meteo.com/" target="_blank">Open-Meteo</a><br><span class="source-dim">Dati:</span> temperatura e precipitazioni per ogni partita.</div>
+    
+    <div class="method-note" data-i18n="sources_note">Nota metodologica: quando due fonti sono in disaccordo su un dato, la discrepanza viene segnalata nella pagina della partita — il dato non viene mai risolto arbitrariamente. In caso di incertezza sulla continuità societaria di club storici, il sito mostra sempre entrambe le letture possibili (es. con/senza entità storica nell'aggregato H2H).</div>
+  </section>
+
+  <footer>
+    <div class="foot-brand">
+      <img class="foot-logo-img" src="../assets/favicon.png" alt="Data Napoli logo">
+      <div>
+        <div class="foot-name">DATA NAPOLI</div>
+        <div class="foot-sub">Napoli Analitica ·
+          <a class="handle-link" href="https://x.com/sscnapolidata" target="_blank" rel="noopener">
+            <img class="handle-icon" src="../assets/favicon.png" alt="">@sscnapolidata
+          </a>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+</div>
+<script src="../assets/app.js" defer></script>
+</body>
+</html>

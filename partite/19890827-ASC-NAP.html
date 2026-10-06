@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>{{ match.squadra_casa }} {% if match.home_goals is not none %}{{ match.home_goals }}–{{ match.away_goals }}{% else %}vs{% endif %} {{ match.squadra_trasferta }} — Data Napoli</title>
+<title>Ascoli 0–1 Napoli — Data Napoli</title>
 <link rel="icon" href="../assets/favicon.png">
 <script>
   (function(){
@@ -43,23 +43,21 @@
 
   <!-- ── Meta info ──────────────────────────────────────── -->
   <div class="meta" style="margin-top: 14px;">
-    <div><b>{{ match.competizione }}</b> · {{ match.season }}</div>
-    <div>{{ match.date }}</div>
-    <div>{{ match.stadio or "Stadio sconosciuto/non confermato" }}</div>
+    <div><b>Serie A</b> · 1989-90</div>
+    <div>1989-08-27</div>
+    <div>Stadio sconosciuto/non confermato</div>
   </div>
 
   <!-- ── Scoreboard ─────────────────────────────────────── -->
   <div class="scoreboard">
     <div class="teams-row">
-      <div class="team home">{{ match.squadra_casa | upper }}</div>
-      <div class="team away">{{ match.squadra_trasferta | upper }}</div>
+      <div class="team home">ASCOLI</div>
+      <div class="team away">NAPOLI</div>
     </div>
     <div class="score">
-      {% if match.home_goals is not none %}
-        <span>{{ match.home_goals }}</span><span class="dash">–</span><span>{{ match.away_goals }}</span>
-      {% else %}
-        <span>-</span><span class="dash">–</span><span>-</span>
-      {% endif %}
+      
+        <span>0</span><span class="dash">–</span><span>1</span>
+      
     </div>
     <div class="ft-tag"><span class="ft-dot"></span>FULL TIME</div>
   </div>
@@ -68,16 +66,12 @@
   <section class="summary">
     <div class="label">NOTE E FONTI</div>
     <p>
-      {% if match.note and match.note|length > 0 %}
-        {% for nota in match.note %}
-          {{ nota }}<br>
-        {% endfor %}
-      {% else %}
+      
         Nessuna nota aggiuntiva per questa partita.
-      {% endif %}
+      
     </p>
     <p style="margin-top:8px; font-size:11px; color:var(--dimmer)">
-      Fonti utilizzate: {{ match.fonti | join(', ') }}
+      Fonti utilizzate: 10maggio87
     </p>
   </section>
 

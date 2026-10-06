@@ -65,7 +65,8 @@ window.DN_I18N = {
     sources_5: "🏟️ PRESENZE ALLO STADIO (Serie A dal 1963/64)<br><span class=\"source-dim\">Fonte:</span> <a href=\"https://www.stadiapostcards.com/\" target=\"_blank\">StadiaPostcards</a><br><span class=\"source-dim\">Dati:</span> numero di spettatori per ogni partita di Serie A.<br><span class=\"source-dim\">Nota:</span> sito fondato nel 2001, aggiornato settimanalmente.",
     sources_6: "📍 COORDINATE STADI<br><span class=\"source-dim\">Fonte:</span> <a href=\"https://www.openstreetmap.org/\" target=\"_blank\">OpenStreetMap</a><br><span class=\"source-dim\">Licenza:</span> ODbL — dati liberi con attribuzione obbligatoria.",
     sources_7: "🌤️ METEO STORICO<br><span class=\"source-dim\">Fonte:</span> <a href=\"https://open-meteo.com/\" target=\"_blank\">Open-Meteo</a><br><span class=\"source-dim\">Dati:</span> temperatura e precipitazioni per ogni partita.",
-    nav_sources: "Fonti e attribuzioni dati"
+    nav_sources: "Fonti e attribuzioni dati",
+    nav_archive: "→ ARCHIVIO PARTITE"
   },
   en: {
     latest_match: "LATEST MATCH",
@@ -125,7 +126,8 @@ window.DN_I18N = {
     sources_5: "🏟️ STADIUM ATTENDANCE (Serie A since 1963/64)<br><span class=\"source-dim\">Source:</span> <a href=\"https://www.stadiapostcards.com/\" target=\"_blank\">StadiaPostcards</a><br><span class=\"source-dim\">Data:</span> number of spectators for each Serie A match.<br><span class=\"source-dim\">Note:</span> site founded in 2001, updated weekly.",
     sources_6: "📍 STADIUM COORDINATES<br><span class=\"source-dim\">Source:</span> <a href=\"https://www.openstreetmap.org/\" target=\"_blank\">OpenStreetMap</a><br><span class=\"source-dim\">Licence:</span> ODbL — free data with mandatory attribution.",
     sources_7: "🌤️ HISTORICAL WEATHER<br><span class=\"source-dim\">Source:</span> <a href=\"https://open-meteo.com/\" target=\"_blank\">Open-Meteo</a><br><span class=\"source-dim\">Data:</span> temperature and precipitation for each match.",
-    nav_sources: "Data sources and attributions"
+    nav_sources: "Data sources and attributions",
+    nav_archive: "→ MATCH ARCHIVE"
   }
 };
 

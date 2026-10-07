@@ -4,8 +4,10 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Bologna 2–4 Napoli — Data Napoli</title>
+<link rel="manifest" href="../manifest.json">
 <link rel="icon" href="../assets/favicon.png">
 <script>
+  if('serviceWorker' in navigator) { navigator.serviceWorker.register('../sw.js'); }
   (function(){
     var theme = localStorage.getItem('dn-theme');
     if(!theme){ theme = (window.matchMedia && matchMedia('(prefers-color-scheme: light)').matches) ? 'light' : 'dark'; }
@@ -17,82 +19,179 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="../assets/style.css">
+<!-- html2canvas per l'esportazione social -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
 </head>
 <body>
-<div class="page">
 
-  <!-- ── Brand row ───────────────────────────────────────── -->
-  <div class="brand-row">
-    <a class="brand" href="../index.html">DATA <span>NAPOLI</span></a>
-    <div class="brand-right">
-      <a class="handle-link" href="https://x.com/sscnapolidata" target="_blank" rel="noopener" aria-label="Profilo X @sscnapolidata">
-        <img class="handle-icon" src="../assets/favicon.png" alt="Data Napoli logo">
-        @sscnapolidata
-      </a>
-      <button class="toggle-pill" data-lang-toggle type="button" aria-label="Cambia lingua / Change language">EN</button>
-      <button class="toggle-icon" data-theme-toggle type="button" aria-label="Cambia tema / Change theme">
-        <svg class="icon-to-light" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"><circle cx="12" cy="12" r="4"/><path d="M12 2.5v2.4M12 19.1v2.4M4.2 4.2l1.7 1.7M18.1 18.1l1.7 1.7M2.5 12h2.4M19.1 12h2.4M4.2 19.8l1.7-1.7M18.1 5.9l1.7-1.7"/></svg>
-        <svg class="icon-to-dark" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M20 14.2A8.2 8.2 0 1 1 9.8 4a6.6 6.6 0 0 0 10.2 10.2Z"/></svg>
-      </button>
+<div class="app-container">
+  
+  <!-- Sidebar PC -->
+  <aside class="sidebar">
+    <a class="brand" href="../index.html" style="text-decoration:none">DATA <span>NAPOLI</span></a>
+    <nav class="nav-menu">
+      <a href="../index.html" class="nav-item">🏠 Home</a>
+      <a href="../archivio/index.html" class="nav-item active">📚 Archivio</a>
+      <a href="#" class="nav-item">Storico (WIP)</a>
+      <a href="../fonti/index.html" class="nav-item">📖 Fonti</a>
+    </nav>
+  </aside>
+
+  <!-- Main Content -->
+  <main class="page" id="match-canvas">
+    
+    <!-- Export Toolbar (Nascosta durante lo scatto) -->
+    <div class="export-toolbar" data-html2canvas-ignore="true">
+      <button class="btn-export" onclick="exportSocial('1:1')">Esporta 1:1</button>
+      <button class="btn-export" onclick="exportSocial('4:5')">Esporta 4:5</button>
+      <button class="btn-export" onclick="exportSocial('9:16')">Esporta 9:16</button>
+      <button class="btn-export" onclick="exportSocial('1:2')">Esporta 1:2</button>
     </div>
-  </div>
 
-  <div style="margin-top:14px; margin-left: 20px;">
-    <a href="../archivio/index.html" style="font-size:12px;color:var(--dimmer);text-decoration:none;letter-spacing:.08em;font-family:'Space Grotesk',sans-serif;font-weight:700;">← TORNA ALL'ARCHIVIO</a>
-  </div>
-
-  <!-- ── Meta info ──────────────────────────────────────── -->
-  <div class="meta" style="margin-top: 14px;">
-    <div><b>Coppa Italia</b> · 1986-87</div>
-    <div>1987-05-06</div>
-    <div>Stadio sconosciuto/non confermato</div>
-  </div>
-
-  <!-- ── Scoreboard ─────────────────────────────────────── -->
-  <div class="scoreboard">
-    <div class="teams-row">
-      <div class="team home">BOLOGNA</div>
-      <div class="team away">NAPOLI</div>
-    </div>
-    <div class="score">
-      
-        <span>2</span><span class="dash">–</span><span>4</span>
-      
-    </div>
-    <div class="ft-tag"><span class="ft-dot"></span>FULL TIME</div>
-  </div>
-
-  <!-- ── Match Summary ──────────────────────────────────── -->
-  <section class="summary">
-    <div class="label">NOTE E FONTI</div>
-    <p>
-      
-        Nessuna nota aggiuntiva per questa partita.
-      
-    </p>
-    <p style="margin-top:8px; font-size:11px; color:var(--dimmer)">
-      Fonti utilizzate: 10maggio87
-    </p>
-  </section>
-
-  <footer>
-    <div class="foot-brand">
-      <img class="foot-logo-img" src="../assets/favicon.png" alt="Data Napoli logo">
-      <div>
-        <div class="foot-name">DATA NAPOLI</div>
-        <div class="foot-sub">Napoli Analitica ·
-          <a class="handle-link" href="https://x.com/sscnapolidata" target="_blank" rel="noopener">
-            <img class="handle-icon" src="../assets/favicon.png" alt="">@sscnapolidata
-          </a>
-        </div>
+    <div class="brand-row" data-html2canvas-ignore="true">
+      <!-- Il brand su mobile, nascosto nell'export -->
+      <div class="brand-right" style="margin-left:auto">
+        <button class="toggle-icon" data-theme-toggle type="button">
+          <svg class="icon-to-light" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"><circle cx="12" cy="12" r="4"/><path d="M12 2.5v2.4M12 19.1v2.4M4.2 4.2l1.7 1.7M18.1 18.1l1.7 1.7M2.5 12h2.4M19.1 12h2.4M4.2 19.8l1.7-1.7M18.1 5.9l1.7-1.7"/></svg>
+          <svg class="icon-to-dark" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M20 14.2A8.2 8.2 0 1 1 9.8 4a6.6 6.6 0 0 0 10.2 10.2Z"/></svg>
+        </button>
       </div>
     </div>
-    <div class="sources" style="margin-top:20px;">
-      <a href="../fonti/index.html" style="text-decoration:underline;color:var(--cyan);">Fonti e attribuzioni dati</a>
+
+    <!-- Intestazione che compare solo nell'Export -->
+    <div id="export-header" style="display:none; padding:40px; text-align:center;">
+      <div class="brand" style="font-size:32px;">DATA <span>NAPOLI</span></div>
     </div>
-  </footer>
+
+    <!-- ── Meta info ──────────────────────────────────────── -->
+    <div class="meta" style="margin-top: 14px;">
+      <div><b>Coppa Italia</b> · 1986-87</div>
+      <div>1987-05-06</div>
+      <div>Stadio sconosciuto/non confermato</div>
+    </div>
+
+    <!-- ── Scoreboard ─────────────────────────────────────── -->
+    <div class="scoreboard">
+      <div class="teams-row">
+        <div class="team home">BOLOGNA</div>
+        <div class="team away">NAPOLI</div>
+      </div>
+      <div class="score">
+        
+          <span>2</span><span class="dash">–</span><span>4</span>
+        
+      </div>
+      <div class="ft-tag"><span class="ft-dot"></span>FULL TIME</div>
+    </div>
+
+    <!-- ── Match Summary ──────────────────────────────────── -->
+    <section class="summary">
+      <div class="label">NOTE E FONTI</div>
+      <p>
+        
+          Nessuna nota aggiuntiva per questa partita.
+        
+      </p>
+      <p style="margin-top:8px; font-size:11px; color:var(--dimmer)">
+        Fonti utilizzate: 10maggio87
+      </p>
+    </section>
+
+    <!-- Piè di pagina -->
+    <footer data-html2canvas-ignore="true">
+      <div class="foot-brand">
+        <img class="foot-logo-img" src="../assets/favicon.png" alt="Data Napoli logo">
+        <div>
+          <div class="foot-name">DATA NAPOLI</div>
+        </div>
+      </div>
+    </footer>
+    
+    <!-- Firma Esportazione (Nascosta sul sito) -->
+    <div id="export-footer" style="display:none; padding:40px; text-align:center; font-family:'Space Grotesk',sans-serif; color:var(--dim); font-weight:700;">
+      <img src="../assets/favicon.png" style="width:24px; vertical-align:middle; margin-right:8px;"> @sscnapolidata
+    </div>
+
+  </main>
+  
+  <div class="right-panel"></div>
 
 </div>
+
+<!-- Bottom Nav Mobile -->
+<nav class="bottom-nav">
+  <a href="../index.html">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path></svg>
+    Home
+  </a>
+  <a href="../archivio/index.html" class="active">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"></path></svg>
+    Archivio
+  </a>
+  <a href="../fonti/index.html">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor"><circle cx="12" cy="12" r="10"></circle><line x1="12" y1="16" x2="12" y2="12"></line><line x1="12" y1="8" x2="12.01" y2="8"></line></svg>
+    Fonti
+  </a>
+</nav>
+
 <script src="../assets/app.js" defer></script>
+<script>
+// Motore di Esportazione 1:1, 4:5, 9:16, 1:2
+function exportSocial(ratio) {
+  var canvas = document.getElementById('match-canvas');
+  var header = document.getElementById('export-header');
+  var footer = document.getElementById('export-footer');
+  
+  // Salva stili originali
+  var originalWidth = canvas.style.width;
+  var originalHeight = canvas.style.height;
+  var originalTransform = canvas.style.transform;
+  var originalPadding = canvas.style.padding;
+  
+  // Set the specific dimensions (Base resolution 1080p wide)
+  var w = 1080;
+  var h = 1080;
+  if(ratio === '4:5') h = 1350;
+  if(ratio === '9:16') h = 1920;
+  if(ratio === '1:2') h = 2160;
+
+  // Mostra header e footer brandizzati
+  header.style.display = 'block';
+  footer.style.display = 'block';
+  
+  // Applica stile geometrico forzato al contenitore
+  // Usa lo zoom per far sembrare il testo proporzionato a 1080px
+  canvas.style.width = w + 'px';
+  canvas.style.height = h + 'px';
+  canvas.style.padding = '80px';
+  canvas.style.boxSizing = 'border-box';
+  canvas.style.display = 'flex';
+  canvas.style.flexDirection = 'column';
+  canvas.style.justifyContent = 'center';
+  canvas.style.fontSize = '24px'; // Scale up baseline
+  
+  // Html2Canvas prende screenshot
+  html2canvas(canvas, {
+    width: w,
+    height: h,
+    scale: 1, // 1x is exactly 1080p
+    backgroundColor: getComputedStyle(document.body).getPropertyValue('--bg').trim()
+  }).then(function(c) {
+    var link = document.createElement('a');
+    link.download = 'DataNapoli-' + '1987-05-06' + '-' + ratio.replace(':','x') + '.png';
+    link.href = c.toDataURL();
+    link.click();
+    
+    // Ripristina tutto
+    canvas.style.width = originalWidth;
+    canvas.style.height = originalHeight;
+    canvas.style.padding = originalPadding;
+    canvas.style.display = 'block';
+    canvas.style.fontSize = '';
+    header.style.display = 'none';
+    footer.style.display = 'none';
+  });
+}
+</script>
 </body>
 </html>

@@ -1,0 +1,2246 @@
+[
+  {
+    "match_id": "20250523-NAP-CAG",
+    "date": "2025-05-23",
+    "season": "2024-25",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Cagliari",
+    "home_goals": 2,
+    "away_goals": 0,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "20250518-PAR-NAP",
+    "date": "2025-05-18",
+    "season": "2024-25",
+    "competizione": "Serie A",
+    "squadra_casa": "Parma",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 0,
+    "away_goals": 0,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "20250511-NAP-GEN",
+    "date": "2025-05-11",
+    "season": "2024-25",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Genoa",
+    "home_goals": 2,
+    "away_goals": 2,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "20250503-LEC-NAP",
+    "date": "2025-05-03",
+    "season": "2024-25",
+    "competizione": "Serie A",
+    "squadra_casa": "Lecce",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 0,
+    "away_goals": 1,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "20250427-NAP-TOR",
+    "date": "2025-04-27",
+    "season": "2024-25",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Torino",
+    "home_goals": 2,
+    "away_goals": 0,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "20250419-MON-NAP",
+    "date": "2025-04-19",
+    "season": "2024-25",
+    "competizione": "Serie A",
+    "squadra_casa": "Monza",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 0,
+    "away_goals": 1,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "20250414-NAP-EMP",
+    "date": "2025-04-14",
+    "season": "2024-25",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Empoli",
+    "home_goals": 3,
+    "away_goals": 0,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "20250407-BOL-NAP",
+    "date": "2025-04-07",
+    "season": "2024-25",
+    "competizione": "Serie A",
+    "squadra_casa": "Bologna",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 1,
+    "away_goals": 1,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "20250330-NAP-MIL",
+    "date": "2025-03-30",
+    "season": "2024-25",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Milan",
+    "home_goals": 2,
+    "away_goals": 1,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "20250316-VEN-NAP",
+    "date": "2025-03-16",
+    "season": "2024-25",
+    "competizione": "Serie A",
+    "squadra_casa": "Venezia",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 0,
+    "away_goals": 0,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "20250309-NAP-FIO",
+    "date": "2025-03-09",
+    "season": "2024-25",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Fiorentina",
+    "home_goals": 2,
+    "away_goals": 1,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "20250301-NAP-INT",
+    "date": "2025-03-01",
+    "season": "2024-25",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Inter",
+    "home_goals": 1,
+    "away_goals": 1,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "20250223-COM-NAP",
+    "date": "2025-02-23",
+    "season": "2024-25",
+    "competizione": "Serie A",
+    "squadra_casa": "Como",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 2,
+    "away_goals": 1,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "20250215-LAZ-NAP",
+    "date": "2025-02-15",
+    "season": "2024-25",
+    "competizione": "Serie A",
+    "squadra_casa": "Lazio",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 2,
+    "away_goals": 2,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "20250209-NAP-UDI",
+    "date": "2025-02-09",
+    "season": "2024-25",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Udinese",
+    "home_goals": 1,
+    "away_goals": 1,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "20250202-ROM-NAP",
+    "date": "2025-02-02",
+    "season": "2024-25",
+    "competizione": "Serie A",
+    "squadra_casa": "Roma",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 1,
+    "away_goals": 1,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "20250125-NAP-JUV",
+    "date": "2025-01-25",
+    "season": "2024-25",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Juventus",
+    "home_goals": 2,
+    "away_goals": 1,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "20250118-ATA-NAP",
+    "date": "2025-01-18",
+    "season": "2024-25",
+    "competizione": "Serie A",
+    "squadra_casa": "Atalanta",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 2,
+    "away_goals": 3,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "20250112-NAP-VER",
+    "date": "2025-01-12",
+    "season": "2024-25",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Verona",
+    "home_goals": 2,
+    "away_goals": 0,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "20250104-FIO-NAP",
+    "date": "2025-01-04",
+    "season": "2024-25",
+    "competizione": "Serie A",
+    "squadra_casa": "Fiorentina",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 0,
+    "away_goals": 3,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "20241229-NAP-VEN",
+    "date": "2024-12-29",
+    "season": "2024-25",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Venezia",
+    "home_goals": 1,
+    "away_goals": 0,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "20241221-GEN-NAP",
+    "date": "2024-12-21",
+    "season": "2024-25",
+    "competizione": "Serie A",
+    "squadra_casa": "Genoa",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 1,
+    "away_goals": 2,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "20241214-UDI-NAP",
+    "date": "2024-12-14",
+    "season": "2024-25",
+    "competizione": "Serie A",
+    "squadra_casa": "Udinese",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 1,
+    "away_goals": 3,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "20241208-NAP-LAZ",
+    "date": "2024-12-08",
+    "season": "2024-25",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Lazio",
+    "home_goals": 0,
+    "away_goals": 1,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "20241205-LAZ-NAP",
+    "date": "2024-12-05",
+    "season": "2024-25",
+    "competizione": "Coppa Italia",
+    "squadra_casa": "Lazio",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 3,
+    "away_goals": 1,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "20241201-TOR-NAP",
+    "date": "2024-12-01",
+    "season": "2024-25",
+    "competizione": "Serie A",
+    "squadra_casa": "Torino",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 0,
+    "away_goals": 1,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "20241124-NAP-ROM",
+    "date": "2024-11-24",
+    "season": "2024-25",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Roma",
+    "home_goals": 1,
+    "away_goals": 0,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "20241110-INT-NAP",
+    "date": "2024-11-10",
+    "season": "2024-25",
+    "competizione": "Serie A",
+    "squadra_casa": "Inter",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 1,
+    "away_goals": 1,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "20241103-NAP-ATA",
+    "date": "2024-11-03",
+    "season": "2024-25",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Atalanta",
+    "home_goals": 0,
+    "away_goals": 3,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "20241029-MIL-NAP",
+    "date": "2024-10-29",
+    "season": "2024-25",
+    "competizione": "Serie A",
+    "squadra_casa": "Milan",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 0,
+    "away_goals": 2,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "20241026-NAP-LEC",
+    "date": "2024-10-26",
+    "season": "2024-25",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Lecce",
+    "home_goals": 1,
+    "away_goals": 0,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "20241020-EMP-NAP",
+    "date": "2024-10-20",
+    "season": "2024-25",
+    "competizione": "Serie A",
+    "squadra_casa": "Empoli",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 0,
+    "away_goals": 1,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "20241004-NAP-COM",
+    "date": "2024-10-04",
+    "season": "2024-25",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Como",
+    "home_goals": 3,
+    "away_goals": 1,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "20240929-NAP-MON",
+    "date": "2024-09-29",
+    "season": "2024-25",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Monza",
+    "home_goals": 2,
+    "away_goals": 0,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "20240926-NAP-PAL",
+    "date": "2024-09-26",
+    "season": "2024-25",
+    "competizione": "Coppa Italia",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Palermo",
+    "home_goals": 5,
+    "away_goals": 0,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "20240921-JUV-NAP",
+    "date": "2024-09-21",
+    "season": "2024-25",
+    "competizione": "Serie A",
+    "squadra_casa": "Juventus",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 0,
+    "away_goals": 0,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "20240915-CAG-NAP",
+    "date": "2024-09-15",
+    "season": "2024-25",
+    "competizione": "Serie A",
+    "squadra_casa": "Cagliari",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 0,
+    "away_goals": 4,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "20240831-NAP-PAR",
+    "date": "2024-08-31",
+    "season": "2024-25",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Parma",
+    "home_goals": 2,
+    "away_goals": 1,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "20240825-NAP-BOL",
+    "date": "2024-08-25",
+    "season": "2024-25",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Bologna",
+    "home_goals": 3,
+    "away_goals": 0,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "20240818-VER-NAP",
+    "date": "2024-08-18",
+    "season": "2024-25",
+    "competizione": "Serie A",
+    "squadra_casa": "Verona",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 3,
+    "away_goals": 0,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "20240810-NAP-MOD",
+    "date": "2024-08-10",
+    "season": "2024-25",
+    "competizione": "Coppa Italia",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Modena",
+    "home_goals": 4,
+    "away_goals": null,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19900429-NAP-LAZ",
+    "date": "1990-04-29",
+    "season": "1989-90",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Lazio",
+    "home_goals": 1,
+    "away_goals": 0,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19900422-BOL-NAP",
+    "date": "1990-04-22",
+    "season": "1989-90",
+    "competizione": "Serie A",
+    "squadra_casa": "Bologna",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 2,
+    "away_goals": 4,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19900414-NAP-BAR",
+    "date": "1990-04-14",
+    "season": "1989-90",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Bari",
+    "home_goals": 3,
+    "away_goals": 0,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19900408-ATA-NAP",
+    "date": "1990-04-08",
+    "season": "1989-90",
+    "competizione": "Serie A",
+    "squadra_casa": "Atalanta",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 0,
+    "away_goals": 2,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19900325-NAP-JUV",
+    "date": "1990-03-25",
+    "season": "1989-90",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Juventus",
+    "home_goals": 3,
+    "away_goals": 1,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19900318-SAM-NAP",
+    "date": "1990-03-18",
+    "season": "1989-90",
+    "competizione": "Serie A",
+    "squadra_casa": "Sampdoria",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 2,
+    "away_goals": 1,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19900311-LEC-NAP",
+    "date": "1990-03-11",
+    "season": "1989-90",
+    "competizione": "Serie A",
+    "squadra_casa": "Lecce",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 1,
+    "away_goals": 1,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19900304-NAP-GEN",
+    "date": "1990-03-04",
+    "season": "1989-90",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Genoa",
+    "home_goals": 2,
+    "away_goals": 1,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19900225-INT-NAP",
+    "date": "1990-02-25",
+    "season": "1989-90",
+    "competizione": "Serie A",
+    "squadra_casa": "Inter",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 3,
+    "away_goals": 1,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19900218-NAP-ROM",
+    "date": "1990-02-18",
+    "season": "1989-90",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Roma",
+    "home_goals": 3,
+    "away_goals": 1,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19900214-NAP-MIL",
+    "date": "1990-02-14",
+    "season": "1989-90",
+    "competizione": "Coppa Italia",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Milan",
+    "home_goals": 1,
+    "away_goals": 3,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19900211-MIL-NAP",
+    "date": "1990-02-11",
+    "season": "1989-90",
+    "competizione": "Serie A",
+    "squadra_casa": "Milan",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 3,
+    "away_goals": 0,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19900204-NAP-CRE",
+    "date": "1990-02-04",
+    "season": "1989-90",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Cremonese",
+    "home_goals": 3,
+    "away_goals": 0,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19900131-MIL-NAP",
+    "date": "1990-01-31",
+    "season": "1989-90",
+    "competizione": "Coppa Italia",
+    "squadra_casa": "Milan",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 0,
+    "away_goals": 0,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19900128-FIO-NAP",
+    "date": "1990-01-28",
+    "season": "1989-90",
+    "competizione": "Serie A",
+    "squadra_casa": "Fiorentina",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 0,
+    "away_goals": 1,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19900124-FIO-NAP",
+    "date": "1990-01-24",
+    "season": "1989-90",
+    "competizione": "Coppa Italia",
+    "squadra_casa": "Fiorentina",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 1,
+    "away_goals": 1,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19900121-NAP-VER",
+    "date": "1990-01-21",
+    "season": "1989-90",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Verona",
+    "home_goals": 2,
+    "away_goals": 0,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19900117-NAP-CES",
+    "date": "1990-01-17",
+    "season": "1989-90",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Cesena",
+    "home_goals": 1,
+    "away_goals": 0,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19900114-UDI-NAP",
+    "date": "1990-01-14",
+    "season": "1989-90",
+    "competizione": "Serie A",
+    "squadra_casa": "Udinese",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 2,
+    "away_goals": 2,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19900110-NAP-BOL",
+    "date": "1990-01-10",
+    "season": "1989-90",
+    "competizione": "Coppa Italia",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Bologna",
+    "home_goals": 2,
+    "away_goals": 0,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19900107-NAP-ASC",
+    "date": "1990-01-07",
+    "season": "1989-90",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Ascoli",
+    "home_goals": 1,
+    "away_goals": 0,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19891230-LAZ-NAP",
+    "date": "1989-12-30",
+    "season": "1989-90",
+    "competizione": "Serie A",
+    "squadra_casa": "Lazio",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 3,
+    "away_goals": 0,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19891217-NAP-BOL",
+    "date": "1989-12-17",
+    "season": "1989-90",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Bologna",
+    "home_goals": 2,
+    "away_goals": 0,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19891210-BAR-NAP",
+    "date": "1989-12-10",
+    "season": "1989-90",
+    "competizione": "Serie A",
+    "squadra_casa": "Bari",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 1,
+    "away_goals": 1,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19891206-WER-NAP",
+    "date": "1989-12-06",
+    "season": "1989-90",
+    "competizione": "Coppa Uefa",
+    "squadra_casa": "Werder Brema",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 5,
+    "away_goals": 1,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19891203-NAP-ATA",
+    "date": "1989-12-03",
+    "season": "1989-90",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Atalanta",
+    "home_goals": 3,
+    "away_goals": 1,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19891126-JUV-NAP",
+    "date": "1989-11-26",
+    "season": "1989-90",
+    "competizione": "Serie A",
+    "squadra_casa": "Juventus",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 1,
+    "away_goals": 1,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19891122-NAP-WER",
+    "date": "1989-11-22",
+    "season": "1989-90",
+    "competizione": "Coppa Uefa",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Werder Brema",
+    "home_goals": 2,
+    "away_goals": 3,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19891119-NAP-SAM",
+    "date": "1989-11-19",
+    "season": "1989-90",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Sampdoria",
+    "home_goals": 1,
+    "away_goals": 1,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19891105-NAP-LEC",
+    "date": "1989-11-05",
+    "season": "1989-90",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Lecce",
+    "home_goals": 3,
+    "away_goals": 2,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19891101-NAP-WET",
+    "date": "1989-11-01",
+    "season": "1989-90",
+    "competizione": "Coppa Uefa",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Wettingen",
+    "home_goals": 2,
+    "away_goals": 1,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19891029-GEN-NAP",
+    "date": "1989-10-29",
+    "season": "1989-90",
+    "competizione": "Serie A",
+    "squadra_casa": "Genoa",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 1,
+    "away_goals": 1,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19891022-NAP-INT",
+    "date": "1989-10-22",
+    "season": "1989-90",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Inter",
+    "home_goals": 2,
+    "away_goals": 0,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19891018-WET-NAP",
+    "date": "1989-10-18",
+    "season": "1989-90",
+    "competizione": "Coppa Uefa",
+    "squadra_casa": "Wettingen",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 0,
+    "away_goals": 0,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19891008-ROM-NAP",
+    "date": "1989-10-08",
+    "season": "1989-90",
+    "competizione": "Serie A",
+    "squadra_casa": "Roma",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 1,
+    "away_goals": 1,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19891001-NAP-MIL",
+    "date": "1989-10-01",
+    "season": "1989-90",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Milan",
+    "home_goals": 3,
+    "away_goals": 0,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19890927-NAP-SPO",
+    "date": "1989-09-27",
+    "season": "1989-90",
+    "competizione": "Coppa Uefa",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Sporting Lisboa",
+    "home_goals": 4,
+    "away_goals": null,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19890924-CRE-NAP",
+    "date": "1989-09-24",
+    "season": "1989-90",
+    "competizione": "Serie A",
+    "squadra_casa": "Cremonese",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 1,
+    "away_goals": 1,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19890917-NAP-FIO",
+    "date": "1989-09-17",
+    "season": "1989-90",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Fiorentina",
+    "home_goals": 3,
+    "away_goals": 2,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19890914-SPO-NAP",
+    "date": "1989-09-14",
+    "season": "1989-90",
+    "competizione": "Coppa Uefa",
+    "squadra_casa": "Sporting Lisboa",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 0,
+    "away_goals": 0,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19890910-VER-NAP",
+    "date": "1989-09-10",
+    "season": "1989-90",
+    "competizione": "Serie A",
+    "squadra_casa": "Verona",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 1,
+    "away_goals": 2,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19890906-CES-NAP",
+    "date": "1989-09-06",
+    "season": "1989-90",
+    "competizione": "Serie A",
+    "squadra_casa": "Cesena",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 0,
+    "away_goals": 0,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19890903-NAP-UDI",
+    "date": "1989-09-03",
+    "season": "1989-90",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Udinese",
+    "home_goals": 1,
+    "away_goals": 0,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19890830-NAP-REG",
+    "date": "1989-08-30",
+    "season": "1989-90",
+    "competizione": "Coppa Italia",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Reggina",
+    "home_goals": 2,
+    "away_goals": 0,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19890827-ASC-NAP",
+    "date": "1989-08-27",
+    "season": "1989-90",
+    "competizione": "Serie A",
+    "squadra_casa": "Ascoli",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 0,
+    "away_goals": 1,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19890823-NAP-MON",
+    "date": "1989-08-23",
+    "season": "1989-90",
+    "competizione": "Coppa Italia",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Monza",
+    "home_goals": 10,
+    "away_goals": null,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19870613-ATA-NAP",
+    "date": "1987-06-13",
+    "season": "1986-87",
+    "competizione": "Coppa Italia",
+    "squadra_casa": "Atalanta",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 0,
+    "away_goals": 1,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19870607-NAP-ATA",
+    "date": "1987-06-07",
+    "season": "1986-87",
+    "competizione": "Coppa Italia",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Atalanta",
+    "home_goals": 3,
+    "away_goals": 0,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19870603-NAP-CAG",
+    "date": "1987-06-03",
+    "season": "1986-87",
+    "competizione": "Coppa Italia",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Cagliari",
+    "home_goals": 4,
+    "away_goals": 1,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19870527-CAG-NAP",
+    "date": "1987-05-27",
+    "season": "1986-87",
+    "competizione": "Coppa Italia",
+    "squadra_casa": "Cagliari",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 0,
+    "away_goals": 1,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19870517-ASC-NAP",
+    "date": "1987-05-17",
+    "season": "1986-87",
+    "competizione": "Serie A",
+    "squadra_casa": "Ascoli",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 1,
+    "away_goals": 1,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19870510-NAP-FIO",
+    "date": "1987-05-10",
+    "season": "1986-87",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Fiorentina",
+    "home_goals": 1,
+    "away_goals": 1,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19870506-BOL-NAP",
+    "date": "1987-05-06",
+    "season": "1986-87",
+    "competizione": "Coppa Italia",
+    "squadra_casa": "Bologna",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 2,
+    "away_goals": 4,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19870503-COM-NAP",
+    "date": "1987-05-03",
+    "season": "1986-87",
+    "competizione": "Serie A",
+    "squadra_casa": "Como",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 1,
+    "away_goals": 1,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19870429-NAP-BOL",
+    "date": "1987-04-29",
+    "season": "1986-87",
+    "competizione": "Coppa Italia",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Bologna",
+    "home_goals": 3,
+    "away_goals": 0,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19870426-NAP-MIL",
+    "date": "1987-04-26",
+    "season": "1986-87",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Milan",
+    "home_goals": 2,
+    "away_goals": 1,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19870412-VER-NAP",
+    "date": "1987-04-12",
+    "season": "1986-87",
+    "competizione": "Serie A",
+    "squadra_casa": "Verona",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 3,
+    "away_goals": 0,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19870408-BRE-NAP",
+    "date": "1987-04-08",
+    "season": "1986-87",
+    "competizione": "Coppa Italia",
+    "squadra_casa": "Brescia",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 0,
+    "away_goals": 3,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19870405-EMP-NAP",
+    "date": "1987-04-05",
+    "season": "1986-87",
+    "competizione": "Serie A",
+    "squadra_casa": "Empoli",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 0,
+    "away_goals": 0,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19870329-NAP-JUV",
+    "date": "1987-03-29",
+    "season": "1986-87",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Juventus",
+    "home_goals": 2,
+    "away_goals": 1,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19870322-INT-NAP",
+    "date": "1987-03-22",
+    "season": "1986-87",
+    "competizione": "Serie A",
+    "squadra_casa": "Inter",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 1,
+    "away_goals": 0,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19870315-NAP-ROM",
+    "date": "1987-03-15",
+    "season": "1986-87",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Roma",
+    "home_goals": 0,
+    "away_goals": 0,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19870308-ATA-NAP",
+    "date": "1987-03-08",
+    "season": "1986-87",
+    "competizione": "Serie A",
+    "squadra_casa": "Atalanta",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 0,
+    "away_goals": 1,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19870301-NAP-SAM",
+    "date": "1987-03-01",
+    "season": "1986-87",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Sampdoria",
+    "home_goals": 1,
+    "away_goals": 1,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19870225-NAP-BRE",
+    "date": "1987-02-25",
+    "season": "1986-87",
+    "competizione": "Coppa Italia",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Brescia",
+    "home_goals": 3,
+    "away_goals": 0,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19870222-TOR-NAP",
+    "date": "1987-02-22",
+    "season": "1986-87",
+    "competizione": "Serie A",
+    "squadra_casa": "Torino",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 0,
+    "away_goals": 1,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19870208-NAP-AVE",
+    "date": "1987-02-08",
+    "season": "1986-87",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Avellino",
+    "home_goals": 3,
+    "away_goals": 0,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19870201-UDI-NAP",
+    "date": "1987-02-01",
+    "season": "1986-87",
+    "competizione": "Serie A",
+    "squadra_casa": "Udinese",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 0,
+    "away_goals": 3,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19870118-NAP-BRE",
+    "date": "1987-01-18",
+    "season": "1986-87",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Brescia",
+    "home_goals": 2,
+    "away_goals": 1,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19870111-NAP-ASC",
+    "date": "1987-01-11",
+    "season": "1986-87",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Ascoli",
+    "home_goals": 3,
+    "away_goals": 0,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19870104-FIO-NAP",
+    "date": "1987-01-04",
+    "season": "1986-87",
+    "competizione": "Serie A",
+    "squadra_casa": "Fiorentina",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 3,
+    "away_goals": 1,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19861221-NAP-COM",
+    "date": "1986-12-21",
+    "season": "1986-87",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Como",
+    "home_goals": 2,
+    "away_goals": 1,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19861214-MIL-NAP",
+    "date": "1986-12-14",
+    "season": "1986-87",
+    "competizione": "Serie A",
+    "squadra_casa": "Milan",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 0,
+    "away_goals": 0,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19861130-NAP-VER",
+    "date": "1986-11-30",
+    "season": "1986-87",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Verona",
+    "home_goals": 0,
+    "away_goals": 0,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19861123-NAP-EMP",
+    "date": "1986-11-23",
+    "season": "1986-87",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Empoli",
+    "home_goals": 4,
+    "away_goals": 0,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19861109-JUV-NAP",
+    "date": "1986-11-09",
+    "season": "1986-87",
+    "competizione": "Serie A",
+    "squadra_casa": "Juventus",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 1,
+    "away_goals": 3,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19861102-NAP-INT",
+    "date": "1986-11-02",
+    "season": "1986-87",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Inter",
+    "home_goals": 0,
+    "away_goals": 0,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19861026-ROM-NAP",
+    "date": "1986-10-26",
+    "season": "1986-87",
+    "competizione": "Serie A",
+    "squadra_casa": "Roma",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 0,
+    "away_goals": 1,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19861019-NAP-ATA",
+    "date": "1986-10-19",
+    "season": "1986-87",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Atalanta",
+    "home_goals": 2,
+    "away_goals": 2,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19861012-SAM-NAP",
+    "date": "1986-10-12",
+    "season": "1986-87",
+    "competizione": "Serie A",
+    "squadra_casa": "Sampdoria",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 1,
+    "away_goals": 2,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19861005-NAP-TOR",
+    "date": "1986-10-05",
+    "season": "1986-87",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Torino",
+    "home_goals": 3,
+    "away_goals": 1,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19861001-TOL-NAP",
+    "date": "1986-10-01",
+    "season": "1986-87",
+    "competizione": "Coppa Uefa",
+    "squadra_casa": "Tolosa",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 4,
+    "away_goals": null,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19860928-AVE-NAP",
+    "date": "1986-09-28",
+    "season": "1986-87",
+    "competizione": "Serie A",
+    "squadra_casa": "Avellino",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 0,
+    "away_goals": 0,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19860921-NAP-UDI",
+    "date": "1986-09-21",
+    "season": "1986-87",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Udinese",
+    "home_goals": 1,
+    "away_goals": 1,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19860917-NAP-TOL",
+    "date": "1986-09-17",
+    "season": "1986-87",
+    "competizione": "Coppa Uefa",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Tolosa",
+    "home_goals": 1,
+    "away_goals": 0,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19860914-BRE-NAP",
+    "date": "1986-09-14",
+    "season": "1986-87",
+    "competizione": "Serie A",
+    "squadra_casa": "Brescia",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 0,
+    "away_goals": 1,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19860907-NAP-CES",
+    "date": "1986-09-07",
+    "season": "1986-87",
+    "competizione": "Coppa Italia",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Cesena",
+    "home_goals": 3,
+    "away_goals": 1,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19860903-NAP-VIC",
+    "date": "1986-09-03",
+    "season": "1986-87",
+    "competizione": "Coppa Italia",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Vicenza",
+    "home_goals": 2,
+    "away_goals": 1,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19860831-TAR-NAP",
+    "date": "1986-08-31",
+    "season": "1986-87",
+    "competizione": "Coppa Italia",
+    "squadra_casa": "Taranto",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 0,
+    "away_goals": 1,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19860827-LAZ-NAP",
+    "date": "1986-08-27",
+    "season": "1986-87",
+    "competizione": "Coppa Italia",
+    "squadra_casa": "Lazio",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 0,
+    "away_goals": 2,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  },
+  {
+    "match_id": "19860824-SPA-NAP",
+    "date": "1986-08-24",
+    "season": "1986-87",
+    "competizione": "Coppa Italia",
+    "squadra_casa": "Spal",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 0,
+    "away_goals": 2,
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [
+      "10maggio87"
+    ],
+    "note": []
+  }
+]

@@ -4,8 +4,10 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Data Napoli — Napoli Analitica</title>
+<link rel="manifest" href="manifest.json">
 <link rel="icon" href="assets/favicon.png">
 <script>
+  if('serviceWorker' in navigator) { navigator.serviceWorker.register('sw.js'); }
   (function(){
     var theme = localStorage.getItem('dn-theme');
     if(!theme){ theme = (window.matchMedia && matchMedia('(prefers-color-scheme: light)').matches) ? 'light' : 'dark'; }
@@ -19,10 +21,22 @@
 <link rel="stylesheet" href="assets/style.css">
 </head>
 <body>
-<div class="page">
+
+<div class="app-container">
+  <aside class="sidebar">
+    
+    <nav class="nav-menu">
+      <a href="index.html" class="nav-item active">🏠 Home</a>
+      <a href="archivio/index.html" class="nav-item">📚 Archivio</a>
+      <a href="#" class="nav-item">Storico (WIP)</a>
+      <a href="fonti/index.html" class="nav-item">📖 Fonti</a>
+    </nav>
+  </aside>
+  <main class="page">
+
 
   <div class="brand-row">
-    <a class="brand" href="index.html">DATA <span>NAPOLI</span></a>
+    
     <div class="brand-right">
       <a class="handle-link" href="https://x.com/sscnapolidata" target="_blank" rel="noopener" aria-label="Profilo X @sscnapolidata">
         <img class="handle-icon" src="assets/favicon.png" alt="Data Napoli logo">
@@ -70,7 +84,26 @@
     </div>
   </footer>
 
+
+  </main>
+  <div class="right-panel"></div>
 </div>
+
+<nav class="bottom-nav">
+  <a href="index.html" class="active">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path></svg>
+    Home
+  </a>
+  <a href="archivio/index.html" class="">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"></path></svg>
+    Archivio
+  </a>
+  <a href="fonti/index.html" class="">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor"><circle cx="12" cy="12" r="10"></circle><line x1="12" y1="16" x2="12" y2="12"></line><line x1="12" y1="8" x2="12.01" y2="8"></line></svg>
+    Fonti
+  </a>
+</nav>
+
 <script src="assets/app.js" defer></script>
 </body>
 </html>

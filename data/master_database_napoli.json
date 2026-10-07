@@ -1,0 +1,379 @@
+[
+  {
+    "season": "1986-87",
+    "matches": [
+      {
+        "raw_data": {
+          "Giocatore": "Raffaele DI FUSCO",
+          "Nazione": "Italia",
+          "Data di Nascita": "06/10/1961",
+          "Età": 25.0,
+          "Luogo di Nascita": "Riardo (CE)",
+          "Presenze": 5.0,
+          "Reti": 0.0,
+          "Ruolo": "Portiere"
+        },
+        "sources_used": [
+          "10maggio87"
+        ]
+      },
+      {
+        "raw_data": {
+          "Giocatore": "Claudio GARELLA",
+          "Nazione": "Italia",
+          "Data di Nascita": "16/05/1955",
+          "Età": 31.0,
+          "Luogo di Nascita": "Torino",
+          "Presenze": 40.0,
+          "Reti": 0.0,
+          "Ruolo": "Portiere"
+        },
+        "sources_used": [
+          "10maggio87"
+        ]
+      },
+      {
+        "raw_data": {
+          "Giocatore": "Tebaldo BIGLIARDI",
+          "Nazione": "Italia",
+          "Data di Nascita": "05/02/1963",
+          "Età": 23.0,
+          "Luogo di Nascita": "Catanzaro",
+          "Presenze": 10.0,
+          "Reti": 0.0,
+          "Ruolo": "Difensore"
+        },
+        "sources_used": [
+          "10maggio87"
+        ]
+      },
+      {
+        "raw_data": {
+          "Giocatore": "Giuseppe BRUSCOLOTTI",
+          "Nazione": "Italia",
+          "Data di Nascita": "01/06/1951",
+          "Età": 35.0,
+          "Luogo di Nascita": "Sassano (SA)",
+          "Presenze": 39.0,
+          "Reti": 0.0,
+          "Ruolo": "Difensore"
+        },
+        "sources_used": [
+          "10maggio87"
+        ]
+      },
+      {
+        "raw_data": {
+          "Giocatore": "Antonio CARANNANTE",
+          "Nazione": "Italia",
+          "Data di Nascita": "23/06/1965",
+          "Età": 21.0,
+          "Luogo di Nascita": "Pozzuoli (NA)",
+          "Presenze": 3.0,
+          "Reti": 0.0,
+          "Ruolo": "Difensore"
+        },
+        "sources_used": [
+          "10maggio87"
+        ]
+      },
+      {
+        "raw_data": {
+          "Giocatore": "Roberto CARANNANTE",
+          "Nazione": "Italia",
+          "Data di Nascita": "23/11/1968",
+          "Età": 18.0,
+          "Luogo di Nascita": "Santa Maria Capua Vetere (NA)",
+          "Presenze": 1.0,
+          "Reti": 0.0,
+          "Ruolo": "Difensore"
+        },
+        "sources_used": [
+          "10maggio87"
+        ]
+      },
+      {
+        "raw_data": {
+          "Giocatore": "Ciro FERRARA",
+          "Nazione": "Italia",
+          "Data di Nascita": "11/02/1967",
+          "Età": 19.0,
+          "Luogo di Nascita": "Napoli",
+          "Presenze": 38.0,
+          "Reti": 2.0,
+          "Ruolo": "Difensore"
+        },
+        "sources_used": [
+          "10maggio87"
+        ]
+      },
+      {
+        "raw_data": {
+          "Giocatore": "Moreno FERRARIO",
+          "Nazione": "Italia",
+          "Data di Nascita": "20/03/1959",
+          "Età": 27.0,
+          "Luogo di Nascita": "Lainate (MI)",
+          "Presenze": 43.0,
+          "Reti": 1.0,
+          "Ruolo": "Difensore"
+        },
+        "sources_used": [
+          "10maggio87"
+        ]
+      },
+      {
+        "raw_data": {
+          "Giocatore": "Raimondo MARINO",
+          "Nazione": "Italia",
+          "Data di Nascita": "11/02/1961",
+          "Età": 25.0,
+          "Luogo di Nascita": "Messina",
+          "Presenze": 10.0,
+          "Reti": 0.0,
+          "Ruolo": "Difensore"
+        },
+        "sources_used": [
+          "10maggio87"
+        ]
+      },
+      {
+        "raw_data": {
+          "Giocatore": "Alessandro RENICA",
+          "Nazione": "Italia",
+          "Data di Nascita": "15/09/1962",
+          "Età": 24.0,
+          "Luogo di Nascita": "Anneville-sur-Mer (Francia)",
+          "Presenze": 40.0,
+          "Reti": 2.0,
+          "Ruolo": "Difensore"
+        },
+        "sources_used": [
+          "10maggio87"
+        ]
+      },
+      {
+        "raw_data": {
+          "Giocatore": "Giuseppe VOLPECINA",
+          "Nazione": "Italia",
+          "Data di Nascita": "01/05/1961",
+          "Età": 25.0,
+          "Luogo di Nascita": "Caserta",
+          "Presenze": 35.0,
+          "Reti": 2.0,
+          "Ruolo": "Difensore"
+        },
+        "sources_used": [
+          "10maggio87"
+        ]
+      },
+      {
+        "raw_data": {
+          "Giocatore": "Salvatore BAGNI",
+          "Nazione": "Italia",
+          "Data di Nascita": "25/09/1956",
+          "Età": 30.0,
+          "Luogo di Nascita": "Correggio (RE)",
+          "Presenze": 40.0,
+          "Reti": 7.0,
+          "Ruolo": "Centrocampista"
+        },
+        "sources_used": [
+          "10maggio87"
+        ]
+      },
+      {
+        "raw_data": {
+          "Giocatore": "Costanzo CELESTINI",
+          "Nazione": "Italia",
+          "Data di Nascita": "14/05/1961",
+          "Età": 25.0,
+          "Luogo di Nascita": "Capri (NA)",
+          "Presenze": 1.0,
+          "Reti": 0.0,
+          "Ruolo": "Centrocampista"
+        },
+        "sources_used": [
+          "10maggio87"
+        ]
+      },
+      {
+        "raw_data": {
+          "Giocatore": "Fernando DE NAPOLI",
+          "Nazione": "Italia",
+          "Data di Nascita": "15/03/1964",
+          "Età": 22.0,
+          "Luogo di Nascita": "Chiusano di San Domenico (AV)",
+          "Presenze": 40.0,
+          "Reti": 3.0,
+          "Ruolo": "Centrocampista"
+        },
+        "sources_used": [
+          "10maggio87"
+        ]
+      },
+      {
+        "raw_data": {
+          "Giocatore": "Pietro PUZONE",
+          "Nazione": "Italia",
+          "Data di Nascita": "01/02/1963",
+          "Età": 23.0,
+          "Luogo di Nascita": "Acerra (NA)",
+          "Presenze": 1.0,
+          "Reti": 0.0,
+          "Ruolo": "Centrocampista"
+        },
+        "sources_used": [
+          "10maggio87"
+        ]
+      },
+      {
+        "raw_data": {
+          "Giocatore": "Francesco ROMANO",
+          "Nazione": "Italia",
+          "Data di Nascita": "25/04/1960",
+          "Età": 26.0,
+          "Luogo di Nascita": "Saviano (NA)",
+          "Presenze": 31.0,
+          "Reti": 2.0,
+          "Ruolo": "Centrocampista"
+        },
+        "sources_used": [
+          "10maggio87"
+        ]
+      },
+      {
+        "raw_data": {
+          "Giocatore": "Luciano SOLA",
+          "Nazione": "Italia",
+          "Data di Nascita": "05/03/1959",
+          "Età": 27.0,
+          "Luogo di Nascita": "Seregno (MI)",
+          "Presenze": 23.0,
+          "Reti": 0.0,
+          "Ruolo": "Centrocampista"
+        },
+        "sources_used": [
+          "10maggio87"
+        ]
+      },
+      {
+        "raw_data": {
+          "Giocatore": "Luigi CAFFARELLI",
+          "Nazione": "Italia",
+          "Data di Nascita": "07/07/1962",
+          "Età": 24.0,
+          "Luogo di Nascita": "Napoli",
+          "Presenze": 34.0,
+          "Reti": 4.0,
+          "Ruolo": "Attaccante"
+        },
+        "sources_used": [
+          "10maggio87"
+        ]
+      },
+      {
+        "raw_data": {
+          "Giocatore": "Andrea CARNEVALE",
+          "Nazione": "Italia",
+          "Data di Nascita": "12/01/1961",
+          "Età": 25.0,
+          "Luogo di Nascita": "Monte San Biagio (LT)",
+          "Presenze": 42.0,
+          "Reti": 14.0,
+          "Ruolo": "Attaccante"
+        },
+        "sources_used": [
+          "10maggio87"
+        ]
+      },
+      {
+        "raw_data": {
+          "Giocatore": "Luigi CASTELLONE",
+          "Nazione": "Italia",
+          "Data di Nascita": "15/02/1968",
+          "Età": 18.0,
+          "Luogo di Nascita": "Napoli",
+          "Presenze": 1.0,
+          "Reti": 0.0,
+          "Ruolo": "Attaccante"
+        },
+        "sources_used": [
+          "10maggio87"
+        ]
+      },
+      {
+        "raw_data": {
+          "Giocatore": "Bruno GIORDANO",
+          "Nazione": "Italia",
+          "Data di Nascita": "13/08/1956",
+          "Età": 30.0,
+          "Luogo di Nascita": "Roma",
+          "Presenze": 41.0,
+          "Reti": 15.0,
+          "Ruolo": "Attaccante"
+        },
+        "sources_used": [
+          "10maggio87"
+        ]
+      },
+      {
+        "raw_data": {
+          "Giocatore": "Diego Armando MARADONA",
+          "Nazione": "Argentina",
+          "Data di Nascita": "30/10/1960",
+          "Età": 26.0,
+          "Luogo di Nascita": "Lanus",
+          "Presenze": 41.0,
+          "Reti": 17.0,
+          "Ruolo": "Attaccante"
+        },
+        "sources_used": [
+          "10maggio87"
+        ]
+      },
+      {
+        "raw_data": {
+          "Giocatore": "Ciro MURO",
+          "Nazione": "Italia",
+          "Data di Nascita": "09/03/1964",
+          "Età": 22.0,
+          "Luogo di Nascita": "Napoli",
+          "Presenze": 26.0,
+          "Reti": 5.0,
+          "Ruolo": "Attaccante"
+        },
+        "sources_used": [
+          "10maggio87"
+        ]
+      },
+      {
+        "raw_data": {
+          "Giocatore": "Ottavio BIANCHI",
+          "Nazione": "Italia",
+          "Data di Nascita": "06/10/1943",
+          "Età": 43.0,
+          "Luogo di Nascita": "Brescia",
+          "Presenze": 45.0,
+          "Reti": 0.0,
+          "Ruolo": "Allenatore"
+        },
+        "sources_used": [
+          "10maggio87"
+        ]
+      },
+      {
+        "raw_data": {
+          "Giocatore": "Pierpaolo MARINO",
+          "Nazione": "Italia",
+          "Data di Nascita": "30/08/1954",
+          "Luogo di Nascita": "Avellino",
+          "Ruolo": "Staff"
+        },
+        "sources_used": [
+          "10maggio87"
+        ]
+      }
+    ]
+  }
+]

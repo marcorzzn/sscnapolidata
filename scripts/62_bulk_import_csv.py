@@ -3,14 +3,23 @@ import csv
 import sqlite3
 import re
 import traceback
+import sys
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DB_PATH = os.path.join(BASE_DIR, 'db', 'datanapoli.sqlite')
 CSV_PATH = os.path.join(BASE_DIR, 'data', 'import', 'esempio.csv')
 
+sys.path.append(BASE_DIR)
+import importlib.util
+spec = importlib.util.spec_from_file_location("resolve_names", os.path.join(BASE_DIR, "scripts", "65_resolve_names.py"))
+resolve_module = importlib.util.module_from_spec(spec)
+spec.loader.exec_module(resolve_module)
+resolve = resolve_module.resolve
+
 def get_db():
     conn = sqlite3.connect(DB_PATH)
     conn.row_factory = sqlite3.Row
+    conn.execute("PRAGMA foreign_keys = ON;")
     return conn
 
 def parse_season(season_str):
@@ -40,13 +49,6 @@ def get_or_create_competition(cursor, name):
     cursor.execute("INSERT INTO competizioni (nome) VALUES (?)", (name,))
     return cursor.lastrowid
 
-def get_or_create_team(cursor, name):
-    cursor.execute("SELECT id FROM squadre WHERE nome = ?", (name,))
-    row = cursor.fetchone()
-    if row: return row['id']
-    cursor.execute("INSERT INTO squadre (nome) VALUES (?)", (name,))
-    return cursor.lastrowid
-
 def get_or_create_person(cursor, cognome, context_list):
     cursor.execute("SELECT id FROM persone WHERE LOWER(cognome) = LOWER(?)", (cognome,))
     rows = cursor.fetchall()
@@ -65,6 +67,7 @@ def process_bulk_csv(csv_path):
         'updated': 0,
         'scorers': 0,
         'persons_created': [],
+        'quarantena': 0,
         'errors': []
     }
     
@@ -78,10 +81,20 @@ def process_bulk_csv(csv_path):
                     match_id = row['match_id'].strip()
                     if not match_id: continue
                     
+                    match_date = row['date'].strip()
+                    home_raw = row['home_raw_name'].strip()
+                    away_raw = row['away_raw_name'].strip()
+                    comp_name = row['competition'].strip()
+                    
+                    home_id, home_method, home_score = resolve(cursor, home_raw, 'bulk_csv', match_date, comp_name)
+                    away_id, away_method, away_score = resolve(cursor, away_raw, 'bulk_csv', match_date, comp_name)
+                    
+                    if not home_id or not away_id:
+                        stats['quarantena'] += 1
+                        continue
+                        
                     stagione_id = get_or_create_season(cursor, row['season'].strip())
-                    comp_id = get_or_create_competition(cursor, row['competition'].strip())
-                    home_id = get_or_create_team(cursor, row['home_team'].strip())
-                    away_id = get_or_create_team(cursor, row['away_team'].strip())
+                    comp_id = get_or_create_competition(cursor, comp_name)
                     
                     cursor.execute("SELECT id FROM partite WHERE match_id = ?", (match_id,))
                     existing = cursor.fetchone()
@@ -98,20 +111,27 @@ def process_bulk_csv(csv_path):
                         cursor.execute('''
                             UPDATE partite 
                             SET data=?, stagione_id=?, competizione_id=?, squadra_casa_id=?, squadra_trasferta_id=?,
-                                gol_casa=?, gol_trasferta=?, stadio=?, affluenza=?, note=?
+                                gol_casa=?, gol_trasferta=?, stadio=?, affluenza=?, note=?,
+                                home_raw_name=?, away_raw_name=?
                             WHERE id=?
-                        ''', (row['date'].strip(), stagione_id, comp_id, home_id, away_id, home_goals, away_goals, stadio, affluenza, note, partita_id))
+                        ''', (match_date, stagione_id, comp_id, home_id, away_id, home_goals, away_goals, stadio, affluenza, note, home_raw, away_raw, partita_id))
                         stats['updated'] += 1
                         cursor.execute("DELETE FROM marcatori WHERE partita_id = ?", (partita_id,))
                     else:
                         cursor.execute('''
                             INSERT INTO partite (match_id, slug, data, stagione_id, competizione_id, squadra_casa_id, squadra_trasferta_id,
-                                                 gol_casa, gol_trasferta, stadio, affluenza, note)
-                            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
-                        ''', (match_id, match_id.lower(), row['date'].strip(), stagione_id, comp_id, home_id, away_id,
-                              home_goals, away_goals, stadio, affluenza, note))
+                                                 gol_casa, gol_trasferta, stadio, affluenza, note, home_raw_name, away_raw_name)
+                            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                        ''', (match_id, match_id.lower(), match_date, stagione_id, comp_id, home_id, away_id,
+                              home_goals, away_goals, stadio, affluenza, note, home_raw, away_raw))
                         partita_id = cursor.lastrowid
                         stats['imported'] += 1
+                        
+                    # Save resolution log
+                    cursor.execute("INSERT INTO risoluzione_nomi (partita_id, lato, nome_grezzo, fonte, squadra_id, metodo, punteggio) VALUES (?, ?, ?, ?, ?, ?, ?)",
+                                   (partita_id, 'casa', home_raw, 'bulk_csv', home_id, home_method, home_score))
+                    cursor.execute("INSERT INTO risoluzione_nomi (partita_id, lato, nome_grezzo, fonte, squadra_id, metodo, punteggio) VALUES (?, ?, ?, ?, ?, ?, ?)",
+                                   (partita_id, 'trasferta', away_raw, 'bulk_csv', away_id, away_method, away_score))
                         
                     def parse_scorers(scorers_str, squadra_id):
                         if scorers_str:
@@ -142,6 +162,7 @@ def process_bulk_csv(csv_path):
     print("--- RIEPILOGO BULK IMPORT ---")
     print(f"Partite importate da zero: {stats['imported']}")
     print(f"Partite aggiornate: {stats['updated']}")
+    print(f"Partite in quarantena nomi: {stats['quarantena']}")
     print(f"Marcatori parsati e inseriti: {stats['scorers']}")
     print(f"Persone create ex-novo: {len(stats['persons_created'])}")
     if stats['persons_created']:

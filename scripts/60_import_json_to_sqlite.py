@@ -11,6 +11,7 @@ SCHEMA_PATH = os.path.join(DB_DIR, 'schema.sql')
 # Create DB and apply schema
 conn = sqlite3.connect(DB_PATH)
 cursor = conn.cursor()
+cursor.execute("PRAGMA foreign_keys = ON;")
 
 with open(SCHEMA_PATH, 'r', encoding='utf-8') as f:
     cursor.executescript(f.read())

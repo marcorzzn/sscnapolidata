@@ -3,6 +3,14 @@ import argparse
 import sqlite3
 import json
 import os
+
+import importlib.util
+spec = importlib.util.spec_from_file_location("resolve_names", os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "scripts", "65_resolve_names.py"))
+resolve_module = importlib.util.module_from_spec(spec)
+spec.loader.exec_module(resolve_module)
+resolve = resolve_module.resolve
+
+import os
 import sys
 if sys.stdout.encoding != 'utf-8':
     try:
@@ -139,22 +147,78 @@ def calc_vs(rows):
             else: p += 1
     return v, p, s, gf, gs
 
+
 def cmd_vs(args, order="DESC"):
     conn = get_db()
-    rows = _query_matches(conn, "(sc.nome LIKE ? OR st.nome LIKE ?) AND (sc.nome = 'Napoli' OR st.nome = 'Napoli')", 
-                          (f'%{args.avversario}%', f'%{args.avversario}%'), order_by=f"p.data {order}")
+    cursor = conn.cursor()
+    
+    x_id, method, score = resolve(cursor, args.avversario, 'cli_query', None)
+    
+    if not x_id:
+        print(f"Non ho trovato nessuna squadra corrispondente a '{args.avversario}'.")
+        return
+        
+    napoli_id, _, _ = resolve(cursor, 'Napoli', 'cli_query', None)
+    
+    if x_id == napoli_id:
+        print("0 risultati.")
+        print("Il Napoli non può giocare contro se stesso.")
+        return
+        
+    rows = _query_matches(conn, "(p.squadra_casa_id = ? AND p.squadra_trasferta_id = ?) OR (p.squadra_casa_id = ? AND p.squadra_trasferta_id = ?)", 
+                          (napoli_id, x_id, x_id, napoli_id), order_by=f"p.data {order}")
     print_table(["Data", "Competizione", "Squadra Casa", "Squadra Trasferta", "Risultato"], 
-                [[r['data'], r['competizione'], r['squadra_casa'], r['squadra_trasferta'], f"{r['gol_casa']}-{r['gol_trasferta']}"] for r in rows], args.json)
+                [[r['data'], r['competizione'], r['squadra_casa'], r['squadra_trasferta'], 
+                  f"{r['gol_casa']}-{r['gol_trasferta']}"] for r in rows], args.json)
     if not args.json and rows:
         v, p, s, gf, gs = calc_vs(rows)
         print(f"\nRiepilogo: {v}V {p}P {s}S, {gf} gol fatti, {gs} gol subiti")
+    elif not args.json and not rows:
+        print("0 risultati nell'archivio.")
 
 def cmd_eterna(args):
     if not args.json:
         print(f"La Partita Eterna: Napoli vs {args.avversario.capitalize()}\n")
-    if not args.json:
-        print("Nota: il database contiene solo le partite importate finora (133 partite, 4 stagioni). L'aggregato storico completo richiede il popolamento dell'archivio 1926-oggi.\n")
+        print("Nota: il database contiene solo le partite importate finora. L'aggregato storico completo richiede il popolamento.\n")
     cmd_vs(args, order="ASC")
+
+def cmd_vs_antichi(args):
+    conn = get_db()
+    cursor = conn.cursor()
+    
+    x_id, method, score = resolve(cursor, args.avversario, 'cli_query', None)
+    if not x_id:
+        print(f"Non ho trovato nessuna squadra corrispondente a '{args.avversario}'.")
+        return
+        
+    cursor.execute("SELECT nome_completo FROM squadre WHERE id=?", (x_id,))
+    main_name = cursor.fetchone()['nome_completo']
+    print(f"Entità storica principale trovata: {main_name}")
+    
+    collegate = [x_id]
+    to_visit = [x_id]
+    while to_visit:
+        curr = to_visit.pop(0)
+        cursor.execute("SELECT from_squadra_id FROM squadre_relazioni WHERE to_squadra_id=?", (curr,))
+        for row in cursor.fetchall():
+            if row['from_squadra_id'] not in collegate:
+                collegate.append(row['from_squadra_id'])
+                to_visit.append(row['from_squadra_id'])
+                
+    napoli_id, _, _ = resolve(cursor, 'Napoli', 'cli_query', None)
+    
+    for sq_id in collegate:
+        cursor.execute("SELECT nome FROM squadre WHERE id=?", (sq_id,))
+        sq_nome = cursor.fetchone()['nome']
+        print(f"\n--- Partite contro {sq_nome} ---")
+        rows = _query_matches(conn, "(p.squadra_casa_id = ? AND p.squadra_trasferta_id = ?) OR (p.squadra_casa_id = ? AND p.squadra_trasferta_id = ?)", 
+                          (napoli_id, sq_id, sq_id, napoli_id), order_by="p.data DESC")
+        if rows:
+            print_table(["Data", "Competizione", "Squadra Casa", "Squadra Trasferta", "Risultato"], 
+                        [[r['data'], r['competizione'], r['squadra_casa'], r['squadra_trasferta'], 
+                          f"{r['gol_casa']}-{r['gol_trasferta']}"] for r in rows], args.json)
+        else:
+            print("0 risultati.")
 
 def cmd_marcatori(args):
     conn = get_db()
@@ -277,6 +341,10 @@ def main():
             if len(args_list) < 2: raise ValueError("Specificare avversario")
             args.avversario = " ".join(args_list[1:])
             cmd_eterna(args)
+        elif cmd == 'vs-antichi':
+            if len(args_list) < 2: raise ValueError("Specificare avversario")
+            args.avversario = " ".join(args_list[1:])
+            cmd_vs_antichi(args)
         elif cmd == 'marcatori':
             if len(args_list) < 2: raise ValueError("Specificare stagione")
             args.stagione = args_list[1]

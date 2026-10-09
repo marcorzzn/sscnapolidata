@@ -60,7 +60,8 @@ CREATE TABLE IF NOT EXISTS partite (
     affluenza INTEGER,
     arbitro_id INTEGER REFERENCES persone(id),
     note TEXT,
-    created_at TEXT DEFAULT CURRENT_TIMESTAMP
+    created_at TEXT DEFAULT CURRENT_TIMESTAMP,
+    pubblicata INTEGER DEFAULT 0
 );
 
 CREATE TABLE IF NOT EXISTS marcatori (
@@ -115,7 +116,8 @@ CREATE TABLE IF NOT EXISTS foto (
     data_raccolta TEXT,
     documento_id INTEGER REFERENCES documenti(id),
     note TEXT,
-    created_at TEXT DEFAULT CURRENT_TIMESTAMP
+    created_at TEXT DEFAULT CURRENT_TIMESTAMP,
+    pubblicata INTEGER DEFAULT 0
 );
 
 CREATE TABLE IF NOT EXISTS partite_documenti (

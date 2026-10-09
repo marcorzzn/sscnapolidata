@@ -32,6 +32,7 @@ LEFT JOIN stagioni st ON p.stagione_id = st.id
 LEFT JOIN competizioni c ON p.competizione_id = c.id
 LEFT JOIN squadre sc ON p.squadra_casa_id = sc.id
 LEFT JOIN squadre st_away ON p.squadra_trasferta_id = st_away.id
+WHERE p.pubblicata = 1
 ORDER BY p.data DESC
 '''
 cursor.execute(query_partite)

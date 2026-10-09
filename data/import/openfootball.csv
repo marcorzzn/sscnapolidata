@@ -345,7 +345,7 @@ match_id,date,season,competition,home_raw_name,away_raw_name,home_goals,away_goa
 20220507-TOR-NAP,2022-05-07,2021-22,Serie A,Torino FC,SSC Napoli,0,1,,,,,HT: 0-0
 20220515-NAP-GEN,2022-05-15,2021-22,Serie A,SSC Napoli,Genoa CFC,3,0,,,,,HT: 1-0
 20220522-SPE-NAP,2022-05-22,2021-22,Serie A,Spezia Calcio,SSC Napoli,0,3,,,,,HT: 0-3
-20220113-NAP-ACF,2022-01-13,2021-22,Coppa Italia,SSC Napoli,ACF Fiorentina,2,5,,,,,"a.e.t. (2-2, 1-1)"
+20220113-NAP-AET,2022-01-13,2021-22,Coppa Italia,SSC Napoli,"a.e.t. (2-2, 1-1)  ACF Fiorentina",2,5,,,,,
 20220815-HEL-NAP,2022-08-15,2022-23,Serie A,Hellas Verona FC,SSC Napoli,2,5,,,,,HT: 1-2
 20220821-NAP-ACM,2022-08-21,2022-23,Serie A,SSC Napoli,AC Monza,4,0,,,,,HT: 2-0
 20220828-ACF-NAP,2022-08-28,2022-23,Serie A,ACF Fiorentina,SSC Napoli,0,0,,,,,
@@ -384,7 +384,7 @@ match_id,date,season,competition,home_raw_name,away_raw_name,home_goals,away_goa
 20230521-NAP-FCI,2023-05-21,2022-23,Serie A,SSC Napoli,FC Internazionale Milano,3,1,,,,,HT: 0-0
 20230528-BOL-NAP,2023-05-28,2022-23,Serie A,Bologna FC 1909,SSC Napoli,2,2,,,,,HT: 0-1
 20230604-NAP-UCS,2023-06-04,2022-23,Serie A,SSC Napoli,UC Sampdoria,2,0,,,,,HT: 0-0
-20230117-NAP-USC,2023-01-17,2022-23,Coppa Italia,SSC Napoli,US Cremonese,4,5,,,,,"pen. 2-2 a.e.t. (2-2, 2-1)"
+20230117-NAP-PEN,2023-01-17,2022-23,Coppa Italia,SSC Napoli,"pen. 2-2 a.e.t. (2-2, 2-1)  US Cremonese",4,5,,,,,
 20230819-FRO-NAP,2023-08-19,2023-24,Serie A,Frosinone Calcio,SSC Napoli,1,3,,,,,HT: 1-2
 20230827-NAP-USS,2023-08-27,2023-24,Serie A,SSC Napoli,US Sassuolo Calcio,2,0,,,,,HT: 1-0
 20230902-NAP-SSL,2023-09-02,2023-24,Serie A,SSC Napoli,SS Lazio,1,2,,,,,HT: 1-1

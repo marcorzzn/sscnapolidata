@@ -11,11 +11,18 @@ DB_PATH = os.path.join(BASE_DIR, 'db', 'datanapoli.sqlite')
 
 def norm_light(name):
     if not name: return ""
-    return unidecode(name).lower().strip()
+    s = unidecode(name).lower()
+    s = re.sub(r"[-.,'’]", " ", s)
+    s = re.sub(r"\s+", " ", s).strip()
+    return s
 
 def norm_key(name):
+    """
+    Rimuove suffissi societari comuni e numeri finali (es. anni) per la ricerca fuzzy.
+    """
     n = norm_light(name)
     n = re.sub(r'\b(ssc|ac|fbc|us|as|asd|fc|calcio|club)\b', '', n)
+    n = re.sub(r'\b\d{3,4}\b', '', n)  # Rimuove anni tipo 1913, 1909
     n = re.sub(r'[^\w\s]', '', n)
     return ' '.join(n.split())
 

@@ -102,7 +102,7 @@ def process_bulk_csv(csv_path):
                     home_goals = int(row['home_goals']) if row['home_goals'].strip() else None
                     away_goals = int(row['away_goals']) if row['away_goals'].strip() else None
                     stadio = row['stadium'].strip() if row['stadium'].strip() else None
-                    affluenza = int(row['attendance']) if row.get('attendance') and row['attendance'].strip() else None
+                    affluenza = int(row['attendance'].replace('\xa0', '').replace(' ', '').replace('.', '')) if row.get('attendance') and row['attendance'].strip() else None
                     note = row['notes'].strip() if row['notes'].strip() else None
                     
                     partita_id = None
@@ -134,17 +134,40 @@ def process_bulk_csv(csv_path):
                                    (partita_id, 'trasferta', away_raw, 'bulk_csv', away_id, away_method, away_score))
                         
                     def parse_scorers(scorers_str, squadra_id):
-                        if scorers_str:
-                            parts = [s.strip() for s in scorers_str.split(',') if s.strip()]
-                            for part in parts:
-                                m = re.match(r"^(.*?)\s+(\d+)'?$", part)
-                                if m:
-                                    name = m.group(1).strip()
-                                    minuto = int(m.group(2))
-                                    person_id = get_or_create_person(cursor, name, stats['persons_created'])
-                                    cursor.execute("INSERT INTO marcatori (partita_id, persona_id, squadra_id, minuto) VALUES (?, ?, ?, ?)",
-                                                   (partita_id, person_id, squadra_id, minuto))
-                                    stats['scorers'] += 1
+                        if not scorers_str: return
+                        parts = [s.strip() for s in scorers_str.split(',') if s.strip()]
+                        last_name = None
+                        for part in parts:
+                            m1 = re.match(r"^(.*?)\s+(\d+)(?:['′’]+)?\s*(\(.*?\))?$", part)
+                            m2 = re.match(r"^(\d+)(?:['′’]+)?\s*(?:\((.*?)\))?\s*(.*?)$", part)
+                            m3 = re.match(r"^(\d+)(?:['′’]+)?$", part)
+                            
+                            name = None
+                            minute = None
+                            tipo = 'gol'
+                            
+                            if m1 and m1.group(1).strip() and not m1.group(1).strip().isdigit():
+                                name, minute = m1.group(1).strip(), m1.group(2)
+                                if m1.group(3): 
+                                    tipo = 'autogol' if 'aut' in str(m1.group(3)).lower() else 'rigore' if 'rig' in str(m1.group(3)).lower() else 'gol'
+                            elif m2:
+                                minute, name = m2.group(1), m2.group(3).strip()
+                                if not name:
+                                    name = last_name
+                                if m2.group(2): 
+                                    tipo = 'autogol' if 'aut' in str(m2.group(2)).lower() else 'rigore' if 'rig' in str(m2.group(2)).lower() else 'gol'
+                            elif m3:
+                                minute = m3.group(1)
+                                name = last_name
+                            
+                            if name and minute:
+                                person_id = get_or_create_person(cursor, name, stats['persons_created'])
+                                cursor.execute(
+                                    "INSERT INTO marcatori (partita_id, persona_id, squadra_id, minuto, tipo) VALUES (?, ?, ?, ?, ?)",
+                                    (partita_id, person_id, squadra_id, minute, tipo)
+                                )
+                                stats['scorers'] += 1
+                                last_name = name
 
                     parse_scorers(row.get('home_scorers', '').strip(), home_id)
                     parse_scorers(row.get('away_scorers', '').strip(), away_id)

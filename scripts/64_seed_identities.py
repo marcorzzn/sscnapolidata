@@ -7,7 +7,11 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DB_PATH = os.path.join(BASE_DIR, 'db', 'datanapoli.sqlite')
 
 def norm_light(name):
-    return unidecode(name).lower().strip()
+    if not name: return ""
+    s = unidecode(name).lower()
+    s = re.sub(r"[-.,'’]", " ", s)
+    s = re.sub(r"\s+", " ", s).strip()
+    return s
 
 def norm_key(name):
     n = norm_light(name)
@@ -73,7 +77,7 @@ def seed_identities():
         'Naples Foot-Ball Club': ['Naples FBC', 'Naples', 'Naples Foot-Ball Club'],
         'US Internazionale Napoli': ['Internazionale Napoli', 'US Internazionale Napoli'],
         'Roma': ['Roma', 'AS Roma', 'Associazione Sportiva Roma'],
-        'Alba-Audace': ['Alba-Audace', 'Alba Roma', 'Audace'],
+        'Alba-Audace': ['Alba-Audace', 'Alba Roma', 'Alba-Roma', 'Audace'],
         'Fortitudo-Pro Roma': ['Fortitudo-Pro Roma', 'Fortitudo', 'Pro Roma'],
         'Roman': ['Roman', 'Roman FC'],
         'Inter': ['Inter', 'FC Internazionale Milano', 'Internazionale', 'FC Internazionale'],

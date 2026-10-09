@@ -8,7 +8,10 @@ DB_PATH = os.path.join(BASE_DIR, 'db', 'datanapoli.sqlite')
 
 def norm_light(name):
     if not name: return ""
-    return unidecode(name).lower().strip()
+    s = unidecode(name).lower()
+    s = re.sub(r"[-.,'’]", " ", s)
+    s = re.sub(r"\s+", " ", s).strip()
+    return s
 
 def norm_key(name):
     n = norm_light(name)

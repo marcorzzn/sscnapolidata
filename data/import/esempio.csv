@@ -1,0 +1,4 @@
+﻿match_id,date,season,competition,home_team,away_team,home_goals,away_goals,stadium,attendance,home_scorers,away_scorers,notes
+19261003-NAP-INT,1926-10-03,1926-27,Divisione Nazionale,Napoli,Inter,0,3,,,,"Powolny 9', Castellazzi 35', Bernardini 50'",
+19271030-NAP-JUV,1927-10-30,1927-28,Divisione Nazionale,Napoli,Juventus,0,4,,,,"Munerati 12', Munerati 33', Cevenini 51', Cevenini 66'",
+19281202-NAP-MIL,1928-12-02,1928-29,Divisione Nazionale,Napoli,Milan,1,2,,,"Garbutt 20'","Santagostino 42', Torriani 60'",

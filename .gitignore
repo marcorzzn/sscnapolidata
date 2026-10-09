@@ -27,3 +27,13 @@ Thumbs.db
 
 # Jupyter
 *.ipynb_checkpoints/
+
+# Database locale (generato, non versionato)
+db/*.sqlite
+db/*.sqlite-journal
+inbox/*
+!inbox/.gitkeep
+archive/*
+!archive/.gitkeep
+foto/*
+!foto/.gitkeep

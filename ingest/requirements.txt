@@ -1,0 +1,3 @@
+trafilatura
+pdfplumber
+charset-normalizer

@@ -55,7 +55,7 @@ def parse_note(note_path):
 
     with open(note_path, 'r', encoding=encoding, errors='ignore') as f:
         for line in f:
-            line = line.strip()
+            line = line.strip().lstrip('﻿')
             if not line: continue
                 
             if line.lower().startswith('titolo:'):
@@ -101,7 +101,7 @@ def estrai_testo(cartella):
                 encoding = best.encoding if best else 'utf-8'
             with open(file_path, 'r', encoding=encoding, errors='ignore') as f:
                 testo_completo += f"\n--- Contenuto da {os.path.basename(file_path)} ---\n"
-                testo_completo += f.read()
+                testo_completo += f.read().lstrip('﻿')
 
     # HTML
     for ext in ['*.html', '*.htm']:

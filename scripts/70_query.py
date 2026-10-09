@@ -3,6 +3,12 @@ import argparse
 import sqlite3
 import json
 import os
+import sys
+if sys.stdout.encoding != 'utf-8':
+    try:
+        sys.stdout.reconfigure(encoding='utf-8')
+    except:
+        pass
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DB_PATH = os.path.join(BASE_DIR, 'db', 'datanapoli.sqlite')

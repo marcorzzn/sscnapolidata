@@ -38,13 +38,19 @@ ORDER BY p.data DESC
 cursor.execute(query_partite)
 rows = cursor.fetchall()
 
+
+def normalize_season(s):
+    if s and len(s) == 9 and s[4] == '-':
+        return f"{s[:4]}-{s[7:]}"
+    return s
+
 export_data = []
 
 for r in rows:
     match_dict = {
         'match_id': r['match_id'],
         'date': r['date'],
-        'season': r['season'],
+        'season': normalize_season(r['season']),
         'competizione': r['competizione'],
         'squadra_casa': r['squadra_casa'],
         'squadra_trasferta': r['squadra_trasferta'],
@@ -55,8 +61,13 @@ for r in rows:
         'affluenza': r['affluenza'],
         'scorers': [],
         'fonti': [],
-        'note': r['note'] if r['note'] else ""
+        'note': []
     }
+
+    note_raw = r['note'] if r['note'] else ''
+    note_list = [n.strip() for n in note_raw.split('\n') if n.strip()] if note_raw else []
+    match_dict['note'] = note_list
+
     
     # Fonti
     cursor.execute('''
@@ -86,7 +97,19 @@ for r in rows:
             'minute': sr['minuto']
         })
         
+    
+    def minute_sort_key(s):
+        m = s.get('minute', '')
+        if m and m[0].isdigit():
+            try:
+                return int(''.join(c for c in m.split('+')[0] if c.isdigit()))
+            except Exception:
+                return 999
+        return 999
+        
+    match_dict['scorers'].sort(key=minute_sort_key)
     export_data.append(match_dict)
+
 
 conn.close()
 

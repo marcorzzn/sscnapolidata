@@ -87,7 +87,23 @@
     </div>
 
     <!-- ── Match Summary ──────────────────────────────────── -->
-    <section class="summary">
+    
+    <!-- ── Scorers ────────────────────────────────────────── -->
+    {% if match.scorers and match.scorers|length > 0 %}
+    <section class="scorers">
+      <div class="label">MARCATORI</div>
+      <ul class="scorers-list">
+        {% for s in match.scorers %}
+        <li class="scorer">
+          <span class="minute">{{ s.minute }}{% if s.minute and s.minute[-1].isdigit() %}'{% endif %}</span>
+          <span class="name">{{ s.name }}</span>
+          <span class="team">{{ s.team | upper }}</span>
+        </li>
+        {% endfor %}
+      </ul>
+    </section>
+    {% endif %}
+\n    <section class="summary">
       <div class="label">NOTE E FONTI</div>
       <p>
         {% if match.note and match.note|length > 0 %}

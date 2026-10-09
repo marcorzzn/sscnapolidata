@@ -1,5 +1,788 @@
 [
   {
+    "match_id": "20260920-FIO-NAP",
+    "date": "2026-09-20",
+    "season": "2026-27",
+    "competizione": "Serie A",
+    "squadra_casa": "Fiorentina",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 1,
+    "away_goals": 1,
+    "slug": "fiorentina-napoli-2026-09-20",
+    "stadio": "Artemio Franchi, Firenze",
+    "affluenza": null,
+    "scorers": [
+      {
+        "name": "Gilmour",
+        "team": "Napoli",
+        "minute": "1H"
+      },
+      {
+        "name": "Jimenez",
+        "team": "Fiorentina",
+        "minute": "2H"
+      }
+    ],
+    "fonti": [],
+    "note": []
+  },
+  {
+    "match_id": "20260913-NAP-BOL",
+    "date": "2026-09-13",
+    "season": "2026-27",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Bologna",
+    "home_goals": 1,
+    "away_goals": 0,
+    "slug": "20260913-nap-bol",
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [],
+    "note": [
+      "HT: 0-0"
+    ]
+  },
+  {
+    "match_id": "20260905-FCI-NAP",
+    "date": "2026-09-05",
+    "season": "2026-27",
+    "competizione": "Serie A",
+    "squadra_casa": "Ambrosiana",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 3,
+    "away_goals": 2,
+    "slug": "20260905-fci-nap",
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [],
+    "note": [
+      "HT: 0-0"
+    ]
+  },
+  {
+    "match_id": "20260830-NAP-COM",
+    "date": "2026-08-30",
+    "season": "2026-27",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Como",
+    "home_goals": 1,
+    "away_goals": 2,
+    "slug": "20260830-nap-com",
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [],
+    "note": [
+      "HT: 1-2"
+    ]
+  },
+  {
+    "match_id": "20260822-GEN-NAP",
+    "date": "2026-08-22",
+    "season": "2026-27",
+    "competizione": "Serie A",
+    "squadra_casa": "Genoa",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 0,
+    "away_goals": 2,
+    "slug": "20260822-gen-nap",
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [],
+    "note": [
+      "HT: 0-0"
+    ]
+  },
+  {
+    "match_id": "20260524-NAP-UDI",
+    "date": "2026-05-24",
+    "season": "2025-26",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Udinese",
+    "home_goals": 1,
+    "away_goals": 0,
+    "slug": "20260524-nap-udi",
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [],
+    "note": [
+      "HT: 1-0"
+    ]
+  },
+  {
+    "match_id": "20260517-PIS-NAP",
+    "date": "2026-05-17",
+    "season": "2025-26",
+    "competizione": "Serie A",
+    "squadra_casa": "Pisa",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 0,
+    "away_goals": 3,
+    "slug": "20260517-pis-nap",
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [],
+    "note": [
+      "HT: 0-2"
+    ]
+  },
+  {
+    "match_id": "20260511-NAP-BOL",
+    "date": "2026-05-11",
+    "season": "2025-26",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Bologna",
+    "home_goals": 2,
+    "away_goals": 3,
+    "slug": "20260511-nap-bol",
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [],
+    "note": [
+      "HT: 1-2"
+    ]
+  },
+  {
+    "match_id": "20260502-COM-NAP",
+    "date": "2026-05-02",
+    "season": "2025-26",
+    "competizione": "Serie A",
+    "squadra_casa": "Como",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 0,
+    "away_goals": 0,
+    "slug": "20260502-com-nap",
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [],
+    "note": [
+      "HT: 0-0"
+    ]
+  },
+  {
+    "match_id": "20260424-NAP-CRE",
+    "date": "2026-04-24",
+    "season": "2025-26",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Cremonese",
+    "home_goals": 4,
+    "away_goals": 0,
+    "slug": "20260424-nap-cre",
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [],
+    "note": [
+      "HT: 3-0"
+    ]
+  },
+  {
+    "match_id": "20260418-NAP-LAZ",
+    "date": "2026-04-18",
+    "season": "2025-26",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Lazio",
+    "home_goals": 0,
+    "away_goals": 2,
+    "slug": "20260418-nap-laz",
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [],
+    "note": [
+      "HT: 0-1"
+    ]
+  },
+  {
+    "match_id": "20260412-PAR-NAP",
+    "date": "2026-04-12",
+    "season": "2025-26",
+    "competizione": "Serie A",
+    "squadra_casa": "Parma",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 1,
+    "away_goals": 1,
+    "slug": "20260412-par-nap",
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [],
+    "note": [
+      "HT: 1-0"
+    ]
+  },
+  {
+    "match_id": "20260406-NAP-MIL",
+    "date": "2026-04-06",
+    "season": "2025-26",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Milan",
+    "home_goals": 1,
+    "away_goals": 0,
+    "slug": "20260406-nap-mil",
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [],
+    "note": [
+      "HT: 0-0"
+    ]
+  },
+  {
+    "match_id": "20260320-CAG-NAP",
+    "date": "2026-03-20",
+    "season": "2025-26",
+    "competizione": "Serie A",
+    "squadra_casa": "Cagliari",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 0,
+    "away_goals": 1,
+    "slug": "20260320-cag-nap",
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [],
+    "note": [
+      "HT: 0-1"
+    ]
+  },
+  {
+    "match_id": "20260314-NAP-LEC",
+    "date": "2026-03-14",
+    "season": "2025-26",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Lecce",
+    "home_goals": 2,
+    "away_goals": 1,
+    "slug": "20260314-nap-lec",
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [],
+    "note": [
+      "HT: 0-1"
+    ]
+  },
+  {
+    "match_id": "20260306-NAP-TOR",
+    "date": "2026-03-06",
+    "season": "2025-26",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Torino",
+    "home_goals": 2,
+    "away_goals": 1,
+    "slug": "20260306-nap-tor",
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [],
+    "note": [
+      "HT: 1-0"
+    ]
+  },
+  {
+    "match_id": "20260228-HEL-NAP",
+    "date": "2026-02-28",
+    "season": "2025-26",
+    "competizione": "Serie A",
+    "squadra_casa": "Hellas Verona",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 1,
+    "away_goals": 2,
+    "slug": "20260228-hel-nap",
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [],
+    "note": [
+      "HT: 0-1"
+    ]
+  },
+  {
+    "match_id": "20260222-ATA-NAP",
+    "date": "2026-02-22",
+    "season": "2025-26",
+    "competizione": "Serie A",
+    "squadra_casa": "Atalanta",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 2,
+    "away_goals": 1,
+    "slug": "20260222-ata-nap",
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [],
+    "note": [
+      "HT: 0-1"
+    ]
+  },
+  {
+    "match_id": "20260215-NAP-ASR",
+    "date": "2026-02-15",
+    "season": "2025-26",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Roma",
+    "home_goals": 2,
+    "away_goals": 2,
+    "slug": "20260215-nap-asr",
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [],
+    "note": [
+      "HT: 1-1"
+    ]
+  },
+  {
+    "match_id": "20260207-GEN-NAP",
+    "date": "2026-02-07",
+    "season": "2025-26",
+    "competizione": "Serie A",
+    "squadra_casa": "Genoa",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 2,
+    "away_goals": 3,
+    "slug": "20260207-gen-nap",
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [],
+    "note": [
+      "HT: 1-2"
+    ]
+  },
+  {
+    "match_id": "20260131-NAP-FIO",
+    "date": "2026-01-31",
+    "season": "2025-26",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Fiorentina",
+    "home_goals": 2,
+    "away_goals": 1,
+    "slug": "20260131-nap-fio",
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [],
+    "note": [
+      "HT: 1-0"
+    ]
+  },
+  {
+    "match_id": "20260125-JUV-NAP",
+    "date": "2026-01-25",
+    "season": "2025-26",
+    "competizione": "Serie A",
+    "squadra_casa": "Juventus",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 3,
+    "away_goals": 0,
+    "slug": "20260125-juv-nap",
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [],
+    "note": [
+      "HT: 1-0"
+    ]
+  },
+  {
+    "match_id": "20260117-NAP-SAS",
+    "date": "2026-01-17",
+    "season": "2025-26",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Sassuolo",
+    "home_goals": 1,
+    "away_goals": 0,
+    "slug": "20260117-nap-sas",
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [],
+    "note": [
+      "HT: 1-0"
+    ]
+  },
+  {
+    "match_id": "20260114-NAP-PAR",
+    "date": "2026-01-14",
+    "season": "2025-26",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Parma",
+    "home_goals": 0,
+    "away_goals": 0,
+    "slug": "20260114-nap-par",
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [],
+    "note": [
+      "HT: 0-0"
+    ]
+  },
+  {
+    "match_id": "20260111-FCI-NAP",
+    "date": "2026-01-11",
+    "season": "2025-26",
+    "competizione": "Serie A",
+    "squadra_casa": "Ambrosiana",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 2,
+    "away_goals": 2,
+    "slug": "20260111-fci-nap",
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [],
+    "note": [
+      "HT: 1-1"
+    ]
+  },
+  {
+    "match_id": "20260107-NAP-HEL",
+    "date": "2026-01-07",
+    "season": "2025-26",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Hellas Verona",
+    "home_goals": 2,
+    "away_goals": 2,
+    "slug": "20260107-nap-hel",
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [],
+    "note": [
+      "HT: 0-2"
+    ]
+  },
+  {
+    "match_id": "20260104-LAZ-NAP",
+    "date": "2026-01-04",
+    "season": "2025-26",
+    "competizione": "Serie A",
+    "squadra_casa": "Lazio",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 0,
+    "away_goals": 2,
+    "slug": "20260104-laz-nap",
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [],
+    "note": [
+      "HT: 0-2"
+    ]
+  },
+  {
+    "match_id": "20251228-CRE-NAP",
+    "date": "2025-12-28",
+    "season": "2025-26",
+    "competizione": "Serie A",
+    "squadra_casa": "Cremonese",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 0,
+    "away_goals": 2,
+    "slug": "20251228-cre-nap",
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [],
+    "note": [
+      "HT: 0-2"
+    ]
+  },
+  {
+    "match_id": "20251214-UDI-NAP",
+    "date": "2025-12-14",
+    "season": "2025-26",
+    "competizione": "Serie A",
+    "squadra_casa": "Udinese",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 1,
+    "away_goals": 0,
+    "slug": "20251214-udi-nap",
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [],
+    "note": [
+      "HT: 0-0"
+    ]
+  },
+  {
+    "match_id": "20251207-NAP-JUV",
+    "date": "2025-12-07",
+    "season": "2025-26",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Juventus",
+    "home_goals": 2,
+    "away_goals": 1,
+    "slug": "20251207-nap-juv",
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [],
+    "note": [
+      "HT: 1-0"
+    ]
+  },
+  {
+    "match_id": "20251130-ASR-NAP",
+    "date": "2025-11-30",
+    "season": "2025-26",
+    "competizione": "Serie A",
+    "squadra_casa": "Roma",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 0,
+    "away_goals": 1,
+    "slug": "20251130-asr-nap",
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [],
+    "note": [
+      "HT: 0-1"
+    ]
+  },
+  {
+    "match_id": "20251122-NAP-ATA",
+    "date": "2025-11-22",
+    "season": "2025-26",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Atalanta",
+    "home_goals": 3,
+    "away_goals": 1,
+    "slug": "20251122-nap-ata",
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [],
+    "note": [
+      "HT: 3-0"
+    ]
+  },
+  {
+    "match_id": "20251109-BOL-NAP",
+    "date": "2025-11-09",
+    "season": "2025-26",
+    "competizione": "Serie A",
+    "squadra_casa": "Bologna",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 2,
+    "away_goals": 0,
+    "slug": "20251109-bol-nap",
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [],
+    "note": [
+      "HT: 0-0"
+    ]
+  },
+  {
+    "match_id": "20251101-NAP-COM",
+    "date": "2025-11-01",
+    "season": "2025-26",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Como",
+    "home_goals": 0,
+    "away_goals": 0,
+    "slug": "20251101-nap-com",
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [],
+    "note": [
+      "HT: 0-0"
+    ]
+  },
+  {
+    "match_id": "20251028-LEC-NAP",
+    "date": "2025-10-28",
+    "season": "2025-26",
+    "competizione": "Serie A",
+    "squadra_casa": "Lecce",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 0,
+    "away_goals": 1,
+    "slug": "20251028-lec-nap",
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [],
+    "note": [
+      "HT: 0-0"
+    ]
+  },
+  {
+    "match_id": "20251025-NAP-FCI",
+    "date": "2025-10-25",
+    "season": "2025-26",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Ambrosiana",
+    "home_goals": 3,
+    "away_goals": 1,
+    "slug": "20251025-nap-fci",
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [],
+    "note": [
+      "HT: 1-0"
+    ]
+  },
+  {
+    "match_id": "20251018-TOR-NAP",
+    "date": "2025-10-18",
+    "season": "2025-26",
+    "competizione": "Serie A",
+    "squadra_casa": "Torino",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 1,
+    "away_goals": 0,
+    "slug": "20251018-tor-nap",
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [],
+    "note": [
+      "HT: 1-0"
+    ]
+  },
+  {
+    "match_id": "20251005-NAP-GEN",
+    "date": "2025-10-05",
+    "season": "2025-26",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Genoa",
+    "home_goals": 2,
+    "away_goals": 1,
+    "slug": "20251005-nap-gen",
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [],
+    "note": [
+      "HT: 0-1"
+    ]
+  },
+  {
+    "match_id": "20250928-MIL-NAP",
+    "date": "2025-09-28",
+    "season": "2025-26",
+    "competizione": "Serie A",
+    "squadra_casa": "Milan",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 2,
+    "away_goals": 1,
+    "slug": "20250928-mil-nap",
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [],
+    "note": [
+      "HT: 2-0"
+    ]
+  },
+  {
+    "match_id": "20250922-NAP-PIS",
+    "date": "2025-09-22",
+    "season": "2025-26",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Pisa",
+    "home_goals": 3,
+    "away_goals": 2,
+    "slug": "20250922-nap-pis",
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [],
+    "note": [
+      "HT: 1-0"
+    ]
+  },
+  {
+    "match_id": "20250913-FIO-NAP",
+    "date": "2025-09-13",
+    "season": "2025-26",
+    "competizione": "Serie A",
+    "squadra_casa": "Fiorentina",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 1,
+    "away_goals": 3,
+    "slug": "20250913-fio-nap",
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [],
+    "note": [
+      "HT: 0-2"
+    ]
+  },
+  {
+    "match_id": "20250830-NAP-CAG",
+    "date": "2025-08-30",
+    "season": "2025-26",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Cagliari",
+    "home_goals": 1,
+    "away_goals": 0,
+    "slug": "20250830-nap-cag",
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [],
+    "note": [
+      "HT: 0-0"
+    ]
+  },
+  {
+    "match_id": "20250823-SAS-NAP",
+    "date": "2025-08-23",
+    "season": "2025-26",
+    "competizione": "Serie A",
+    "squadra_casa": "Sassuolo",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 0,
+    "away_goals": 2,
+    "slug": "20250823-sas-nap",
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [],
+    "note": [
+      "HT: 0-1"
+    ]
+  },
+  {
     "match_id": "20250523-NAP-CAG",
     "date": "2025-05-23",
     "season": "2024-25",
@@ -8,13 +791,16 @@
     "squadra_trasferta": "Cagliari",
     "home_goals": 2,
     "away_goals": 0,
+    "slug": null,
     "stadio": null,
     "affluenza": null,
     "scorers": [],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "HT: 1-0"
+    ]
   },
   {
     "match_id": "20250518-PAR-NAP",
@@ -25,6 +811,7 @@
     "squadra_trasferta": "Napoli",
     "home_goals": 0,
     "away_goals": 0,
+    "slug": null,
     "stadio": null,
     "affluenza": null,
     "scorers": [],
@@ -42,16 +829,19 @@
     "squadra_trasferta": "Genoa",
     "home_goals": 2,
     "away_goals": 2,
+    "slug": null,
     "stadio": null,
     "affluenza": null,
     "scorers": [],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "HT: 1-1"
+    ]
   },
   {
-    "match_id": "20250503-LEC-NAP",
+    "match_id": "20250503-USL-NAP",
     "date": "2025-05-03",
     "season": "2024-25",
     "competizione": "Serie A",
@@ -59,13 +849,14 @@
     "squadra_trasferta": "Napoli",
     "home_goals": 0,
     "away_goals": 1,
+    "slug": "20250503-usl-nap",
     "stadio": null,
     "affluenza": null,
     "scorers": [],
-    "fonti": [
-      "10maggio87"
-    ],
-    "note": []
+    "fonti": [],
+    "note": [
+      "HT: 0-1"
+    ]
   },
   {
     "match_id": "20250427-NAP-TOR",
@@ -76,16 +867,19 @@
     "squadra_trasferta": "Torino",
     "home_goals": 2,
     "away_goals": 0,
+    "slug": null,
     "stadio": null,
     "affluenza": null,
     "scorers": [],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "HT: 2-0"
+    ]
   },
   {
-    "match_id": "20250419-MON-NAP",
+    "match_id": "20250419-ACM-NAP",
     "date": "2025-04-19",
     "season": "2024-25",
     "competizione": "Serie A",
@@ -93,13 +887,14 @@
     "squadra_trasferta": "Napoli",
     "home_goals": 0,
     "away_goals": 1,
+    "slug": "20250419-acm-nap",
     "stadio": null,
     "affluenza": null,
     "scorers": [],
-    "fonti": [
-      "10maggio87"
-    ],
-    "note": []
+    "fonti": [],
+    "note": [
+      "HT: 0-0"
+    ]
   },
   {
     "match_id": "20250414-NAP-EMP",
@@ -110,13 +905,16 @@
     "squadra_trasferta": "Empoli",
     "home_goals": 3,
     "away_goals": 0,
+    "slug": null,
     "stadio": null,
     "affluenza": null,
     "scorers": [],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "HT: 1-0"
+    ]
   },
   {
     "match_id": "20250407-BOL-NAP",
@@ -127,16 +925,19 @@
     "squadra_trasferta": "Napoli",
     "home_goals": 1,
     "away_goals": 1,
+    "slug": null,
     "stadio": null,
     "affluenza": null,
     "scorers": [],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "HT: 0-1"
+    ]
   },
   {
-    "match_id": "20250330-NAP-MIL",
+    "match_id": "20250330-NAP-ACM",
     "date": "2025-03-30",
     "season": "2024-25",
     "competizione": "Serie A",
@@ -144,13 +945,14 @@
     "squadra_trasferta": "Milan",
     "home_goals": 2,
     "away_goals": 1,
+    "slug": "20250330-nap-acm",
     "stadio": null,
     "affluenza": null,
     "scorers": [],
-    "fonti": [
-      "10maggio87"
-    ],
-    "note": []
+    "fonti": [],
+    "note": [
+      "HT: 2-0"
+    ]
   },
   {
     "match_id": "20250316-VEN-NAP",
@@ -161,6 +963,7 @@
     "squadra_trasferta": "Napoli",
     "home_goals": 0,
     "away_goals": 0,
+    "slug": null,
     "stadio": null,
     "affluenza": null,
     "scorers": [],
@@ -170,7 +973,7 @@
     "note": []
   },
   {
-    "match_id": "20250309-NAP-FIO",
+    "match_id": "20250309-NAP-ACF",
     "date": "2025-03-09",
     "season": "2024-25",
     "competizione": "Serie A",
@@ -178,13 +981,32 @@
     "squadra_trasferta": "Fiorentina",
     "home_goals": 2,
     "away_goals": 1,
+    "slug": "20250309-nap-acf",
     "stadio": null,
     "affluenza": null,
     "scorers": [],
-    "fonti": [
-      "10maggio87"
-    ],
-    "note": []
+    "fonti": [],
+    "note": [
+      "HT: 1-0"
+    ]
+  },
+  {
+    "match_id": "20250301-NAP-FCI",
+    "date": "2025-03-01",
+    "season": "2024-25",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Ambrosiana",
+    "home_goals": 1,
+    "away_goals": 1,
+    "slug": "20250301-nap-fci",
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [],
+    "note": [
+      "HT: 0-1"
+    ]
   },
   {
     "match_id": "20250301-NAP-INT",
@@ -195,6 +1017,7 @@
     "squadra_trasferta": "Inter",
     "home_goals": 1,
     "away_goals": 1,
+    "slug": null,
     "stadio": null,
     "affluenza": null,
     "scorers": [],
@@ -212,16 +1035,19 @@
     "squadra_trasferta": "Napoli",
     "home_goals": 2,
     "away_goals": 1,
+    "slug": null,
     "stadio": null,
     "affluenza": null,
     "scorers": [],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "HT: 1-1"
+    ]
   },
   {
-    "match_id": "20250215-LAZ-NAP",
+    "match_id": "20250215-SSL-NAP",
     "date": "2025-02-15",
     "season": "2024-25",
     "competizione": "Serie A",
@@ -229,13 +1055,14 @@
     "squadra_trasferta": "Napoli",
     "home_goals": 2,
     "away_goals": 2,
+    "slug": "20250215-ssl-nap",
     "stadio": null,
     "affluenza": null,
     "scorers": [],
-    "fonti": [
-      "10maggio87"
-    ],
-    "note": []
+    "fonti": [],
+    "note": [
+      "HT: 1-1"
+    ]
   },
   {
     "match_id": "20250209-NAP-UDI",
@@ -246,16 +1073,19 @@
     "squadra_trasferta": "Udinese",
     "home_goals": 1,
     "away_goals": 1,
+    "slug": null,
     "stadio": null,
     "affluenza": null,
     "scorers": [],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "HT: 1-1"
+    ]
   },
   {
-    "match_id": "20250202-ROM-NAP",
+    "match_id": "20250202-ASR-NAP",
     "date": "2025-02-02",
     "season": "2024-25",
     "competizione": "Serie A",
@@ -263,13 +1093,14 @@
     "squadra_trasferta": "Napoli",
     "home_goals": 1,
     "away_goals": 1,
+    "slug": "20250202-asr-nap",
     "stadio": null,
     "affluenza": null,
     "scorers": [],
-    "fonti": [
-      "10maggio87"
-    ],
-    "note": []
+    "fonti": [],
+    "note": [
+      "HT: 0-1"
+    ]
   },
   {
     "match_id": "20250125-NAP-JUV",
@@ -280,13 +1111,16 @@
     "squadra_trasferta": "Juventus",
     "home_goals": 2,
     "away_goals": 1,
+    "slug": null,
     "stadio": null,
     "affluenza": null,
     "scorers": [],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "HT: 0-1"
+    ]
   },
   {
     "match_id": "20250118-ATA-NAP",
@@ -297,13 +1131,34 @@
     "squadra_trasferta": "Napoli",
     "home_goals": 2,
     "away_goals": 3,
+    "slug": null,
     "stadio": null,
     "affluenza": null,
     "scorers": [],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "HT: 1-2"
+    ]
+  },
+  {
+    "match_id": "20250112-NAP-HEL",
+    "date": "2025-01-12",
+    "season": "2024-25",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Hellas Verona",
+    "home_goals": 2,
+    "away_goals": 0,
+    "slug": "20250112-nap-hel",
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [],
+    "note": [
+      "HT: 1-0"
+    ]
   },
   {
     "match_id": "20250112-NAP-VER",
@@ -314,6 +1169,7 @@
     "squadra_trasferta": "Verona",
     "home_goals": 2,
     "away_goals": 0,
+    "slug": null,
     "stadio": null,
     "affluenza": null,
     "scorers": [],
@@ -323,7 +1179,7 @@
     "note": []
   },
   {
-    "match_id": "20250104-FIO-NAP",
+    "match_id": "20250104-ACF-NAP",
     "date": "2025-01-04",
     "season": "2024-25",
     "competizione": "Serie A",
@@ -331,13 +1187,14 @@
     "squadra_trasferta": "Napoli",
     "home_goals": 0,
     "away_goals": 3,
+    "slug": "20250104-acf-nap",
     "stadio": null,
     "affluenza": null,
     "scorers": [],
-    "fonti": [
-      "10maggio87"
-    ],
-    "note": []
+    "fonti": [],
+    "note": [
+      "HT: 0-1"
+    ]
   },
   {
     "match_id": "20241229-NAP-VEN",
@@ -348,13 +1205,16 @@
     "squadra_trasferta": "Venezia",
     "home_goals": 1,
     "away_goals": 0,
+    "slug": null,
     "stadio": null,
     "affluenza": null,
     "scorers": [],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "HT: 0-0"
+    ]
   },
   {
     "match_id": "20241221-GEN-NAP",
@@ -365,13 +1225,16 @@
     "squadra_trasferta": "Napoli",
     "home_goals": 1,
     "away_goals": 2,
+    "slug": null,
     "stadio": null,
     "affluenza": null,
     "scorers": [],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "HT: 0-2"
+    ]
   },
   {
     "match_id": "20241214-UDI-NAP",
@@ -382,16 +1245,19 @@
     "squadra_trasferta": "Napoli",
     "home_goals": 1,
     "away_goals": 3,
+    "slug": null,
     "stadio": null,
     "affluenza": null,
     "scorers": [],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "HT: 1-0"
+    ]
   },
   {
-    "match_id": "20241208-NAP-LAZ",
+    "match_id": "20241208-NAP-SSL",
     "date": "2024-12-08",
     "season": "2024-25",
     "competizione": "Serie A",
@@ -399,13 +1265,14 @@
     "squadra_trasferta": "Lazio",
     "home_goals": 0,
     "away_goals": 1,
+    "slug": "20241208-nap-ssl",
     "stadio": null,
     "affluenza": null,
     "scorers": [],
-    "fonti": [
-      "10maggio87"
-    ],
-    "note": []
+    "fonti": [],
+    "note": [
+      "HT: 0-0"
+    ]
   },
   {
     "match_id": "20241205-LAZ-NAP",
@@ -416,13 +1283,16 @@
     "squadra_trasferta": "Napoli",
     "home_goals": 3,
     "away_goals": 1,
+    "slug": null,
     "stadio": null,
     "affluenza": null,
     "scorers": [],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "HT: 2-1"
+    ]
   },
   {
     "match_id": "20241201-TOR-NAP",
@@ -433,16 +1303,19 @@
     "squadra_trasferta": "Napoli",
     "home_goals": 0,
     "away_goals": 1,
+    "slug": null,
     "stadio": null,
     "affluenza": null,
     "scorers": [],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "HT: 0-1"
+    ]
   },
   {
-    "match_id": "20241124-NAP-ROM",
+    "match_id": "20241124-NAP-ASR",
     "date": "2024-11-24",
     "season": "2024-25",
     "competizione": "Serie A",
@@ -450,13 +1323,32 @@
     "squadra_trasferta": "Roma",
     "home_goals": 1,
     "away_goals": 0,
+    "slug": "20241124-nap-asr",
     "stadio": null,
     "affluenza": null,
     "scorers": [],
-    "fonti": [
-      "10maggio87"
-    ],
-    "note": []
+    "fonti": [],
+    "note": [
+      "HT: 0-0"
+    ]
+  },
+  {
+    "match_id": "20241110-FCI-NAP",
+    "date": "2024-11-10",
+    "season": "2024-25",
+    "competizione": "Serie A",
+    "squadra_casa": "Ambrosiana",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 1,
+    "away_goals": 1,
+    "slug": "20241110-fci-nap",
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [],
+    "note": [
+      "HT: 1-1"
+    ]
   },
   {
     "match_id": "20241110-INT-NAP",
@@ -467,6 +1359,7 @@
     "squadra_trasferta": "Napoli",
     "home_goals": 1,
     "away_goals": 1,
+    "slug": null,
     "stadio": null,
     "affluenza": null,
     "scorers": [],
@@ -484,16 +1377,19 @@
     "squadra_trasferta": "Atalanta",
     "home_goals": 0,
     "away_goals": 3,
+    "slug": null,
     "stadio": null,
     "affluenza": null,
     "scorers": [],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "HT: 0-2"
+    ]
   },
   {
-    "match_id": "20241029-MIL-NAP",
+    "match_id": "20241029-ACM-NAP",
     "date": "2024-10-29",
     "season": "2024-25",
     "competizione": "Serie A",
@@ -501,16 +1397,17 @@
     "squadra_trasferta": "Napoli",
     "home_goals": 0,
     "away_goals": 2,
+    "slug": "20241029-acm-nap",
     "stadio": null,
     "affluenza": null,
     "scorers": [],
-    "fonti": [
-      "10maggio87"
-    ],
-    "note": []
+    "fonti": [],
+    "note": [
+      "HT: 0-2"
+    ]
   },
   {
-    "match_id": "20241026-NAP-LEC",
+    "match_id": "20241026-NAP-USL",
     "date": "2024-10-26",
     "season": "2024-25",
     "competizione": "Serie A",
@@ -518,13 +1415,14 @@
     "squadra_trasferta": "Lecce",
     "home_goals": 1,
     "away_goals": 0,
+    "slug": "20241026-nap-usl",
     "stadio": null,
     "affluenza": null,
     "scorers": [],
-    "fonti": [
-      "10maggio87"
-    ],
-    "note": []
+    "fonti": [],
+    "note": [
+      "HT: 0-0"
+    ]
   },
   {
     "match_id": "20241020-EMP-NAP",
@@ -535,13 +1433,16 @@
     "squadra_trasferta": "Napoli",
     "home_goals": 0,
     "away_goals": 1,
+    "slug": null,
     "stadio": null,
     "affluenza": null,
     "scorers": [],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "HT: 0-0"
+    ]
   },
   {
     "match_id": "20241004-NAP-COM",
@@ -552,16 +1453,19 @@
     "squadra_trasferta": "Como",
     "home_goals": 3,
     "away_goals": 1,
+    "slug": null,
     "stadio": null,
     "affluenza": null,
     "scorers": [],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "HT: 1-1"
+    ]
   },
   {
-    "match_id": "20240929-NAP-MON",
+    "match_id": "20240929-NAP-ACM",
     "date": "2024-09-29",
     "season": "2024-25",
     "competizione": "Serie A",
@@ -569,13 +1473,14 @@
     "squadra_trasferta": "Monza",
     "home_goals": 2,
     "away_goals": 0,
+    "slug": "20240929-nap-acm",
     "stadio": null,
     "affluenza": null,
     "scorers": [],
-    "fonti": [
-      "10maggio87"
-    ],
-    "note": []
+    "fonti": [],
+    "note": [
+      "HT: 2-0"
+    ]
   },
   {
     "match_id": "20240926-NAP-PAL",
@@ -586,13 +1491,16 @@
     "squadra_trasferta": "Palermo",
     "home_goals": 5,
     "away_goals": 0,
+    "slug": null,
     "stadio": null,
     "affluenza": null,
     "scorers": [],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "HT: 3-0"
+    ]
   },
   {
     "match_id": "20240921-JUV-NAP",
@@ -603,6 +1511,7 @@
     "squadra_trasferta": "Napoli",
     "home_goals": 0,
     "away_goals": 0,
+    "slug": null,
     "stadio": null,
     "affluenza": null,
     "scorers": [],
@@ -620,13 +1529,16 @@
     "squadra_trasferta": "Napoli",
     "home_goals": 0,
     "away_goals": 4,
+    "slug": null,
     "stadio": null,
     "affluenza": null,
     "scorers": [],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "HT: 0-1"
+    ]
   },
   {
     "match_id": "20240831-NAP-PAR",
@@ -637,13 +1549,16 @@
     "squadra_trasferta": "Parma",
     "home_goals": 2,
     "away_goals": 1,
+    "slug": null,
     "stadio": null,
     "affluenza": null,
     "scorers": [],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "HT: 0-1"
+    ]
   },
   {
     "match_id": "20240825-NAP-BOL",
@@ -654,13 +1569,34 @@
     "squadra_trasferta": "Bologna",
     "home_goals": 3,
     "away_goals": 0,
+    "slug": null,
     "stadio": null,
     "affluenza": null,
     "scorers": [],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "HT: 1-0"
+    ]
+  },
+  {
+    "match_id": "20240818-HEL-NAP",
+    "date": "2024-08-18",
+    "season": "2024-25",
+    "competizione": "Serie A",
+    "squadra_casa": "Hellas Verona",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 3,
+    "away_goals": 0,
+    "slug": "20240818-hel-nap",
+    "stadio": null,
+    "affluenza": null,
+    "scorers": [],
+    "fonti": [],
+    "note": [
+      "HT: 0-0"
+    ]
   },
   {
     "match_id": "20240818-VER-NAP",
@@ -671,6 +1607,7 @@
     "squadra_trasferta": "Napoli",
     "home_goals": 3,
     "away_goals": 0,
+    "slug": null,
     "stadio": null,
     "affluenza": null,
     "scorers": [],
@@ -687,7 +1624,8 @@
     "squadra_casa": "Napoli",
     "squadra_trasferta": "Modena",
     "home_goals": 4,
-    "away_goals": null,
+    "away_goals": 3,
+    "slug": null,
     "stadio": null,
     "affluenza": null,
     "scorers": [],
@@ -705,13 +1643,22 @@
     "squadra_trasferta": "Lazio",
     "home_goals": 1,
     "away_goals": 0,
-    "stadio": null,
-    "affluenza": null,
-    "scorers": [],
+    "slug": null,
+    "stadio": "Stadio San PaoloArbitro:",
+    "affluenza": 62499,
+    "scorers": [
+      {
+        "name": "Baroni",
+        "team": "Napoli",
+        "minute": "7"
+      }
+    ],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "Arbitro: Stadio San Paolo (62 499 spett.)"
+    ]
   },
   {
     "match_id": "19900422-BOL-NAP",
@@ -722,13 +1669,47 @@
     "squadra_trasferta": "Napoli",
     "home_goals": 2,
     "away_goals": 4,
-    "stadio": null,
-    "affluenza": null,
-    "scorers": [],
+    "slug": null,
+    "stadio": "Stadio Renato Dall'AraArbitro:",
+    "affluenza": 25359,
+    "scorers": [
+      {
+        "name": "Careca",
+        "team": "Napoli",
+        "minute": "3"
+      },
+      {
+        "name": "Diego Armando MARADONA",
+        "team": "Napoli",
+        "minute": "9"
+      },
+      {
+        "name": "Francini",
+        "team": "Napoli",
+        "minute": "15"
+      },
+      {
+        "name": "De marchi",
+        "team": "Bologna",
+        "minute": "47"
+      },
+      {
+        "name": "Alemão",
+        "team": "Napoli",
+        "minute": "85"
+      },
+      {
+        "name": "Iliev",
+        "team": "Bologna",
+        "minute": "90"
+      }
+    ],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "Arbitro: Stadio Renato Dall'Ara (25 359 spett.)"
+    ]
   },
   {
     "match_id": "19900414-NAP-BAR",
@@ -739,6 +1720,7 @@
     "squadra_trasferta": "Bari",
     "home_goals": 3,
     "away_goals": 0,
+    "slug": null,
     "stadio": null,
     "affluenza": null,
     "scorers": [],
@@ -756,13 +1738,16 @@
     "squadra_trasferta": "Napoli",
     "home_goals": 0,
     "away_goals": 2,
-    "stadio": null,
-    "affluenza": null,
+    "slug": null,
+    "stadio": "Stadio Atleti Azzurri d'ItaliaArbitro:",
+    "affluenza": 32000,
     "scorers": [],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "Arbitro: Stadio Atleti Azzurri d'Italia (32 000 spett.)"
+    ]
   },
   {
     "match_id": "19900325-NAP-JUV",
@@ -773,13 +1758,37 @@
     "squadra_trasferta": "Juventus",
     "home_goals": 3,
     "away_goals": 1,
-    "stadio": null,
-    "affluenza": null,
-    "scorers": [],
+    "slug": null,
+    "stadio": "Stadio San PaoloArbitro:",
+    "affluenza": 66299,
+    "scorers": [
+      {
+        "name": "Diego Armando MARADONA",
+        "team": "Napoli",
+        "minute": "13"
+      },
+      {
+        "name": "Diego Armando MARADONA",
+        "team": "Napoli",
+        "minute": "28"
+      },
+      {
+        "name": "De agostini",
+        "team": "Juventus",
+        "minute": "61"
+      },
+      {
+        "name": "Francini",
+        "team": "Napoli",
+        "minute": "64"
+      }
+    ],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "Arbitro: Stadio San Paolo (66 299 spett.)"
+    ]
   },
   {
     "match_id": "19900318-SAM-NAP",
@@ -790,13 +1799,32 @@
     "squadra_trasferta": "Napoli",
     "home_goals": 2,
     "away_goals": 1,
-    "stadio": null,
-    "affluenza": null,
-    "scorers": [],
+    "slug": null,
+    "stadio": "Stadio Luigi FerrarisArbitro:",
+    "affluenza": 33110,
+    "scorers": [
+      {
+        "name": "Dossena",
+        "team": "Sampdoria",
+        "minute": "37"
+      },
+      {
+        "name": "Careca",
+        "team": "Napoli",
+        "minute": "50"
+      },
+      {
+        "name": "A. lombardo",
+        "team": "Sampdoria",
+        "minute": "67"
+      }
+    ],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "Arbitro: Stadio Luigi Ferraris (33 110 spett.)"
+    ]
   },
   {
     "match_id": "19900311-LEC-NAP",
@@ -807,13 +1835,27 @@
     "squadra_trasferta": "Napoli",
     "home_goals": 1,
     "away_goals": 1,
-    "stadio": null,
-    "affluenza": null,
-    "scorers": [],
+    "slug": null,
+    "stadio": "Stadio Via del MareArbitro:",
+    "affluenza": 25495,
+    "scorers": [
+      {
+        "name": "A. carnevale",
+        "team": "Napoli",
+        "minute": "54"
+      },
+      {
+        "name": "Pasculli",
+        "team": "Lecce",
+        "minute": "68"
+      }
+    ],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "Arbitro: Stadio Via del Mare (25 495 spett.)"
+    ]
   },
   {
     "match_id": "19900304-NAP-GEN",
@@ -824,30 +1866,73 @@
     "squadra_trasferta": "Genoa",
     "home_goals": 2,
     "away_goals": 1,
-    "stadio": null,
-    "affluenza": null,
-    "scorers": [],
+    "slug": null,
+    "stadio": "Stadio San PaoloArbitro:",
+    "affluenza": 48231,
+    "scorers": [
+      {
+        "name": "Francini",
+        "team": "Napoli",
+        "minute": "46"
+      },
+      {
+        "name": "Paz",
+        "team": "Genoa",
+        "minute": "80"
+      },
+      {
+        "name": "Zola",
+        "team": "Napoli",
+        "minute": "90"
+      }
+    ],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "Arbitro: Stadio San Paolo (48 231 spett.)"
+    ]
   },
   {
     "match_id": "19900225-INT-NAP",
     "date": "1990-02-25",
     "season": "1989-90",
     "competizione": "Serie A",
-    "squadra_casa": "Inter",
+    "squadra_casa": "Ambrosiana",
     "squadra_trasferta": "Napoli",
     "home_goals": 3,
     "away_goals": 1,
-    "stadio": null,
-    "affluenza": null,
-    "scorers": [],
+    "slug": null,
+    "stadio": "Stadio Giuseppe MeazzaArbitro:",
+    "affluenza": 60652,
+    "scorers": [
+      {
+        "name": "Careca",
+        "team": "Napoli",
+        "minute": "7"
+      },
+      {
+        "name": "Ciro FERRARA",
+        "team": "Ambrosiana",
+        "minute": "49"
+      },
+      {
+        "name": "Klinsmann",
+        "team": "Ambrosiana",
+        "minute": "53"
+      },
+      {
+        "name": "Ottavio BIANCHI",
+        "team": "Ambrosiana",
+        "minute": "58"
+      }
+    ],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "Arbitro: Stadio Giuseppe Meazza (60 652 spett.)"
+    ]
   },
   {
     "match_id": "19900218-NAP-ROM",
@@ -858,13 +1943,37 @@
     "squadra_trasferta": "Roma",
     "home_goals": 3,
     "away_goals": 1,
-    "stadio": null,
-    "affluenza": null,
-    "scorers": [],
+    "slug": null,
+    "stadio": "Stadio San PaoloArbitro:",
+    "affluenza": 56982,
+    "scorers": [
+      {
+        "name": "Nela",
+        "team": "Roma",
+        "minute": "4"
+      },
+      {
+        "name": "Diego Armando MARADONA",
+        "team": "Napoli",
+        "minute": "53"
+      },
+      {
+        "name": "Careca",
+        "team": "Napoli",
+        "minute": "62"
+      },
+      {
+        "name": "Diego Armando MARADONA",
+        "team": "Napoli",
+        "minute": "72"
+      }
+    ],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "Arbitro: Stadio San Paolo (56 982 spett.)"
+    ]
   },
   {
     "match_id": "19900214-NAP-MIL",
@@ -875,13 +1984,32 @@
     "squadra_trasferta": "Milan",
     "home_goals": 1,
     "away_goals": 3,
-    "stadio": null,
+    "slug": null,
+    "stadio": "Stadio San PaoloArbitro:",
     "affluenza": null,
-    "scorers": [],
+    "scorers": [
+      {
+        "name": "Van basten",
+        "team": "Milan",
+        "minute": "76"
+      },
+      {
+        "name": "Diego Armando MARADONA",
+        "team": "Napoli",
+        "minute": "78"
+      },
+      {
+        "name": "Massaro",
+        "team": "Milan",
+        "minute": "88"
+      }
+    ],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "Arbitro: Stadio San Paolo"
+    ]
   },
   {
     "match_id": "19900211-MIL-NAP",
@@ -892,13 +2020,32 @@
     "squadra_trasferta": "Napoli",
     "home_goals": 3,
     "away_goals": 0,
-    "stadio": null,
-    "affluenza": null,
-    "scorers": [],
+    "slug": null,
+    "stadio": "Stadio Giuseppe MeazzaArbitro:",
+    "affluenza": 70019,
+    "scorers": [
+      {
+        "name": "Massaro",
+        "team": "Milan",
+        "minute": "47"
+      },
+      {
+        "name": "Maldini",
+        "team": "Milan",
+        "minute": "71"
+      },
+      {
+        "name": "Van basten",
+        "team": "Milan",
+        "minute": "86"
+      }
+    ],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "Arbitro: Stadio Giuseppe Meazza (70 019 spett.)"
+    ]
   },
   {
     "match_id": "19900204-NAP-CRE",
@@ -909,13 +2056,32 @@
     "squadra_trasferta": "Cremonese",
     "home_goals": 3,
     "away_goals": 0,
-    "stadio": null,
-    "affluenza": null,
-    "scorers": [],
+    "slug": null,
+    "stadio": "Stadio San PaoloArbitro:",
+    "affluenza": 50804,
+    "scorers": [
+      {
+        "name": "Alemão",
+        "team": "Napoli",
+        "minute": "24"
+      },
+      {
+        "name": "Diego Armando MARADONA",
+        "team": "Napoli",
+        "minute": "33"
+      },
+      {
+        "name": "Diego Armando MARADONA",
+        "team": "Napoli",
+        "minute": "67"
+      }
+    ],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "Arbitro: Stadio San Paolo (50 804 spett.)"
+    ]
   },
   {
     "match_id": "19900131-MIL-NAP",
@@ -926,13 +2092,16 @@
     "squadra_trasferta": "Napoli",
     "home_goals": 0,
     "away_goals": 0,
-    "stadio": null,
+    "slug": null,
+    "stadio": "Stadio Giuseppe MeazzaArbitro:",
     "affluenza": null,
     "scorers": [],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "Arbitro: Stadio Giuseppe Meazza"
+    ]
   },
   {
     "match_id": "19900128-FIO-NAP",
@@ -943,13 +2112,22 @@
     "squadra_trasferta": "Napoli",
     "home_goals": 0,
     "away_goals": 1,
-    "stadio": null,
-    "affluenza": null,
-    "scorers": [],
+    "slug": null,
+    "stadio": "Stadio ComunaleArbitro:",
+    "affluenza": 23781,
+    "scorers": [
+      {
+        "name": "Fusi",
+        "team": "Napoli",
+        "minute": "19"
+      }
+    ],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "Arbitro: Stadio Comunale (23 781 spett.)"
+    ]
   },
   {
     "match_id": "19900124-FIO-NAP",
@@ -960,13 +2138,27 @@
     "squadra_trasferta": "Napoli",
     "home_goals": 1,
     "away_goals": 1,
-    "stadio": null,
+    "slug": null,
+    "stadio": "Stadio Renato CuriArbitro:",
     "affluenza": null,
-    "scorers": [],
+    "scorers": [
+      {
+        "name": "Dunga",
+        "team": "Fiorentina",
+        "minute": "22"
+      },
+      {
+        "name": "Diego Armando MARADONA",
+        "team": "Napoli",
+        "minute": "48"
+      }
+    ],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "Arbitro: Stadio Renato Curi"
+    ]
   },
   {
     "match_id": "19900121-NAP-VER",
@@ -977,6 +2169,7 @@
     "squadra_trasferta": "Verona",
     "home_goals": 2,
     "away_goals": 0,
+    "slug": null,
     "stadio": null,
     "affluenza": null,
     "scorers": [],
@@ -994,13 +2187,22 @@
     "squadra_trasferta": "Cesena",
     "home_goals": 1,
     "away_goals": 0,
-    "stadio": null,
-    "affluenza": null,
-    "scorers": [],
+    "slug": null,
+    "stadio": "Stadio San PaoloArbitro:",
+    "affluenza": 50597,
+    "scorers": [
+      {
+        "name": "Crippa",
+        "team": "Napoli",
+        "minute": "26"
+      }
+    ],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "Arbitro: Stadio San Paolo (50 597 spett.)"
+    ]
   },
   {
     "match_id": "19900114-UDI-NAP",
@@ -1011,13 +2213,37 @@
     "squadra_trasferta": "Napoli",
     "home_goals": 2,
     "away_goals": 2,
-    "stadio": null,
-    "affluenza": null,
-    "scorers": [],
+    "slug": null,
+    "stadio": "Stadio FriuliArbitro:",
+    "affluenza": 24758,
+    "scorers": [
+      {
+        "name": "De vitis",
+        "team": "Udinese",
+        "minute": "3"
+      },
+      {
+        "name": "Mattei",
+        "team": "Udinese",
+        "minute": "86"
+      },
+      {
+        "name": "Diego Armando MARADONA",
+        "team": "Napoli",
+        "minute": "88"
+      },
+      {
+        "name": "Corradini",
+        "team": "Napoli",
+        "minute": "90"
+      }
+    ],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "Arbitro: Stadio Friuli (24 758 spett.)"
+    ]
   },
   {
     "match_id": "19900110-NAP-BOL",
@@ -1028,13 +2254,27 @@
     "squadra_trasferta": "Bologna",
     "home_goals": 2,
     "away_goals": 0,
-    "stadio": null,
+    "slug": null,
+    "stadio": "Stadio San PaoloArbitro:",
     "affluenza": null,
-    "scorers": [],
+    "scorers": [
+      {
+        "name": "Francini",
+        "team": "Napoli",
+        "minute": "11"
+      },
+      {
+        "name": "Alemão",
+        "team": "Napoli",
+        "minute": "38"
+      }
+    ],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "Arbitro: Stadio San Paolo"
+    ]
   },
   {
     "match_id": "19900107-NAP-ASC",
@@ -1045,6 +2285,7 @@
     "squadra_trasferta": "Ascoli",
     "home_goals": 1,
     "away_goals": 0,
+    "slug": null,
     "stadio": null,
     "affluenza": null,
     "scorers": [],
@@ -1052,6 +2293,55 @@
       "10maggio87"
     ],
     "note": []
+  },
+  {
+    "match_id": "19900101-NAP-JUV",
+    "date": "1990-01-01",
+    "season": "1990-91",
+    "competizione": "Altra Competizione",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Juventus",
+    "home_goals": 5,
+    "away_goals": 1,
+    "slug": "19900101-nap-juv",
+    "stadio": "Stadio San PaoloArbitro:",
+    "affluenza": 62404,
+    "scorers": [
+      {
+        "name": "Silenzi",
+        "team": "Napoli",
+        "minute": "8"
+      },
+      {
+        "name": "Careca",
+        "team": "Napoli",
+        "minute": "20"
+      },
+      {
+        "name": "Baggio",
+        "team": "Juventus",
+        "minute": "39"
+      },
+      {
+        "name": "Crippa",
+        "team": "Napoli",
+        "minute": "44"
+      },
+      {
+        "name": "Silenzi",
+        "team": "Napoli",
+        "minute": "45"
+      },
+      {
+        "name": "Careca",
+        "team": "Napoli",
+        "minute": "71"
+      }
+    ],
+    "fonti": [],
+    "note": [
+      "Arbitro: Stadio San Paolo (62.404 spett.)"
+    ]
   },
   {
     "match_id": "19891230-LAZ-NAP",
@@ -1062,13 +2352,32 @@
     "squadra_trasferta": "Napoli",
     "home_goals": 3,
     "away_goals": 0,
-    "stadio": null,
-    "affluenza": null,
-    "scorers": [],
+    "slug": null,
+    "stadio": "Stadio FlaminioArbitro:",
+    "affluenza": 19534,
+    "scorers": [
+      {
+        "name": "Amarildo",
+        "team": "Lazio",
+        "minute": "36"
+      },
+      {
+        "name": "Pin",
+        "team": "Lazio",
+        "minute": "77"
+      },
+      {
+        "name": "Amarildo",
+        "team": "Lazio",
+        "minute": "81"
+      }
+    ],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "Arbitro: Stadio Flaminio (19 534 spett.)"
+    ]
   },
   {
     "match_id": "19891217-NAP-BOL",
@@ -1079,13 +2388,27 @@
     "squadra_trasferta": "Bologna",
     "home_goals": 2,
     "away_goals": 0,
-    "stadio": null,
-    "affluenza": null,
-    "scorers": [],
+    "slug": null,
+    "stadio": "Stadio San PaoloArbitro:",
+    "affluenza": 50471,
+    "scorers": [
+      {
+        "name": "Careca",
+        "team": "Napoli",
+        "minute": "3"
+      },
+      {
+        "name": "Baroni",
+        "team": "Napoli",
+        "minute": "76"
+      }
+    ],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "Arbitro: Stadio San Paolo (50 471 spett.)"
+    ]
   },
   {
     "match_id": "19891210-BAR-NAP",
@@ -1096,6 +2419,7 @@
     "squadra_trasferta": "Napoli",
     "home_goals": 1,
     "away_goals": 1,
+    "slug": null,
     "stadio": null,
     "affluenza": null,
     "scorers": [],
@@ -1113,6 +2437,7 @@
     "squadra_trasferta": "Napoli",
     "home_goals": 5,
     "away_goals": 1,
+    "slug": null,
     "stadio": null,
     "affluenza": null,
     "scorers": [],
@@ -1130,13 +2455,37 @@
     "squadra_trasferta": "Atalanta",
     "home_goals": 3,
     "away_goals": 1,
-    "stadio": null,
-    "affluenza": null,
-    "scorers": [],
+    "slug": null,
+    "stadio": "Stadio San PaoloArbitro:",
+    "affluenza": 48996,
+    "scorers": [
+      {
+        "name": "Crippa",
+        "team": "Napoli",
+        "minute": "9"
+      },
+      {
+        "name": "Careca",
+        "team": "Napoli",
+        "minute": "28"
+      },
+      {
+        "name": "Zola",
+        "team": "Napoli",
+        "minute": "48"
+      },
+      {
+        "name": "Pasciullo",
+        "team": "Atalanta",
+        "minute": "50"
+      }
+    ],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "Arbitro: Stadio San Paolo (48 996 spett.)"
+    ]
   },
   {
     "match_id": "19891126-JUV-NAP",
@@ -1147,13 +2496,27 @@
     "squadra_trasferta": "Napoli",
     "home_goals": 1,
     "away_goals": 1,
-    "stadio": null,
-    "affluenza": null,
-    "scorers": [],
+    "slug": null,
+    "stadio": "Stadio ComunaleArbitro:",
+    "affluenza": 48358,
+    "scorers": [
+      {
+        "name": "Crippa",
+        "team": "Napoli",
+        "minute": "16"
+      },
+      {
+        "name": "D. bonetti",
+        "team": "Juventus",
+        "minute": "73"
+      }
+    ],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "Arbitro: Stadio Comunale (48 358 spett.)"
+    ]
   },
   {
     "match_id": "19891122-NAP-WER",
@@ -1164,6 +2527,7 @@
     "squadra_trasferta": "Werder Brema",
     "home_goals": 2,
     "away_goals": 3,
+    "slug": null,
     "stadio": null,
     "affluenza": null,
     "scorers": [],
@@ -1181,13 +2545,27 @@
     "squadra_trasferta": "Sampdoria",
     "home_goals": 1,
     "away_goals": 1,
-    "stadio": null,
-    "affluenza": null,
-    "scorers": [],
+    "slug": null,
+    "stadio": "Stadio San PaoloArbitro:",
+    "affluenza": 55329,
+    "scorers": [
+      {
+        "name": "Diego Armando MARADONA",
+        "team": "Napoli",
+        "minute": "24"
+      },
+      {
+        "name": "Dossena",
+        "team": "Sampdoria",
+        "minute": "60"
+      }
+    ],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "Arbitro: Stadio San Paolo (55 329 spett.)"
+    ]
   },
   {
     "match_id": "19891105-NAP-LEC",
@@ -1198,13 +2576,42 @@
     "squadra_trasferta": "Lecce",
     "home_goals": 3,
     "away_goals": 2,
-    "stadio": null,
-    "affluenza": null,
-    "scorers": [],
+    "slug": null,
+    "stadio": "Stadio San PaoloArbitro:",
+    "affluenza": 45519,
+    "scorers": [
+      {
+        "name": "Virdis",
+        "team": "Lecce",
+        "minute": "5"
+      },
+      {
+        "name": "Fusi",
+        "team": "Napoli",
+        "minute": "22"
+      },
+      {
+        "name": "A. carnevale",
+        "team": "Napoli",
+        "minute": "33"
+      },
+      {
+        "name": "A. conte",
+        "team": "Lecce",
+        "minute": "46"
+      },
+      {
+        "name": "A. carnevale",
+        "team": "Napoli",
+        "minute": "89"
+      }
+    ],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "Arbitro: Stadio San Paolo (45 519 spett.)"
+    ]
   },
   {
     "match_id": "19891101-NAP-WET",
@@ -1215,6 +2622,7 @@
     "squadra_trasferta": "Wettingen",
     "home_goals": 2,
     "away_goals": 1,
+    "slug": null,
     "stadio": null,
     "affluenza": null,
     "scorers": [],
@@ -1232,13 +2640,27 @@
     "squadra_trasferta": "Napoli",
     "home_goals": 1,
     "away_goals": 1,
-    "stadio": null,
-    "affluenza": null,
-    "scorers": [],
+    "slug": null,
+    "stadio": "Stadio Luigi FerrarisArbitro:",
+    "affluenza": 32540,
+    "scorers": [
+      {
+        "name": "D. fontolan",
+        "team": "Genoa",
+        "minute": "34"
+      },
+      {
+        "name": "Diego Armando MARADONA",
+        "team": "Napoli",
+        "minute": "60"
+      }
+    ],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "Arbitro: Stadio Luigi Ferraris (32 540 spett.)"
+    ]
   },
   {
     "match_id": "19891022-NAP-INT",
@@ -1246,16 +2668,30 @@
     "season": "1989-90",
     "competizione": "Serie A",
     "squadra_casa": "Napoli",
-    "squadra_trasferta": "Inter",
+    "squadra_trasferta": "Ambrosiana",
     "home_goals": 2,
     "away_goals": 0,
-    "stadio": null,
-    "affluenza": null,
-    "scorers": [],
+    "slug": null,
+    "stadio": "Stadio San PaoloArbitro:",
+    "affluenza": 73641,
+    "scorers": [
+      {
+        "name": "Careca",
+        "team": "Napoli",
+        "minute": "75"
+      },
+      {
+        "name": "Diego Armando MARADONA",
+        "team": "Napoli",
+        "minute": "84"
+      }
+    ],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "Arbitro: Stadio San Paolo (73 641 spett.)"
+    ]
   },
   {
     "match_id": "19891018-WET-NAP",
@@ -1266,6 +2702,7 @@
     "squadra_trasferta": "Napoli",
     "home_goals": 0,
     "away_goals": 0,
+    "slug": null,
     "stadio": null,
     "affluenza": null,
     "scorers": [],
@@ -1283,13 +2720,27 @@
     "squadra_trasferta": "Napoli",
     "home_goals": 1,
     "away_goals": 1,
-    "stadio": null,
-    "affluenza": null,
-    "scorers": [],
+    "slug": null,
+    "stadio": "Stadio FlaminioArbitro:",
+    "affluenza": 24306,
+    "scorers": [
+      {
+        "name": "Comi",
+        "team": "Roma",
+        "minute": "10"
+      },
+      {
+        "name": "Diego Armando MARADONA",
+        "team": "Napoli",
+        "minute": "55"
+      }
+    ],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "Arbitro: Stadio Flaminio (24 306 spett.)"
+    ]
   },
   {
     "match_id": "19891001-NAP-MIL",
@@ -1300,6 +2751,7 @@
     "squadra_trasferta": "Milan",
     "home_goals": 3,
     "away_goals": 0,
+    "slug": null,
     "stadio": null,
     "affluenza": null,
     "scorers": [],
@@ -1317,6 +2769,7 @@
     "squadra_trasferta": "Sporting Lisboa",
     "home_goals": 4,
     "away_goals": null,
+    "slug": null,
     "stadio": null,
     "affluenza": null,
     "scorers": [],
@@ -1334,13 +2787,27 @@
     "squadra_trasferta": "Napoli",
     "home_goals": 1,
     "away_goals": 1,
-    "stadio": null,
-    "affluenza": null,
-    "scorers": [],
+    "slug": null,
+    "stadio": "Stadio BrianteoArbitro:",
+    "affluenza": 13269,
+    "scorers": [
+      {
+        "name": "Dezotti",
+        "team": "Cremonese",
+        "minute": "45"
+      },
+      {
+        "name": "Diego Armando MARADONA",
+        "team": "Napoli",
+        "minute": "78"
+      }
+    ],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "Arbitro: Stadio Brianteo (13 269 spett.)"
+    ]
   },
   {
     "match_id": "19890917-NAP-FIO",
@@ -1351,13 +2818,37 @@
     "squadra_trasferta": "Fiorentina",
     "home_goals": 3,
     "away_goals": 2,
-    "stadio": null,
-    "affluenza": null,
-    "scorers": [],
+    "slug": null,
+    "stadio": "Stadio San PaoloArbitro:",
+    "affluenza": 51828,
+    "scorers": [
+      {
+        "name": "Baggio",
+        "team": "Fiorentina",
+        "minute": "31"
+      },
+      {
+        "name": "Pioli",
+        "team": "Napoli",
+        "minute": "61"
+      },
+      {
+        "name": "Careca",
+        "team": "Napoli",
+        "minute": "76"
+      },
+      {
+        "name": "Corradini",
+        "team": "Napoli",
+        "minute": "87"
+      }
+    ],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "Arbitro: Stadio San Paolo (51 828 spett.)"
+    ]
   },
   {
     "match_id": "19890914-SPO-NAP",
@@ -1368,6 +2859,7 @@
     "squadra_trasferta": "Napoli",
     "home_goals": 0,
     "away_goals": 0,
+    "slug": null,
     "stadio": null,
     "affluenza": null,
     "scorers": [],
@@ -1385,6 +2877,7 @@
     "squadra_trasferta": "Napoli",
     "home_goals": 1,
     "away_goals": 2,
+    "slug": null,
     "stadio": null,
     "affluenza": null,
     "scorers": [],
@@ -1402,13 +2895,16 @@
     "squadra_trasferta": "Napoli",
     "home_goals": 0,
     "away_goals": 0,
-    "stadio": null,
-    "affluenza": null,
+    "slug": null,
+    "stadio": "Stadio Dino ManuzziArbitro:",
+    "affluenza": 25943,
     "scorers": [],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "Arbitro: Stadio Dino Manuzzi (25 943 spett.)"
+    ]
   },
   {
     "match_id": "19890903-NAP-UDI",
@@ -1419,13 +2915,22 @@
     "squadra_trasferta": "Udinese",
     "home_goals": 1,
     "away_goals": 0,
-    "stadio": null,
-    "affluenza": null,
-    "scorers": [],
+    "slug": null,
+    "stadio": "Stadio San PaoloArbitro:",
+    "affluenza": 44055,
+    "scorers": [
+      {
+        "name": "Alessandro RENICA",
+        "team": "Napoli",
+        "minute": "48"
+      }
+    ],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "Arbitro: Stadio San Paolo (44 055 spett.)"
+    ]
   },
   {
     "match_id": "19890830-NAP-REG",
@@ -1436,6 +2941,7 @@
     "squadra_trasferta": "Reggina",
     "home_goals": 2,
     "away_goals": 0,
+    "slug": null,
     "stadio": null,
     "affluenza": null,
     "scorers": [],
@@ -1453,6 +2959,7 @@
     "squadra_trasferta": "Napoli",
     "home_goals": 0,
     "away_goals": 1,
+    "slug": null,
     "stadio": null,
     "affluenza": null,
     "scorers": [],
@@ -1468,15 +2975,2303 @@
     "competizione": "Coppa Italia",
     "squadra_casa": "Napoli",
     "squadra_trasferta": "Monza",
-    "home_goals": 10,
-    "away_goals": null,
-    "stadio": null,
+    "home_goals": 1,
+    "away_goals": 1,
+    "slug": null,
+    "stadio": "Stadio Romeo MentiArbitro:",
     "affluenza": null,
-    "scorers": [],
+    "scorers": [
+      {
+        "name": "Cappellini",
+        "team": "Monza",
+        "minute": "64"
+      },
+      {
+        "name": "A. carnevale",
+        "team": "Napoli",
+        "minute": "84"
+      }
+    ],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "Arbitro: Stadio Romeo Menti"
+    ]
+  },
+  {
+    "match_id": "19890628-SAM-NAP",
+    "date": "1989-06-28",
+    "season": "1988-89",
+    "competizione": "Coppa Italia",
+    "squadra_casa": "Sampdoria",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 4,
+    "away_goals": 0,
+    "slug": "19890628-sam-nap",
+    "stadio": "Stadio Giovanni ZiniArbitro:",
+    "affluenza": 34409,
+    "scorers": [
+      {
+        "name": "Vialli",
+        "team": "Sampdoria",
+        "minute": "32"
+      },
+      {
+        "name": "Cerezo",
+        "team": "Sampdoria",
+        "minute": "38"
+      },
+      {
+        "name": "Vierchowod",
+        "team": "Sampdoria",
+        "minute": "47"
+      },
+      {
+        "name": "Mancini",
+        "team": "Sampdoria",
+        "minute": "59"
+      }
+    ],
+    "fonti": [],
+    "note": [
+      "Arbitro: Stadio Giovanni Zini (34 409 spett.)"
+    ]
+  },
+  {
+    "match_id": "19890625-COM-NAP",
+    "date": "1989-06-25",
+    "season": "1988-89",
+    "competizione": "Serie A",
+    "squadra_casa": "Como",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 0,
+    "away_goals": 1,
+    "slug": "19890625-com-nap",
+    "stadio": "Stadio Giuseppe SinigagliaArbitro:",
+    "affluenza": 4839,
+    "scorers": [
+      {
+        "name": "Alessandro RENICA",
+        "team": "Napoli",
+        "minute": "36"
+      }
+    ],
+    "fonti": [],
+    "note": [
+      "Arbitro: Stadio Giuseppe Sinigaglia (4 839 spett.)"
+    ]
+  },
+  {
+    "match_id": "19890618-NAP-PIS",
+    "date": "1989-06-18",
+    "season": "1988-89",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Pisa",
+    "home_goals": 0,
+    "away_goals": 0,
+    "slug": "19890618-nap-pis",
+    "stadio": "Stadio San PaoloArbitro:",
+    "affluenza": 54807,
+    "scorers": [],
+    "fonti": [],
+    "note": [
+      "Arbitro: Stadio San Paolo (54 807 spett.)"
+    ]
+  },
+  {
+    "match_id": "19890607-NAP-SAM",
+    "date": "1989-06-07",
+    "season": "1988-89",
+    "competizione": "Coppa Italia",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Sampdoria",
+    "home_goals": 1,
+    "away_goals": 0,
+    "slug": "19890607-nap-sam",
+    "stadio": "Stadio San PaoloArbitro:",
+    "affluenza": 70309,
+    "scorers": [
+      {
+        "name": "Alessandro RENICA",
+        "team": "Napoli",
+        "minute": "55"
+      }
+    ],
+    "fonti": [],
+    "note": [
+      "Arbitro: Stadio San Paolo (70 309 spett.)"
+    ]
+  },
+  {
+    "match_id": "19890604-NAP-SAM",
+    "date": "1989-06-04",
+    "season": "1988-89",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Sampdoria",
+    "home_goals": 1,
+    "away_goals": 1,
+    "slug": "19890604-nap-sam",
+    "stadio": "Stadio San PaoloArbitro:",
+    "affluenza": 55255,
+    "scorers": [
+      {
+        "name": "Antonio CARANNANTE",
+        "team": "Napoli",
+        "minute": "40"
+      },
+      {
+        "name": "Cerezo",
+        "team": "Sampdoria",
+        "minute": "75"
+      }
+    ],
+    "fonti": [],
+    "note": [
+      "Arbitro: Stadio San Paolo (55 255 spett.)"
+    ]
+  },
+  {
+    "match_id": "19890528-INT-NAP",
+    "date": "1989-05-28",
+    "season": "1988-89",
+    "competizione": "Serie A",
+    "squadra_casa": "Ambrosiana",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 2,
+    "away_goals": 1,
+    "slug": "19890528-int-nap",
+    "stadio": "Stadio Giuseppe MeazzaArbitro:",
+    "affluenza": 69869,
+    "scorers": [
+      {
+        "name": "Careca",
+        "team": "Napoli",
+        "minute": "36"
+      },
+      {
+        "name": "Fusi",
+        "team": "Ambrosiana",
+        "minute": "49"
+      },
+      {
+        "name": "Matthaus",
+        "team": "Ambrosiana",
+        "minute": "83"
+      }
+    ],
+    "fonti": [],
+    "note": [
+      "Arbitro: Stadio Giuseppe Meazza (69 869 spett.)"
+    ]
+  },
+  {
+    "match_id": "19890521-NAP-TOR",
+    "date": "1989-05-21",
+    "season": "1988-89",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Torino",
+    "home_goals": 4,
+    "away_goals": 1,
+    "slug": "19890521-nap-tor",
+    "stadio": "Stadio San PaoloArbitro:",
+    "affluenza": 59952,
+    "scorers": [
+      {
+        "name": "Andrea CARNEVALE",
+        "team": "Napoli",
+        "minute": "3"
+      },
+      {
+        "name": "Francesco ROMANO",
+        "team": "Napoli",
+        "minute": "22"
+      },
+      {
+        "name": "Careca",
+        "team": "Napoli",
+        "minute": "40"
+      },
+      {
+        "name": "Careca",
+        "team": "Napoli",
+        "minute": "48"
+      },
+      {
+        "name": "Cravero",
+        "team": "Torino",
+        "minute": "52"
+      }
+    ],
+    "fonti": [],
+    "note": [
+      "Arbitro: Stadio San Paolo (59 952 spett.)"
+    ]
+  },
+  {
+    "match_id": "19890514-NAP-ROM",
+    "date": "1989-05-14",
+    "season": "1988-89",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Roma",
+    "home_goals": 1,
+    "away_goals": 1,
+    "slug": "19890514-nap-rom",
+    "stadio": "Stadio San PaoloArbitro:",
+    "affluenza": 57473,
+    "scorers": [
+      {
+        "name": "Careca",
+        "team": "Napoli",
+        "minute": "58"
+      },
+      {
+        "name": "Völler",
+        "team": "Roma",
+        "minute": "74"
+      }
+    ],
+    "fonti": [],
+    "note": [
+      "Arbitro: Stadio San Paolo (57 473 spett.)"
+    ]
+  },
+  {
+    "match_id": "19890507-BOL-NAP",
+    "date": "1989-05-07",
+    "season": "1988-89",
+    "competizione": "Serie A",
+    "squadra_casa": "Bologna",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 1,
+    "away_goals": 1,
+    "slug": "19890507-bol-nap",
+    "stadio": "Stadio Renato Dall'AraArbitro:",
+    "affluenza": 28211,
+    "scorers": [
+      {
+        "name": "Lorenzo",
+        "team": "Bologna",
+        "minute": "22"
+      },
+      {
+        "name": "Careca",
+        "team": "Napoli",
+        "minute": "25"
+      }
+    ],
+    "fonti": [],
+    "note": [
+      "Arbitro: Stadio Renato Dall'Ara (28 211 spett.)"
+    ]
+  },
+  {
+    "match_id": "19890416-FIO-NAP",
+    "date": "1989-04-16",
+    "season": "1988-89",
+    "competizione": "Serie A",
+    "squadra_casa": "Fiorentina",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 1,
+    "away_goals": 3,
+    "slug": "19890416-fio-nap",
+    "stadio": "Stadio ComunaleArbitro:",
+    "affluenza": 30710,
+    "scorers": [
+      {
+        "name": "Careca",
+        "team": "Napoli",
+        "minute": "25"
+      },
+      {
+        "name": "Pellegrini",
+        "team": "Fiorentina",
+        "minute": "45"
+      },
+      {
+        "name": "Careca",
+        "team": "Napoli",
+        "minute": "53"
+      },
+      {
+        "name": "Andrea CARNEVALE",
+        "team": "Napoli",
+        "minute": "70"
+      }
+    ],
+    "fonti": [],
+    "note": [
+      "Arbitro: Stadio Comunale (30 710 spett.)"
+    ]
+  },
+  {
+    "match_id": "19890409-MIL-NAP",
+    "date": "1989-04-09",
+    "season": "1988-89",
+    "competizione": "Serie A",
+    "squadra_casa": "Milan",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 0,
+    "away_goals": 0,
+    "slug": "19890409-mil-nap",
+    "stadio": "Stadio Giuseppe MeazzaArbitro:",
+    "affluenza": 73057,
+    "scorers": [],
+    "fonti": [],
+    "note": [
+      "Arbitro: Stadio Giuseppe Meazza (73 057 spett.)"
+    ]
+  },
+  {
+    "match_id": "19890402-NAP-JUV",
+    "date": "1989-04-02",
+    "season": "1988-89",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Juventus",
+    "home_goals": 2,
+    "away_goals": 4,
+    "slug": "19890402-nap-juv",
+    "stadio": "Stadio San PaoloArbitro:",
+    "affluenza": 64091,
+    "scorers": [
+      {
+        "name": "Fernando DE NAPOLI",
+        "team": "Napoli",
+        "minute": "5"
+      },
+      {
+        "name": "Napoli",
+        "team": "Juventus",
+        "minute": "8"
+      },
+      {
+        "name": "Napoli",
+        "team": "Juventus",
+        "minute": "31"
+      },
+      {
+        "name": "Careca",
+        "team": "Napoli",
+        "minute": "49"
+      },
+      {
+        "name": "Buso",
+        "team": "Juventus",
+        "minute": "61"
+      },
+      {
+        "name": "Magrin",
+        "team": "Juventus",
+        "minute": "90"
+      }
+    ],
+    "fonti": [],
+    "note": [
+      "Arbitro: Stadio San Paolo (64 091 spett.)"
+    ]
+  },
+  {
+    "match_id": "19890319-LAZ-NAP",
+    "date": "1989-03-19",
+    "season": "1988-89",
+    "competizione": "Serie A",
+    "squadra_casa": "Lazio",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 1,
+    "away_goals": 1,
+    "slug": "19890319-laz-nap",
+    "stadio": "Stadio OlimpicoArbitro:",
+    "affluenza": 37348,
+    "scorers": [
+      {
+        "name": "Neri",
+        "team": "Napoli",
+        "minute": "19"
+      },
+      {
+        "name": "Ruben sosa",
+        "team": "Lazio",
+        "minute": "31"
+      }
+    ],
+    "fonti": [],
+    "note": [
+      "Arbitro: Stadio Olimpico (37 348 spett.)"
+    ]
+  },
+  {
+    "match_id": "19890315-NAP-JUV",
+    "date": "1989-03-15",
+    "season": "1988-89",
+    "competizione": "Coppa UEFA",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Juventus",
+    "home_goals": 3,
+    "away_goals": 0,
+    "slug": "19890315-nap-juv",
+    "stadio": "Stadio San PaoloArbitro:",
+    "affluenza": null,
+    "scorers": [
+      {
+        "name": "Diego Armando MARADONA",
+        "team": "Napoli",
+        "minute": "10"
+      },
+      {
+        "name": "Andrea CARNEVALE",
+        "team": "Napoli",
+        "minute": "45"
+      },
+      {
+        "name": "Alessandro RENICA",
+        "team": "Napoli",
+        "minute": "119"
+      }
+    ],
+    "fonti": [],
+    "note": [
+      "Arbitro: Stadio San Paolo"
+    ]
+  },
+  {
+    "match_id": "19890312-NAP-CES",
+    "date": "1989-03-12",
+    "season": "1988-89",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Cesena",
+    "home_goals": 1,
+    "away_goals": 0,
+    "slug": "19890312-nap-ces",
+    "stadio": "Stadio San PaoloArbitro:",
+    "affluenza": 59489,
+    "scorers": [
+      {
+        "name": "Chiti",
+        "team": "Napoli",
+        "minute": "80"
+      }
+    ],
+    "fonti": [],
+    "note": [
+      "Arbitro: Stadio San Paolo (59 489 spett.)"
+    ]
+  },
+  {
+    "match_id": "19890305-PES-NAP",
+    "date": "1989-03-05",
+    "season": "1988-89",
+    "competizione": "Serie A",
+    "squadra_casa": "Pescara",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 0,
+    "away_goals": 0,
+    "slug": "19890305-pes-nap",
+    "stadio": "Stadio AdriaticoArbitro:",
+    "affluenza": 26475,
+    "scorers": [],
+    "fonti": [],
+    "note": [
+      "Arbitro: Stadio Adriatico (26 475 spett.)"
+    ]
+  },
+  {
+    "match_id": "19890226-NAP-LEC",
+    "date": "1989-02-26",
+    "season": "1988-89",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Lecce",
+    "home_goals": 4,
+    "away_goals": 0,
+    "slug": "19890226-nap-lec",
+    "stadio": "Stadio San PaoloArbitro:",
+    "affluenza": 58105,
+    "scorers": [
+      {
+        "name": "Andrea CARNEVALE",
+        "team": "Napoli",
+        "minute": "3"
+      },
+      {
+        "name": "Fernando DE NAPOLI",
+        "team": "Napoli",
+        "minute": "21"
+      },
+      {
+        "name": "Andrea CARNEVALE",
+        "team": "Napoli",
+        "minute": "47"
+      },
+      {
+        "name": "Alemão",
+        "team": "Napoli",
+        "minute": "66"
+      }
+    ],
+    "fonti": [],
+    "note": [
+      "Arbitro: Stadio San Paolo (58 105 spett.)"
+    ]
+  },
+  {
+    "match_id": "19890219-ATA-NAP",
+    "date": "1989-02-19",
+    "season": "1988-89",
+    "competizione": "Serie A",
+    "squadra_casa": "Atalanta",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 1,
+    "away_goals": 1,
+    "slug": "19890219-ata-nap",
+    "stadio": "Stadio ComunaleArbitro:",
+    "affluenza": 32210,
+    "scorers": [
+      {
+        "name": "Diego Armando MARADONA",
+        "team": "Napoli",
+        "minute": "40"
+      },
+      {
+        "name": "Nicolini",
+        "team": "Atalanta",
+        "minute": "60"
+      }
+    ],
+    "fonti": [],
+    "note": [
+      "Arbitro: Stadio Comunale (32 210 spett.)"
+    ]
+  },
+  {
+    "match_id": "19890212-NAP-COM",
+    "date": "1989-02-12",
+    "season": "1988-89",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Como",
+    "home_goals": 3,
+    "away_goals": 2,
+    "slug": "19890212-nap-com",
+    "stadio": "Stadio San PaoloArbitro:",
+    "affluenza": 59528,
+    "scorers": [
+      {
+        "name": "Careca",
+        "team": "Napoli",
+        "minute": "11"
+      },
+      {
+        "name": "Corneliusson",
+        "team": "Como",
+        "minute": "33"
+      },
+      {
+        "name": "Simone",
+        "team": "Como",
+        "minute": "43"
+      },
+      {
+        "name": "Neri",
+        "team": "Napoli",
+        "minute": "63"
+      },
+      {
+        "name": "Andrea CARNEVALE",
+        "team": "Napoli",
+        "minute": "82"
+      }
+    ],
+    "fonti": [],
+    "note": [
+      "Arbitro: Stadio San Paolo (59 528 spett.)"
+    ]
+  },
+  {
+    "match_id": "19890208-NAP-PIS",
+    "date": "1989-02-08",
+    "season": "1988-89",
+    "competizione": "Coppa Italia",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Pisa",
+    "home_goals": 1,
+    "away_goals": 0,
+    "slug": "19890208-nap-pis",
+    "stadio": "Stadio San PaoloArbitro:",
+    "affluenza": 60200,
+    "scorers": [
+      {
+        "name": "Francesco ROMANO",
+        "team": "Napoli",
+        "minute": "13"
+      }
+    ],
+    "fonti": [],
+    "note": [
+      "Arbitro: Stadio San Paolo (60 200 spett.)"
+    ]
+  },
+  {
+    "match_id": "19890205-PIS-NAP",
+    "date": "1989-02-05",
+    "season": "1988-89",
+    "competizione": "Serie A",
+    "squadra_casa": "Pisa",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 0,
+    "away_goals": 1,
+    "slug": "19890205-pis-nap",
+    "stadio": "Stadio Arena GaribaldiArbitro:",
+    "affluenza": 21814,
+    "scorers": [
+      {
+        "name": "Andrea CARNEVALE",
+        "team": "Napoli",
+        "minute": "32"
+      }
+    ],
+    "fonti": [],
+    "note": [
+      "Arbitro: Stadio Arena Garibaldi (21 814 spett.)"
+    ]
+  },
+  {
+    "match_id": "19890122-SAM-NAP",
+    "date": "1989-01-22",
+    "season": "1988-89",
+    "competizione": "Serie A",
+    "squadra_casa": "Sampdoria",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 0,
+    "away_goals": 0,
+    "slug": "19890122-sam-nap",
+    "stadio": "Stadio Luigi FerrarisArbitro:",
+    "affluenza": 55255,
+    "scorers": [],
+    "fonti": [],
+    "note": [
+      "Arbitro: Stadio Luigi Ferraris (55 255 spett.)"
+    ]
+  },
+  {
+    "match_id": "19890115-NAP-INT",
+    "date": "1989-01-15",
+    "season": "1988-89",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Ambrosiana",
+    "home_goals": 0,
+    "away_goals": 0,
+    "slug": "19890115-nap-int",
+    "stadio": "Stadio San PaoloArbitro:",
+    "affluenza": 82989,
+    "scorers": [],
+    "fonti": [],
+    "note": [
+      "Arbitro: Stadio San Paolo (82 989 spett.)"
+    ]
+  },
+  {
+    "match_id": "19890108-TOR-NAP",
+    "date": "1989-01-08",
+    "season": "1988-89",
+    "competizione": "Serie A",
+    "squadra_casa": "Torino",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 0,
+    "away_goals": 1,
+    "slug": "19890108-tor-nap",
+    "stadio": "Stadio ComunaleArbitro:",
+    "affluenza": 32303,
+    "scorers": [
+      {
+        "name": "Careca",
+        "team": "Napoli",
+        "minute": "30"
+      }
+    ],
+    "fonti": [],
+    "note": [
+      "Arbitro: Stadio Comunale (32 303 spett.)"
+    ]
+  },
+  {
+    "match_id": "19890101-NAP-MIL",
+    "date": "1989-01-01",
+    "season": "1989-90",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Milan",
+    "home_goals": 3,
+    "away_goals": 0,
+    "slug": "19890101-nap-mil",
+    "stadio": "Stadio San PaoloArbitro:",
+    "affluenza": 58446,
+    "scorers": [
+      {
+        "name": "A. carnevale",
+        "team": "Napoli",
+        "minute": "19"
+      },
+      {
+        "name": "A. carnevale",
+        "team": "Napoli",
+        "minute": "45"
+      },
+      {
+        "name": "Diego Armando MARADONA",
+        "team": "Napoli",
+        "minute": "84"
+      }
+    ],
+    "fonti": [],
+    "note": [
+      "Arbitro: Stadio San Paolo (58 446 spett.)"
+    ]
+  },
+  {
+    "match_id": "19881231-ROM-NAP",
+    "date": "1988-12-31",
+    "season": "1988-89",
+    "competizione": "Serie A",
+    "squadra_casa": "Roma",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 1,
+    "away_goals": 0,
+    "slug": "19881231-rom-nap",
+    "stadio": "Stadio OlimpicoArbitro:",
+    "affluenza": 39288,
+    "scorers": [
+      {
+        "name": "Völler",
+        "team": "Roma",
+        "minute": "87"
+      }
+    ],
+    "fonti": [],
+    "note": [
+      "Arbitro: Stadio Olimpico (39 288 spett.)"
+    ]
+  },
+  {
+    "match_id": "19881218-NAP-BOL",
+    "date": "1988-12-18",
+    "season": "1988-89",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Bologna",
+    "home_goals": 3,
+    "away_goals": 1,
+    "slug": "19881218-nap-bol",
+    "stadio": "Stadio San PaoloArbitro:",
+    "affluenza": 59375,
+    "scorers": [
+      {
+        "name": "Careca",
+        "team": "Napoli",
+        "minute": "26"
+      },
+      {
+        "name": "Diego Armando MARADONA",
+        "team": "Napoli",
+        "minute": "53"
+      },
+      {
+        "name": "Diego Armando MARADONA",
+        "team": "Napoli",
+        "minute": "75"
+      },
+      {
+        "name": "Demol",
+        "team": "Bologna",
+        "minute": "79"
+      }
+    ],
+    "fonti": [],
+    "note": [
+      "Arbitro: Stadio San Paolo (59 375 spett.)"
+    ]
+  },
+  {
+    "match_id": "19881204-NAP-FIO",
+    "date": "1988-12-04",
+    "season": "1988-89",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Fiorentina",
+    "home_goals": 2,
+    "away_goals": 0,
+    "slug": "19881204-nap-fio",
+    "stadio": "Stadio San PaoloArbitro:",
+    "affluenza": 61160,
+    "scorers": [
+      {
+        "name": "Diego Armando MARADONA",
+        "team": "Napoli",
+        "minute": "30"
+      },
+      {
+        "name": "Careca",
+        "team": "Napoli",
+        "minute": "76"
+      }
+    ],
+    "fonti": [],
+    "note": [
+      "Arbitro: Stadio San Paolo (61 160 spett.)"
+    ]
+  },
+  {
+    "match_id": "19881127-NAP-MIL",
+    "date": "1988-11-27",
+    "season": "1988-89",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Milan",
+    "home_goals": 4,
+    "away_goals": 1,
+    "slug": "19881127-nap-mil",
+    "stadio": "Stadio San PaoloArbitro:",
+    "affluenza": 82587,
+    "scorers": [
+      {
+        "name": "Diego Armando MARADONA",
+        "team": "Napoli",
+        "minute": "42"
+      },
+      {
+        "name": "Careca",
+        "team": "Napoli",
+        "minute": "45"
+      },
+      {
+        "name": "Francini",
+        "team": "Napoli",
+        "minute": "48"
+      },
+      {
+        "name": "Virdis",
+        "team": "Milan",
+        "minute": "65"
+      },
+      {
+        "name": "Careca",
+        "team": "Napoli",
+        "minute": "78"
+      }
+    ],
+    "fonti": [],
+    "note": [
+      "Arbitro: Stadio San Paolo (82 587 spett.)"
+    ]
+  },
+  {
+    "match_id": "19881120-JUV-NAP",
+    "date": "1988-11-20",
+    "season": "1988-89",
+    "competizione": "Serie A",
+    "squadra_casa": "Juventus",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 3,
+    "away_goals": 5,
+    "slug": "19881120-juv-nap",
+    "stadio": "Stadio ComunaleArbitro:",
+    "affluenza": 42702,
+    "scorers": [
+      {
+        "name": "Andrea CARNEVALE",
+        "team": "Napoli",
+        "minute": "3"
+      },
+      {
+        "name": "Andrea CARNEVALE",
+        "team": "Napoli",
+        "minute": "30"
+      },
+      {
+        "name": "Andrea CARNEVALE",
+        "team": "Napoli",
+        "minute": "44"
+      },
+      {
+        "name": "Galia",
+        "team": "Juventus",
+        "minute": "48"
+      },
+      {
+        "name": "Zavarov",
+        "team": "Juventus",
+        "minute": "55"
+      },
+      {
+        "name": "Careca",
+        "team": "Napoli",
+        "minute": "58"
+      },
+      {
+        "name": "De agostini",
+        "team": "Juventus",
+        "minute": "77"
+      },
+      {
+        "name": "Alessandro RENICA",
+        "team": "Napoli",
+        "minute": "85"
+      }
+    ],
+    "fonti": [],
+    "note": [
+      "Arbitro: Stadio Comunale (42 702 spett.)"
+    ]
+  },
+  {
+    "match_id": "19881106-NAP-LAZ",
+    "date": "1988-11-06",
+    "season": "1988-89",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Lazio",
+    "home_goals": 1,
+    "away_goals": 1,
+    "slug": "19881106-nap-laz",
+    "stadio": "Stadio San PaoloArbitro:",
+    "affluenza": 60523,
+    "scorers": [
+      {
+        "name": "Andrea CARNEVALE",
+        "team": "Napoli",
+        "minute": "28"
+      },
+      {
+        "name": "Rizzolo",
+        "team": "Lazio",
+        "minute": "66"
+      }
+    ],
+    "fonti": [],
+    "note": [
+      "Arbitro: Stadio San Paolo (60 523 spett.)"
+    ]
+  },
+  {
+    "match_id": "19881030-CES-NAP",
+    "date": "1988-10-30",
+    "season": "1988-89",
+    "competizione": "Serie A",
+    "squadra_casa": "Cesena",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 0,
+    "away_goals": 1,
+    "slug": "19881030-ces-nap",
+    "stadio": "Stadio Dino ManuzziArbitro:",
+    "affluenza": 19024,
+    "scorers": [
+      {
+        "name": "Andrea CARNEVALE",
+        "team": "Napoli",
+        "minute": "15"
+      }
+    ],
+    "fonti": [],
+    "note": [
+      "Arbitro: Stadio Dino Manuzzi (19 024 spett.)"
+    ]
+  },
+  {
+    "match_id": "19881023-NAP-PES",
+    "date": "1988-10-23",
+    "season": "1988-89",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Pescara",
+    "home_goals": 8,
+    "away_goals": 2,
+    "slug": "19881023-nap-pes",
+    "stadio": "Stadio San PaoloArbitro:",
+    "affluenza": 57824,
+    "scorers": [
+      {
+        "name": "Careca",
+        "team": "Napoli",
+        "minute": "3"
+      },
+      {
+        "name": "Andrea CARNEVALE",
+        "team": "Napoli",
+        "minute": "7"
+      },
+      {
+        "name": "Diego Armando MARADONA",
+        "team": "Napoli",
+        "minute": "36"
+      },
+      {
+        "name": "Alemão",
+        "team": "Napoli",
+        "minute": "39"
+      },
+      {
+        "name": "Andrea CARNEVALE",
+        "team": "Napoli",
+        "minute": "51"
+      },
+      {
+        "name": "Andrea CARNEVALE",
+        "team": "Napoli",
+        "minute": "53"
+      },
+      {
+        "name": "Gasperini",
+        "team": "Pescara",
+        "minute": "59"
+      },
+      {
+        "name": "Careca",
+        "team": "Napoli",
+        "minute": "60"
+      },
+      {
+        "name": "Edmar",
+        "team": "Pescara",
+        "minute": "65"
+      },
+      {
+        "name": "Diego Armando MARADONA",
+        "team": "Napoli",
+        "minute": "84"
+      }
+    ],
+    "fonti": [],
+    "note": [
+      "Arbitro: Stadio San Paolo (57 824 spett.)"
+    ]
+  },
+  {
+    "match_id": "19881016-LEC-NAP",
+    "date": "1988-10-16",
+    "season": "1988-89",
+    "competizione": "Serie A",
+    "squadra_casa": "Lecce",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 1,
+    "away_goals": 0,
+    "slug": "19881016-lec-nap",
+    "stadio": "Stadio Via del MareArbitro:",
+    "affluenza": 35947,
+    "scorers": [
+      {
+        "name": "Baroni",
+        "team": "Lecce",
+        "minute": "10"
+      }
+    ],
+    "fonti": [],
+    "note": [
+      "Arbitro: Stadio Via del Mare (35 947 spett.)"
+    ]
+  },
+  {
+    "match_id": "19881009-NAP-ATA",
+    "date": "1988-10-09",
+    "season": "1988-89",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Atalanta",
+    "home_goals": 1,
+    "away_goals": 0,
+    "slug": "19881009-nap-ata",
+    "stadio": "Stadio San PaoloArbitro:",
+    "affluenza": 58685,
+    "scorers": [
+      {
+        "name": "Giacchetta",
+        "team": "Napoli",
+        "minute": "90"
+      }
+    ],
+    "fonti": [],
+    "note": [
+      "Arbitro: Stadio San Paolo (58 685 spett.)"
+    ]
+  },
+  {
+    "match_id": "19880928-MOD-NAP",
+    "date": "1988-09-28",
+    "season": "1988-89",
+    "competizione": "Coppa Italia",
+    "squadra_casa": "Modena",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 0,
+    "away_goals": 4,
+    "slug": "19880928-mod-nap",
+    "stadio": "Stadio Alberto BragliaArbitro:",
+    "affluenza": 18903,
+    "scorers": [
+      {
+        "name": "Careca",
+        "team": "Napoli",
+        "minute": "37"
+      },
+      {
+        "name": "Diego Armando MARADONA",
+        "team": "Napoli",
+        "minute": "66"
+      },
+      {
+        "name": "Antonio CARANNANTE",
+        "team": "Napoli",
+        "minute": "73"
+      }
+    ],
+    "fonti": [],
+    "note": [
+      "Arbitro: Stadio Alberto Braglia (18 903 spett.)"
+    ]
+  },
+  {
+    "match_id": "19880914-LEC-NAP",
+    "date": "1988-09-14",
+    "season": "1988-89",
+    "competizione": "Coppa Italia",
+    "squadra_casa": "Lecce",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 1,
+    "away_goals": 1,
+    "slug": "19880914-lec-nap",
+    "stadio": "Stadio Via del MareArbitro:",
+    "affluenza": 14400,
+    "scorers": [
+      {
+        "name": "Paciocco",
+        "team": "Lecce",
+        "minute": "29"
+      },
+      {
+        "name": "Diego Armando MARADONA",
+        "team": "Napoli",
+        "minute": "42"
+      }
+    ],
+    "fonti": [],
+    "note": [
+      "Arbitro: Stadio Via del Mare (14 400 spett.)"
+    ]
+  },
+  {
+    "match_id": "19880821-SPE-NAP",
+    "date": "1988-08-21",
+    "season": "1988-89",
+    "competizione": "Coppa Italia",
+    "squadra_casa": "Spezia",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 1,
+    "away_goals": 3,
+    "slug": "19880821-spe-nap",
+    "stadio": "Stadio ArdenzaArbitro:",
+    "affluenza": 7800,
+    "scorers": [
+      {
+        "name": "Francini",
+        "team": "Napoli",
+        "minute": "73"
+      },
+      {
+        "name": "Ceccaroni",
+        "team": "Spezia",
+        "minute": "76"
+      },
+      {
+        "name": "Francini",
+        "team": "Napoli",
+        "minute": "80"
+      },
+      {
+        "name": "Andrea CARNEVALE",
+        "team": "Napoli",
+        "minute": "83"
+      }
+    ],
+    "fonti": [],
+    "note": [
+      "Arbitro: Stadio Ardenza (7 800 spett.)"
+    ]
+  },
+  {
+    "match_id": "19880515-NAP-SAM",
+    "date": "1988-05-15",
+    "season": "1987-88",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Sampdoria",
+    "home_goals": 1,
+    "away_goals": 2,
+    "slug": "19880515-nap-sam",
+    "stadio": "Stadio San PaoloArbitro:",
+    "affluenza": 68989,
+    "scorers": [
+      {
+        "name": "Andrea CARNEVALE",
+        "team": "Napoli",
+        "minute": "7"
+      },
+      {
+        "name": "Pellegrini",
+        "team": "Sampdoria",
+        "minute": "59"
+      },
+      {
+        "name": "Vialli",
+        "team": "Sampdoria",
+        "minute": "67"
+      }
+    ],
+    "fonti": [],
+    "note": [
+      "Arbitro: Stadio San Paolo (68 989 spett.)"
+    ]
+  },
+  {
+    "match_id": "19880508-FIO-NAP",
+    "date": "1988-05-08",
+    "season": "1987-88",
+    "competizione": "Serie A",
+    "squadra_casa": "Fiorentina",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 3,
+    "away_goals": 2,
+    "slug": "19880508-fio-nap",
+    "stadio": "Stadio comunaleArbitro:",
+    "affluenza": 43140,
+    "scorers": [
+      {
+        "name": "Di chiara",
+        "team": "Fiorentina",
+        "minute": "8"
+      },
+      {
+        "name": "Ciro FERRARA",
+        "team": "Napoli",
+        "minute": "24"
+      },
+      {
+        "name": "Díaz",
+        "team": "Fiorentina",
+        "minute": "58"
+      },
+      {
+        "name": "Díaz",
+        "team": "Fiorentina",
+        "minute": "72"
+      },
+      {
+        "name": "Alessandro RENICA",
+        "team": "Napoli",
+        "minute": "90"
+      }
+    ],
+    "fonti": [],
+    "note": [
+      "Arbitro: Stadio comunale (43 140 spett.)"
+    ]
+  },
+  {
+    "match_id": "19880417-JUV-NAP",
+    "date": "1988-04-17",
+    "season": "1987-88",
+    "competizione": "Serie A",
+    "squadra_casa": "Juventus",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 3,
+    "away_goals": 1,
+    "slug": "19880417-juv-nap",
+    "stadio": "Stadio comunaleArbitro:",
+    "affluenza": 54251,
+    "scorers": [
+      {
+        "name": "Cabrini",
+        "team": "Juventus",
+        "minute": "19"
+      },
+      {
+        "name": "Rush",
+        "team": "Juventus",
+        "minute": "67"
+      },
+      {
+        "name": "De agostini",
+        "team": "Juventus",
+        "minute": "74"
+      },
+      {
+        "name": "Careca",
+        "team": "Napoli",
+        "minute": "83"
+      }
+    ],
+    "fonti": [],
+    "note": [
+      "Arbitro: Stadio comunale (54 251 spett.)"
+    ]
+  },
+  {
+    "match_id": "19880410-NAP-INT",
+    "date": "1988-04-10",
+    "season": "1987-88",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Ambrosiana",
+    "home_goals": 1,
+    "away_goals": 0,
+    "slug": "19880410-nap-int",
+    "stadio": "Stadio San PaoloArbitro:",
+    "affluenza": 80841,
+    "scorers": [
+      {
+        "name": "Diego Armando MARADONA",
+        "team": "Napoli",
+        "minute": "24"
+      }
+    ],
+    "fonti": [],
+    "note": [
+      "Arbitro: Stadio San Paolo (80 841 spett.)"
+    ]
+  },
+  {
+    "match_id": "19880327-TOR-NAP",
+    "date": "1988-03-27",
+    "season": "1987-88",
+    "competizione": "Serie A",
+    "squadra_casa": "Torino",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 0,
+    "away_goals": 0,
+    "slug": "19880327-tor-nap",
+    "stadio": "Stadio comunaleArbitro:",
+    "affluenza": 45933,
+    "scorers": [],
+    "fonti": [],
+    "note": [
+      "Arbitro: Stadio comunale (45 933 spett.)"
+    ]
+  },
+  {
+    "match_id": "19880320-NAP-COM",
+    "date": "1988-03-20",
+    "season": "1987-88",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Como",
+    "home_goals": 3,
+    "away_goals": 0,
+    "slug": "19880320-nap-com",
+    "stadio": "Stadio San PaoloArbitro:",
+    "affluenza": 72887,
+    "scorers": [
+      {
+        "name": "Careca",
+        "team": "Napoli",
+        "minute": "10"
+      },
+      {
+        "name": "Fernando DE NAPOLI",
+        "team": "Napoli",
+        "minute": "43"
+      },
+      {
+        "name": "Careca",
+        "team": "Napoli",
+        "minute": "48"
+      }
+    ],
+    "fonti": [],
+    "note": [
+      "Arbitro: Stadio San Paolo (72 887 spett.)"
+    ]
+  },
+  {
+    "match_id": "19880313-EMP-NAP",
+    "date": "1988-03-13",
+    "season": "1987-88",
+    "competizione": "Serie A",
+    "squadra_casa": "Empoli",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 0,
+    "away_goals": 0,
+    "slug": "19880313-emp-nap",
+    "stadio": "Stadio Carlo CastellaniArbitro:",
+    "affluenza": 18864,
+    "scorers": [],
+    "fonti": [],
+    "note": [
+      "Arbitro: Stadio Carlo Castellani (18 864 spett.)"
+    ]
+  },
+  {
+    "match_id": "19880306-NAP-ROM",
+    "date": "1988-03-06",
+    "season": "1987-88",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Roma",
+    "home_goals": 1,
+    "away_goals": 2,
+    "slug": "19880306-nap-rom",
+    "stadio": "Stadio San PaoloArbitro:",
+    "affluenza": 78910,
+    "scorers": [
+      {
+        "name": "Giannini",
+        "team": "Roma",
+        "minute": "21"
+      },
+      {
+        "name": "Oddi",
+        "team": "Roma",
+        "minute": "70"
+      },
+      {
+        "name": "Careca",
+        "team": "Napoli",
+        "minute": "80"
+      }
+    ],
+    "fonti": [],
+    "note": [
+      "Arbitro: Stadio San Paolo (78 910 spett.)"
+    ]
+  },
+  {
+    "match_id": "19880302-NAP-TOR",
+    "date": "1988-03-02",
+    "season": "1987-88",
+    "competizione": "Coppa Italia",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Torino",
+    "home_goals": 2,
+    "away_goals": 3,
+    "slug": "19880302-nap-tor",
+    "stadio": "Stadio San PaoloArbitro:",
+    "affluenza": null,
+    "scorers": [
+      {
+        "name": "Gritti",
+        "team": "Torino",
+        "minute": "27"
+      },
+      {
+        "name": "Diego Armando MARADONA",
+        "team": "Napoli",
+        "minute": "36"
+      },
+      {
+        "name": "Diego Armando MARADONA",
+        "team": "Napoli",
+        "minute": "50"
+      },
+      {
+        "name": "Comi",
+        "team": "Torino",
+        "minute": "75"
+      },
+      {
+        "name": "Polster",
+        "team": "Torino",
+        "minute": "79"
+      }
+    ],
+    "fonti": [],
+    "note": [
+      "Arbitro: Stadio San Paolo"
+    ]
+  },
+  {
+    "match_id": "19880228-PES-NAP",
+    "date": "1988-02-28",
+    "season": "1987-88",
+    "competizione": "Serie A",
+    "squadra_casa": "Pescara",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 0,
+    "away_goals": 1,
+    "slug": "19880228-pes-nap",
+    "stadio": "Stadio AdriaticoArbitro:",
+    "affluenza": 27287,
+    "scorers": [
+      {
+        "name": "Bruno GIORDANO",
+        "team": "Napoli",
+        "minute": "38"
+      }
+    ],
+    "fonti": [],
+    "note": [
+      "Arbitro: Stadio Adriatico (27 287 spett.)"
+    ]
+  },
+  {
+    "match_id": "19880210-TOR-NAP",
+    "date": "1988-02-10",
+    "season": "1987-88",
+    "competizione": "Coppa Italia",
+    "squadra_casa": "Torino",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 1,
+    "away_goals": 1,
+    "slug": "19880210-tor-nap",
+    "stadio": "Stadio comunaleArbitro:",
+    "affluenza": null,
+    "scorers": [
+      {
+        "name": "Comi",
+        "team": "Torino",
+        "minute": "4"
+      },
+      {
+        "name": "Alessandro RENICA",
+        "team": "Napoli",
+        "minute": "9"
+      }
+    ],
+    "fonti": [],
+    "note": [
+      "Arbitro: Stadio comunale"
+    ]
+  },
+  {
+    "match_id": "19880207-NAP-PIS",
+    "date": "1988-02-07",
+    "season": "1987-88",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Pisa",
+    "home_goals": 2,
+    "away_goals": 1,
+    "slug": "19880207-nap-pis",
+    "stadio": "Stadio San PaoloArbitro:",
+    "affluenza": 72951,
+    "scorers": [
+      {
+        "name": "Alessandro RENICA",
+        "team": "Napoli",
+        "minute": "13"
+      },
+      {
+        "name": "Diego Armando MARADONA",
+        "team": "Napoli",
+        "minute": "76"
+      },
+      {
+        "name": "Filardi",
+        "team": "Pisa",
+        "minute": "77"
+      }
+    ],
+    "fonti": [],
+    "note": [
+      "Arbitro: Stadio San Paolo (72 951 spett.)"
+    ]
+  },
+  {
+    "match_id": "19880124-NAP-CES",
+    "date": "1988-01-24",
+    "season": "1987-88",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Cesena",
+    "home_goals": 2,
+    "away_goals": 0,
+    "slug": "19880124-nap-ces",
+    "stadio": "Stadio San PaoloArbitro:",
+    "affluenza": 70898,
+    "scorers": [
+      {
+        "name": "Careca",
+        "team": "Napoli",
+        "minute": "9"
+      },
+      {
+        "name": "Diego Armando MARADONA",
+        "team": "Napoli",
+        "minute": "43"
+      }
+    ],
+    "fonti": [],
+    "note": [
+      "Arbitro: Stadio San Paolo (70 898 spett.)"
+    ]
+  },
+  {
+    "match_id": "19880120-FIO-NAP",
+    "date": "1988-01-20",
+    "season": "1987-88",
+    "competizione": "Coppa Italia",
+    "squadra_casa": "Fiorentina",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 1,
+    "away_goals": 3,
+    "slug": "19880120-fio-nap",
+    "stadio": "Stadio comunaleArbitro:",
+    "affluenza": null,
+    "scorers": [
+      {
+        "name": "Di chiara",
+        "team": "Fiorentina",
+        "minute": "33"
+      },
+      {
+        "name": "Alessandro RENICA",
+        "team": "Napoli",
+        "minute": "72"
+      },
+      {
+        "name": "Andrea CARNEVALE",
+        "team": "Napoli",
+        "minute": "81"
+      }
+    ],
+    "fonti": [],
+    "note": [
+      "Arbitro: Stadio comunale"
+    ]
+  },
+  {
+    "match_id": "19880117-SAM-NAP",
+    "date": "1988-01-17",
+    "season": "1987-88",
+    "competizione": "Serie A",
+    "squadra_casa": "Sampdoria",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 0,
+    "away_goals": 1,
+    "slug": "19880117-sam-nap",
+    "stadio": "Stadio Luigi FerrarisArbitro:",
+    "affluenza": 21028,
+    "scorers": [
+      {
+        "name": "Diego Armando MARADONA",
+        "team": "Napoli",
+        "minute": "87"
+      }
+    ],
+    "fonti": [],
+    "note": [
+      "Arbitro: Stadio Luigi Ferraris (21 028 spett.)"
+    ]
+  },
+  {
+    "match_id": "19880110-NAP-FIO",
+    "date": "1988-01-10",
+    "season": "1987-88",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Fiorentina",
+    "home_goals": 4,
+    "away_goals": 0,
+    "slug": "19880110-nap-fio",
+    "stadio": "Stadio San PaoloArbitro:",
+    "affluenza": 74214,
+    "scorers": [
+      {
+        "name": "Bruno GIORDANO",
+        "team": "Napoli",
+        "minute": "3"
+      },
+      {
+        "name": "Careca",
+        "team": "Napoli",
+        "minute": "33"
+      },
+      {
+        "name": "Diego Armando MARADONA",
+        "team": "Napoli",
+        "minute": "35"
+      },
+      {
+        "name": "Bruno GIORDANO",
+        "team": "Napoli",
+        "minute": "74"
+      }
+    ],
+    "fonti": [],
+    "note": [
+      "Arbitro: Stadio San Paolo (74 214 spett.)"
+    ]
+  },
+  {
+    "match_id": "19880106-NAP-FIO",
+    "date": "1988-01-06",
+    "season": "1987-88",
+    "competizione": "Coppa Italia",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Fiorentina",
+    "home_goals": 2,
+    "away_goals": 3,
+    "slug": "19880106-nap-fio",
+    "stadio": "Stadio San PaoloArbitro:",
+    "affluenza": null,
+    "scorers": [
+      {
+        "name": "Diego Armando MARADONA",
+        "team": "Napoli",
+        "minute": "18"
+      },
+      {
+        "name": "Carobbi",
+        "team": "Fiorentina",
+        "minute": "44"
+      },
+      {
+        "name": "Onorati",
+        "team": "Fiorentina",
+        "minute": "52"
+      },
+      {
+        "name": "Careca",
+        "team": "Napoli",
+        "minute": "57"
+      },
+      {
+        "name": "Díaz",
+        "team": "Fiorentina",
+        "minute": "80"
+      }
+    ],
+    "fonti": [],
+    "note": [
+      "Arbitro: Stadio San Paolo"
+    ]
+  },
+  {
+    "match_id": "19880103-MIL-NAP",
+    "date": "1988-01-03",
+    "season": "1987-88",
+    "competizione": "Serie A",
+    "squadra_casa": "Milan",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 4,
+    "away_goals": 1,
+    "slug": "19880103-mil-nap",
+    "stadio": "Stadio Giuseppe MeazzaArbitro:",
+    "affluenza": 75519,
+    "scorers": [
+      {
+        "name": "Careca",
+        "team": "Napoli",
+        "minute": "10"
+      },
+      {
+        "name": "Colombo",
+        "team": "Milan",
+        "minute": "19"
+      },
+      {
+        "name": "Virdis",
+        "team": "Milan",
+        "minute": "24"
+      },
+      {
+        "name": "Gullit",
+        "team": "Milan",
+        "minute": "73"
+      },
+      {
+        "name": "Donadoni",
+        "team": "Milan",
+        "minute": "78"
+      }
+    ],
+    "fonti": [],
+    "note": [
+      "Arbitro: Stadio Giuseppe Meazza (75 519 spett.)"
+    ]
+  },
+  {
+    "match_id": "19880101-JUV-NAP",
+    "date": "1988-01-01",
+    "season": "1988-89",
+    "competizione": "Coppa UEFA",
+    "squadra_casa": "Juventus",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 2,
+    "away_goals": 0,
+    "slug": "19880101-juv-nap",
+    "stadio": "Stadio OlimpicoArbitro:",
+    "affluenza": null,
+    "scorers": [
+      {
+        "name": "Bruno",
+        "team": "Juventus",
+        "minute": "5"
+      },
+      {
+        "name": "Corradini (aut.)",
+        "team": "Juventus",
+        "minute": "45"
+      }
+    ],
+    "fonti": [],
+    "note": [
+      "Arbitro: Stadio Olimpico"
+    ]
+  },
+  {
+    "match_id": "19880101-PIS-NAP",
+    "date": "1988-01-01",
+    "season": "1988-89",
+    "competizione": "Coppa Italia",
+    "squadra_casa": "Pisa",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 0,
+    "away_goals": 2,
+    "slug": "19880101-pis-nap",
+    "stadio": "Stadio Arena GaribaldiArbitro:",
+    "affluenza": 19394,
+    "scorers": [
+      {
+        "name": "Andrea CARNEVALE",
+        "team": "Napoli",
+        "minute": "35"
+      },
+      {
+        "name": "Diego Armando MARADONA",
+        "team": "Napoli",
+        "minute": "69"
+      }
+    ],
+    "fonti": [],
+    "note": [
+      "Arbitro: Stadio Arena Garibaldi (19 394 spett.)"
+    ]
+  },
+  {
+    "match_id": "19880101-NAP-CES",
+    "date": "1988-01-01",
+    "season": "1988-89",
+    "competizione": "Coppa Italia",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Cesena",
+    "home_goals": 2,
+    "away_goals": 0,
+    "slug": "19880101-nap-ces",
+    "stadio": "Stadio San PaoloArbitro:",
+    "affluenza": 49890,
+    "scorers": [
+      {
+        "name": "Antonio CARANNANTE",
+        "team": "Napoli",
+        "minute": "28"
+      },
+      {
+        "name": "Diego Armando MARADONA",
+        "team": "Napoli",
+        "minute": "58"
+      }
+    ],
+    "fonti": [],
+    "note": [
+      "Arbitro: Stadio San Paolo (49 890 spett.)"
+    ]
+  },
+  {
+    "match_id": "19880101-NAP-BOL",
+    "date": "1988-01-01",
+    "season": "1988-89",
+    "competizione": "Coppa Italia",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Bologna",
+    "home_goals": 1,
+    "away_goals": 0,
+    "slug": "19880101-nap-bol",
+    "stadio": "Stadio San PaoloArbitro:",
+    "affluenza": 44459,
+    "scorers": [
+      {
+        "name": "Diego Armando MARADONA",
+        "team": "Napoli",
+        "minute": "81"
+      }
+    ],
+    "fonti": [],
+    "note": [
+      "Arbitro: Stadio San Paolo (44 459 spett.)"
+    ]
+  },
+  {
+    "match_id": "19871213-NAP-JUV",
+    "date": "1987-12-13",
+    "season": "1987-88",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Juventus",
+    "home_goals": 2,
+    "away_goals": 1,
+    "slug": "19871213-nap-juv",
+    "stadio": "Stadio San PaoloArbitro:",
+    "affluenza": 81844,
+    "scorers": [
+      {
+        "name": "Fernando DE NAPOLI",
+        "team": "Napoli",
+        "minute": "26"
+      },
+      {
+        "name": "Cabrini",
+        "team": "Juventus",
+        "minute": "76"
+      },
+      {
+        "name": "Diego Armando MARADONA",
+        "team": "Napoli",
+        "minute": "87"
+      }
+    ],
+    "fonti": [],
+    "note": [
+      "Arbitro: Stadio San Paolo (81 844 spett.)"
+    ]
+  },
+  {
+    "match_id": "19871129-INT-NAP",
+    "date": "1987-11-29",
+    "season": "1987-88",
+    "competizione": "Serie A",
+    "squadra_casa": "Ambrosiana",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 1,
+    "away_goals": 1,
+    "slug": "19871129-int-nap",
+    "stadio": "Stadio Giuseppe MeazzaArbitro:",
+    "affluenza": 64306,
+    "scorers": [
+      {
+        "name": "Careca",
+        "team": "Napoli",
+        "minute": "20"
+      },
+      {
+        "name": "Fernando DE NAPOLI",
+        "team": "Ambrosiana",
+        "minute": "59"
+      }
+    ],
+    "fonti": [],
+    "note": [
+      "Arbitro: Stadio Giuseppe Meazza (64 306 spett.)"
+    ]
+  },
+  {
+    "match_id": "19871122-NAP-TOR",
+    "date": "1987-11-22",
+    "season": "1987-88",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Torino",
+    "home_goals": 3,
+    "away_goals": 1,
+    "slug": "19871122-nap-tor",
+    "stadio": "Stadio San PaoloArbitro:",
+    "affluenza": 71375,
+    "scorers": [
+      {
+        "name": "Diego Armando MARADONA",
+        "team": "Napoli",
+        "minute": "6"
+      },
+      {
+        "name": "Careca",
+        "team": "Napoli",
+        "minute": "44"
+      },
+      {
+        "name": "Berggreen",
+        "team": "Torino",
+        "minute": "76"
+      },
+      {
+        "name": "Careca",
+        "team": "Napoli",
+        "minute": "90"
+      }
+    ],
+    "fonti": [],
+    "note": [
+      "Arbitro: Stadio San Paolo (71 375 spett.)"
+    ]
+  },
+  {
+    "match_id": "19871108-COM-NAP",
+    "date": "1987-11-08",
+    "season": "1987-88",
+    "competizione": "Serie A",
+    "squadra_casa": "Como",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 0,
+    "away_goals": 0,
+    "slug": "19871108-com-nap",
+    "stadio": "Stadio Giuseppe SinigagliaArbitro:",
+    "affluenza": 16150,
+    "scorers": [],
+    "fonti": [],
+    "note": [
+      "Arbitro: Stadio Giuseppe Sinigaglia (16 150 spett.)"
+    ]
+  },
+  {
+    "match_id": "19871025-ROM-NAP",
+    "date": "1987-10-25",
+    "season": "1987-88",
+    "competizione": "Serie A",
+    "squadra_casa": "Roma",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 1,
+    "away_goals": 1,
+    "slug": "19871025-rom-nap",
+    "stadio": "Stadio OlimpicoArbitro:",
+    "affluenza": 63161,
+    "scorers": [
+      {
+        "name": "Pruzzo",
+        "team": "Roma",
+        "minute": "46"
+      },
+      {
+        "name": "Francini",
+        "team": "Napoli",
+        "minute": "67"
+      }
+    ],
+    "fonti": [],
+    "note": [
+      "Arbitro: Stadio Olimpico (63 161 spett.)"
+    ]
+  },
+  {
+    "match_id": "19871011-NAP-PES",
+    "date": "1987-10-11",
+    "season": "1987-88",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Pescara",
+    "home_goals": 6,
+    "away_goals": 0,
+    "slug": "19871011-nap-pes",
+    "stadio": "Stadio San PaoloArbitro:",
+    "affluenza": 69494,
+    "scorers": [
+      {
+        "name": "Salvatore BAGNI",
+        "team": "Napoli",
+        "minute": "23"
+      },
+      {
+        "name": "Francesco ROMANO",
+        "team": "Napoli",
+        "minute": "29"
+      },
+      {
+        "name": "Careca",
+        "team": "Napoli",
+        "minute": "45"
+      },
+      {
+        "name": "Diego Armando MARADONA",
+        "team": "Napoli",
+        "minute": "54"
+      },
+      {
+        "name": "Bruno GIORDANO",
+        "team": "Napoli",
+        "minute": "75"
+      },
+      {
+        "name": "Benini",
+        "team": "Napoli",
+        "minute": "83"
+      }
+    ],
+    "fonti": [],
+    "note": [
+      "Arbitro: Stadio San Paolo (69 494 spett.)"
+    ]
+  },
+  {
+    "match_id": "19870927-PIS-NAP",
+    "date": "1987-09-27",
+    "season": "1987-88",
+    "competizione": "Serie A",
+    "squadra_casa": "Pisa",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 0,
+    "away_goals": 2,
+    "slug": "19870927-pis-nap",
+    "stadio": "Stadio Arena GaribaldiArbitro:",
+    "affluenza": 21064,
+    "scorers": [],
+    "fonti": [],
+    "note": [
+      "Arbitro: Stadio Arena Garibaldi (21 064 spett.)"
+    ]
+  },
+  {
+    "match_id": "19870913-CES-NAP",
+    "date": "1987-09-13",
+    "season": "1987-88",
+    "competizione": "Serie A",
+    "squadra_casa": "Cesena",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 0,
+    "away_goals": 1,
+    "slug": "19870913-ces-nap",
+    "stadio": "Stadio Dino ManuzziArbitro:",
+    "affluenza": 27079,
+    "scorers": [
+      {
+        "name": "Salvatore BAGNI",
+        "team": "Napoli",
+        "minute": "61"
+      }
+    ],
+    "fonti": [],
+    "note": [
+      "Arbitro: Stadio Dino Manuzzi (27 079 spett.)"
+    ]
+  },
+  {
+    "match_id": "19870906-NAP-FIO",
+    "date": "1987-09-06",
+    "season": "1987-88",
+    "competizione": "Coppa Italia",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Fiorentina",
+    "home_goals": 2,
+    "away_goals": 1,
+    "slug": "19870906-nap-fio",
+    "stadio": "Stadio San PaoloArbitro:",
+    "affluenza": null,
+    "scorers": [
+      {
+        "name": "Francini",
+        "team": "Napoli",
+        "minute": "5"
+      },
+      {
+        "name": "R. baggio",
+        "team": "Fiorentina",
+        "minute": "30"
+      },
+      {
+        "name": "Diego Armando MARADONA",
+        "team": "Napoli",
+        "minute": "51"
+      }
+    ],
+    "fonti": [],
+    "note": [
+      "Arbitro: Stadio San Paolo"
+    ]
+  },
+  {
+    "match_id": "19870830-UDI-NAP",
+    "date": "1987-08-30",
+    "season": "1987-88",
+    "competizione": "Coppa Italia",
+    "squadra_casa": "Udinese",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 0,
+    "away_goals": 2,
+    "slug": "19870830-udi-nap",
+    "stadio": "Stadio FriuliArbitro:",
+    "affluenza": null,
+    "scorers": [
+      {
+        "name": "Diego Armando MARADONA",
+        "team": "Napoli",
+        "minute": "4"
+      },
+      {
+        "name": "Careca",
+        "team": "Napoli",
+        "minute": "37"
+      }
+    ],
+    "fonti": [],
+    "note": [
+      "Arbitro: Stadio Friuli"
+    ]
+  },
+  {
+    "match_id": "19870826-LIV-NAP",
+    "date": "1987-08-26",
+    "season": "1987-88",
+    "competizione": "Coppa Italia",
+    "squadra_casa": "Livorno",
+    "squadra_trasferta": "Napoli",
+    "home_goals": 0,
+    "away_goals": 2,
+    "slug": "19870826-liv-nap",
+    "stadio": "Stadio Armando PicchiArbitro:",
+    "affluenza": null,
+    "scorers": [
+      {
+        "name": "Bruno GIORDANO",
+        "team": "Napoli",
+        "minute": "9"
+      },
+      {
+        "name": "Careca",
+        "team": "Napoli",
+        "minute": "51"
+      }
+    ],
+    "fonti": [],
+    "note": [
+      "Arbitro: Stadio Armando Picchi"
+    ]
+  },
+  {
+    "match_id": "19870823-NAP-MOD",
+    "date": "1987-08-23",
+    "season": "1987-88",
+    "competizione": "Coppa Italia",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Modena",
+    "home_goals": 4,
+    "away_goals": 0,
+    "slug": "19870823-nap-mod",
+    "stadio": "Stadio San PaoloArbitro:",
+    "affluenza": null,
+    "scorers": [
+      {
+        "name": "Bruno GIORDANO",
+        "team": "Napoli",
+        "minute": "13"
+      },
+      {
+        "name": "Diego Armando MARADONA",
+        "team": "Napoli",
+        "minute": "24"
+      },
+      {
+        "name": "Careca",
+        "team": "Napoli",
+        "minute": "34"
+      },
+      {
+        "name": "Bruno GIORDANO",
+        "team": "Napoli",
+        "minute": "43"
+      }
+    ],
+    "fonti": [],
+    "note": [
+      "Arbitro: Stadio San Paolo"
+    ]
   },
   {
     "match_id": "19870613-ATA-NAP",
@@ -1487,13 +5282,22 @@
     "squadra_trasferta": "Napoli",
     "home_goals": 0,
     "away_goals": 1,
-    "stadio": null,
+    "slug": null,
+    "stadio": "Stadio ComunaleArbitro:",
     "affluenza": null,
-    "scorers": [],
+    "scorers": [
+      {
+        "name": "Bruno GIORDANO",
+        "team": "Napoli",
+        "minute": "86"
+      }
+    ],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "Arbitro: Stadio Comunale"
+    ]
   },
   {
     "match_id": "19870607-NAP-ATA",
@@ -1504,13 +5308,32 @@
     "squadra_trasferta": "Atalanta",
     "home_goals": 3,
     "away_goals": 0,
-    "stadio": null,
+    "slug": null,
+    "stadio": "Stadio San PaoloArbitro:",
     "affluenza": null,
-    "scorers": [],
+    "scorers": [
+      {
+        "name": "Alessandro RENICA",
+        "team": "Napoli",
+        "minute": "67"
+      },
+      {
+        "name": "Ciro MURO",
+        "team": "Napoli",
+        "minute": "71"
+      },
+      {
+        "name": "Salvatore BAGNI",
+        "team": "Napoli",
+        "minute": "77"
+      }
+    ],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "Arbitro: Stadio San Paolo"
+    ]
   },
   {
     "match_id": "19870603-NAP-CAG",
@@ -1521,13 +5344,42 @@
     "squadra_trasferta": "Cagliari",
     "home_goals": 4,
     "away_goals": 1,
-    "stadio": null,
+    "slug": null,
+    "stadio": "Stadio San PaoloArbitro:",
     "affluenza": null,
-    "scorers": [],
+    "scorers": [
+      {
+        "name": "Andrea CARNEVALE",
+        "team": "Napoli",
+        "minute": "22"
+      },
+      {
+        "name": "Bruno GIORDANO",
+        "team": "Napoli",
+        "minute": "24"
+      },
+      {
+        "name": "Francesco ROMANO",
+        "team": "Cagliari",
+        "minute": "36"
+      },
+      {
+        "name": "Bruno GIORDANO",
+        "team": "Napoli",
+        "minute": "42"
+      },
+      {
+        "name": "Ciro MURO",
+        "team": "Napoli",
+        "minute": "68"
+      }
+    ],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "Arbitro: Stadio San Paolo"
+    ]
   },
   {
     "match_id": "19870527-CAG-NAP",
@@ -1538,13 +5390,22 @@
     "squadra_trasferta": "Napoli",
     "home_goals": 0,
     "away_goals": 1,
-    "stadio": null,
+    "slug": null,
+    "stadio": "Stadio Sant'EliaArbitro:",
     "affluenza": null,
-    "scorers": [],
+    "scorers": [
+      {
+        "name": "Diego Armando MARADONA",
+        "team": "Napoli",
+        "minute": "79"
+      }
+    ],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "Arbitro: Stadio Sant'Elia"
+    ]
   },
   {
     "match_id": "19870517-ASC-NAP",
@@ -1555,6 +5416,7 @@
     "squadra_trasferta": "Napoli",
     "home_goals": 1,
     "away_goals": 1,
+    "slug": null,
     "stadio": null,
     "affluenza": null,
     "scorers": [],
@@ -1572,13 +5434,27 @@
     "squadra_trasferta": "Fiorentina",
     "home_goals": 1,
     "away_goals": 1,
-    "stadio": null,
-    "affluenza": null,
-    "scorers": [],
+    "slug": null,
+    "stadio": "Stadio San PaoloArbitro:",
+    "affluenza": 82579,
+    "scorers": [
+      {
+        "name": "Andrea CARNEVALE",
+        "team": "Napoli",
+        "minute": "29"
+      },
+      {
+        "name": "Baggio",
+        "team": "Fiorentina",
+        "minute": "39"
+      }
+    ],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "Arbitro: Stadio San Paolo (82 579 spett.)"
+    ]
   },
   {
     "match_id": "19870506-BOL-NAP",
@@ -1589,13 +5465,47 @@
     "squadra_trasferta": "Napoli",
     "home_goals": 2,
     "away_goals": 4,
-    "stadio": null,
+    "slug": null,
+    "stadio": "Stadio Renato Dall'AraArbitro:",
     "affluenza": null,
-    "scorers": [],
+    "scorers": [
+      {
+        "name": "Marocchi",
+        "team": "Bologna",
+        "minute": "40"
+      },
+      {
+        "name": "Luigi CAFFARELLI",
+        "team": "Napoli",
+        "minute": "55"
+      },
+      {
+        "name": "Luigi CAFFARELLI",
+        "team": "Napoli",
+        "minute": "60"
+      },
+      {
+        "name": "Diego Armando MARADONA",
+        "team": "Napoli",
+        "minute": "70"
+      },
+      {
+        "name": "Marronaro",
+        "team": "Bologna",
+        "minute": "86"
+      },
+      {
+        "name": "Bruno GIORDANO",
+        "team": "Napoli",
+        "minute": "88"
+      }
+    ],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "Arbitro: Stadio Renato Dall'Ara"
+    ]
   },
   {
     "match_id": "19870503-COM-NAP",
@@ -1606,13 +5516,27 @@
     "squadra_trasferta": "Napoli",
     "home_goals": 1,
     "away_goals": 1,
-    "stadio": null,
-    "affluenza": null,
-    "scorers": [],
+    "slug": null,
+    "stadio": "Stadio Giuseppe SinigagliaArbitro:",
+    "affluenza": 22982,
+    "scorers": [
+      {
+        "name": "Giunta",
+        "team": "Como",
+        "minute": "63"
+      },
+      {
+        "name": "Andrea CARNEVALE",
+        "team": "Napoli",
+        "minute": "76"
+      }
+    ],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "Arbitro: Stadio Giuseppe Sinigaglia (22 982 spett.)"
+    ]
   },
   {
     "match_id": "19870429-NAP-BOL",
@@ -1623,13 +5547,71 @@
     "squadra_trasferta": "Bologna",
     "home_goals": 3,
     "away_goals": 0,
-    "stadio": null,
+    "slug": null,
+    "stadio": "Stadio San PaoloArbitro:",
     "affluenza": null,
-    "scorers": [],
+    "scorers": [
+      {
+        "name": "Bruno GIORDANO",
+        "team": "Napoli",
+        "minute": "45"
+      },
+      {
+        "name": "Andrea CARNEVALE",
+        "team": "Napoli",
+        "minute": "61"
+      },
+      {
+        "name": "Diego Armando MARADONA",
+        "team": "Napoli",
+        "minute": "84"
+      }
+    ],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "Arbitro: Stadio San Paolo"
+    ]
+  },
+  {
+    "match_id": "19870101-NAP-MIL",
+    "date": "1987-04-26",
+    "season": "1987-88",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Milan",
+    "home_goals": 2,
+    "away_goals": 3,
+    "slug": "19870101-nap-mil",
+    "stadio": "Stadio San PaoloArbitro:",
+    "affluenza": 83000,
+    "scorers": [
+      {
+        "name": "Diego Armando MARADONA",
+        "team": "Napoli",
+        "minute": "45"
+      },
+      {
+        "name": "Virdis",
+        "team": "Milan",
+        "minute": "68"
+      },
+      {
+        "name": "Van basten",
+        "team": "Milan",
+        "minute": "76"
+      },
+      {
+        "name": "Careca",
+        "team": "Napoli",
+        "minute": "78"
+      }
+    ],
+    "fonti": [],
+    "note": [
+      "Arbitro: Stadio San Paolo (83 000 spett.)"
+    ]
   },
   {
     "match_id": "19870426-NAP-MIL",
@@ -1640,13 +5622,32 @@
     "squadra_trasferta": "Milan",
     "home_goals": 2,
     "away_goals": 1,
-    "stadio": null,
-    "affluenza": null,
-    "scorers": [],
+    "slug": null,
+    "stadio": "Stadio San PaoloArbitro:",
+    "affluenza": 82468,
+    "scorers": [
+      {
+        "name": "Andrea CARNEVALE",
+        "team": "Napoli",
+        "minute": "33"
+      },
+      {
+        "name": "Diego Armando MARADONA",
+        "team": "Napoli",
+        "minute": "43"
+      },
+      {
+        "name": "Virdis",
+        "team": "Milan",
+        "minute": "79"
+      }
+    ],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "Arbitro: Stadio San Paolo (82 468 spett.)"
+    ]
   },
   {
     "match_id": "19870412-VER-NAP",
@@ -1657,6 +5658,7 @@
     "squadra_trasferta": "Napoli",
     "home_goals": 3,
     "away_goals": 0,
+    "slug": null,
     "stadio": null,
     "affluenza": null,
     "scorers": [],
@@ -1674,13 +5676,32 @@
     "squadra_trasferta": "Napoli",
     "home_goals": 0,
     "away_goals": 3,
-    "stadio": null,
+    "slug": null,
+    "stadio": "Stadio Mario RigamontiArbitro:",
     "affluenza": null,
-    "scorers": [],
+    "scorers": [
+      {
+        "name": "Andrea CARNEVALE",
+        "team": "Napoli",
+        "minute": "47"
+      },
+      {
+        "name": "Andrea CARNEVALE",
+        "team": "Napoli",
+        "minute": "69"
+      },
+      {
+        "name": "Bruno GIORDANO",
+        "team": "Napoli",
+        "minute": "76"
+      }
+    ],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "Arbitro: Stadio Mario Rigamonti"
+    ]
   },
   {
     "match_id": "19870405-EMP-NAP",
@@ -1691,13 +5712,16 @@
     "squadra_trasferta": "Napoli",
     "home_goals": 0,
     "away_goals": 0,
-    "stadio": null,
-    "affluenza": null,
+    "slug": null,
+    "stadio": "Stadio San PaoloArbitro:",
+    "affluenza": 17880,
     "scorers": [],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "Arbitro: Stadio San Paolo (17 880 spett.)"
+    ]
   },
   {
     "match_id": "19870329-NAP-JUV",
@@ -1708,30 +5732,58 @@
     "squadra_trasferta": "Juventus",
     "home_goals": 2,
     "away_goals": 1,
-    "stadio": null,
-    "affluenza": null,
-    "scorers": [],
+    "slug": null,
+    "stadio": "Stadio San PaoloArbitro:",
+    "affluenza": 82185,
+    "scorers": [
+      {
+        "name": "Alessandro RENICA",
+        "team": "Napoli",
+        "minute": "14"
+      },
+      {
+        "name": "Serena",
+        "team": "Juventus",
+        "minute": "50"
+      },
+      {
+        "name": "Francesco ROMANO",
+        "team": "Napoli",
+        "minute": "58"
+      }
+    ],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "Arbitro: Stadio San Paolo (82 185 spett.)"
+    ]
   },
   {
     "match_id": "19870322-INT-NAP",
     "date": "1987-03-22",
     "season": "1986-87",
     "competizione": "Serie A",
-    "squadra_casa": "Inter",
+    "squadra_casa": "Ambrosiana",
     "squadra_trasferta": "Napoli",
     "home_goals": 1,
     "away_goals": 0,
-    "stadio": null,
-    "affluenza": null,
-    "scorers": [],
+    "slug": null,
+    "stadio": "Stadio Giuseppe MeazzaArbitro:",
+    "affluenza": 68281,
+    "scorers": [
+      {
+        "name": "Bergomi",
+        "team": "Ambrosiana",
+        "minute": "85"
+      }
+    ],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "Arbitro: Stadio Giuseppe Meazza (68 281 spett.)"
+    ]
   },
   {
     "match_id": "19870315-NAP-ROM",
@@ -1742,13 +5794,16 @@
     "squadra_trasferta": "Roma",
     "home_goals": 0,
     "away_goals": 0,
-    "stadio": null,
-    "affluenza": null,
+    "slug": null,
+    "stadio": "Stadio San PaoloArbitro:",
+    "affluenza": 82185,
     "scorers": [],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "Arbitro: Stadio San Paolo (82 185 spett.)"
+    ]
   },
   {
     "match_id": "19870308-ATA-NAP",
@@ -1759,13 +5814,22 @@
     "squadra_trasferta": "Napoli",
     "home_goals": 0,
     "away_goals": 1,
-    "stadio": null,
-    "affluenza": null,
-    "scorers": [],
+    "slug": null,
+    "stadio": "Stadio ComunaleArbitro:",
+    "affluenza": 28771,
+    "scorers": [
+      {
+        "name": "Bruno GIORDANO",
+        "team": "Napoli",
+        "minute": "12"
+      }
+    ],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "Arbitro: Stadio Comunale (28 771 spett.)"
+    ]
   },
   {
     "match_id": "19870301-NAP-SAM",
@@ -1776,6 +5840,7 @@
     "squadra_trasferta": "Sampdoria",
     "home_goals": 1,
     "away_goals": 1,
+    "slug": null,
     "stadio": null,
     "affluenza": null,
     "scorers": [],
@@ -1793,13 +5858,66 @@
     "squadra_trasferta": "Brescia",
     "home_goals": 3,
     "away_goals": 0,
-    "stadio": null,
+    "slug": null,
+    "stadio": "Stadio San PaoloArbitro:",
     "affluenza": null,
-    "scorers": [],
+    "scorers": [
+      {
+        "name": "Diego Armando MARADONA",
+        "team": "Napoli",
+        "minute": "16"
+      },
+      {
+        "name": "Ciro MURO",
+        "team": "Napoli",
+        "minute": "56"
+      },
+      {
+        "name": "Bruno GIORDANO",
+        "team": "Napoli",
+        "minute": "72"
+      }
+    ],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "Arbitro: Stadio San Paolo"
+    ]
+  },
+  {
+    "match_id": "19870101-NAP-EMP",
+    "date": "1987-02-22",
+    "season": "1987-88",
+    "competizione": "Serie A",
+    "squadra_casa": "Napoli",
+    "squadra_trasferta": "Empoli",
+    "home_goals": 2,
+    "away_goals": 1,
+    "slug": "19870101-nap-emp",
+    "stadio": "Stadio San PaoloArbitro:",
+    "affluenza": 68711,
+    "scorers": [
+      {
+        "name": "Ekström",
+        "team": "Empoli",
+        "minute": "7"
+      },
+      {
+        "name": "Diego Armando MARADONA",
+        "team": "Napoli",
+        "minute": "17"
+      },
+      {
+        "name": "Diego Armando MARADONA",
+        "team": "Napoli",
+        "minute": "35"
+      }
+    ],
+    "fonti": [],
+    "note": [
+      "Arbitro: Stadio San Paolo (68 711 spett.)"
+    ]
   },
   {
     "match_id": "19870222-TOR-NAP",
@@ -1810,13 +5928,22 @@
     "squadra_trasferta": "Napoli",
     "home_goals": 0,
     "away_goals": 1,
-    "stadio": null,
-    "affluenza": null,
-    "scorers": [],
+    "slug": null,
+    "stadio": "Stadio ComunaleArbitro:",
+    "affluenza": 46615,
+    "scorers": [
+      {
+        "name": "Bruno GIORDANO",
+        "team": "Napoli",
+        "minute": "84"
+      }
+    ],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "Arbitro: Stadio Comunale (46 615 spett.)"
+    ]
   },
   {
     "match_id": "19870208-NAP-AVE",
@@ -1827,6 +5954,7 @@
     "squadra_trasferta": "Avellino",
     "home_goals": 3,
     "away_goals": 0,
+    "slug": null,
     "stadio": null,
     "affluenza": null,
     "scorers": [],
@@ -1844,6 +5972,7 @@
     "squadra_trasferta": "Napoli",
     "home_goals": 0,
     "away_goals": 3,
+    "slug": null,
     "stadio": null,
     "affluenza": null,
     "scorers": [],
@@ -1861,13 +5990,32 @@
     "squadra_trasferta": "Brescia",
     "home_goals": 2,
     "away_goals": 1,
-    "stadio": null,
-    "affluenza": null,
-    "scorers": [],
+    "slug": null,
+    "stadio": "Stadio San PaoloArbitro:",
+    "affluenza": 69754,
+    "scorers": [
+      {
+        "name": "Ciro FERRARA",
+        "team": "Napoli",
+        "minute": "14"
+      },
+      {
+        "name": "Branco",
+        "team": "Brescia",
+        "minute": "55"
+      },
+      {
+        "name": "Bruno GIORDANO",
+        "team": "Napoli",
+        "minute": "64"
+      }
+    ],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "Arbitro: Stadio San Paolo (69 754 spett.)"
+    ]
   },
   {
     "match_id": "19870111-NAP-ASC",
@@ -1878,6 +6026,7 @@
     "squadra_trasferta": "Ascoli",
     "home_goals": 3,
     "away_goals": 0,
+    "slug": null,
     "stadio": null,
     "affluenza": null,
     "scorers": [],
@@ -1895,13 +6044,37 @@
     "squadra_trasferta": "Napoli",
     "home_goals": 3,
     "away_goals": 1,
-    "stadio": null,
-    "affluenza": null,
-    "scorers": [],
+    "slug": null,
+    "stadio": "Stadio ComunaleArbitro:",
+    "affluenza": 53126,
+    "scorers": [
+      {
+        "name": "Díaz",
+        "team": "Fiorentina",
+        "minute": "6"
+      },
+      {
+        "name": "Antognoni",
+        "team": "Fiorentina",
+        "minute": "25"
+      },
+      {
+        "name": "Diego Armando MARADONA",
+        "team": "Napoli",
+        "minute": "50"
+      },
+      {
+        "name": "Monelli",
+        "team": "Fiorentina",
+        "minute": "89"
+      }
+    ],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "Arbitro: Stadio Comunale (53 126 spett.)"
+    ]
   },
   {
     "match_id": "19861221-NAP-COM",
@@ -1912,13 +6085,32 @@
     "squadra_trasferta": "Como",
     "home_goals": 2,
     "away_goals": 1,
-    "stadio": null,
-    "affluenza": null,
-    "scorers": [],
+    "slug": null,
+    "stadio": "Stadio San PaoloArbitro:",
+    "affluenza": 67351,
+    "scorers": [
+      {
+        "name": "Luigi CAFFARELLI",
+        "team": "Napoli",
+        "minute": "17"
+      },
+      {
+        "name": "Luigi CAFFARELLI",
+        "team": "Napoli",
+        "minute": "38"
+      },
+      {
+        "name": "Giuseppe BRUSCOLOTTI",
+        "team": "Como",
+        "minute": "89"
+      }
+    ],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "Arbitro: Stadio San Paolo (67 351 spett.)"
+    ]
   },
   {
     "match_id": "19861214-MIL-NAP",
@@ -1929,13 +6121,16 @@
     "squadra_trasferta": "Napoli",
     "home_goals": 0,
     "away_goals": 0,
-    "stadio": null,
-    "affluenza": null,
+    "slug": null,
+    "stadio": "Stadio Giuseppe MeazzaArbitro:",
+    "affluenza": 68208,
     "scorers": [],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "Arbitro: Stadio Giuseppe Meazza (68 208 spett.)"
+    ]
   },
   {
     "match_id": "19861130-NAP-VER",
@@ -1946,6 +6141,7 @@
     "squadra_trasferta": "Verona",
     "home_goals": 0,
     "away_goals": 0,
+    "slug": null,
     "stadio": null,
     "affluenza": null,
     "scorers": [],
@@ -1963,13 +6159,37 @@
     "squadra_trasferta": "Empoli",
     "home_goals": 4,
     "away_goals": 0,
-    "stadio": null,
-    "affluenza": null,
-    "scorers": [],
+    "slug": null,
+    "stadio": "Stadio San PaoloArbitro:",
+    "affluenza": 66026,
+    "scorers": [
+      {
+        "name": "Diego Armando MARADONA",
+        "team": "Napoli",
+        "minute": "26"
+      },
+      {
+        "name": "Andrea CARNEVALE",
+        "team": "Napoli",
+        "minute": "45"
+      },
+      {
+        "name": "Andrea CARNEVALE",
+        "team": "Napoli",
+        "minute": "67"
+      },
+      {
+        "name": "Salvatore BAGNI",
+        "team": "Napoli",
+        "minute": "79"
+      }
+    ],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "Arbitro: Stadio San Paolo (66 026 spett.)"
+    ]
   },
   {
     "match_id": "19861109-JUV-NAP",
@@ -1980,13 +6200,37 @@
     "squadra_trasferta": "Napoli",
     "home_goals": 1,
     "away_goals": 3,
-    "stadio": null,
-    "affluenza": null,
-    "scorers": [],
+    "slug": null,
+    "stadio": "Stadio ComunaleArbitro:",
+    "affluenza": 52380,
+    "scorers": [
+      {
+        "name": "Laudrup",
+        "team": "Juventus",
+        "minute": "50"
+      },
+      {
+        "name": "Moreno FERRARIO",
+        "team": "Napoli",
+        "minute": "73"
+      },
+      {
+        "name": "Bruno GIORDANO",
+        "team": "Napoli",
+        "minute": "74"
+      },
+      {
+        "name": "Giuseppe VOLPECINA",
+        "team": "Napoli",
+        "minute": "90"
+      }
+    ],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "Arbitro: Stadio Comunale (52 380 spett.)"
+    ]
   },
   {
     "match_id": "19861102-NAP-INT",
@@ -1994,16 +6238,19 @@
     "season": "1986-87",
     "competizione": "Serie A",
     "squadra_casa": "Napoli",
-    "squadra_trasferta": "Inter",
+    "squadra_trasferta": "Ambrosiana",
     "home_goals": 0,
     "away_goals": 0,
-    "stadio": null,
-    "affluenza": null,
+    "slug": null,
+    "stadio": "Stadio San PaoloArbitro:",
+    "affluenza": 81621,
     "scorers": [],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "Arbitro: Stadio San Paolo (81 621 spett.)"
+    ]
   },
   {
     "match_id": "19861026-ROM-NAP",
@@ -2014,13 +6261,22 @@
     "squadra_trasferta": "Napoli",
     "home_goals": 0,
     "away_goals": 1,
-    "stadio": null,
-    "affluenza": null,
-    "scorers": [],
+    "slug": null,
+    "stadio": "Stadio OlimpicoArbitro:",
+    "affluenza": 64515,
+    "scorers": [
+      {
+        "name": "Diego Armando MARADONA",
+        "team": "Napoli",
+        "minute": "46"
+      }
+    ],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "Arbitro: Stadio Olimpico (64 515 spett.)"
+    ]
   },
   {
     "match_id": "19861019-NAP-ATA",
@@ -2031,13 +6287,37 @@
     "squadra_trasferta": "Atalanta",
     "home_goals": 2,
     "away_goals": 2,
-    "stadio": null,
-    "affluenza": null,
-    "scorers": [],
+    "slug": null,
+    "stadio": "Stadio San PaoloArbitro:",
+    "affluenza": 64476,
+    "scorers": [
+      {
+        "name": "Giuseppe VOLPECINA",
+        "team": "Napoli",
+        "minute": "20"
+      },
+      {
+        "name": "Cantarutti",
+        "team": "Atalanta",
+        "minute": "30"
+      },
+      {
+        "name": "Diego Armando MARADONA",
+        "team": "Napoli",
+        "minute": "65"
+      },
+      {
+        "name": "Incocciati",
+        "team": "Atalanta",
+        "minute": "80"
+      }
+    ],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "Arbitro: Stadio San Paolo (64 476 spett.)"
+    ]
   },
   {
     "match_id": "19861012-SAM-NAP",
@@ -2048,13 +6328,32 @@
     "squadra_trasferta": "Napoli",
     "home_goals": 1,
     "away_goals": 2,
-    "stadio": null,
-    "affluenza": null,
-    "scorers": [],
+    "slug": null,
+    "stadio": "Stadio Luigi FerrarisArbitro:",
+    "affluenza": 32460,
+    "scorers": [
+      {
+        "name": "Luigi CAFFARELLI",
+        "team": "Napoli",
+        "minute": "8"
+      },
+      {
+        "name": "Vialli",
+        "team": "Sampdoria",
+        "minute": "59"
+      },
+      {
+        "name": "Diego Armando MARADONA",
+        "team": "Napoli",
+        "minute": "65"
+      }
+    ],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "Arbitro: Stadio Luigi Ferraris (32 460 spett.)"
+    ]
   },
   {
     "match_id": "19861005-NAP-TOR",
@@ -2065,13 +6364,37 @@
     "squadra_trasferta": "Torino",
     "home_goals": 3,
     "away_goals": 1,
-    "stadio": null,
-    "affluenza": null,
-    "scorers": [],
+    "slug": null,
+    "stadio": "Stadio San PaoloArbitro:",
+    "affluenza": 65450,
+    "scorers": [
+      {
+        "name": "Sabato",
+        "team": "Torino",
+        "minute": "10"
+      },
+      {
+        "name": "Salvatore BAGNI",
+        "team": "Napoli",
+        "minute": "15"
+      },
+      {
+        "name": "Ciro FERRARA",
+        "team": "Napoli",
+        "minute": "60"
+      },
+      {
+        "name": "Bruno GIORDANO",
+        "team": "Napoli",
+        "minute": "76"
+      }
+    ],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "Arbitro: Stadio San Paolo (65 450 spett.)"
+    ]
   },
   {
     "match_id": "19861001-TOL-NAP",
@@ -2082,6 +6405,7 @@
     "squadra_trasferta": "Napoli",
     "home_goals": 4,
     "away_goals": null,
+    "slug": null,
     "stadio": null,
     "affluenza": null,
     "scorers": [],
@@ -2099,6 +6423,7 @@
     "squadra_trasferta": "Napoli",
     "home_goals": 0,
     "away_goals": 0,
+    "slug": null,
     "stadio": null,
     "affluenza": null,
     "scorers": [],
@@ -2116,13 +6441,27 @@
     "squadra_trasferta": "Udinese",
     "home_goals": 1,
     "away_goals": 1,
-    "stadio": null,
-    "affluenza": null,
-    "scorers": [],
+    "slug": null,
+    "stadio": "Stadio San PaoloArbitro:",
+    "affluenza": 64720,
+    "scorers": [
+      {
+        "name": "Fernando DE NAPOLI",
+        "team": "Napoli",
+        "minute": "29"
+      },
+      {
+        "name": "Graziani",
+        "team": "Udinese",
+        "minute": "49"
+      }
+    ],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "Arbitro: Stadio San Paolo (64 720 spett.)"
+    ]
   },
   {
     "match_id": "19860917-NAP-TOL",
@@ -2133,6 +6472,7 @@
     "squadra_trasferta": "Tolosa",
     "home_goals": 1,
     "away_goals": 0,
+    "slug": null,
     "stadio": null,
     "affluenza": null,
     "scorers": [],
@@ -2150,13 +6490,22 @@
     "squadra_trasferta": "Napoli",
     "home_goals": 0,
     "away_goals": 1,
-    "stadio": null,
-    "affluenza": null,
-    "scorers": [],
+    "slug": null,
+    "stadio": "Stadio Mario RigamontiArbitro:",
+    "affluenza": 30400,
+    "scorers": [
+      {
+        "name": "Diego Armando MARADONA",
+        "team": "Napoli",
+        "minute": "41"
+      }
+    ],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "Arbitro: Stadio Mario Rigamonti (30 400 spett.)"
+    ]
   },
   {
     "match_id": "19860907-NAP-CES",
@@ -2167,13 +6516,37 @@
     "squadra_trasferta": "Cesena",
     "home_goals": 3,
     "away_goals": 1,
-    "stadio": null,
+    "slug": null,
+    "stadio": "Stadio San PaoloArbitro:",
     "affluenza": null,
-    "scorers": [],
+    "scorers": [
+      {
+        "name": "Simonini",
+        "team": "Cesena",
+        "minute": "9"
+      },
+      {
+        "name": "Andrea CARNEVALE",
+        "team": "Napoli",
+        "minute": "24"
+      },
+      {
+        "name": "Diego Armando MARADONA",
+        "team": "Napoli",
+        "minute": "53"
+      },
+      {
+        "name": "Salvatore BAGNI",
+        "team": "Napoli",
+        "minute": "74"
+      }
+    ],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "Arbitro: Stadio San Paolo"
+    ]
   },
   {
     "match_id": "19860903-NAP-VIC",
@@ -2184,6 +6557,7 @@
     "squadra_trasferta": "Vicenza",
     "home_goals": 2,
     "away_goals": 1,
+    "slug": null,
     "stadio": null,
     "affluenza": null,
     "scorers": [],
@@ -2201,6 +6575,7 @@
     "squadra_trasferta": "Napoli",
     "home_goals": 0,
     "away_goals": 1,
+    "slug": null,
     "stadio": null,
     "affluenza": null,
     "scorers": [],
@@ -2218,29 +6593,57 @@
     "squadra_trasferta": "Napoli",
     "home_goals": 0,
     "away_goals": 2,
-    "stadio": null,
+    "slug": null,
+    "stadio": "Stadio OlimpicoArbitro:",
     "affluenza": null,
-    "scorers": [],
+    "scorers": [
+      {
+        "name": "Andrea CARNEVALE",
+        "team": "Napoli",
+        "minute": "26"
+      },
+      {
+        "name": "Diego Armando MARADONA",
+        "team": "Napoli",
+        "minute": "36"
+      }
+    ],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "Arbitro: Stadio Olimpico"
+    ]
   },
   {
     "match_id": "19860824-SPA-NAP",
     "date": "1986-08-24",
     "season": "1986-87",
     "competizione": "Coppa Italia",
-    "squadra_casa": "Spal",
+    "squadra_casa": "SPAL",
     "squadra_trasferta": "Napoli",
     "home_goals": 0,
     "away_goals": 2,
-    "stadio": null,
+    "slug": null,
+    "stadio": "Stadio Paolo MazzaArbitro:",
     "affluenza": null,
-    "scorers": [],
+    "scorers": [
+      {
+        "name": "Salvatore BAGNI",
+        "team": "Napoli",
+        "minute": "43"
+      },
+      {
+        "name": "Diego Armando MARADONA",
+        "team": "Napoli",
+        "minute": "68"
+      }
+    ],
     "fonti": [
       "10maggio87"
     ],
-    "note": []
+    "note": [
+      "Arbitro: Stadio Paolo Mazza"
+    ]
   }
 ]

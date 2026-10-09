@@ -322,3 +322,43 @@ footer{padding:0 20px;margin-top:46px;}
  . b t n - e x p o r t : h o v e r   {   b a c k g r o u n d :   v a r ( - - c y a n - f a i n t ) ;   } 
   
  
+/* ============================================================
+   SCORERS LIST
+   ============================================================ */
+.scorers {
+  margin-top: 32px;
+}
+.scorers-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  border-top: 1px solid var(--border);
+}
+.scorer {
+  display: flex;
+  align-items: baseline;
+  padding: 12px 0;
+  border-bottom: 1px solid var(--border);
+  gap: 16px;
+}
+.scorer .minute {
+  color: var(--cyan);
+  font-family: 'Space Grotesk', sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  width: 48px;
+  flex-shrink: 0;
+}
+.scorer .name {
+  color: var(--white);
+  font-weight: 600;
+  font-size: 16px;
+  flex-grow: 1;
+}
+.scorer .team {
+  color: var(--dimmer);
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+}

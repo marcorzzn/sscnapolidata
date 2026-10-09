@@ -7,7 +7,7 @@ import sys
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DB_PATH = os.path.join(BASE_DIR, 'db', 'datanapoli.sqlite')
-CSV_PATH = os.path.join(BASE_DIR, 'data', 'import', 'esempio.csv')
+CSV_PATH = sys.argv[1] if len(sys.argv) > 1 else os.path.join(BASE_DIR, 'data', 'import', 'esempio.csv')
 
 sys.path.append(BASE_DIR)
 import importlib.util

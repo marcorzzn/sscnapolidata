@@ -1,0 +1,37 @@
+match_id,date,season,competition,home_raw_name,away_raw_name,home_goals,away_goals,stadium,attendance,home_scorers,away_scorers,notes
+19650905-NAP-SPA,1965-09-05,1965-1966,Serie A,Napoli,SPAL,4,2,Stadio San PaoloArbitro:,,"Cané  37’ (rig.),  58’,  72’, Altafini  79’","44’ Capello, 49’ Bagnoli",Arbitro: Stadio San Paolo
+19650912-NAP-CAT,1965-09-12,1965-1966,Serie A,Napoli,Catania,3,0,Stadio San PaoloArbitro:,,"Cané  22’, Altafini  26’, Cané  47’",,Arbitro: Stadio San Paolo
+19650919-JUV-NAP,1965-09-19,1965-1966,Serie A,Juventus,Napoli,0,0,Stadio ComunaleArbitro:,,,,Arbitro: Stadio Comunale
+19650926-BOL-NAP,1965-09-26,1965-1966,Serie A,Bologna,Napoli,0,1,Stadio Renato Dall'AraArbitro:,,,Altafini,Arbitro: Stadio Renato Dall'Ara
+19651003-NAP-BRE,1965-10-03,1965-1966,Serie A,Napoli,Brescia,1,0,Stadio San PaoloArbitro:,,Bean  17’,,Arbitro: Stadio San Paolo
+19651010-MIL-NAP,1965-10-10,1965-1966,Serie A,Milan,Napoli,4,1,Stadio San SiroArbitro:,,"Panzanato  3’ (aut.), Rivera  12’,  57’, Noletti  84’",62’ Altafini,Arbitro: Stadio San Siro
+19651017-NAP-ATA,1965-10-17,1965-1966,Serie A,Napoli,Atalanta,5,1,Stadio San PaoloArbitro:,,"Altafini  6’, Gardoni  10’ (aut.), Altafini  38’, Sivori  83’, Altafini  89’",63’ Nova,Arbitro: Stadio San Paolo
+19651024-ROM-NAP,1965-10-24,1965-1966,Serie A,Roma,Napoli,0,0,Stadio OlimpicoArbitro:,,,,Arbitro: Stadio Olimpico
+19651114-NAP-TOR,1965-11-14,1965-1966,Serie A,Napoli,Torino,0,0,Stadio San PaoloArbitro:,,,,Arbitro: Stadio San Paolo
+19651121-FOG-NAP,1965-11-21,1965-1966,Serie A,Foggia & Incedit,Napoli,0,1,Stadio Pino ZaccheriaArbitro:,,,Girardo  89’,Arbitro: Stadio Pino Zaccheria
+19651128-NAP-LAN,1965-11-28,1965-1966,Serie A,Napoli,Lanerossi Vicenza,4,2,Stadio San PaoloArbitro:,,"Tiberi  8’ (aut.), Sivori  41’, Altafini  49’, Cané  71’","63’,  75’ Vinicio",Arbitro: Stadio San Paolo
+19651212-NAP-VAR,1965-12-12,1965-1966,Serie A,Napoli,Varese,2,2,Stadio San PaoloArbitro:,,"Altafini  78’, Sivori  82’","66’ Gioia, 85’ Andersson",Arbitro: Stadio San Paolo
+19651219-FIO-NAP,1965-12-19,1965-1966,Serie A,Fiorentina,Napoli,0,0,Stadio ComunaleArbitro:,,,,Arbitro: Stadio Comunale
+19651226-LAZ-NAP,1965-12-26,1965-1966,Serie A,Lazio,Napoli,2,1,Stadio OlimpicoArbitro:,,"Ciccolo  21’, Renna  29’",89’ Bean,Arbitro: Stadio Olimpico
+19660102-NAP-CAG,1966-01-02,1965-1966,Serie A,Napoli,Cagliari,2,0,Stadio San PaoloArbitro:,,"Bean  2’ (rig.), Altafini  71’ (rig.)",,Arbitro: Stadio San Paolo
+19660109-NAP-SAM,1966-01-09,1965-1966,Serie A,Napoli,Sampdoria,2,2,Stadio San PaoloArbitro:,,"Juliano  24’, Panzanato  79’","15’ Frustalupi, 52’ Salvi",Arbitro: Stadio San Paolo
+19660116-INT-NAP,1966-01-16,1965-1966,Serie A,Inter,Napoli,0,0,Stadio San SiroArbitro:,,,,Arbitro: Stadio San Siro
+19660123-SPA-NAP,1966-01-23,1965-1966,Serie A,SPAL,Napoli,1,2,Stadio ComunaleArbitro:,,Innocenti  80’,"25’,  30’ (rig.) Cané",Arbitro: Stadio Comunale
+19660130-CAT-NAP,1966-01-30,1965-1966,Serie A,Catania,Napoli,0,0,Stadio CibaliArbitro:,,,,Arbitro: Stadio Cibali
+19660206-NAP-JUV,1966-02-06,1965-1966,Serie A,Napoli,Juventus,1,0,Stadio San PaoloArbitro:,,Altafini  24’,,Arbitro: Stadio San Paolo
+19660213-NAP-BOL,1966-02-13,1965-1966,Serie A,Napoli,Bologna,1,1,Stadio San PaoloArbitro:,,Cané  46’,28’ Nielsen,Arbitro: Stadio San Paolo
+19660220-BRE-NAP,1966-02-20,1965-1966,Serie A,Brescia,Napoli,0,0,Stadio Mario RigamontiArbitro:,,,,Arbitro: Stadio Mario Rigamonti
+19660227-NAP-MIL,1966-02-27,1965-1966,Serie A,Napoli,Milan,1,0,Stadio San PaoloArbitro:,,Sivori  88’,,Arbitro: Stadio San Paolo
+19660306-ATA-NAP,1966-03-06,1965-1966,Serie A,Atalanta,Napoli,1,0,Stadio ComunaleArbitro:,,Hitchens  69’,,Arbitro: Stadio Comunale
+19660313-NAP-ROM,1966-03-13,1965-1966,Serie A,Napoli,Roma,1,0,Stadio San PaoloArbitro:,,Cané  82’,,Arbitro: Stadio San Paolo
+19660327-TOR-NAP,1966-03-27,1965-1966,Serie A,Torino,Napoli,1,1,Stadio ComunaleArbitro:,,Schutz  68’,71’ Altafini,Arbitro: Stadio Comunale
+19660403-NAP-FOG,1966-04-03,1965-1966,Serie A,Napoli,Foggia & Incedit,1,0,Stadio San PaoloArbitro:,,Gatti  68’,,Arbitro: Stadio San Paolo
+19660410-LAN-NAP,1966-04-10,1965-1966,Serie A,Lanerossi Vicenza,Napoli,2,0,Stadio Romeo MentiArbitro:,,Vinicio  6’,53’ Demarco,Arbitro: Stadio Romeo Menti
+19660417-VAR-NAP,1966-04-17,1965-1966,Serie A,Varese,Napoli,0,2,Stadio Franco OssolaArbitro:,,,"66’ Girardo, 78’ Cané",Arbitro: Stadio Franco Ossola
+19660424-NAP-FIO,1966-04-24,1965-1966,Serie A,Napoli,Fiorentina,0,4,Stadio San PaoloArbitro:,,,"42’ Bertini, 60’,  85’ Brugnera, 88’ Hamrin",Arbitro: Stadio San Paolo
+19650101-NAP-LAZ,1965-01-01,1965-1966,Serie A,Napoli,Lazio,2,0,Stadio San PaoloArbitro:,,"Cané  26’, Sivori  47’",,Arbitro: Stadio San Paolo
+19660508-CAG-NAP,1966-05-08,1965-1966,Serie A,Cagliari,Napoli,0,2,Stadio AmsicoraArbitro:,,,"2’,  24’ Sivori",Arbitro: Stadio Amsicora
+19660515-SAM-NAP,1966-05-15,1965-1966,Serie A,Sampdoria,Napoli,1,0,Stadio Luigi FerrarisArbitro:,,Cristin  71’,,Arbitro: Stadio Luigi Ferraris
+19660522-NAP-INT,1966-05-22,1965-1966,Serie A,Napoli,Inter,3,1,Stadio San PaoloArbitro:,,"Altafini  54’,  82’, Juliano  55’",81’ (aut.) Panzanato,Arbitro: Stadio San Paolo
+19650829-TRA-NAP,1965-08-29,1965-1966,Coppa Italia,Trani,Napoli,1,2,Stadio ComunaleArbitro:,,Vanzini  41’,"7’ Juliano, 78’ Altafini",Arbitro: Stadio Comunale
+19651104-NAP-CAT,1965-11-04,1965-1966,Coppa Italia,Napoli,Catanzaro,0,1,Stadio San PaoloArbitro:,,,70’ Bui,Arbitro: Stadio San Paolo

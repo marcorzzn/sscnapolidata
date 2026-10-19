@@ -1,0 +1,36 @@
+match_id,date,season,competition,home_raw_name,away_raw_name,home_goals,away_goals,stadium,attendance,home_scorers,away_scorers,notes
+19830911-FIO-NAP,1983-09-11,1983-1984,Serie A,Fiorentina,Napoli,5,1,Stadio ComunaleArbitro:,45 073,"Oriali  43’, Monelli  45’,  63’,  71’, Iachini  80’",79’ Palanca,Arbitro: Stadio Comunale (45 073 spett.)
+19830918-NAP-GEN,1983-09-18,1983-1984,Serie A,Napoli,Genoa,0,0,Stadio San PaoloArbitro:,55 893,,,Arbitro: Stadio San Paolo (55 893 spett.)
+19830925-JUV-NAP,1983-09-25,1983-1984,Serie A,Juventus,Napoli,2,0,Stadio ComunaleArbitro:,37 698,"Cabrini  55’, P. Rossi  88’",,Arbitro: Stadio Comunale (37 698 spett.)
+19831002-NAP-AVE,1983-10-02,1983-1984,Serie A,Napoli,Avellino,2,0,Stadio San PaoloArbitro:,57 609,"Casale  12’, Dal Fiume  15’",,Arbitro: Stadio San Paolo (57 609 spett.)
+19831009-INT-NAP,1983-10-09,1983-1984,Serie A,Inter,Napoli,1,0,Stadio Giuseppe MeazzaArbitro:,53 961,Altobelli  81’,,Arbitro: Stadio Giuseppe Meazza (53 961 spett.)
+19831023-NAP-ASC,1983-10-23,1983-1984,Serie A,Napoli,Ascoli,1,0,Stadio San PaoloArbitro:,40 476,Dirceu  10’,,Arbitro: Stadio San Paolo (40 476 spett.)
+19831030-ROM-NAP,1983-10-30,1983-1984,Serie A,Roma,Napoli,5,1,Stadio OlimpicoArbitro:,54 790,"F. Graziani  10’, Cerezo  21’, Falcão  34’, B. Conti  38’,  79’",70’ Dal Fiume,Arbitro: Stadio Olimpico (54 790 spett.)
+19831106-NAP-PIS,1983-11-06,1983-1984,Serie A,Napoli,Pisa,0,0,Stadio San PaoloArbitro:,44 388,,,Arbitro: Stadio San Paolo (44 388 spett.)
+19831120-VER-NAP,1983-11-20,1983-1984,Serie A,Verona,Napoli,1,1,Stadio Marcantonio BentegodiArbitro:,36 312,Di Gennaro  38’,64’ Bruscolotti,Arbitro: Stadio Marcantonio Bentegodi (36 312 spett.)
+19831127-NAP-MIL,1983-11-27,1983-1984,Serie A,Napoli,Milan,0,0,Stadio San PaoloArbitro:,59 804,,,Arbitro: Stadio San Paolo (59 804 spett.)
+19831204-CAT-NAP,1983-12-04,1983-1984,Serie A,Catania,Napoli,0,0,Stadio CibaliArbitro:,18 265,,,Arbitro: Stadio Cibali (18 265 spett.)
+19831211-NAP-LAZ,1983-12-11,1983-1984,Serie A,Napoli,Lazio,3,0,Stadio San PaoloArbitro:,47 441,"De Rosa  47’,  86’, Dirceu  65’",,Arbitro: Stadio San Paolo (47 441 spett.)
+19831218-SAM-NAP,1983-12-18,1983-1984,Serie A,Sampdoria,Napoli,4,1,Stadio Luigi FerrarisArbitro:,20 782,"Casagrande  8’, R. Mancini  14’, Pari  40’, Krol  90’ (aut.)",62’ Caffarelli,Arbitro: Stadio Luigi Ferraris (20 782 spett.)
+19831231-UDI-NAP,1983-12-31,1983-1984,Serie A,Udinese,Napoli,4,1,Stadio FriuliArbitro:,39 296,"Causio  29’, Zico  30’ (rig.), Virdis  71’, Miano  78’",57’ Bruscolotti,Arbitro: Stadio Friuli (39 296 spett.)
+19840108-NAP-TOR,1984-01-08,1983-1984,Serie A,Napoli,Torino,0,0,Stadio San PaoloArbitro:,50 560,,,Arbitro: Stadio San Paolo (50 560 spett.)
+19840115-NAP-FIO,1984-01-15,1983-1984,Serie A,Napoli,Fiorentina,0,0,Stadio San PaoloArbitro:,54 526,,,Arbitro: Stadio San Paolo (54 526 spett.)
+19840122-GEN-NAP,1984-01-22,1983-1984,Serie A,Genoa,Napoli,0,0,Stadio Luigi FerrarisArbitro:,23 070,,,Arbitro: Stadio Luigi Ferraris (23 070 spett.)
+19840129-NAP-JUV,1984-01-29,1983-1984,Serie A,Napoli,Juventus,1,1,Stadio San PaoloArbitro:,78 623,De Rosa  74’,28’ Platini,Arbitro: Stadio San Paolo (78 623 spett.)
+19840212-AVE-NAP,1984-02-12,1983-1984,Serie A,Avellino,Napoli,1,0,Stadio PartenioArbitro:,25 194,Díaz  6’,,Arbitro: Stadio Partenio (25 194 spett.)
+19840219-NAP-INT,1984-02-19,1983-1984,Serie A,Napoli,Inter,0,2,Stadio San PaoloArbitro:,62 047,,"17’ Beccalossi, 55’ (aut.) Ferrario",Arbitro: Stadio San Paolo (62 047 spett.)
+19840226-ASC-NAP,1984-02-26,1983-1984,Serie A,Ascoli,Napoli,2,2,Stadio Cino e Lillo Del DucaArbitro:,13 531,"Novellino  3’, Juary  6’","39’ De Rosa, 45’ Dirceu",Arbitro: Stadio Cino e Lillo Del Duca (13 531 spett.)
+19840311-NAP-ROM,1984-03-11,1983-1984,Serie A,Napoli,Roma,1,2,Stadio San PaoloArbitro:,65 038,Casale  59’,"15’ F. Graziani, 62’ D. Bonetti",Arbitro: Stadio San Paolo (65 038 spett.)
+19840318-PIS-NAP,1984-03-18,1983-1984,Serie A,Pisa,Napoli,1,1,Stadio Arena GaribaldiArbitro:,18 123,Krol  79’ (aut.),61’ De Rosa,Arbitro: Stadio Arena Garibaldi (18 123 spett.)
+19840325-NAP-VER,1984-03-25,1983-1984,Serie A,Napoli,Verona,1,0,Stadio San PaoloArbitro:,49 336,Ferrario  38’ (rig.),,Arbitro: Stadio San Paolo (49 336 spett.)
+19830101-MIL-NAP,1983-01-01,1983-1984,Serie A,Milan,Napoli,0,2,Stadio Giuseppe MeazzaArbitro:,37 872,,"50’ De Rosa, 53’ Dal Fiume",Arbitro: Stadio Giuseppe Meazza (37 872 spett.)
+19840415-NAP-CAT,1984-04-15,1983-1984,Serie A,Napoli,Catania,3,0,Stadio San PaoloArbitro:,47 348,"Dirceu  35’, Dal Fiume  78’, C. Pellegrini  82’",,Arbitro: Stadio San Paolo (47 348 spett.)
+19840421-LAZ-NAP,1984-04-21,1983-1984,Serie A,Lazio,Napoli,3,2,Stadio OlimpicoArbitro:,57 454,"Giordano  1’, Laudrup  33’,  62’","42’ Dal Fiume, 77’ Celestini",Arbitro: Stadio Olimpico (57 454 spett.)
+19840429-NAP-SAM,1984-04-29,1983-1984,Serie A,Napoli,Sampdoria,1,1,Stadio San PaoloArbitro:,51 736,Ferrario  25’ (rig.),61’ R. Mancini,Arbitro: Stadio San Paolo (51 736 spett.)
+19840506-NAP-UDI,1984-05-06,1983-1984,Serie A,Napoli,Udinese,2,1,Stadio San PaoloArbitro:,68 125,"Frappampina  13’, Ferrario  75’ (rig.)",86’ Pradella,Arbitro: Stadio San Paolo (68 125 spett.)
+19840513-TOR-NAP,1984-05-13,1983-1984,Serie A,Torino,Napoli,2,1,Stadio ComunaleArbitro:,18 805,"Dossena  19’, Beruatto  42’",37’ Dirceu,Arbitro: Stadio Comunale (18 805 spett.)
+19830821-COS-NAP,1983-08-21,1983-1984,Coppa Italia,Cosenza,Napoli,0,2,Stadio San VitoArbitro:,,,"72’,  84’ De Rosa",Arbitro: Stadio San Vito
+19830824-NAP-VAR,1983-08-24,1983-1984,Coppa Italia,Napoli,Varese,0,0,Stadio San PaoloArbitro:,,,,Arbitro: Stadio San Paolo
+19830828-BOL-NAP,1983-08-28,1983-1984,Coppa Italia,Bologna,Napoli,1,0,Stadio ComunaleArbitro:,,Frutti  75’,,Arbitro: Stadio Comunale
+19830831-CAV-NAP,1983-08-31,1983-1984,Coppa Italia,Cavese,Napoli,1,1,Stadio Simonetta LambertiArbitro:,,Di Michele  75’ (rig.),77’ Dirceu,Arbitro: Stadio Simonetta Lamberti
+19830904-NAP-UDI,1983-09-04,1983-1984,Coppa Italia,Napoli,Udinese,1,2,Stadio San PaoloArbitro:,,Casale  5’,"31’ Gerolin, 74’ Causio",Arbitro: Stadio San Paolo

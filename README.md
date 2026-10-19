@@ -6,6 +6,11 @@ Sito statico pensato per GitHub Pages. Principio fondativo: **nessun dato è mai
 dedotto o inventato**. Dove una fonte non conferma un dettaglio, la pagina lo dichiara
 esplicitamente invece di ometterlo in silenzio o di indovinarlo.
 
+## Requisiti
+- Python 3.13 (`python3.13` nel PATH; il comando `python` potrebbe non esistere su questa macchina)
+- Node 20 LTS (per il sito Astro, in arrivo)
+- SQLite (incluso in Python)
+
 ## Struttura
 
 ```

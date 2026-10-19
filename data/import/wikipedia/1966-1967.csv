@@ -1,0 +1,42 @@
+match_id,date,season,competition,home_raw_name,away_raw_name,home_goals,away_goals,stadium,attendance,home_scorers,away_scorers,notes
+19660918-NAP-LRV,1966-09-18,1966-1967,Serie A,Napoli,L.R. Vicenza,1,0,Stadio San PaoloArbitro:,,Juliano  83’,,Arbitro: Stadio San Paolo
+19660925-NAP-SPA,1966-09-25,1966-1967,Serie A,Napoli,SPAL,1,0,Stadio San PaoloArbitro:,,Bianchi  82’,,Arbitro: Stadio San Paolo
+19661002-ROM-NAP,1966-10-02,1966-1967,Serie A,Roma,Napoli,0,2,Stadio OlimpicoArbitro:,,,"6’ Braca, 78’ Sivori",Arbitro: Stadio Olimpico
+19661009-NAP-MIL,1966-10-09,1966-1967,Serie A,Napoli,Milan,3,2,Stadio San PaoloArbitro:,,"Orlando  12’,  53’, Bianchi  28’","49’ (rig.) Rivera, 69’ Amarildo",Arbitro: Stadio San Paolo
+19661016-ATA-NAP,1966-10-16,1966-1967,Serie A,Atalanta,Napoli,1,1,Stadio ComunaleArbitro:,,Salvori  72’,29’ Sivori,Arbitro: Stadio Comunale
+19661023-VEN-NAP,1966-10-23,1966-1967,Serie A,Venezia,Napoli,0,0,Stadio Pierluigi PenzoArbitro:,,,,Arbitro: Stadio Pierluigi Penzo
+19661106-NAP-LAZ,1966-11-06,1966-1967,Serie A,Napoli,Lazio,1,0,Stadio San PaoloArbitro:,,Altafini  65’,,Arbitro: Stadio San Paolo
+19661113-BOL-NAP,1966-11-13,1966-1967,Serie A,Bologna,Napoli,1,0,Stadio ComunaleArbitro:,,Pascutti  31’,,Arbitro: Stadio Comunale
+19661120-NAP-JUV,1966-11-20,1966-1967,Serie A,Napoli,Juventus,0,1,Stadio San PaoloArbitro:,,,86’ Favalli,Arbitro: Stadio San Paolo
+19661204-MAN-NAP,1966-12-04,1966-1967,Serie A,Mantova,Napoli,0,2,Stadio Danilo MartelliArbitro:,,,"44’ Bianchi, 47’ (aut.) Pavinato",Arbitro: Stadio Danilo Martelli
+19661211-BRE-NAP,1966-12-11,1966-1967,Serie A,Brescia,Napoli,1,0,Stadio Mario RigamontiArbitro:,,D'Alessi  7’,,Arbitro: Stadio Mario Rigamonti
+19661218-NAP-CAG,1966-12-18,1966-1967,Serie A,Napoli,Cagliari,1,0,Stadio San PaoloArbitro:,,Orlando  13’,,Arbitro: Stadio San Paolo
+19661224-NAP-FOG,1966-12-24,1966-1967,Serie A,Napoli,Foggia & Incedit,3,2,Stadio San PaoloArbitro:,,"Orlando  33’, Altafini  45’,  63’","6’,  70’ Micheli",Arbitro: Stadio San Paolo
+19661231-FIO-NAP,1966-12-31,1966-1967,Serie A,Fiorentina,Napoli,1,1,Stadio ComunaleArbitro:,,Hamrin  60’,51’ Orlando,Arbitro: Stadio Comunale
+19670108-NAP-INT,1967-01-08,1966-1967,Serie A,Napoli,Inter,0,0,Stadio San PaoloArbitro:,,,,Arbitro: Stadio San Paolo
+19670115-NAP-LEC,1967-01-15,1966-1967,Serie A,Napoli,Lecco,4,1,Stadio San PaoloArbitro:,,"Altafini  8’,  78’, Cané  17’, Juliano  87’",19’ Azzimonti,Arbitro: Stadio San Paolo
+19670122-TOR-NAP,1967-01-22,1966-1967,Serie A,Torino,Napoli,0,0,Stadio ComunaleArbitro:,,,,Arbitro: Stadio Comunale
+19670129-LRV-NAP,1967-01-29,1966-1967,Serie A,L.R. Vicenza,Napoli,2,1,Stadio Romeo MentiArbitro:,,"Gori  52’, Menti  64’",28’ Altafini,Arbitro: Stadio Romeo Menti
+19670205-SPA-NAP,1967-02-05,1966-1967,Serie A,SPAL,Napoli,1,4,Stadio ComunaleArbitro:,,Nardin  46’ (aut.),"21’ Juliano, 26’ (rig.)  36’,  64’ (rig.) Altafini",Arbitro: Stadio Comunale
+19670212-NAP-ROM,1967-02-12,1966-1967,Serie A,Napoli,Roma,2,0,Stadio San PaoloArbitro:,,"Altafini  22’,  87’ (rig.)",,Arbitro: Stadio San Paolo
+19670219-MIL-NAP,1967-02-19,1966-1967,Serie A,Milan,Napoli,1,0,Stadio San SiroArbitro:,,Rivera  77’,,Arbitro: Stadio San Siro
+19670226-NAP-ATA,1967-02-26,1966-1967,Serie A,Napoli,Atalanta,3,0,Stadio San PaoloArbitro:,,"Bean  3’, Cané  6’,  89’",,Arbitro: Stadio San Paolo
+19670305-NAP-VEN,1967-03-05,1966-1967,Serie A,Napoli,Venezia,4,0,Stadio San PaoloArbitro:,,"Bianchi  19’, Cané  32’,  47’, Juliano  40’",,Arbitro: Stadio San Paolo
+19670312-LAZ-NAP,1967-03-12,1966-1967,Serie A,Lazio,Napoli,0,0,Stadio OlimpicoArbitro:,,,,Arbitro: Stadio Olimpico
+19670319-NAP-BOL,1967-03-19,1966-1967,Serie A,Napoli,Bologna,2,1,Stadio San PaoloArbitro:,,"Cané  11’, Orlando  42’",59’ Nielsen,Arbitro: Stadio San Paolo
+19670402-JUV-NAP,1967-04-02,1966-1967,Serie A,Juventus,Napoli,2,0,Stadio ComunaleArbitro:,,"Zigoni  52’, Salvadore  55’",,Arbitro: Stadio Comunale
+19670409-NAP-MAN,1967-04-09,1966-1967,Serie A,Napoli,Mantova,1,0,Stadio San PaoloArbitro:,,Bianchi  44’,,Arbitro: Stadio San Paolo
+19670416-NAP-BRE,1967-04-16,1966-1967,Serie A,Napoli,Brescia,1,1,Stadio San PaoloArbitro:,,Bianchi  62’,38’ Troja,Arbitro: Stadio San Paolo
+19670423-CAG-NAP,1967-04-23,1966-1967,Serie A,Cagliari,Napoli,0,0,Stadio AmsicoraArbitro:,,,,Arbitro: Stadio Amsicora
+19670430-FOG-NAP,1967-04-30,1966-1967,Serie A,Foggia & Incedit,Napoli,1,1,Stadio Pino ZaccheriaArbitro:,,Valadè  2’,85’ Altafini,Arbitro: Stadio Pino Zaccheria
+19670507-NAP-FIO,1967-05-07,1966-1967,Serie A,Napoli,Fiorentina,1,2,Stadio San PaoloArbitro:,,Altafini  27’ (rig.),"44’ (rig.) Bertini, 64’ Ferrante",Arbitro: Stadio San Paolo
+19670514-INT-NAP,1967-05-14,1966-1967,Serie A,Inter,Napoli,1,1,Stadio San SiroArbitro:,,Burgnich  81’,61’ Altafini,Arbitro: Stadio San Siro
+19670521-LEC-NAP,1967-05-21,1966-1967,Serie A,Lecco,Napoli,0,3,Stadio Mario RigamontiArbitro:,,,"14’ Cané, 36’ Orlando, 50’ Altafini",Arbitro: Stadio Mario Rigamonti
+19670528-NAP-TOR,1967-05-28,1966-1967,Serie A,Napoli,Torino,2,1,Stadio San PaoloArbitro:,,"Puia  29’ (aut.), Altafini  50’",29’ Facchin,Arbitro: Stadio San Paolo
+19670504-PAD-NAP,1967-05-04,1966-1967,Coppa Italia,Padova,Napoli,2,1,Stadio Silvio AppianiArbitro:,,"Morelli  51’, Quintavalle  119’",65’ Altafini,Arbitro: Stadio Silvio Appiani
+19660101-WIE-NAP,1966-01-01,1966-1967,Coppa UEFA,Wiener SK,Napoli,1,2,Wiener PlatzArbitro:,,Knoll  42’,"27’ Cané, 73’ Orlando",Arbitro: Wiener Platz
+19660921-NAP-WIE,1966-09-21,1966-1967,Coppa UEFA,Napoli,Wiener SK,3,1,Stadio San PaoloArbitro:,,"Cané  10’, Sivori  25’, Bianchi  26’",44’ Schmidt,Arbitro: Stadio San Paolo
+19661025-ODE-NAP,1966-10-25,1966-1967,Coppa UEFA,Odense,Napoli,1,4,Odense StadiumArbitro:,,Haastrup  45’,"9’,  20’ Sivori, 49’ Altafini, 52’ Cané",Arbitro: Odense Stadium
+19661102-NAP-ODE,1966-11-02,1966-1967,Coppa UEFA,Napoli,Odense,2,1,Stadio San PaoloArbitro:,,"Braca  84’, Altafini  85’",8’ Haastrup,Arbitro: Stadio San Paolo
+19670118-BUR-NAP,1967-01-18,1966-1967,Coppa UEFA,Burnley,Napoli,3,0,Turf MoorArbitro:,,"Coates  2’, Latcham  22’, Lochhead  51’",,Arbitro: Turf Moor
+19670208-NAP-BUR,1967-02-08,1966-1967,Coppa UEFA,Napoli,Burnley,0,0,Stadio San PaoloArbitro:,,,,Arbitro: Stadio San Paolo

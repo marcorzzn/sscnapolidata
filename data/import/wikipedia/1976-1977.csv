@@ -1,0 +1,47 @@
+match_id,date,season,competition,home_raw_name,away_raw_name,home_goals,away_goals,stadium,attendance,home_scorers,away_scorers,notes
+19761003-CAT-NAP,1976-10-03,1976-1977,Serie A,Catanzaro,Napoli,0,0,Stadio ComunaleArbitro:,,,,Arbitro: Stadio Comunale
+19761010-NAP-VER,1976-10-10,1976-1977,Serie A,Napoli,Verona,3,0,Stadio San PaoloArbitro:,,"G. Savoldi  10’ (rig.),  78’, La Palma  75’",,Arbitro: Stadio San Paolo
+19761024-GEN-NAP,1976-10-24,1976-1977,Serie A,Genoa,Napoli,2,3,Stadio Luigi FerrarisArbitro:,,"Damiani  5’, Pruzzo  64’","23’,  52’ (rig.) G. Savoldi, 38’ (aut.) Onofri",Arbitro: Stadio Luigi Ferraris
+19761031-NAP-MIL,1976-10-31,1976-1977,Serie A,Napoli,Milan,3,1,Stadio San PaoloArbitro:,,"Massa  5’, Orlandini  8’, G. Savoldi  58’ (rig.)",4’ F. Vincenzi,Arbitro: Stadio San Paolo
+19761107-FOG-NAP,1976-11-07,1976-1977,Serie A,Foggia,Napoli,2,2,Stadio Pino ZaccheriaArbitro:,,"Burgnich  39’ (aut.), Domenghini  42’","32’,  76’ G. Savoldi",Arbitro: Stadio Pino Zaccheria
+19761121-NAP-LAZ,1976-11-21,1976-1977,Serie A,Napoli,Lazio,1,1,Stadio San PaoloArbitro:,,W. Speggiorin  72’,86’ Garlaschelli,Arbitro: Stadio San Paolo
+19761128-TOR-NAP,1976-11-28,1976-1977,Serie A,Torino,Napoli,2,1,Stadio ComunaleArbitro:,,"F. Graziani  13’, Zaccarelli  22’",20’ Orlandini,Arbitro: Stadio Comunale
+19761205-NAP-CES,1976-12-05,1976-1977,Serie A,Napoli,Cesena,3,1,Stadio San PaoloArbitro:,,"Massa  32’, Beatrice  61’ (aut.), Chiarugi  71’",85’ Bonci,Arbitro: Stadio San Paolo
+19761212-NAP-ROM,1976-12-12,1976-1977,Serie A,Napoli,Roma,1,0,Stadio San PaoloArbitro:,,Massa  1’,,Arbitro: Stadio San Paolo
+19761219-INT-NAP,1976-12-19,1976-1977,Serie A,Inter,Napoli,3,2,Stadio di San SiroArbitro:,,"Muraro  7’,  79’, Oriali  18’","20’ G. Savoldi, 81’ Vinazzani",Arbitro: Stadio di San Siro
+19770102-SAM-NAP,1977-01-02,1976-1977,Serie A,Sampdoria,Napoli,2,2,Stadio Luigi FerrarisArbitro:,,"Callioni  13’,  41’","36’ (rig.) G. Savoldi, 48’ Chiarugi",Arbitro: Stadio Luigi Ferraris
+19770109-NAP-JUV,1977-01-09,1976-1977,Serie A,Napoli,Juventus,0,2,Stadio San PaoloArbitro:,,,"70’ Boninsegna, 76’ Scirea",Arbitro: Stadio San Paolo
+19770116-BOL-NAP,1977-01-16,1976-1977,Serie A,Bologna,Napoli,0,1,Stadio ComunaleArbitro:,,,80’ G. Savoldi,Arbitro: Stadio Comunale
+19770130-NAP-PER,1977-01-30,1976-1977,Serie A,Napoli,Perugia,1,1,ComunaleArbitro:,,G. Savoldi  81’,20’ M. Scarpa,Arbitro: Comunale (Bologna)
+19770206-FIO-NAP,1977-02-06,1976-1977,Serie A,Fiorentina,Napoli,2,1,Stadio ComunaleArbitro:,,"Della Martira  34’,  50’",42’ (aut.) E. Pellegrini,Arbitro: Stadio Comunale
+19770212-NAP-CAT,1977-02-12,1976-1977,Serie A,Napoli,Catanzaro,1,0,Stadio OlimpicoArbitro:,,Chiarugi  60’,,Arbitro: Stadio Olimpico
+19770220-VER-NAP,1977-02-20,1976-1977,Serie A,Verona,Napoli,1,0,Stadio Marcantonio BentegodiArbitro:,,Zigoni  18’,,Arbitro: Stadio Marcantonio Bentegodi
+19770227-NAP-GEN,1977-02-27,1976-1977,Serie A,Napoli,Genoa,1,1,Stadio San PaoloArbitro:,,Damiani  6’,67’ G. Savoldi,Arbitro: Stadio San Paolo
+19770306-MIL-NAP,1977-03-06,1976-1977,Serie A,Milan,Napoli,1,1,Stadio di San SiroArbitro:,,Calloni  35’,48’ W. Speggiorin,Arbitro: Stadio di San Siro
+19770313-NAP-FOG,1977-03-13,1976-1977,Serie A,Napoli,Foggia,3,2,Stadio San PaoloArbitro:,,"Chiarugi  12’,  27’, Juliano  77’","57’ A. Bordon, 81’ Ulivieri",Arbitro: Stadio San Paolo
+19770320-LAZ-NAP,1977-03-20,1976-1977,Serie A,Lazio,Napoli,0,0,Stadio OlimpicoArbitro:,,,,Arbitro: Stadio Olimpico
+19770327-NAP-TOR,1977-03-27,1976-1977,Serie A,Napoli,Torino,0,0,Stadio San PaoloArbitro:,,,,Arbitro: Stadio San Paolo
+19770403-CES-NAP,1977-04-03,1976-1977,Serie A,Cesena,Napoli,0,2,Stadio La FioritaArbitro:,,,"66’ G. Savoldi, 75’ W. Speggiorin",Arbitro: Stadio La Fiorita
+19770410-ROM-NAP,1977-04-10,1976-1977,Serie A,Roma,Napoli,0,0,Stadio OlimpicoArbitro:,,,,Arbitro: Stadio Olimpico
+19770417-NAP-INT,1977-04-17,1976-1977,Serie A,Napoli,Inter,0,3,Stadio San PaoloArbitro:,,,"11’,  22’ Pavone, 48’ Fedele",Arbitro: Stadio San Paolo
+19770424-NAP-SAM,1977-04-24,1976-1977,Serie A,Napoli,Sampdoria,1,1,Stadio San PaoloArbitro:,,G. Savoldi  1’,52’ Saltutti,Arbitro: Stadio San Paolo
+19760101-JUV-NAP,1976-01-01,1976-1977,Serie A,Juventus,Napoli,2,1,Stadio ComunaleArbitro:,,"Bettega  15’, Furino  86’",79’ Massa,Arbitro: Stadio Comunale
+19770508-NAP-BOL,1977-05-08,1976-1977,Serie A,Napoli,Bologna,1,2,Stadio San PaoloArbitro:,,W. Speggiorin  86’,"10’ Pozzato, 68’ Nanni",Arbitro: Stadio San Paolo
+19770515-PER-NAP,1977-05-15,1976-1977,Serie A,Perugia,Napoli,4,2,Stadio Comunale di Pian di MassianoArbitro:,,"Vannini  3’,  31’, Pin  55’, Novellino  84’","10’,  38’ (rig.) G. Savoldi",Arbitro: Stadio Comunale di Pian di Massiano
+19770522-NAP-FIO,1977-05-22,1976-1977,Serie A,Napoli,Fiorentina,0,2,Stadio San PaoloArbitro:,,G. Savoldi  70’,"37’ (aut.) Catellani, 87’ Caso",Arbitro: Stadio San Paolo
+19770612-MIL-NAP,1977-06-12,1976-1977,Coppa Italia,Milan,Napoli,3,1,Stadio di San Siro,,"Calloni  44’ (rig.),  84’, Braglia  53’",84’ (aut.) Turone,
+19770615-SPA-NAP,1977-06-15,1976-1977,Coppa Italia,SPAL,Napoli,0,1,Stadio Paolo Mazza,,,85’ Armidoro,
+19770619-NAP-MIL,1977-06-19,1976-1977,Coppa Italia,Napoli,Milan,1,2,Stadio San Paolo,,Chiarugi  48’,"11’ Calloni, 89’ Bigon",
+19770622-BOL-NAP,1977-06-22,1976-1977,Coppa Italia,Bologna,Napoli,0,0,Stadio Comunale,,,,
+19770626-NAP-SPA,1977-06-26,1976-1977,Coppa Italia,Napoli,SPAL,0,0,Stadio San Paolo,,,,
+19770629-NAP-BOL,1977-06-29,1976-1977,Coppa Italia,Napoli,Bologna,1,0,Stadio San Paolo,,Montefusco  19’,,
+19760921-SOU-NAP,1976-09-21,1976-1977,Altra Competizione,Southampton,Napoli,1,0,The Dell,,Williams  66’,,
+19761114-NAP-SOU,1976-11-14,1976-1977,Altra Competizione,Napoli,Southampton,4,0,San Paolo,,"Chiarugi  40’, Bruscolotti  68’, Speggiorin  82’,  88’",,
+19760914-BOD-NAP,1976-09-14,1976-1977,Altra Competizione,Bodø/Glimt,Napoli,0,2,Aspmyra StadionArbitro:,,,"14’,  57’ Speggiorin",Arbitro: Aspmyra Stadion
+19760928-NAP-BOD,1976-09-28,1976-1977,Altra Competizione,Napoli,Bodø/Glimt,1,0,Stadio San PaoloArbitro:,,Massa  35’,,Arbitro: Stadio San Paolo
+19761019-APO-NAP,1976-10-19,1976-1977,Altra Competizione,APOEL,Napoli,1,1,Stadio GSPArbitro:,,Leonidou  37’,87’ (rig.) Savoldi,Arbitro: Stadio GSP
+19761103-NAP-APO,1976-11-03,1976-1977,Altra Competizione,Napoli,APOEL,2,0,Stadio San PaoloArbitro:,,"Speggiorin  9’, Massa  25’",,Arbitro: Stadio San Paolo
+19760101-ŚLĄ-NAP,1976-01-01,1976-1977,Altra Competizione,Śląsk Breslavia,Napoli,0,0,Stadion MiejskiArbitro:,,,,Arbitro: Stadion Miejski
+19770315-NAP-ŚLĄ,1977-03-15,1976-1977,Altra Competizione,Napoli,Śląsk Breslavia,2,0,Stadio San PaoloArbitro:,,"Massa  10’, Chiarugi  49’",,Arbitro: Stadio San Paolo
+19770405-NAP-AND,1977-04-05,1976-1977,Altra Competizione,Napoli,Anderlecht,1,0,Stadio San PaoloArbitro:,,Bruscolotti  81’,,Arbitro: Stadio San Paolo
+19770420-AND-NAP,1977-04-20,1976-1977,Altra Competizione,Anderlecht,Napoli,2,0,Park AstridArbitro:,,"Thissen  20’, V.d. Elst  57’",,Arbitro: Park Astrid

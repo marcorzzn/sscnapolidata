@@ -1,0 +1,34 @@
+match_id,date,season,competition,home_raw_name,away_raw_name,home_goals,away_goals,stadium,attendance,home_scorers,away_scorers,notes
+19360913-NAP-ROM,1936-09-13,1936-1937,Serie A,Napoli,Roma,0,0,Stadio PartenopeoArbitro:,,,,Arbitro: Stadio Partenopeo
+19360920-FIO-NAP,1936-09-20,1936-1937,Serie A,Fiorentina,Napoli,1,1,Stadio Giovanni BertaArbitro:,,Stella  63’,17’ (rig.) C. Buscaglia,Arbitro: Stadio Giovanni Berta
+19360927-NAP-JUV,1936-09-27,1936-1937,Serie A,Napoli,Juventus,0,1,Stadio PartenopeoArbitro:,,,15’ Scagliotti,Arbitro: Stadio Partenopeo
+19361004-TRI-NAP,1936-10-04,1936-1937,Serie A,Triestina,Napoli,1,1,Stadio del LittorioArbitro:,,Busidoni  12’,81’ Biagi,Arbitro: Stadio del Littorio
+19361011-NAP-GEN,1936-10-11,1936-1937,Serie A,Napoli,Genova 1893,0,0,Stadio PartenopeoArbitro:,,,,Arbitro: Stadio Partenopeo
+19361018-MIL-NAP,1936-10-18,1936-1937,Serie A,Milan,Napoli,1,0,Stadio San SiroArbitro:,,Cossio  85’,,Arbitro: Stadio San Siro
+19360101-NAP-NOV,1936-01-01,1936-1937,Serie A,Napoli,Novara,4,0,Stadio PartenopeoArbitro:,,"Biagi  30’, Colombari  66’, N. Ferrara  79’, A. Ferrara  83’",,Arbitro: Stadio Partenopeo
+19361108-LUC-NAP,1936-11-08,1936-1937,Serie A,Lucchese,Napoli,3,2,Stadio Porta ElisaArbitro:,,"Coppa  3’, Marchini  42’, Michelini  59’","55’ Biagi, 88’ Venditto",Arbitro: Stadio Porta Elisa
+19361122-NAP-BOL,1936-11-22,1936-1937,Serie A,Napoli,Bologna,0,1,Stadio PartenopeoArbitro:,,,64’ Reguzzoni,Arbitro: Stadio Partenopeo
+19361129-NAP-ALE,1936-11-29,1936-1937,Serie A,Napoli,Alessandria,2,0,Stadio PartenopeoArbitro:,,"Venditto  38’, A. Sallustro  67’",,Arbitro: Stadio Partenopeo
+19361206-BAR-NAP,1936-12-06,1936-1937,Serie A,Bari,Napoli,3,1,Stadio della VittoriaArbitro:,,"Violi  16’, Paradiso  59’, Ferrero  82’ (rig.)",53’ Venditto,Arbitro: Stadio della Vittoria
+19361220-TOR-NAP,1936-12-20,1936-1937,Serie A,Torino,Napoli,3,0,Stadio FiladelfiaArbitro:,,"P. Buscaglia  28’, R. Galli  57’, Silano  66’ (rig.)",,Arbitro: Stadio Filadelfia
+19361227-NAP-AMB,1936-12-27,1936-1937,Serie A,Napoli,Ambrosiana-Inter,2,1,Stadio PartenopeoArbitro:,,"A. Ferrara  19’, C. Buscaglia  32’ (rig.)",20’ Ferrari,Arbitro: Stadio Partenopeo
+19370103-NAP-LAZ,1937-01-03,1936-1937,Serie A,Napoli,Lazio,3,5,Stadio PartenopeoArbitro:,,"A. Ferrara  38’, Rossetti  41’, Biagi  72’","3’,  16’,  34’,  68’ Busani, 14’ Piola",Arbitro: Stadio Partenopeo
+19370110-LIG-NAP,1937-01-10,1936-1937,Serie A,Liguria,Napoli,0,2,Stadio del LittorioArbitro:,,,"26’ A. Ferrara, 38’ Rossetti",Arbitro: Stadio del Littorio
+19370117-ROM-NAP,1937-01-17,1936-1937,Serie A,Roma,Napoli,1,0,Campo TestaccioArbitro:,,D'Alberto  56’,,Arbitro: Campo Testaccio
+19370124-NAP-FIO,1937-01-24,1936-1937,Serie A,Napoli,Fiorentina,1,0,Stadio PartenopeoArbitro:,,Colombari  83’,,Arbitro: Stadio Partenopeo
+19370131-JUV-NAP,1937-01-31,1936-1937,Serie A,Juventus,Napoli,2,0,Stadio Municipale Benito MussoliniArbitro:,,"A. Borel  5’, Gabetto  66’",,Arbitro: Stadio Municipale Benito Mussolini
+19370207-NAP-TRI,1937-02-07,1936-1937,Serie A,Napoli,Triestina,0,0,Stadio PartenopeoArbitro:,,,,Arbitro: Stadio Partenopeo
+19370214-GEN-NAP,1937-02-14,1936-1937,Serie A,Genova 1893,Napoli,0,1,Stadio Luigi FerrarisArbitro:,,,23’ A. Ferrara,Arbitro: Stadio Luigi Ferraris
+19370221-NAP-MIL,1937-02-21,1936-1937,Serie A,Napoli,Milan,0,1,Stadio PartenopeoArbitro:,,,40’ Gabardo,Arbitro: Stadio Partenopeo
+19370228-NOV-NAP,1937-02-28,1936-1937,Serie A,Novara,Napoli,0,0,Stadio del LittorioArbitro:,,,,Arbitro: Stadio del Littorio
+19370307-NAP-LUC,1937-03-07,1936-1937,Serie A,Napoli,Lucchese,4,2,Stadio PartenopeoArbitro:,,"Rossetti  15’,  55’, Venditto  39’,  85’","63’ Michelini, 88’ (rig.) Coppa",Arbitro: Stadio Partenopeo
+19370314-BOL-NAP,1937-03-14,1936-1937,Serie A,Bologna,Napoli,2,1,Stadio LittorialeArbitro:,,"Andreolo  9’, Maini  44’",78’ N. Ferrara,Arbitro: Stadio Littoriale
+19370328-ALE-NAP,1937-03-28,1936-1937,Serie A,Alessandria,Napoli,2,0,Campo del LittorioArbitro:,,"Croce  26’, Robotti  85’",,Arbitro: Campo del Littorio
+19370404-NAP-BAR,1937-04-04,1936-1937,Serie A,Napoli,Bari,3,0,Stadio PartenopeoArbitro:,,"Biagi  6’, Loetti  34’ (aut.), A. Ferrara  85’",,Arbitro: Stadio Partenopeo
+19370418-NAP-TOR,1937-04-18,1936-1937,Serie A,Napoli,Torino,1,1,Stadio PartenopeoArbitro:,,A. Sallustro  27’,22’ R. Galli,Arbitro: Stadio Partenopeo
+19370502-AMB-NAP,1937-05-02,1936-1937,Serie A,Ambrosiana-Inter,Napoli,2,2,Arena CivicaArbitro:,,"P. Ferraris  7’, Meazza  32’ (rig.)","26’ Rossetti, 53’ A. Sallustro",Arbitro: Arena Civica
+19370509-LAZ-NAP,1937-05-09,1936-1937,Serie A,Lazio,Napoli,4,0,Stadio Nazionale del PNFArbitro:,,"Piola  52’,  79’,  82’, Riccardi  87’",,Arbitro: Stadio Nazionale del PNF
+19370516-NAP-LIG,1937-05-16,1936-1937,Serie A,Napoli,Liguria,0,2,Stadio PartenopeoArbitro:,,,"2’,  66’ Spivach",Arbitro: Stadio Partenopeo
+19370106-NAP-SES,1937-01-06,1936-1937,Coppa Italia,Napoli,Sestrese,5,2,Stadio PartenopeoArbitro:,,"Venditto  3’,  28’, A.Ferrara  63’, Biagi  77’, A. Sallustro  80’","10’ Rivolo, 89’ Pesce",Arbitro: Stadio Partenopeo
+19370506-NAP-JUV,1937-05-06,1936-1937,Coppa Italia,Napoli,Juventus,2,1,Stadio PartenopeoArbitro:,,"Venditto  6’,  64’",64’ F. Borel,Arbitro: Stadio Partenopeo
+19370527-NAP-ROM,1937-05-27,1936-1937,Coppa Italia,Napoli,Roma,0,1,Stadio PartenopeoArbitro:,,,10’ Di Benedetti,Arbitro: Stadio Partenopeo

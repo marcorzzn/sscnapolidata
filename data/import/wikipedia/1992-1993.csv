@@ -1,0 +1,45 @@
+match_id,date,season,competition,home_raw_name,away_raw_name,home_goals,away_goals,stadium,attendance,home_scorers,away_scorers,notes
+19920906-NAP-BRE,1992-09-06,1992-1993,Serie A,Napoli,Brescia,0,0,Stadio San PaoloArbitro:,58 421,,,Arbitro: Stadio San Paolo (58 421 spett.)
+19920913-FOG-NAP,1992-09-13,1992-1993,Serie A,Foggia,Napoli,2,4,Stadio Pino ZaccheriaArbitro:,16 635,"P. Bresciani  17’,  44’","11, 89’ Fonseca, 25’ Zola, 59’ Careca",Arbitro: Stadio Pino Zaccheria (16 635 spett.)
+19920920-NAP-INT,1992-09-20,1992-1993,Serie A,Napoli,Inter,1,2,Stadio San PaoloArbitro:,75 988,Fonseca  84’,"54’ Sammer, 57’ Schillaci",Arbitro: Stadio San Paolo (75 988 spett.)
+19920927-ANC-NAP,1992-09-27,1992-1993,Serie A,Ancona,Napoli,1,1,Stadio DoricoArbitro:,13 537,Détári  60’,5’ Fonseca,Arbitro: Stadio Dorico (13 537 spett.)
+19921004-NAP-JUV,1992-10-04,1992-1993,Serie A,Napoli,Juventus,2,3,Stadio San PaoloArbitro:,78 100,"Fonseca  84’, Zola  86’","5’ R. Baggio, 57’ Möller, 80’ Vialli",Arbitro: Stadio San Paolo (78 100 spett.)
+19921018-UDI-NAP,1992-10-18,1992-1993,Serie A,Udinese,Napoli,2,0,Stadio FriuliArbitro:,17 186,"Branca  11’, Dell'Anno  49’",,Arbitro: Stadio Friuli (17 186 spett.)
+19921025-NAP-ROM,1992-10-25,1992-1993,Serie A,Napoli,Roma,2,1,Stadio San PaoloArbitro:,53 875,"Fonseca  45’, Careca  46’",57’ S. Benedetti,Arbitro: Stadio San Paolo (53 875 spett.)
+19920101-ATA-NAP,1992-01-01,1992-1993,Serie A,Atalanta,Napoli,3,2,Stadio ComunaleArbitro:,15 735,"Perrone  21’, Ganz  52’,  75’","7’ Fonseca, 90’ Ferrara",Arbitro: Stadio Comunale (15 735 spett.)
+19921108-NAP-MIL,1992-11-08,1992-1993,Serie A,Napoli,Milan,1,5,Stadio San PaoloArbitro:,73 366,Zola  83’,"6’,  26’,  68’,  74’ Van Basten, 60’ Eranio",Arbitro: Stadio San Paolo (73 366 spett.)
+19921122-SAM-NAP,1992-11-22,1992-1993,Serie A,Sampdoria,Napoli,3,1,Stadio Luigi FerrarisArbitro:,30 960,"Ziliani  42’ (aut.), Jugović  59’, R. Mancini  77’",87’ (aut.) Mannini,Arbitro: Stadio Luigi Ferraris (30 960 spett.)
+19921129-NAP-FIO,1992-11-29,1992-1993,Serie A,Napoli,Fiorentina,4,1,Stadio San PaoloArbitro:,52 040,"Policano  19’, Zola  43’,  67’, Careca  90’",14’ Di Mauro,Arbitro: Stadio San Paolo (52 040 spett.)
+19921206-CAG-NAP,1992-12-06,1992-1993,Serie A,Cagliari,Napoli,1,0,Stadio Sant'EliaArbitro:,25 017,Francescoli  64’,,Arbitro: Stadio Sant'Elia (25 017 spett.)
+19921213-GEN-NAP,1992-12-13,1992-1993,Serie A,Genoa,Napoli,2,1,Stadio Luigi FerrarisArbitro:,28 206,"Skuhravý  30’,  79’",47’ Fonseca,Arbitro: Stadio Luigi Ferraris (28 206 spett.)
+19930103-NAP-PES,1993-01-03,1992-1993,Serie A,Napoli,Pescara,2,0,Stadio San PaoloArbitro:,51 228,"Fonseca  16’,  67’",,Arbitro: Stadio San Paolo (51 228 spett.)
+19930110-TOR-NAP,1993-01-10,1992-1993,Serie A,Torino,Napoli,0,1,Stadio delle AlpiArbitro:,25 349,,13’ Policano,Arbitro: Stadio delle Alpi (25 349 spett.)
+19930117-NAP-LAZ,1993-01-17,1992-1993,Serie A,Napoli,Lazio,3,1,Stadio San PaoloArbitro:,67 054,"Crippa  29’, Fonseca  59’, Careca  70’",78’ Signori,Arbitro: Stadio San Paolo (67 054 spett.)
+19930124-PAR-NAP,1993-01-24,1992-1993,Serie A,Parma,Napoli,1,1,Stadio Ennio TardiniArbitro:,25 112,Asprilla  51’,69’ Fonseca,Arbitro: Stadio Ennio Tardini (25 112 spett.)
+19930131-BRE-NAP,1993-01-31,1992-1993,Serie A,Brescia,Napoli,2,1,Stadio Mario RigamontiArbitro:,14 258,"Schenardi  55’, Răducioiu  69’",75’ Zola,Arbitro: Stadio Mario Rigamonti (14 258 spett.)
+19930207-NAP-FOG,1993-02-07,1992-1993,Serie A,Napoli,Foggia,2,0,Stadio Mario RigamontiArbitro:,62 743,"Zola  20’, Careca  29’",,Arbitro: Stadio Mario Rigamonti (62 743 spett.)
+19930214-INT-NAP,1993-02-14,1992-1993,Serie A,Inter,Napoli,0,0,Stadio Giuseppe MeazzaArbitro:,38 400,,,Arbitro: Stadio Giuseppe Meazza (38 400 spett.)
+19930228-NAP-ANC,1993-02-28,1992-1993,Serie A,Napoli,Ancona,0,0,Stadio San PaoloArbitro:,51 328,,,Arbitro: Stadio San Paolo (51 328 spett.)
+19930307-JUV-NAP,1993-03-07,1992-1993,Serie A,Juventus,Napoli,4,3,Stadio delle AlpiArbitro:,44 757,"Di Canio  9’, Platt  16’, Ravanelli  72’, Möller  87’","51’ Zola, 71’ Ferrara, 80’ (rig.) Fonseca",Arbitro: Stadio delle Alpi (44 757 spett.)
+19930314-NAP-UDI,1993-03-14,1992-1993,Serie A,Napoli,Udinese,3,0,Stadio San PaoloArbitro:,50 741,"Ferrara  45’, Policano  53’, Fonseca  71’",,Arbitro: Stadio San Paolo (50 741 spett.)
+19930321-ROM-NAP,1993-03-21,1992-1993,Serie A,Roma,Napoli,1,1,Stadio OlimpicoArbitro:,51 795,Häßler  58’,74’ Fonseca,Arbitro: Stadio Olimpico (51 795 spett.)
+19930328-NAP-ATA,1993-03-28,1992-1993,Serie A,Napoli,Atalanta,1,0,Stadio San PaoloArbitro:,52 721,Policano  20’,,Arbitro: Stadio San Paolo (52 721 spett.)
+19930403-MIL-NAP,1993-04-03,1992-1993,Serie A,Milan,Napoli,2,2,Stadio Giuseppe MeazzaArbitro:,76 406,"Lentini  62’,  66’","15’ Careca, 37’ Policano",Arbitro: Stadio Giuseppe Meazza (76 406 spett.)
+19930410-NAP-SAM,1993-04-10,1992-1993,Serie A,Napoli,Sampdoria,1,1,Stadio San PaoloArbitro:,64 042,Zola  13’,26’ Lombardo,Arbitro: Stadio San Paolo (64 042 spett.)
+19930418-FIO-NAP,1993-04-18,1992-1993,Serie A,Fiorentina,Napoli,1,1,Stadio Artemio FranchiArbitro:,34 031,Batistuta  86’,25’ Fonseca,Arbitro: Stadio Artemio Franchi (34 031 spett.)
+19930425-NAP-CAG,1993-04-25,1992-1993,Serie A,Napoli,Cagliari,1,0,Stadio San PaoloArbitro:,52 396,Zola  88’,,Arbitro: Stadio San Paolo (52 396 spett.)
+19930509-NAP-GEN,1993-05-09,1992-1993,Serie A,Napoli,Genoa,2,2,Stadio San PaoloArbitro:,53 040,"Careca  11’, Ferrara  38’","41’ N. Caricola, 55’ Padovano",Arbitro: Stadio San Paolo (53 040 spett.)
+19930516-PES-NAP,1993-05-16,1992-1993,Serie A,Pescara,Napoli,3,0,Stadio AdriaticoArbitro:,14 496,"Palladini  52’, Borgonovo  74’,  88’",,Arbitro: Stadio Adriatico (14 496 spett.)
+19930523-NAP-TOR,1993-05-23,1992-1993,Serie A,Napoli,Torino,1,1,Stadio San PaoloArbitro:,45 324,Policano  60’,81’ P. Poggi,Arbitro: Stadio San Paolo (45 324 spett.)
+19930530-LAZ-NAP,1993-05-30,1992-1993,Serie A,Lazio,Napoli,4,3,Stadio OlimpicoArbitro:,49 381,"Riedle  1’,  4’, Signori  42’ (rig.), Winter  50’","10’,  61’ (rig.) Zola, 47’ Francini",Arbitro: Stadio Olimpico (49 381 spett.)
+19930606-NAP-PAR,1993-06-06,1992-1993,Serie A,Napoli,Parma,1,1,Stadio San PaoloArbitro:,42 911,Policano  22’,87’ Pizzi,Arbitro: Stadio San Paolo (42 911 spett.)
+19920826-NAP-MOD,1992-08-26,1992-1993,Coppa Italia,Napoli,Modena,3,0,Stadio San PaoloArbitro:,,"Ferrante  13’, Policano  50’, Fonseca  82’ (rig.)",,Arbitro: Stadio San Paolo
+19920902-MOD-NAP,1992-09-02,1992-1993,Coppa Italia,Modena,Napoli,0,3,Stadio Alberto BragliaArbitro:,,,"48’ (rig.),  71’ Careca, 80’ (rig.) Ferrante",Arbitro: Stadio Alberto Braglia
+19921007-NAP-VER,1992-10-07,1992-1993,Coppa Italia,Napoli,Verona,2,1,Stadio San PaoloArbitro:,,"Careca  53’, Fonseca  82’",57’ Lunini,Arbitro: Stadio San Paolo
+19921028-VER-NAP,1992-10-28,1992-1993,Coppa Italia,Verona,Napoli,0,5,Stadio Marcantonio BentegodiArbitro:,,,"12’ Francini, 17’,  34’ Policano, 31’ (rig.),  46’ Zola",Arbitro: Stadio Marcantonio Bentegodi
+19930127-NAP-ROM,1993-01-27,1992-1993,Coppa Italia,Napoli,Roma,0,0,Stadio San PaoloArbitro:,,,,Arbitro: Stadio San Paolo
+19930209-ROM-NAP,1993-02-09,1992-1993,Coppa Italia,Roma,Napoli,2,0,Stadio OlimpicoArbitro:,,"A. Carnevale  10’, Hassler  71’ (rig.)",,Arbitro: Stadio Olimpico
+19920916-VAL-NAP,1992-09-16,1992-1993,Coppa UEFA,Valencia,Napoli,1,5,Stadio di MestallaArbitro:,,Roberto  54’,"21’,  60’,  64’,  87’,  90’ Fonseca",Arbitro: Stadio di Mestalla
+19920930-NAP-VAL,1992-09-30,1992-1993,Coppa UEFA,Napoli,Valencia,1,0,Stadio San PaoloArbitro:,,Fonseca  9’,,Arbitro: Stadio San Paolo
+19921021-NAP-PAR,1992-10-21,1992-1993,Coppa UEFA,Napoli,Paris Saint-Germain,0,2,Stadio San PaoloArbitro:,,,"16’,  35’ Weah",Arbitro: Stadio San Paolo
+19921104-PAR-NAP,1992-11-04,1992-1993,Coppa UEFA,Paris Saint-Germain,Napoli,0,0,Parco dei PrincipiArbitro:,,,,Arbitro: Parco dei Principi

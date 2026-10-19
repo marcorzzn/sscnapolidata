@@ -1,0 +1,43 @@
+match_id,date,season,competition,home_raw_name,away_raw_name,home_goals,away_goals,stadium,attendance,home_scorers,away_scorers,notes
+19490911-NAP-PRO,1949-09-11,1949-1950,Serie A,Napoli,Pro Sesto,4,0,Stadio del VomeroArbitro:,,"D'Alconzo  4’, De Andreis  36’,  73’, Krieziu  87’",,Arbitro: Stadio del Vomero
+19490918-ALE-NAP,1949-09-18,1949-1950,Serie A,Alessandria,Napoli,2,2,Stadio Giuseppe MoccagattaArbitro:,,"Rawcliffe  28’,  37’","10’ Krieziu, 68’ (aut.) Albertelli",Arbitro: Stadio Giuseppe Moccagatta
+19490925-NAP-PRA,1949-09-25,1949-1950,Serie A,Napoli,Prato,3,1,Stadio del VomeroArbitro:,,"Dagianti  12’, Todeschini  80’, D'Alconzo  90’",7’ Zorgo,Arbitro: Stadio del Vomero
+19491002-UDI-NAP,1949-10-02,1949-1950,Serie A,Udinese,Napoli,3,2,Stadio MorettiArbitro:,,"A. Rosso  9’, Dalle Vacche  44’, Zorzi  70’ (rig.)","80’ Dagianti, 87’ Krieziu",Arbitro: Stadio Moretti
+19491009-MOD-NAP,1949-10-09,1949-1950,Serie A,Modena,Napoli,0,0,Stadio ComunaleArbitro:,,,,Arbitro: Stadio Comunale
+19491016-NAP-ARS,1949-10-16,1949-1950,Serie A,Napoli,Arsenaltaranto,2,1,Stadio del VomeroArbitro:,,"D'Alconzo  50’, Todeschini  63’",73’ Castellano,Arbitro: Stadio del Vomero
+19491023-NAP-PIS,1949-10-23,1949-1950,Serie A,Napoli,Pisa,1,0,Stadio del VomeroArbitro:,,Šuprina  62’,,Arbitro: Stadio del Vomero
+19491030-SPA-NAP,1949-10-30,1949-1950,Serie A,SPAL,Napoli,2,1,Stadio ComunaleArbitro:,,"De Vito  3’, Ciccarelli  34’",81’ De Andreis,Arbitro: Stadio Comunale
+19491106-LEG-NAP,1949-11-06,1949-1950,Serie A,Legnano,Napoli,1,4,Stadio ComunaleArbitro:,,Puricelli  76’,"22’ D'Alconzo, 24’,  51’ Šuprina, 88’ Krieziu",Arbitro: Stadio Comunale
+19981206-NAP-SPE,1998-12-06,1949-1950,Serie A,Napoli,Spezia,1,5,Stadio del VomeroArbitro:,,Dagianti  26’,"24’ Ragazzo, 42’,  57’ Malavasi, 83’,  84’ Reddi",Arbitro: Stadio del Vomero
+19491120-NAP-SAL,1949-11-20,1949-1950,Serie A,Napoli,Salernitana,1,0,Stadio del VomeroArbitro:,,Soldani  85’,,Arbitro: Stadio del Vomero
+19491127-EMP-NAP,1949-11-27,1949-1950,Serie A,Empoli,Napoli,1,0,Stadio Carlo CastellaniArbitro:,,Tosolini  12’,,Arbitro: Stadio Carlo Castellani
+19491204-REG-NAP,1949-12-04,1949-1950,Serie A,Reggiana,Napoli,2,2,Stadio MirabelloArbitro:,,"Forlani  48’, Baruzzi  85’","4’ De Andreis, 17’ Astorri",Arbitro: Stadio Mirabello
+19510930-NAP-LIV,1951-09-30,1949-1950,Serie A,Napoli,Livorno,0,0,Stadio del VomeroArbitro:,,,,Arbitro: Stadio del Vomero
+19491211-SIR-NAP,1949-12-11,1949-1950,Serie A,Siracusa,Napoli,0,0,Stadio Vittorio Emanuele IIIArbitro:,,,,Arbitro: Stadio Vittorio Emanuele III
+19491218-NAP-CRE,1949-12-18,1949-1950,Serie A,Napoli,Cremonese,3,0,Stadio del VomeroArbitro:,,"D'Alconzo  31’, Astorri  56’, Morgia  65’",,Arbitro: Stadio del Vomero
+19681020-VER-NAP,1968-10-20,1949-1950,Serie A,Verona,Napoli,0,1,Stadio Marcantonio BentegodiArbitro:,,,50’ Dagianti,Arbitro: Stadio Marcantonio Bentegodi
+19490101-NAP-BRE,1949-01-01,1949-1950,Serie A,Napoli,Brescia,3,0,Stadio del VomeroArbitro:,,"Astorri  37’,  77’, Gramaglia  53’",,Arbitro: Stadio del Vomero
+19500108-NAP-FAN,1950-01-08,1949-1950,Serie A,Napoli,Fanfulla,1,0,Stadio del VomeroArbitro:,,Dagianti  11’,,Arbitro: Stadio del Vomero
+19500115-VIC-NAP,1950-01-15,1949-1950,Serie A,Vicenza,Napoli,1,0,Stadio Romeo MentiArbitro:,,Quaresima  73’,,Arbitro: Stadio Romeo Menti
+19500122-CAT-NAP,1950-01-22,1949-1950,Serie A,Catania,Napoli,0,1,Stadio CibaliArbitro:,,,82’ Krieziu,Arbitro: Stadio Cibali
+19500129-PRO-NAP,1950-01-29,1949-1950,Serie A,Pro Sesto,Napoli,0,1,Stadio Ernesto BredaArbitro:,,,52’ Krieziu,Arbitro: Stadio Ernesto Breda
+19500205-NAP-ALE,1950-02-05,1949-1950,Serie A,Napoli,Alessandria,4,0,Stadio del VomeroArbitro:,,"De Andreis  44’,  74’, Vitto  76’ (aut.), Morgia  90’",,Arbitro: Stadio del Vomero
+19500212-PRA-NAP,1950-02-12,1949-1950,Serie A,Prato,Napoli,1,0,Stadio LungobisenzioArbitro:,,Michelini  83’,,Arbitro: Stadio Lungobisenzio
+19500219-NAP-UDI,1950-02-19,1949-1950,Serie A,Napoli,Udinese,1,0,Stadio del VomeroArbitro:,,De Andreis  52’,,Arbitro: Stadio del Vomero
+19500226-NAP-MOD,1950-02-26,1949-1950,Serie A,Napoli,Modena,3,0,Stadio del VomeroArbitro:,,"Todeschini  46’, Krieziu  57’, De Andreis  73’ (rig.)",,Arbitro: Stadio del Vomero
+19500312-ARS-NAP,1950-03-12,1949-1950,Serie A,Arsenaltaranto,Napoli,3,4,Stadio Valentino MazzolaArbitro:,,"Di Fonte  30’,  85’, Margiotta  47’ (rig.)","18’ Morgia, 51’ Todeschini, 84’ (rig.) De Andreis, 86’ Astorri",Arbitro: Stadio Valentino Mazzola
+19500319-PIS-NAP,1950-03-19,1949-1950,Serie A,Pisa,Napoli,1,0,Stadio Arena GaribaldiArbitro:,,Giorgioni  43’,,Arbitro: Stadio Arena Garibaldi
+19500326-NAP-SPA,1950-03-26,1949-1950,Serie A,Napoli,SPAL,3,1,Stadio del VomeroArbitro:,,"Morgia  68’, Krieziu  86’, Šuprina  89’",35’ De Vito,Arbitro: Stadio del Vomero
+19500402-NAP-LEG,1950-04-02,1949-1950,Serie A,Napoli,Legnano,1,0,Stadio del VomeroArbitro:,,Todeschini  21’,,Arbitro: Stadio del Vomero
+19500409-SPE-NAP,1950-04-09,1949-1950,Serie A,Spezia,Napoli,0,2,Stadio Alberto PiccoArbitro:,,,"41’ Todeschini, 49’ Šuprina",Arbitro: Stadio Alberto Picco
+19500416-SAL-NAP,1950-04-16,1949-1950,Serie A,Salernitana,Napoli,1,1,Stadio ComunaleArbitro:,,E. Marini  57’,82’ Gramaglia,Arbitro: Stadio Comunale
+19500423-NAP-EMP,1950-04-23,1949-1950,Serie A,Napoli,Empoli,4,1,Stadio del VomeroArbitro:,,"Šuprina  20’, De Andreis  35’ (rig.),  71’, Chizzo  89’ (aut.)",83’ Gregorin,Arbitro: Stadio del Vomero
+19500430-NAP-REG,1950-04-30,1949-1950,Serie A,Napoli,Reggiana,3,1,Stadio del VomeroArbitro:,,"Morgia  4’, Šuprina  26’, De Andreis  70’",70’ Scagliarini,Arbitro: Stadio del Vomero
+19500507-LIV-NAP,1950-05-07,1949-1950,Serie A,Livorno,Napoli,1,0,Stadio ArdenzaArbitro:,,Bartolini  82’,,Arbitro: Stadio Ardenza
+19500514-NAP-SIR,1950-05-14,1949-1950,Serie A,Napoli,Siracusa,1,0,Stadio del VomeroArbitro:,,Šuprina  66’ (rig.),,Arbitro: Stadio del Vomero
+19500521-CRE-NAP,1950-05-21,1949-1950,Serie A,Cremonese,Napoli,1,3,Stadio Giovanni ZiniArbitro:,,Maggi  5’,"50’ Todeschini, 66’ D'Alconzo, 89’ Astorri",Arbitro: Stadio Giovanni Zini
+19500528-NAP-VER,1950-05-28,1949-1950,Serie A,Napoli,Verona,1,1,Stadio del VomeroArbitro:,,Šuprina  65’ (rig.),73’ Tavellin,Arbitro: Stadio del Vomero
+19500604-BRE-NAP,1950-06-04,1949-1950,Serie A,Brescia,Napoli,1,5,Stadium di Viale PiaveArbitro:,,Trenzani  88’,"14’ Astorri, 74’,  82’,  86’ Šuprina, 78’ Krieziu",Arbitro: Stadium di Viale Piave
+19500611-FAN-NAP,1950-06-11,1949-1950,Serie A,Fanfulla,Napoli,1,4,Stadio DosseninaArbitro:,,Szoke  85’,"26’ Astorri, 36’ Todeschini, 44’ Šuprina, 61’ Morgia",Arbitro: Stadio Dossenina
+19500618-NAP-VIC,1950-06-18,1949-1950,Serie A,Napoli,Vicenza,1,0,Stadio del VomeroArbitro:,,Todeschini  13’,,Arbitro: Stadio del Vomero
+19500625-NAP-CAT,1950-06-25,1949-1950,Serie A,Napoli,Catania,2,1,Stadio del VomeroArbitro:,,"Šuprina  21’,  35’",30’ Gavazzi,Arbitro: Stadio del Vomero

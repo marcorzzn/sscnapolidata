@@ -1,0 +1,37 @@
+match_id,date,season,competition,home_raw_name,away_raw_name,home_goals,away_goals,stadium,attendance,home_scorers,away_scorers,notes
+19270925-NAP-REG,1927-09-25,1927-1928,Serie A,Napoli,Reggiana,4,0,Stadio Militare dell'ArenacciaArbitro:,,"Tosini  55’,  57’, Innocenti I  61’, Sallustro  83’",,Arbitro: Stadio Militare dell'Arenaccia
+19271002-MIL-NAP,1927-10-02,1927-1928,Serie A,Milan,Napoli,5,1,Campo di San SiroArbitro:,,"Torriani  15’,  52’,  64’, Aigotti  70’, Pastore  83’",41’ Sallustro,Arbitro: Campo di San Siro
+19271009-CRE-NAP,1927-10-09,1927-1928,Serie A,Cremonese,Napoli,5,0,Stadio Giovanni ZiniArbitro:,,"Bonizzoni  23’, Musoni  25’, Moroni  31’, Cabrini  46’, Ranelli  66’",,Arbitro: Stadio Giovanni Zini
+19271016-NAP-BRE,1927-10-16,1927-1928,Serie A,Napoli,Brescia,0,4,Stadio Militare dell'ArenacciaArbitro:,,,"27’,  75’ B. Frisoni, 36’,  69’ Giuliani",Arbitro: Stadio Militare dell'Arenaccia
+19271030-PAD-NAP,1927-10-30,1927-1928,Serie A,Padova,Napoli,2,1,Stadio Silvio AppianiArbitro:,,"Vecchina  35’ (rig.),  72’",78’ E. Ghisi I,Arbitro: Stadio Silvio Appiani
+19271113-NAP-LAZ,1927-11-13,1927-1928,Serie A,Napoli,Lazio,0,0,Stadio Militare dell'ArenacciaArbitro:,,,,Arbitro: Stadio Militare dell'Arenaccia
+19271120-PRO-NAP,1927-11-20,1927-1928,Serie A,Pro Vercelli,Napoli,1,1,Campo piazza Conte di TorinoArbitro:,,Lepora  16’,14’ Tosini,Arbitro: Campo piazza Conte di Torino
+19271127-UNK-UNK,1927-11-27,1927-1928,Serie A,,,,,,,,,
+19271204-ALE-NAP,1927-12-04,1927-1928,Serie A,Alessandria,Napoli,11,1,Campo degli OrtiArbitro:,,"Lauro  13’, Chierico  19’,  56’, Banchero  27’,  39’,  54’, Cattaneo  29’,  31’,  72’, Ferrari  50’, Avalle  88’",15’ E. Ghisi,Arbitro: Campo degli Orti
+19271208-GEN-NAP,1927-12-08,1927-1928,Serie A,Genoa,Napoli,3,0,Campo di Via del PianoArbitro:,,"Catto  50’, Levratto  52’,  80’",,Arbitro: Campo di Via del Piano
+19271211-NAP-TOR,1927-12-11,1927-1928,Serie A,Napoli,Torino,0,1,Campo dell'IlvaArbitro:,,,20’ Libonatti,Arbitro: Campo dell'Ilva
+19271218-REG-NAP,1927-12-18,1927-1928,Serie A,Reggiana,Napoli,2,2,Stadio MirabelloArbitro:,,"S. Ferrari  40’, Bolognesi  73’","33’ Costa, 63’ Sallustro",Arbitro: Stadio Mirabello
+19271225-NAP-MIL,1927-12-25,1927-1928,Serie A,Napoli,Milan,1,2,Campo dell'IlvaArbitro:,,Sallustro  40’,"11’ Aigotti, 30’ Ostromann",Arbitro: Campo dell'Ilva
+19280108-NAP-CRE,1928-01-08,1927-1928,Serie A,Napoli,Cremonese,3,1,Campo dell'IlvaArbitro:,,"G. Innocenti  60’ (rig.), Sallustro  77’, Tosini  78’",16’ Ranelli,Arbitro: Campo dell'Ilva
+19280115-BRE-NAP,1928-01-15,1927-1928,Serie A,Brescia,Napoli,2,0,Stadium di viale PiaveArbitro:,,"Prosperi  85’, Barbieri  89’",,Arbitro: Stadium di viale Piave
+19280122-NAP-PAD,1928-01-22,1927-1928,Serie A,Napoli,Padova,2,2,Campo dell'IlvaArbitro:,,"E. Ghisi  56’,  86’","40’ G. Monti, 48’ Serdoz",Arbitro: Campo dell'Ilva
+19280129-LAZ-NAP,1928-01-29,1927-1928,Serie A,Lazio,Napoli,0,2,Stadio della RondinellaArbitro:,,,"34’ E. Ghisi, 51’ G. Innocenti",Arbitro: Stadio della Rondinella
+19280205-NAP-PRO,1928-02-05,1927-1928,Serie A,Napoli,Pro Vercelli,2,0,Campo dell'IlvaArbitro:,,"E. Ghisi  31’, Zoccola  47’",,Arbitro: Campo dell'Ilva
+19271127-UNK-UNK,1927-11-27,1927-1928,Serie A,,,,,,,,,
+19280219-NAP-ALE,1928-02-19,1927-1928,Serie A,Napoli,Alessandria,1,1,Campo dell'IlvaArbitro:,,E. Ghisi  7’,54’ Avalle,Arbitro: Campo dell'Ilva
+19280226-NAP-GEN,1928-02-26,1927-1928,Serie A,Napoli,Genova 1893,2,1,Campo dell'IlvaArbitro:,,"E. Ghisi 69, Costa 88",27 Bodini I,Arbitro: Campo dell'Ilva
+19280304-TOR-NAP,1928-03-04,1927-1928,Serie A,Torino,Napoli,11,0,Stadio FiladelfiaArbitro:,,"Baloncieri  28’,  36’,  83’, Libonatti  35’,  48’,  60’,  62’, G. Rossetti  51’,  58’, F. Monti  79’, Vezzani  88’",,Arbitro: Stadio Filadelfia
+19270101-NOV-NAP,1927-01-01,1927-1928,Altra Competizione,Novara,Napoli,2,2,Campo di via LombrosoArbitro:,,"Roggia  27’, Meneghetti  35’","55’ G. Innocenti, 80’ Sallustro",Arbitro: Campo di via Lombroso
+19280408-ROM-NAP,1928-04-08,1927-1928,Altra Competizione,Roma,Napoli,4,1,Motovelodromo AppioArbitro:,,"Fasanelli  34’,  69’,  74’, Cappa  42’",8’ G. Innocenti,Arbitro: Motovelodromo Appio
+19280415-NAP-PRO,1928-04-15,1927-1928,Altra Competizione,Napoli,Pro Patria,4,2,Campo dell'IlvaArbitro:,,"G. Innocenti  11’, Costa  23’, E. Ghisi  25’,  89’","15’,  88’ Reguzzoni",Arbitro: Campo dell'Ilva
+19280422-BRE-NAP,1928-04-22,1927-1928,Altra Competizione,Brescia,Napoli,1,0,Stadium di viale PiaveArbitro:,,E. Frisoni  40’ (rig.),,Arbitro: Stadium di viale Piave
+19280429-NAP-LAD,1928-04-29,1927-1928,Altra Competizione,Napoli,La Dominante,4,0,Campo dell'IlvaArbitro:,,"Sallustro  37’,  38’, Tosini  44’, G. Innocenti  57’ (rig.)",,Arbitro: Campo dell'Ilva
+19280506-NAP-CRE,1928-05-06,1927-1928,Altra Competizione,Napoli,Cremonese,2,3,Campo dell'IlvaArbitro:,,"D. Gariglio  17’, Sallustro  42’","7’,  42’ Dalle Vedove, 88’ Corsanini",Arbitro: Campo dell'Ilva
+19280522-UNK-UNK,1928-05-22,1927-1928,Altra Competizione,,,,,,,,,
+19280520-NAP-NOV,1928-05-20,1927-1928,Altra Competizione,Napoli,Novara,0,0,Campo dell'IlvaArbitro:,,,,Arbitro: Campo dell'Ilva
+19280624-NAP-ROM,1928-06-24,1927-1928,Altra Competizione,Napoli,Roma,2,0,Campo dell'IlvaArbitro:,,"E. Ghisi  10’, Zoccola  53’",,Arbitro: Campo dell'Ilva
+19280628-PRO-NAP,1928-06-28,1927-1928,Altra Competizione,Pro Patria,Napoli,4,3,Stadio ComunaleArbitro:,,"Reguzzoni  37’, Crosta  66’, Fizzotti  75’ (rig.), Tognazzi  90’","5’ (rig.),  16’ (rig.),  53’ (rig.) G. Innocenti",Arbitro: Stadio Comunale
+19280705-NAP-BRE,1928-07-05,1927-1928,Altra Competizione,Napoli,Brescia,4,2,Campo dell'IlvaArbitro:,,"Ramello  23’, E. Ghisi  25’,  50’, G. Innocenti  88’","49’ Barbieri, 90’ (rig.) Giuliani",Arbitro: Campo dell'Ilva
+19270101-LAD-NAP,1927-01-01,1927-1928,Altra Competizione,La Dominante,Napoli,1,4,Stadio del LittorioArbitro:,,Ravasio  74’,"8’ E. Ghisi, 11’ Ramello, 35’ G. Innocenti, 59’ P. Ghisi",Arbitro: Stadio del Littorio
+19280715-CRE-NAP,1928-07-15,1927-1928,Altra Competizione,Cremonese,Napoli,0,2,Stadio Giovanni Zini,,,,
+19280708-UNK-UNK,1928-07-08,1927-1928,Altra Competizione,,,,,,,,,

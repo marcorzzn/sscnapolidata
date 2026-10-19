@@ -1,0 +1,29 @@
+match_id,date,season,competition,home_raw_name,away_raw_name,home_goals,away_goals,stadium,attendance,home_scorers,away_scorers,notes
+19261003-NAP-INT,1926-10-03,1926-1927,Serie A,Napoli,Inter,0,3,Stadio Militare dell'ArenacciaArbitro:,,,"44’ Bernardini, 45’,  89’ Powolny",Arbitro: Stadio Militare dell'Arenaccia
+19261010-NAP-ALB,1926-10-10,1926-1927,Serie A,Napoli,Alba Audace,0,2,Stadio Militare dell'ArenacciaArbitro:,,,"25’ Galluzzi, 60’ Ziroli",Arbitro: Stadio Militare dell'Arenaccia
+19261017-GEN-NAP,1926-10-17,1926-1927,Serie A,Genoa,Napoli,4,1,Stadio Luigi FerrarisArbitro:,,"Levratto  4’ (rig.), Narizzano  51’, Gastaldi  53’, Rosso  83’",23’ Innocenti,Arbitro: Stadio Luigi Ferraris
+19261024-VER-NAP,1926-10-24,1926-1927,Serie A,Verona,Napoli,5,0,Campo di Borgo VeneziaArbitro:,,"G.Chiecchi  10’,  27’, E.Chiecchi  16’, Morandi  64’, Porta  78’",,Arbitro: Campo di Borgo Venezia
+19261107-NAP-CAS,1926-11-07,1926-1927,Serie A,Napoli,Casale,0,2,Stadio Militare dell'ArenacciaArbitro:,,,"56’ Mattea, 62’ Zanni",Arbitro: Stadio Militare dell'Arenaccia
+19261114-BRE-NAP,1926-11-14,1926-1927,Serie A,Brescia,Napoli,5,1,Stadium di Viale VeneziaArbitro:,,"Giuliani  29’,  69’, Rizzi  49’, Morselli  53’, Bellardi  70’",31’ (aut.) Vailati,Arbitro: Stadium di Viale Venezia
+19261121-NAP-JUV,1926-11-21,1926-1927,Serie A,Napoli,Juventus,0,3,Stadio Militare dell'ArenacciaArbitro:,,,"1’,  66’,  80’ Vojak",Arbitro: Stadio Militare dell'Arenaccia
+19261128-NAP-MOD,1926-11-28,1926-1927,Serie A,Napoli,Modena,0,1,Stadio Militare dell'ArenacciaArbitro:,,,53’ Povero,Arbitro: Stadio Militare dell'Arenaccia
+19261205-PRO-NAP,1926-12-05,1926-1927,Serie A,Pro Vercelli,Napoli,4,1,Foro BoarioArbitro:,,"Mattuteia  27’, Zanello  30’ (rig.), Bajardi  55’, Piccaluga  66’",47’ Ghisi,Arbitro: Foro Boario
+19261219-INT-NAP,1926-12-19,1926-1927,Serie A,Inter,Napoli,9,2,Campo di via GoldoniArbitro:,,"Cevenini  8’,  17’,  33’, Powolny  20’,  51’,  52’,  88’, Castellazzi  38’, Conti  71’","35’ Kreutzer, 67’ Sallustro",Arbitro: Campo di via Goldoni
+19261226-ALB-NAP,1926-12-26,1926-1927,Serie A,Alba Audace,Napoli,5,2,Stadio NazionaleArbitro:,,"Ziroli  28’,  69’, Jacoponi  32’,  85’, Heger  38’","47’ Ghisi, 83’ (rig.) Kreutzer",Arbitro: Stadio Nazionale
+19270102-NAP-GEN,1927-01-02,1926-1927,Serie A,Napoli,Genoa,2,3,Stadio Militare dell'ArenacciaArbitro:,,"Sallustro  26’, Kreutzer  35’ (rig.)","7’,  58’ Gastaldi, 55’ Levratto",Arbitro: Stadio Militare dell'Arenaccia
+19270123-NAP-VER,1927-01-23,1926-1927,Serie A,Napoli,Verona,0,1,Stadio Militare dell'ArenacciaArbitro:,,,80’ G.Chiecchi,Arbitro: Stadio Militare dell'Arenaccia
+19270206-CAS-NAP,1927-02-06,1926-1927,Serie A,Casale,Napoli,3,0,Stadio Natale PalliArbitro:,,"Caligaris  25’, Buscaglia  61’, Migliavacca  85’",,Arbitro: Stadio Natale Palli
+19270213-NAP-BRE,1927-02-13,1926-1927,Serie A,Napoli,Brescia,0,0,Stadio Militare dell'ArenacciaArbitro:,,,,Arbitro: Stadio Militare dell'Arenaccia
+19270306-JUV-NAP,1927-03-06,1926-1927,Serie A,Juventus,Napoli,8,0,Stadio di Corso MarsigliaArbitro:,,"Viola  13’, Vojak  36’,  51’, Caudera  38’, Grabbi  59’,  74’,  83’, Munerati  79’",,Arbitro: Stadio di Corso Marsiglia
+19270313-MOD-NAP,1927-03-13,1926-1927,Serie A,Modena,Napoli,1,0,Ex VelodromoArbitro:,,Breviglieri  1’,,Arbitro: Ex Velodromo
+19270320-NAP-PRO,1927-03-20,1926-1927,Serie A,Napoli,Pro Vercelli,0,3,Stadio Militare dell'ArenacciaArbitro:,,,",  Piccaluga, Bajardi",Arbitro: Stadio Militare dell'Arenaccia
+19270327-AND-NAP,1927-03-27,1926-1927,Altra Competizione,Andrea Doria,Napoli,3,1,Ugo Terrieri,,"Mandosso  14’,  51’, Poggi  87’",1’ Sacchi,Arbitro: Ugo Terrieri (Torino)
+19270403-NAP-BRE,1927-04-03,1926-1927,Altra Competizione,Napoli,Brescia,1,2,Stadio Militare dell'ArenacciaArbitro:,,Costa  88’,"70’,  73’ Giuliani",Arbitro: Stadio Militare dell'Arenaccia
+19270410-ALB-NAP,1927-04-10,1926-1927,Altra Competizione,Alba Audace,Napoli,1,2,Motovelodromo AppioArbitro:,,Gianelli  49’,"8’ Sivestri, 27’ Costa",Arbitro: Motovelodromo Appio
+19270508-NAP-LIV,1927-05-08,1926-1927,Altra Competizione,Napoli,Livorno,1,1,Campo dell'Ilva[18]Arbitro:,,Sacchi  54’,90’ Palandri,Arbitro: Campo dell'Ilva[18]
+19260101-ALE-NAP,1926-01-01,1926-1927,Altra Competizione,Alessandria,Napoli,9,1,Campo degli OrtiArbitro:,,"Ferrari  30’,  33’, Banchero  43’,  44’,  78’, Cattaneo  52’,  66’, Avalle  73’, Gariglio  75’",59’ Ghisi,Arbitro: Campo degli Orti
+19270522-NAP-AND,1927-05-22,1926-1927,Altra Competizione,Napoli,Andrea Doria,2,0,Campo dell'Ilva[20]Arbitro:,,"Costa  1’,  44’",,Arbitro: Campo dell'Ilva[20]
+19270605-BRE-NAP,1927-06-05,1926-1927,Altra Competizione,Brescia,Napoli,0,0,Stadium di Viale VeneziaArbitro:,,,,Arbitro: Stadium di Viale Venezia
+19270612-NAP-ALB,1927-06-12,1926-1927,Altra Competizione,Napoli,Alba Audace,1,1,Stadio Militare dell'Arenaccia[21]Arbitro:,,Ghisi  55’,53’ Jacopini,Arbitro: Stadio Militare dell'Arenaccia[21]
+19270626-LIV-NAP,1927-06-26,1926-1927,Altra Competizione,Livorno,Napoli,0,2,Campo di Villa Chayes,,,,
+19270703-NAP-ALE,1927-07-03,1926-1927,Altra Competizione,Napoli,Alessandria,1,2,Stadio Militare dell'Arenaccia[23]Arbitro:,,Ghisi  12’,"82’ Cattaneo, 87’ Banchero",Arbitro: Stadio Militare dell'Arenaccia[23]

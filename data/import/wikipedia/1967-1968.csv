@@ -1,0 +1,33 @@
+match_id,date,season,competition,home_raw_name,away_raw_name,home_goals,away_goals,stadium,attendance,home_scorers,away_scorers,notes
+19670924-NAP-ATA,1967-09-24,1967-1968,Serie A,Napoli,Atalanta,1,0,Stadio San PaoloArbitro:,,Altafini  37’ (rig.),,Arbitro: Stadio San Paolo
+19670101-ROM-NAP,1967-01-01,1967-1968,Serie A,Roma,Napoli,2,1,Stadio OlimpicoArbitro:,,"Peiró  5’, Nardin  34’ (aut.)",50’ Barison,Arbitro: Stadio Olimpico
+19671008-NAP-MIL,1967-10-08,1967-1968,Serie A,Napoli,Milan,1,1,Stadio San PaoloArbitro:,,Cané  32’,43’ Hamrin,Arbitro: Stadio San Paolo
+19671015-CAG-NAP,1967-10-15,1967-1968,Serie A,Cagliari,Napoli,1,1,Stadio AmsicoraArbitro:,,Riva  20’ (rig.),53’ (rig.) Altafini,Arbitro: Stadio Amsicora
+19671022-SPA-NAP,1967-10-22,1967-1968,Serie A,SPAL,Napoli,1,2,Stadio Paolo MazzaArbitro:,,Lazzotti  81’,"19’ Bosdaves, 25’ Orlando",Arbitro: Stadio Paolo Mazza
+19671029-NAP-LAN,1967-10-29,1967-1968,Serie A,Napoli,Lanerossi Vicenza,1,1,Stadio San PaoloArbitro:,,Altafini  4’,9’ Vinicio,Arbitro: Stadio San Paolo
+19671105-SAM-NAP,1967-11-05,1967-1968,Serie A,Sampdoria,Napoli,1,1,Stadio Luigi FerrarisArbitro:,,Frustalupi  43’ (rig.),87’ (rig.) Altafini,Arbitro: Stadio Luigi Ferraris
+19671112-NAP-FIO,1967-11-12,1967-1968,Serie A,Napoli,Fiorentina,1,0,Stadio San PaoloArbitro:,,Altafini  8’,,Arbitro: Stadio San Paolo
+19671126-BOL-NAP,1967-11-26,1967-1968,Serie A,Bologna,Napoli,1,2,Stadio Renato Dall'AraArbitro:,,Pascutti  31’,"39’ Altafini, 75’ Pogliana",Arbitro: Stadio Renato Dall'Ara
+19671203-NAP-MAN,1967-12-03,1967-1968,Serie A,Napoli,Mantova,0,0,Stadio San PaoloArbitro:,,,,Arbitro: Stadio San Paolo
+19671209-JUV-NAP,1967-12-09,1967-1968,Serie A,Juventus,Napoli,1,1,Stadio ComunaleArbitro:,,Pogliana  39’ (aut.),78’ Altafini,Arbitro: Stadio Comunale
+19671217-VAR-NAP,1967-12-17,1967-1968,Serie A,Varese,Napoli,1,0,Stadio Franco OssolaArbitro:,,Leonardi  52’,,Arbitro: Stadio Franco Ossola
+19671231-NAP-TOR,1967-12-31,1967-1968,Serie A,Napoli,Torino,2,2,Stadio San PaoloArbitro:,,"Altafini  57’, Orlando  68’","84’ Combin, 87’ (aut.) Juliano",Arbitro: Stadio San Paolo
+19680107-NAP-INT,1968-01-07,1967-1968,Serie A,Napoli,Inter,2,1,Stadio San PaoloArbitro:,,"Altafini  6’, Bianchi  43’",33’ Cappellini,Arbitro: Stadio San Paolo
+19680114-BRE-NAP,1968-01-14,1967-1968,Serie A,Brescia,Napoli,0,0,Stadio Mario RigamontiArbitro:,,,,Arbitro: Stadio Mario Rigamonti
+19680121-ATA-NAP,1968-01-21,1967-1968,Serie A,Atalanta,Napoli,1,0,Stadio ComunaleArbitro:,,Rigotto  32’,,Arbitro: Stadio Comunale
+19680128-NAP-ROM,1968-01-28,1967-1968,Serie A,Napoli,Roma,2,0,Stadio San PaoloArbitro:,,"Altafini  15’,  87’ (rig.)",,Arbitro: Stadio San Paolo
+19680204-MIL-NAP,1968-02-04,1967-1968,Serie A,Milan,Napoli,2,1,Stadio San SiroArbitro:,,"Rivera  9’, Prati  90’",72’ Barison,Arbitro: Stadio San Siro
+19680211-NAP-CAG,1968-02-11,1967-1968,Serie A,Napoli,Cagliari,1,0,Stadio San PaoloArbitro:,,Sivori  42’,,Arbitro: Stadio San Paolo
+19680218-NAP-SPA,1968-02-18,1967-1968,Serie A,Napoli,SPAL,1,0,Stadio San PaoloArbitro:,,Stanzial  76’ (aut.),,Arbitro: Stadio San Paolo
+19680225-LAN-NAP,1968-02-25,1967-1968,Serie A,Lanerossi Vicenza,Napoli,0,1,Stadio Romeo MentiArbitro:,,,8’ Altafini,Arbitro: Stadio Romeo Menti
+19680303-NAP-SAM,1968-03-03,1967-1968,Serie A,Napoli,Sampdoria,1,1,Stadio San PaoloArbitro:,,Sivori  61’,21’ Francesconi,Arbitro: Stadio San Paolo
+19680310-FIO-NAP,1968-03-10,1967-1968,Serie A,Fiorentina,Napoli,3,0,Stadio ComunaleArbitro:,,"Maraschi  72’,  77’, Chiarugi  73’",,Arbitro: Stadio Comunale
+19680317-NAP-BOL,1968-03-17,1967-1968,Serie A,Napoli,Bologna,0,0,Stadio San PaoloArbitro:,,,,Arbitro: Stadio San Paolo
+19680324-MAN-NAP,1968-03-24,1967-1968,Serie A,Mantova,Napoli,0,1,Stadio Danilo MartelliArbitro:,,,42’ Bosdaves,Arbitro: Stadio Danilo Martelli
+19680331-NAP-JUV,1968-03-31,1967-1968,Serie A,Napoli,Juventus,1,2,Stadio San PaoloArbitro:,,Juliano  84’,"48’ De Paoli, 70’ Chinesinho",Arbitro: Stadio San Paolo
+19680414-NAP-VAR,1968-04-14,1967-1968,Serie A,Napoli,Varese,5,0,Stadio San PaoloArbitro:,,"Orlando  5’,  10’, Gasperi  13’ (aut.), Barison  58’, Cané  80’",,Arbitro: Stadio San Paolo
+19680428-TOR-NAP,1968-04-28,1967-1968,Serie A,Torino,Napoli,1,2,Stadio ComunaleArbitro:,,Poletti  15’ (rig.),"62’ Cané, 87’ Altafini",Arbitro: Stadio Comunale
+19680505-INT-NAP,1968-05-05,1967-1968,Serie A,Inter,Napoli,1,2,Stadio San SiroArbitro:,,Montefusco  88’ (aut.),"5’ Cané, 20’ Barison",Arbitro: Stadio San Siro
+19680512-NAP-BRE,1968-05-12,1967-1968,Serie A,Napoli,Brescia,0,0,Stadio San PaoloArbitro:,,,,Arbitro: Stadio San Paolo
+19670903-NAP-SPA,1967-09-03,1967-1968,Coppa Italia,Napoli,SPAL,4,1,Stadio San PaoloArbitro:,,"Orlando  26’, Altafini  62’, Cané  83’, Barison  86’",21’ Reif,Arbitro: Stadio San Paolo
+19671108-TOR-NAP,1967-11-08,1967-1968,Coppa Italia,Torino,Napoli,1,0,Stadio ComunaleArbitro:,,Puia  75’,,Arbitro: Stadio Comunale

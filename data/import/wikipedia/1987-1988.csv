@@ -1,0 +1,42 @@
+match_id,date,season,competition,home_raw_name,away_raw_name,home_goals,away_goals,stadium,attendance,home_scorers,away_scorers,notes
+19870913-CES-NAP,1987-09-13,1987-1988,Serie A,Cesena,Napoli,0,1,Stadio Dino ManuzziArbitro:,27 079,,61’ Bagni,Arbitro: Stadio Dino Manuzzi (27 079 spett.)
+19870920-NAP-ASC,1987-09-20,1987-1988,Serie A,Napoli,Ascoli,2,1,Stadio San PaoloArbitro:,66 767,"Bagni  7’, Giordano  34’",18’ Scarafoni,Arbitro: Stadio San Paolo (66 767 spett.)
+19870927-PIS-NAP,1987-09-27,1987-1988,Serie A,Pisa,Napoli,0,2,Stadio Arena GaribaldiArbitro:,21 064,,,Arbitro: Stadio Arena Garibaldi (21 064 spett.)
+19871004-AVE-NAP,1987-10-04,1987-1988,Serie A,Avellino,Napoli,0,1,Stadio PartenioArbitro:,34 449,,86’ Carnevale,Arbitro: Stadio Partenio (34 449 spett.)
+19871011-NAP-PES,1987-10-11,1987-1988,Serie A,Napoli,Pescara,6,0,Stadio San PaoloArbitro:,69 494,"Bagni  23’, Romano  29’, Careca  45’, Maradona  54’ (rig.), Giordano  75’ (rig.), Benini  83’ (aut.)",,Arbitro: Stadio San Paolo (69 494 spett.)
+19871025-ROM-NAP,1987-10-25,1987-1988,Serie A,Roma,Napoli,1,1,Stadio OlimpicoArbitro:,63 161,Pruzzo  46’,67’ Francini,Arbitro: Stadio Olimpico (63 161 spett.)
+19870101-NAP-EMP,1987-01-01,1987-1988,Serie A,Napoli,Empoli,2,1,Stadio San PaoloArbitro:,68 711,"Maradona  17’ (rig.),  35’",7’ Ekström,Arbitro: Stadio San Paolo (68 711 spett.)
+19871108-COM-NAP,1987-11-08,1987-1988,Serie A,Como,Napoli,0,0,Stadio Giuseppe SinigagliaArbitro:,16 150,,,Arbitro: Stadio Giuseppe Sinigaglia (16 150 spett.)
+19871122-NAP-TOR,1987-11-22,1987-1988,Serie A,Napoli,Torino,3,1,Stadio San PaoloArbitro:,71 375,"Maradona  6’, Careca  44, 90’",76’ Berggreen,Arbitro: Stadio San Paolo (71 375 spett.)
+19871129-INT-NAP,1987-11-29,1987-1988,Serie A,Inter,Napoli,1,1,Stadio Giuseppe MeazzaArbitro:,64 306,De Napoli  59’ (aut.),20’ Careca,Arbitro: Stadio Giuseppe Meazza (64 306 spett.)
+19871213-NAP-JUV,1987-12-13,1987-1988,Serie A,Napoli,Juventus,2,1,Stadio San PaoloArbitro:,81 844,"De Napoli  26’, Maradona  87’ (rig.)",76’ Cabrini,Arbitro: Stadio San Paolo (81 844 spett.)
+19871220-NAP-VER,1987-12-20,1987-1988,Serie A,Napoli,Verona,4,1,Stadio San PaoloArbitro:,72 433,"Bagni  14’, Giordano  29, 89’, Maradona  54’",35’ (aut.) Bagni,Arbitro: Stadio San Paolo (72 433 spett.)
+19880103-MIL-NAP,1988-01-03,1987-1988,Serie A,Milan,Napoli,4,1,Stadio Giuseppe MeazzaArbitro:,75 519,"Colombo  19’, Virdis  24’, Gullit  73’, Donadoni  78’",10’ Careca,Arbitro: Stadio Giuseppe Meazza (75 519 spett.)
+19880110-NAP-FIO,1988-01-10,1987-1988,Serie A,Napoli,Fiorentina,4,0,Stadio San PaoloArbitro:,74 214,"Giordano  3, 74’, Careca  33’, Maradona  35’",,Arbitro: Stadio San Paolo (74 214 spett.)
+19880117-SAM-NAP,1988-01-17,1987-1988,Serie A,Sampdoria,Napoli,0,1,Stadio Luigi FerrarisArbitro:,21 028,,87’ Maradona,Arbitro: Stadio Luigi Ferraris (21 028 spett.)
+19880124-NAP-CES,1988-01-24,1987-1988,Serie A,Napoli,Cesena,2,0,Stadio San PaoloArbitro:,70 898,"Careca  9’, Maradona  43’",,Arbitro: Stadio San Paolo (70 898 spett.)
+19880131-ASC-NAP,1988-01-31,1987-1988,Serie A,Ascoli,Napoli,1,3,Stadio Cino e Lillo Del DucaArbitro:,28 684,Casagrande  8’,"12’ (rig.) Maradona, 26’ Giordano, 49’ Careca",Arbitro: Stadio Cino e Lillo Del Duca (28 684 spett.)
+19880207-NAP-PIS,1988-02-07,1987-1988,Serie A,Napoli,Pisa,2,1,Stadio San PaoloArbitro:,72 951,"Renica  13’, Maradona  76’",77’ (aut.) Filardi,Arbitro: Stadio San Paolo (72 951 spett.)
+19880214-NAP-AVE,1988-02-14,1987-1988,Serie A,Napoli,Avellino,4,0,Stadio San PaoloArbitro:,71 444,"Renica  17’, Francini  19’, Maradona  22’, Romano  64’",,Arbitro: Stadio San Paolo (71 444 spett.)
+19880228-PES-NAP,1988-02-28,1987-1988,Serie A,Pescara,Napoli,0,1,Stadio AdriaticoArbitro:,27 287,,38’ Giordano,Arbitro: Stadio Adriatico (27 287 spett.)
+19880306-NAP-ROM,1988-03-06,1987-1988,Serie A,Napoli,Roma,1,2,Stadio San PaoloArbitro:,78 910,Careca  80’,"21’ Giannini, 70’ Oddi",Arbitro: Stadio San Paolo (78 910 spett.)
+19880313-EMP-NAP,1988-03-13,1987-1988,Serie A,Empoli,Napoli,0,0,Stadio Carlo CastellaniArbitro:,18 864,,,Arbitro: Stadio Carlo Castellani (18 864 spett.)
+19880320-NAP-COM,1988-03-20,1987-1988,Serie A,Napoli,Como,3,0,Stadio San PaoloArbitro:,72 887,"Careca  10, 48’, De Napoli  43’",,Arbitro: Stadio San Paolo (72 887 spett.)
+19880327-TOR-NAP,1988-03-27,1987-1988,Serie A,Torino,Napoli,0,0,Stadio comunaleArbitro:,45 933,,,Arbitro: Stadio comunale (45 933 spett.)
+19880410-NAP-INT,1988-04-10,1987-1988,Serie A,Napoli,Inter,1,0,Stadio San PaoloArbitro:,80 841,Maradona  24’,,Arbitro: Stadio San Paolo (80 841 spett.)
+19880417-JUV-NAP,1988-04-17,1987-1988,Serie A,Juventus,Napoli,3,1,Stadio comunaleArbitro:,54 251,"Cabrini  19’, Rush  67’, De Agostini  74’",83’ Careca,Arbitro: Stadio comunale (54 251 spett.)
+19880424-VER-NAP,1988-04-24,1987-1988,Serie A,Verona,Napoli,1,1,Stadio Marcantonio BentegodiArbitro:,36 234,Galia  65’,25’ Maradona,Arbitro: Stadio Marcantonio Bentegodi (36 234 spett.)
+19870101-NAP-MIL,1987-01-01,1987-1988,Serie A,Napoli,Milan,2,3,Stadio San PaoloArbitro:,83 000,"Maradona  45’, Careca  78’","36’,  68’ Virdis, 76’ van Basten",Arbitro: Stadio San Paolo (83 000 spett.)
+19880508-FIO-NAP,1988-05-08,1987-1988,Serie A,Fiorentina,Napoli,3,2,Stadio comunaleArbitro:,43 140,"Di Chiara  8’, Díaz  58’,  72’","24’ Ferrara, 90’ Renica",Arbitro: Stadio comunale (43 140 spett.)
+19880515-NAP-SAM,1988-05-15,1987-1988,Serie A,Napoli,Sampdoria,1,2,Stadio San PaoloArbitro:,68 989,Carnevale  7’,"59’ Pellegrini, 67’ Vialli",Arbitro: Stadio San Paolo (68 989 spett.)
+19870823-NAP-MOD,1987-08-23,1987-1988,Coppa Italia,Napoli,Modena,4,0,Stadio San PaoloArbitro:,,"Giordano  13’,  43’, Maradona  24’, Careca  34’",,Arbitro: Stadio San Paolo
+19870826-LIV-NAP,1987-08-26,1987-1988,Coppa Italia,Livorno,Napoli,0,2,Stadio Armando PicchiArbitro:,,,"9’ Giordano, 51’ Careca",Arbitro: Stadio Armando Picchi
+19870830-UDI-NAP,1987-08-30,1987-1988,Coppa Italia,Udinese,Napoli,0,2,Stadio FriuliArbitro:,,,"4’ Maradona, 37’ Careca",Arbitro: Stadio Friuli
+19870902-NAP-PAD,1987-09-02,1987-1988,Coppa Italia,Napoli,Padova,1,0,Stadio San PaoloArbitro:,,Careca  20’,,Arbitro: Stadio San Paolo
+19870906-NAP-FIO,1987-09-06,1987-1988,Coppa Italia,Napoli,Fiorentina,2,1,Stadio San PaoloArbitro:,,"Francini  5’, Maradona  51’ (rig.)",30’ (rig.) R. Baggio,Arbitro: Stadio San Paolo
+19880106-NAP-FIO,1988-01-06,1987-1988,Coppa Italia,Napoli,Fiorentina,2,3,Stadio San PaoloArbitro:,,"Maradona  18’ (rig.), Careca  57’","44’ Carobbi, 52’ Onorati, 80’ Díaz",Arbitro: Stadio San Paolo
+19880120-FIO-NAP,1988-01-20,1987-1988,Coppa Italia,Fiorentina,Napoli,1,3,Stadio comunaleArbitro:,,Di Chiara  33’,"50’,  81’ Carnevale, 72’ Renica",Arbitro: Stadio comunale
+19880210-TOR-NAP,1988-02-10,1987-1988,Coppa Italia,Torino,Napoli,1,1,Stadio comunaleArbitro:,,Comi  4’,9’ Renica,Arbitro: Stadio comunale
+19880302-NAP-TOR,1988-03-02,1987-1988,Coppa Italia,Napoli,Torino,2,3,Stadio San PaoloArbitro:,,"Maradona  36’,  50’","27’ Gritti, 75’ Comi, 79’ Polster",Arbitro: Stadio San Paolo
+19870916-REA-NAP,1987-09-16,1987-1988,Champions League,Real Madrid,Napoli,2,0,Stadio Santiago BernabéuArbitro:,0,"Míchel  18’ (rig.), De Napoli  76’ (aut.)",,Arbitro: Stadio Santiago Bernabéu (0 spett.)
+19870930-NAP-REA,1987-09-30,1987-1988,Champions League,Napoli,Real Madrid,1,1,Stadio San PaoloArbitro:,83231,Francini  9’,44’ Butragueño,Arbitro: Stadio San Paolo (83.231 spett.)

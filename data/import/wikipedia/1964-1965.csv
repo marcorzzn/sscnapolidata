@@ -1,0 +1,44 @@
+match_id,date,season,competition,home_raw_name,away_raw_name,home_goals,away_goals,stadium,attendance,home_scorers,away_scorers,notes
+19640913-NAP-ALE,1964-09-13,1964-1965,Altra Competizione,Napoli,Alessandria,1,1,Stadio San PaoloArbitro:,,Giraudo  50’,61’ Bettini,Arbitro: Stadio San Paolo
+19640920-NAP-MON,1964-09-20,1964-1965,Altra Competizione,Napoli,Monza,5,0,Stadio San PaoloArbitro:,,"Cané  5’,  76’ (rig.)  85’, Fanello  12’, Juliano  62’",,Arbitro: Stadio San Paolo
+19640927-MOD-NAP,1964-09-27,1964-1965,Altra Competizione,Modena,Napoli,0,1,Stadio Alberto BragliaArbitro:,,,73’ Juliano,Arbitro: Stadio Alberto Braglia
+19641004-NAP-SPA,1964-10-04,1964-1965,Altra Competizione,Napoli,SPAL,0,0,Stadio San PaoloArbitro:,,,,Arbitro: Stadio San Paolo
+19641011-VER-NAP,1964-10-11,1964-1965,Altra Competizione,Verona,Napoli,0,0,Stadio Marcantonio BentegodiArbitro:,,,,Arbitro: Stadio Marcantonio Bentegodi
+19641018-PAD-NAP,1964-10-18,1964-1965,Altra Competizione,Padova,Napoli,1,1,Stadio Silvio AppianiArbitro:,,Cavicchia  42’,48’ Cané,Arbitro: Stadio Silvio Appiani
+19641025-NAP-PRO,1964-10-25,1964-1965,Altra Competizione,Napoli,Pro Patria,3,0,Stadio San PaoloArbitro:,,"Corelli  40’, Fanello  50’, Giraudo  80’",,Arbitro: Stadio San Paolo
+19640101-CAT-NAP,1964-01-01,1964-1965,Altra Competizione,Catanzaro,Napoli,1,1,Stadio MilitareArbitro:,,Marchioro  38’,20’ Cané,Arbitro: Stadio Militare
+19641115-TRA-NAP,1964-11-15,1964-1965,Altra Competizione,Trani,Napoli,1,0,Stadio ComunaleArbitro:,,Lombardo  75’,,Arbitro: Stadio Comunale
+19641122-NAP-LIV,1964-11-22,1964-1965,Altra Competizione,Napoli,Livorno,1,1,Stadio San PaoloArbitro:,,Giraudo  73’,77’ Mascalaito,Arbitro: Stadio San Paolo
+19641129-POT-NAP,1964-11-29,1964-1965,Altra Competizione,Potenza,Napoli,1,1,Stadio Alfredo VivianiArbitro:,,S. Bercellino  61’,68’ Tacchi,Arbitro: Stadio Alfredo Viviani
+19641206-NAP-VEN,1964-12-06,1964-1965,Altra Competizione,Napoli,Venezia,0,0,Stadio San PaoloArbitro:,,,,Arbitro: Stadio San Paolo
+19641213-TRI-NAP,1964-12-13,1964-1965,Altra Competizione,Triestina,Napoli,0,2,Stadio Giuseppe GrezarArbitro:,,,"73’,  6’ (rig.) Spanio",Arbitro: Stadio Giuseppe Grezar
+19641220-NAP-LEC,1964-12-20,1964-1965,Altra Competizione,Napoli,Lecco,0,0,Stadio San PaoloArbitro:,,,,Arbitro: Stadio San Paolo
+19641227-NAP-PAL,1964-12-27,1964-1965,Altra Competizione,Napoli,Palermo,2,1,Stadio San PaoloArbitro:,,"Cané  18’, Corelli  21’",34’ Troja,Arbitro: Stadio San Paolo
+19650110-BRE-NAP,1965-01-10,1964-1965,Altra Competizione,Brescia,Napoli,4,1,Stadio Mario RigamontiArbitro:,,"Veneranda  5’, Maestri  6’,  75’, Lodi  81’",51’ Corelli,Arbitro: Stadio Mario Rigamonti
+19650117-NAP-REG,1965-01-17,1964-1965,Altra Competizione,Napoli,Reggiana,0,0,Stadio San PaoloArbitro:,,,,Arbitro: Stadio San Paolo
+19650124-BAR-NAP,1965-01-24,1964-1965,Altra Competizione,Bari,Napoli,2,1,Stadio della VittoriaArbitro:,,"De Nardi  17’,  85’",69’ Tacchi,Arbitro: Stadio della Vittoria
+19650131-NAP-PAR,1965-01-31,1964-1965,Altra Competizione,Napoli,Parma,2,0,Stadio San PaoloArbitro:,,"Fanello  20’, Tacchi  77’",,Arbitro: Stadio San Paolo
+19650207-ALE-NAP,1965-02-07,1964-1965,Altra Competizione,Alessandria,Napoli,1,0,Stadio Giuseppe MoccagattaArbitro:,,Di Cristofaro  65’,,Arbitro: Stadio Giuseppe Moccagatta
+19650214-MON-NAP,1965-02-14,1964-1965,Altra Competizione,Monza,Napoli,1,1,Stadio Città di MonzaArbitro:,,Cristin  45’,62’ (rig.) Spanio,Arbitro: Stadio Città di Monza
+19650221-NAP-MOD,1965-02-21,1964-1965,Altra Competizione,Napoli,Modena,1,0,Stadio San PaoloArbitro:,,Bolzoni  75’,,Arbitro: Stadio San Paolo
+19650228-SPA-NAP,1965-02-28,1964-1965,Altra Competizione,SPAL,Napoli,0,0,Stadio ComunaleArbitro:,,,,Arbitro: Stadio Comunale
+19650307-NAP-VER,1965-03-07,1964-1965,Altra Competizione,Napoli,Verona,2,0,Stadio San PaoloArbitro:,,"Adorni  36’, Tacchi  42’",,Arbitro: Stadio San Paolo
+19650314-NAP-PAD,1965-03-14,1964-1965,Altra Competizione,Napoli,Padova,0,1,Stadio San PaoloArbitro:,,,24’ Abbatini,Arbitro: Stadio San Paolo
+19650321-PRO-NAP,1965-03-21,1964-1965,Altra Competizione,Pro Patria,Napoli,0,2,Stadio ComunaleArbitro:,,,"36’ Cané, 44’ Bean",Arbitro: Stadio Comunale
+19650328-NAP-CAT,1965-03-28,1964-1965,Altra Competizione,Napoli,Catanzaro,2,0,Stadio San PaoloArbitro:,,"Cané  43’, Spanio  71’",,Arbitro: Stadio San Paolo
+19650411-NAP-TRA,1965-04-11,1964-1965,Altra Competizione,Napoli,Trani,1,0,Stadio San PaoloArbitro:,,Ronzon  63’,,Arbitro: Stadio San Paolo
+19650418-LIV-NAP,1965-04-18,1964-1965,Altra Competizione,Livorno,Napoli,0,1,Stadio ComunaleArbitro:,,,89’ Fanello,Arbitro: Stadio Comunale
+19650425-NAP-POT,1965-04-25,1964-1965,Altra Competizione,Napoli,Potenza,0,0,Stadio San PaoloArbitro:,,,,Arbitro: Stadio San Paolo
+19650502-VEN-NAP,1965-05-02,1964-1965,Altra Competizione,Venezia,Napoli,0,0,Stadio Pierluigi PenzoArbitro:,,,,Arbitro: Stadio Pierluigi Penzo
+19650509-NAP-TRI,1965-05-09,1964-1965,Altra Competizione,Napoli,Triestina,3,0,Stadio San PaoloArbitro:,,"Bean  42’,  80’,  82’",,Arbitro: Stadio San Paolo
+19650516-LEC-NAP,1965-05-16,1964-1965,Altra Competizione,Lecco,Napoli,3,0,Stadio Mario RigamontiArbitro:,,"Mistone  10’ (aut.), Innocenti  67’, Fracassa  76’",,Arbitro: Stadio Mario Rigamonti
+19650523-PAL-NAP,1965-05-23,1964-1965,Altra Competizione,Palermo,Napoli,0,0,Stadio La FavoritaArbitro:,,,,Arbitro: Stadio La Favorita
+19650530-NAP-BRE,1965-05-30,1964-1965,Altra Competizione,Napoli,Brescia,4,0,Stadio San PaoloArbitro:,,"Cané  2’,  51’, Fraschini  22’, Bean  73’",,Arbitro: Stadio San Paolo
+19650606-REG-NAP,1965-06-06,1964-1965,Altra Competizione,Reggiana,Napoli,1,1,Stadio MirabelloArbitro:,,Recagni  16’,40’ Bean,Arbitro: Stadio Mirabello
+19650613-NAP-BAR,1965-06-13,1964-1965,Altra Competizione,Napoli,Bari,2,0,Stadio San PaoloArbitro:,,"Gatti  6’, Spanio  47’",,Arbitro: Stadio San Paolo
+19650620-PAR-NAP,1965-06-20,1964-1965,Altra Competizione,Parma,Napoli,1,3,Stadio Ennio TardiniArbitro:,,R. Zurlini  80’,"49’,  70’ Cané, 51’ Bean",Arbitro: Stadio Ennio Tardini
+19640906-NAP-MES,1964-09-06,1964-1965,Coppa Italia,Napoli,Messina,2,1,Stadio San PaoloArbitro:,,"Bean  6’, Panzanato  117’",80’ Benatti,Arbitro: Stadio San Paolo
+19641023-LAZ-NAP,1964-10-23,1964-1965,Coppa Italia,Lazio,Napoli,0,0,Stadio OlimpicoArbitro:,,,,Arbitro: Stadio Olimpico
+19650106-NAP-FOG,1965-01-06,1964-1965,Coppa Italia,Napoli,Foggia & Incedit,2,1,Stadio San PaoloArbitro:,,"Cané  53’ (rig.), Panzanato  98’",45’ Di Giovanni,Arbitro: Stadio San Paolo
+19650404-NAP-PAL,1965-04-04,1964-1965,Coppa Italia,Napoli,Palermo,1,0,Stadio San PaoloArbitro:,,Cané  40’,,Arbitro: Stadio San Paolo
+19650505-NAP-ROM,1965-05-05,1964-1965,Coppa Italia,Napoli,Roma,1,2,Stadio San PaoloArbitro:,,Cané  72’,"14’ De Sisti, 57’ Salvori",Arbitro: Stadio San Paolo

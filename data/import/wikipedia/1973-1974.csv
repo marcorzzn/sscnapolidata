@@ -1,0 +1,35 @@
+match_id,date,season,competition,home_raw_name,away_raw_name,home_goals,away_goals,stadium,attendance,home_scorers,away_scorers,notes
+19731007-CAG-NAP,1973-10-07,1973-1974,Serie A,Cagliari,Napoli,0,0,Stadio Sant'EliaArbitro:,,,,Arbitro: Stadio Sant'Elia
+19731014-NAP-JUV,1973-10-14,1973-1974,Serie A,Napoli,Juventus,2,0,Stadio San PaoloArbitro:,,"Cané  45’, Clerici  78’ (rig.)",,Arbitro: Stadio San Paolo
+19731028-INT-NAP,1973-10-28,1973-1974,Serie A,Inter,Napoli,2,2,Stadio San SiroArbitro:,,"A. Moro  14’, Boninsegna  49’","28’ Clerici, 42’ Cané",Arbitro: Stadio San Siro
+19731104-NAP-SAM,1973-11-04,1973-1974,Serie A,Napoli,Sampdoria,1,0,Stadio San PaoloArbitro:,,Braglia  84’,,Arbitro: Stadio San Paolo
+19731118-FIO-NAP,1973-11-18,1973-1974,Serie A,Fiorentina,Napoli,1,1,Stadio ComunaleArbitro:,,Roggi  2’,89’ Clerici,Arbitro: Stadio Comunale
+19731125-NAP-LAN,1973-11-25,1973-1974,Serie A,Napoli,Lanerossi Vicenza,2,1,Stadio San PaoloArbitro:,,"Zurlini  42’, Clerici  86’",24’ Damiani,Arbitro: Stadio San Paolo
+19731202-ROM-NAP,1973-12-02,1973-1974,Serie A,Roma,Napoli,0,1,Stadio OlimpicoArbitro:,,,37’ Braglia,Arbitro: Stadio Olimpico
+19731209-NAP-CES,1973-12-09,1973-1974,Serie A,Napoli,Cesena,1,0,Stadio San PaoloArbitro:,,Cera  21’ (aut.),,Arbitro: Stadio San Paolo
+19731216-LAZ-NAP,1973-12-16,1973-1974,Serie A,Lazio,Napoli,1,0,Stadio OlimpicoArbitro:,,Chinaglia  74’,,Arbitro: Stadio Olimpico
+19731223-NAP-MIL,1973-12-23,1973-1974,Serie A,Napoli,Milan,1,2,Stadio San PaoloArbitro:,,Cané  50’,"58’ Bisiolo, 68’ Chiarugi",Arbitro: Stadio San Paolo
+19731230-NAP-VER,1973-12-30,1973-1974,Serie A,Napoli,Verona,2,0,Stadio San PaoloArbitro:,,"Cané  31’, Clerici  52’ (rig.)",,Arbitro: Stadio San Paolo
+19740106-FOG-NAP,1974-01-06,1973-1974,Serie A,Foggia,Napoli,1,0,Stadio Pino ZaccheriaArbitro:,,Pavone  33’,,Arbitro: Stadio Pino Zaccheria
+19740113-NAP-BOL,1974-01-13,1973-1974,Serie A,Napoli,Bologna,2,0,Stadio San PaoloArbitro:,,"Clerici  67’,  77’ (rig.)",,Arbitro: Stadio San Paolo
+19740121-TOR-NAP,1974-01-21,1973-1974,Serie A,Torino,Napoli,1,1,Stadio ComunaleArbitro:,,Vavassori  27’ (aut.),17’ Cané,Arbitro: Stadio Comunale
+19740127-NAP-GEN,1974-01-27,1973-1974,Serie A,Napoli,Genoa,1,0,Stadio San PaoloArbitro:,,Cané  41’,,Arbitro: Stadio San Paolo
+19740203-NAP-CAG,1974-02-03,1973-1974,Serie A,Napoli,Cagliari,1,0,Stadio San PaoloArbitro:,,Braglia  89’,,Arbitro: Stadio San Paolo
+19740210-JUV-NAP,1974-02-10,1973-1974,Serie A,Juventus,Napoli,4,1,Stadio ComunaleArbitro:,,"Capello  7’,  51’, Anastasi  20’,  48’",76’ (rig.) Clerici,Arbitro: Stadio Comunale
+19740217-NAP-INT,1974-02-17,1973-1974,Serie A,Napoli,Inter,2,1,Stadio San PaoloArbitro:,,"Clerici  5’, Bruscolotti  68’",61’ S. Mazzola,Arbitro: Stadio San Paolo
+19740303-SAM-NAP,1974-03-03,1973-1974,Serie A,Sampdoria,Napoli,0,0,Stadio Luigi FerrarisArbitro:,,,,Arbitro: Stadio Luigi Ferraris
+19740310-NAP-FIO,1974-03-10,1973-1974,Serie A,Napoli,Fiorentina,2,1,Stadio San PaoloArbitro:,,"Braglia  10’, Clerici  16’",72’ (rig.) De Sisti,Arbitro: Stadio San Paolo
+19740317-LAN-NAP,1974-03-17,1973-1974,Serie A,Lanerossi Vicenza,Napoli,2,1,Stadio Romeo MentiArbitro:,,"Sormani  10’,  21’",75’ Braglia,Arbitro: Stadio Romeo Menti
+19740324-NAP-ROM,1974-03-24,1973-1974,Serie A,Napoli,Roma,1,1,Stadio San PaoloArbitro:,,Juliano  62’,77’ Orazi,Arbitro: Stadio San Paolo
+19740331-CES-NAP,1974-03-31,1973-1974,Serie A,Cesena,Napoli,1,1,Stadio La FioritaArbitro:,,Braida  89’,60’ Braglia,Arbitro: Stadio La Fiorita
+19740407-NAP-LAZ,1974-04-07,1973-1974,Serie A,Napoli,Lazio,3,3,Stadio San PaoloArbitro:,,"Clerici  18’,  53’ (rig.), Juliano  25’","23’,  41’,  63’ (rig.) Chinaglia",Arbitro: Stadio San Paolo
+19740415-MIL-NAP,1974-04-15,1973-1974,Serie A,Milan,Napoli,0,0,Stadio San SiroArbitro:,,,,Arbitro: Stadio San Siro
+19740421-VER-NAP,1974-04-21,1973-1974,Serie A,Verona,Napoli,1,0,Stadio Marcantonio BentegodiArbitro:,,Luppi  23’,,Arbitro: Stadio Marcantonio Bentegodi
+19740428-NAP-FOG,1974-04-28,1973-1974,Serie A,Napoli,Foggia,1,1,Stadio San PaoloArbitro:,,Clerici  66’,70’ (aut.) Punziano,Arbitro: Stadio San Paolo
+19740505-BOL-NAP,1974-05-05,1973-1974,Serie A,Bologna,Napoli,2,2,Stadio ComunaleArbitro:,,"G. Savoldi  22’ (rig.), R. Vieri  50’","20’ Clerici, 76’ Cané",Arbitro: Stadio Comunale
+19740512-NAP-TOR,1974-05-12,1973-1974,Serie A,Napoli,Torino,1,1,Stadio San PaoloArbitro:,,Clerici  29’ (rig.),35’ Graziani,Arbitro: Stadio San Paolo
+19740519-GEN-NAP,1974-05-19,1973-1974,Serie A,Genoa,Napoli,1,2,Stadio GalleanaArbitro:,,Rosato  57’,"30’,  39’ Braglia",Arbitro: Stadio Galleana
+19730829-NAP-REG,1973-08-29,1973-1974,Coppa Italia,Napoli,Reggiana,1,1,Stadio San PaoloArbitro:,,Braglia  10’,45’ Passalacqua,Arbitro: Stadio San Paolo
+19730902-NAP-BOL,1973-09-02,1973-1974,Coppa Italia,Napoli,Bologna,2,1,Stadio San PaoloArbitro:,,"Clerici  52’, Juliano  67’",25’ G. Savoldi,Arbitro: Stadio San Paolo
+19730909-AVE-NAP,1973-09-09,1973-1974,Coppa Italia,Avellino,Napoli,3,2,Stadio PartenioArbitro:,,"Turchetto  2’,  72’, Roccotelli  62’","10’ Juliano, 56’ A. Albano",Arbitro: Stadio Partenio
+19730916-NAP-GEN,1973-09-16,1973-1974,Coppa Italia,Napoli,Genoa,2,0,Stadio San Paolo,,,,

@@ -1,0 +1,33 @@
+match_id,date,season,competition,home_raw_name,away_raw_name,home_goals,away_goals,stadium,attendance,home_scorers,away_scorers,notes
+19401006-MIL-NAP,1940-10-06,1940-1941,Serie A,Milano,Napoli,4,0,Stadio San SiroArbitro:,,"Boffi  1’,  38’, Faccenda  8’, Cappello  65’",,Arbitro: Stadio San Siro
+19401013-NAP-FIO,1940-10-13,1940-1941,Serie A,Napoli,Fiorentina,0,2,Stadio PartenopeoArbitro:,,,"18’ Valcareggi, 20’ R. Menti",Arbitro: Stadio Partenopeo
+19401020-LAZ-NAP,1940-10-20,1940-1941,Serie A,Lazio,Napoli,1,1,Stadio Nazionale del PNFArbitro:,,Piola  73’,38’ Quario,Arbitro: Stadio Nazionale del PNF
+19401027-NAP-JUV,1940-10-27,1940-1941,Serie A,Napoli,Juventus,2,2,Stadio PartenopeoArbitro:,,"Milano  21’, Busani  49’","2’ Lushta, 12’ (rig.) F. Borel",Arbitro: Stadio Partenopeo
+19401103-GEN-NAP,1940-11-03,1940-1941,Serie A,Genova 1893,Napoli,1,2,Stadio Luigi FerrarisArbitro:,,Scarabello  30’,"13’ Barrera, 57’ Rosellini",Arbitro: Stadio Luigi Ferraris
+19401110-NAP-BOL,1940-11-10,1940-1941,Serie A,Napoli,Bologna,4,4,Stadio PartenopeoArbitro:,,"Barrera  15’, Rosellini  40’,  53’,  75’","35’ Puricelli, 62’,  88’ Reguzzoni, 70’ Andreoli",Arbitro: Stadio Partenopeo
+19401117-NAP-NOV,1940-11-17,1940-1941,Serie A,Napoli,Novara,2,0,Stadio PartenopeoArbitro:,,"Busani  2’, Rosellini  36’",,Arbitro: Stadio Partenopeo
+19401124-AMB-NAP,1940-11-24,1940-1941,Serie A,Ambrosiana-Inter,Napoli,1,0,Arena CivicaArbitro:,,P. Ferraris  28’,,Arbitro: Arena Civica
+19401208-NAP-LIV,1940-12-08,1940-1941,Serie A,Napoli,Livorno,1,2,Stadio PartenopeoArbitro:,,Quario  43’,"48’ Zidarich, 87’ Carta",Arbitro: Stadio Partenopeo
+19401215-TRI-NAP,1940-12-15,1940-1941,Serie A,Triestina,Napoli,2,0,Stadio del LittorioArbitro:,,"Grezar  41’, Cergoli  63’",,Arbitro: Stadio del Littorio
+19401222-NAP-ROM,1940-12-22,1940-1941,Serie A,Napoli,Roma,2,1,Stadio PartenopeoArbitro:,,"Rosellini  25’, Quario  76’",53’ (rig.) Borsetti,Arbitro: Stadio Partenopeo
+19401229-TOR-NAP,1940-12-29,1940-1941,Serie A,Torino,Napoli,6,2,Stadio FiladelfiaArbitro:,,"Petron  7’,  11’,  12’, Capri  33’, Ussello  44’, Ossola  71’","3’ Busani, 25’ Rosellini",Arbitro: Stadio Filadelfia
+19410105-NAP-ATA,1941-01-05,1940-1941,Serie A,Napoli,Atalanta,4,1,Stadio PartenopeoArbitro:,,"Barrera  21’, Rosellini  49’,  74’, Quario  75’",77’ Cominelli,Arbitro: Stadio Partenopeo
+19410112-VEN-NAP,1941-01-12,1940-1941,Serie A,Venezia,Napoli,1,1,Stadio Pierluigi PenzoArbitro:,,Loik  12’,22’ Barrera,Arbitro: Stadio Pierluigi Penzo
+19410119-NAP-BAR,1941-01-19,1940-1941,Serie A,Napoli,Bari,3,1,Stadio PartenopeoArbitro:,,"Fabbro  6’, Barrera  53’, Rosellini  63’",82’ (aut.) Milano,Arbitro: Stadio Partenopeo
+19410126-NAP-MIL,1941-01-26,1940-1941,Serie A,Napoli,Milano,3,2,Stadio PartenopeoArbitro:,,"Rosellini  10’, Barrera  17’, Busani  62’","1’ Boffi, 85’ U. Menti",Arbitro: Stadio Partenopeo
+19410202-FIO-NAP,1941-02-02,1940-1941,Serie A,Fiorentina,Napoli,1,2,Stadio Giovanni BertaArbitro:,,R. Menti  58’,"22’ Barrera, 44’ Quario",Arbitro: Stadio Giovanni Berta
+19410209-NAP-LAZ,1941-02-09,1940-1941,Serie A,Napoli,Lazio,0,2,Stadio PartenopeoArbitro:,,,15’ (rig.) Lombardini,Arbitro: Stadio Partenopeo
+19410216-JUV-NAP,1941-02-16,1940-1941,Serie A,Juventus,Napoli,0,0,Stadio Municipale Benito MussoliniArbitro:,,,,Arbitro: Stadio Municipale Benito Mussolini
+19410223-NAP-GEN,1941-02-23,1940-1941,Serie A,Napoli,Genova 1893,1,0,Stadio Porta Elisa[6]Arbitro:,,Rosellini  44’,,Arbitro: Stadio Porta Elisa[6]
+19410302-BOL-NAP,1941-03-02,1940-1941,Serie A,Bologna,Napoli,3,0,Stadio LittorialeArbitro:,,"Puricelli  64’,  75’, Reguzzoni  68’",,Arbitro: Stadio Littoriale
+19410309-NOV-NAP,1941-03-09,1940-1941,Serie A,Novara,Napoli,1,0,Stadio del LittorioArbitro:,,Pasinati  40’,,Arbitro: Stadio del Littorio
+19410316-NAP-AMB,1941-03-16,1940-1941,Serie A,Napoli,Ambrosiana-Inter,0,1,Stadio PartenopeoArbitro:,,,42’ (rig.) Demaria,Arbitro: Stadio Partenopeo
+19410323-LIV-NAP,1941-03-23,1940-1941,Serie A,Livorno,Napoli,1,1,Stadio Edda Ciano MussoliniArbitro:,,M. Zidarich  55’,84’ Quario,Arbitro: Stadio Edda Ciano Mussolini
+19410330-NAP-TRI,1941-03-30,1940-1941,Serie A,Napoli,Triestina,1,0,Stadio PartenopeoArbitro:,,Cadregari  47’,,Arbitro: Stadio Partenopeo
+19410406-ROM-NAP,1941-04-06,1940-1941,Serie A,Roma,Napoli,2,2,Stadio Nazionale del PNFArbitro:,,"Coscia  18’, Pretto  22’ (aut.)","45’ Barrera, 69’ Busani",Arbitro: Stadio Nazionale del PNF
+19410413-NAP-TOR,1941-04-13,1940-1941,Serie A,Napoli,Torino,2,1,Stadio PartenopeoArbitro:,,"Busani  46’, Quario  78’",57’ Ganelli,Arbitro: Stadio Partenopeo
+19410420-ATA-NAP,1941-04-20,1940-1941,Serie A,Atalanta,Napoli,4,0,Stadio Mario BrumanaArbitro:,,"Cominelli  22’, Gaddoni  32’, E. Fabbri  36’,  83’",,Arbitro: Stadio Mario Brumana
+19410427-NAP-VEN,1941-04-27,1940-1941,Serie A,Napoli,Venezia,1,1,Stadio PartenopeoArbitro:,,Cappellini  66’,6’ Pernigo,Arbitro: Stadio Partenopeo
+19410504-BAR-NAP,1941-05-04,1940-1941,Serie A,Bari,Napoli,0,4,Stadio della VittoriaArbitro:,,,"7’ Rosellini, 38’,  57’ Busani, 90’ Barrera",Arbitro: Stadio della Vittoria
+19410511-TOR-NAP,1941-05-11,1940-1941,Coppa Italia,Torino,Napoli,1,1,Stadio FiladelfiaArbitro:,,Cappellini  38’ (aut.),13’ Quario,Arbitro: Stadio Filadelfia
+19410515-NAP-TOR,1941-05-15,1940-1941,Coppa Italia,Napoli,Torino,1,2,Stadio PartenopeoArbitro:,,Cappellini  89’,"78’ Michelini, 82’ (rig.) Piacentini",Arbitro: Stadio Partenopeo

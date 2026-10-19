@@ -1,0 +1,35 @@
+match_id,date,season,competition,home_raw_name,away_raw_name,home_goals,away_goals,stadium,attendance,home_scorers,away_scorers,notes
+19540919-GEN-NAP,1954-09-19,1954-1955,Serie A,Genoa,Napoli,1,1,Stadio Luigi FerrarisArbitro:,,Vinyei  40’ (aut.),64’ Vitali,Arbitro: Stadio Luigi Ferraris
+19540926-NAP-UDI,1954-09-26,1954-1955,Serie A,Napoli,Udinese,3,1,Stadio Arturo CollanaArbitro:,,"Jeppson  41’,  78’, Vitali  70’",11’ Bettini,Arbitro: Stadio Arturo Collana
+19541003-BOL-NAP,1954-10-03,1954-1955,Serie A,Bologna,Napoli,1,3,Stadio ComunaleArbitro:,,Ballacci  53’ (rig.),"33’,  34’ Vitali, 78’ Jeppson",Arbitro: Stadio Comunale
+19541010-NAP-TOR,1954-10-10,1954-1955,Serie A,Napoli,Torino,0,2,Stadio Arturo CollanaArbitro:,,,"7’ Bertoloni, 56’ Bacci",Arbitro: Stadio Arturo Collana
+19541017-NAP-MIL,1954-10-17,1954-1955,Serie A,Napoli,Milan,0,2,Stadio Arturo CollanaArbitro:,,,"27’ Valli, 86’ Ricagni",Arbitro: Stadio Arturo Collana
+19541024-ROM-NAP,1954-10-24,1954-1955,Serie A,Roma,Napoli,0,0,Stadio OlimpicoArbitro:,,,,Arbitro: Stadio Olimpico
+19541031-JUV-NAP,1954-10-31,1954-1955,Serie A,Juventus,Napoli,1,1,Stadio ComunaleArbitro:,,Boniperti  25’,35’ Amadei,Arbitro: Stadio Comunale
+19541107-NAP-NOV,1954-11-07,1954-1955,Serie A,Napoli,Novara,1,2,Stadio Arturo CollanaArbitro:,,Vitali  46’,"33’ Arce, 79’ Eidefjall",Arbitro: Stadio Arturo Collana
+19541114-SPA-NAP,1954-11-14,1954-1955,Serie A,SPAL,Napoli,1,1,Stadio ComunaleArbitro:,,Olivieri  85’,32’ Amadei,Arbitro: Stadio Comunale
+19541121-TRI-NAP,1954-11-21,1954-1955,Serie A,Triestina,Napoli,0,2,Stadio ComunaleArbitro:,,,"46’ Vitali, 87’ Ciccarelli",Arbitro: Stadio Comunale
+19541212-NAP-FIO,1954-12-12,1954-1955,Serie A,Napoli,Fiorentina,1,1,,,,,
+19541219-LAZ-NAP,1954-12-19,1954-1955,Serie A,Lazio,Napoli,2,1,,,,,
+19541226-NAP-INT,1954-12-26,1954-1955,Serie A,Napoli,Inter,1,2,,,,,
+19550102-PRO-NAP,1955-01-02,1954-1955,Serie A,Pro Patria,Napoli,0,2,,,,,
+19550106-ATA-NAP,1955-01-06,1954-1955,Serie A,Atalanta,Napoli,1,1,,,,,
+19550123-NAP-SAM,1955-01-23,1954-1955,Serie A,Napoli,Sampdoria,2,2,,,,,
+19550130-NAP-CAT,1955-01-30,1954-1955,Serie A,Napoli,Catania,2,0,,,,,
+19550206-NAP-GEN,1955-02-06,1954-1955,Serie A,Napoli,Genoa,3,1,,,,,
+19550213-UDI-NAP,1955-02-13,1954-1955,Serie A,Udinese,Napoli,3,0,,,,,
+19550220-NAP-BOL,1955-02-20,1954-1955,Serie A,Napoli,Bologna,1,1,,,,,
+19550227-TOR-NAP,1955-02-27,1954-1955,Serie A,Torino,Napoli,1,0,,,,,
+19550306-MIL-NAP,1955-03-06,1954-1955,Serie A,Milan,Napoli,1,1,,,,,
+19550313-NAP-ROM,1955-03-13,1954-1955,Serie A,Napoli,Roma,2,0,,,,,
+19550320-NAP-JUV,1955-03-20,1954-1955,Serie A,Napoli,Juventus,1,1,,,,,
+19550403-NOV-NAP,1955-04-03,1954-1955,Serie A,Novara,Napoli,2,1,,,,,
+19550410-NAP-SPA,1955-04-10,1954-1955,Serie A,Napoli,SPAL,2,1,,,,,
+19550417-NAP-TRI,1955-04-17,1954-1955,Serie A,Napoli,Triestina,4,0,,,,,
+19550424-FIO-NAP,1955-04-24,1954-1955,Serie A,Fiorentina,Napoli,0,0,,,,,
+19540101-NAP-LAZ,1954-01-01,1954-1955,Serie A,Napoli,Lazio,3,2,,,,,
+19550508-INT-NAP,1955-05-08,1954-1955,Serie A,Inter,Napoli,1,4,,,,,
+19550515-NAP-PRO,1955-05-15,1954-1955,Serie A,Napoli,Pro Patria,2,1,,,,,
+19550605-NAP-ATA,1955-06-05,1954-1955,Serie A,Napoli,Atalanta,1,0,,,,,
+19550612-SAM-NAP,1955-06-12,1954-1955,Serie A,Sampdoria,Napoli,5,2,,,,,
+19550619-CAT-NAP,1955-06-19,1954-1955,Serie A,Catania,Napoli,1,1,,,,,

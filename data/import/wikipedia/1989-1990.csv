@@ -1,0 +1,47 @@
+match_id,date,season,competition,home_raw_name,away_raw_name,home_goals,away_goals,stadium,attendance,home_scorers,away_scorers,notes
+19890827-ASC-NAP,1989-08-27,1989-1990,Serie A,Ascoli,Napoli,0,1,Stadio Cino e Lillo Del DucaArbitro:,,,24’ Crippa,Arbitro: Stadio Cino e Lillo Del Duca (12 859[1] spett.)
+19890903-NAP-UDI,1989-09-03,1989-1990,Serie A,Napoli,Udinese,1,0,Stadio San PaoloArbitro:,44 055,Renica  48’,,Arbitro: Stadio San Paolo (44 055 spett.)
+19890906-CES-NAP,1989-09-06,1989-1990,Serie A,Cesena,Napoli,0,0,Stadio Dino ManuzziArbitro:,25 943,,,Arbitro: Stadio Dino Manuzzi (25 943 spett.)
+19890910-VER-NAP,1989-09-10,1989-1990,Serie A,Verona,Napoli,1,2,Stadio Marcantonio BentegodiArbitro:,18 835,Gutiérrez  62’,"38’ M. Mauro, 52’ (rig.) Careca",Arbitro: Stadio Marcantonio Bentegodi (18 835 spett.)
+19890917-NAP-FIO,1989-09-17,1989-1990,Serie A,Napoli,Fiorentina,3,2,Stadio San PaoloArbitro:,51 828,"Pioli  61’ (aut.), Careca  76’, Corradini  87’","22’,  31’ (rig.) Baggio",Arbitro: Stadio San Paolo (51 828 spett.)
+19890924-CRE-NAP,1989-09-24,1989-1990,Serie A,Cremonese,Napoli,1,1,Stadio BrianteoArbitro:,13 269,Dezotti  45’,78’ Maradona,Arbitro: Stadio Brianteo (13 269 spett.)
+19890101-NAP-MIL,1989-01-01,1989-1990,Serie A,Napoli,Milan,3,0,Stadio San PaoloArbitro:,58 446,"A. Carnevale  19’,  45’, Maradona  84’",,Arbitro: Stadio San Paolo (58 446 spett.)
+19891008-ROM-NAP,1989-10-08,1989-1990,Serie A,Roma,Napoli,1,1,Stadio FlaminioArbitro:,24 306,Comi  10’,55’ (rig.) Maradona,Arbitro: Stadio Flaminio (24 306 spett.)
+19891022-NAP-INT,1989-10-22,1989-1990,Serie A,Napoli,Inter,2,0,Stadio San PaoloArbitro:,73 641,"Careca  75’, Maradona  84’",,Arbitro: Stadio San Paolo (73 641 spett.)
+19891029-GEN-NAP,1989-10-29,1989-1990,Serie A,Genoa,Napoli,1,1,Stadio Luigi FerrarisArbitro:,32 540,D. Fontolan  34’,60’ (rig.) Maradona,Arbitro: Stadio Luigi Ferraris (32 540 spett.)
+19891105-NAP-LEC,1989-11-05,1989-1990,Serie A,Napoli,Lecce,3,2,Stadio San PaoloArbitro:,45 519,"Fusi  22’, A. Carnevale  33’,  89’","5’ Virdis, 46’ A. Conte",Arbitro: Stadio San Paolo (45 519 spett.)
+19891119-NAP-SAM,1989-11-19,1989-1990,Serie A,Napoli,Sampdoria,1,1,Stadio San PaoloArbitro:,55 329,Maradona  24’ (rig.),60’ Dossena,Arbitro: Stadio San Paolo (55 329 spett.)
+19891126-JUV-NAP,1989-11-26,1989-1990,Serie A,Juventus,Napoli,1,1,Stadio ComunaleArbitro:,48 358,D. Bonetti  73’,16’ Crippa,Arbitro: Stadio Comunale (48 358 spett.)
+19891203-NAP-ATA,1989-12-03,1989-1990,Serie A,Napoli,Atalanta,3,1,Stadio San PaoloArbitro:,48 996,"Crippa  9’, Careca  28’ (rig.), Zola  48’",50’ Pasciullo,Arbitro: Stadio San Paolo (48 996 spett.)
+19891210-BAR-NAP,1989-12-10,1989-1990,Serie A,Bari,Napoli,1,1,Stadio della VittoriaArbitro:,30 416,Monelli  6’,82’ A. Carnevale,Arbitro: Stadio della Vittoria (30 416 spett.)
+19891217-NAP-BOL,1989-12-17,1989-1990,Serie A,Napoli,Bologna,2,0,Stadio San PaoloArbitro:,50 471,"Careca  3’, Baroni  76’",,Arbitro: Stadio San Paolo (50 471 spett.)
+19891230-LAZ-NAP,1989-12-30,1989-1990,Serie A,Lazio,Napoli,3,0,Stadio FlaminioArbitro:,19 534,"Amarildo  36’,  81’, Pin  77’",,Arbitro: Stadio Flaminio (19 534 spett.)
+19900107-NAP-ASC,1990-01-07,1989-1990,Serie A,Napoli,Ascoli,1,0,Stadio San PaoloArbitro:,48 725,A. Carnevale  66’,,Arbitro: Stadio San Paolo (48 725 spett.)
+19900114-UDI-NAP,1990-01-14,1989-1990,Serie A,Udinese,Napoli,2,2,Stadio FriuliArbitro:,24 758,"De Vitis  3’, Mattei  86’","88’ (rig.) Maradona, 90’ Corradini",Arbitro: Stadio Friuli (24 758 spett.)
+19900117-NAP-CES,1990-01-17,1989-1990,Serie A,Napoli,Cesena,1,0,Stadio San PaoloArbitro:,50 597,Crippa  26’,,Arbitro: Stadio San Paolo (50 597 spett.)
+19900121-NAP-VER,1990-01-21,1989-1990,Serie A,Napoli,Verona,2,0,Stadio San PaoloArbitro:,52 135,"Giacomarro  16’ (aut.), Maradona  43’",,Arbitro: Stadio San Paolo (52 135 spett.)
+19900128-FIO-NAP,1990-01-28,1989-1990,Serie A,Fiorentina,Napoli,0,1,Stadio ComunaleArbitro:,23 781,,19’ Fusi,Arbitro: Stadio Comunale (23 781 spett.)
+19900204-NAP-CRE,1990-02-04,1989-1990,Serie A,Napoli,Cremonese,3,0,Stadio San PaoloArbitro:,50 804,"Alemão  24’, Maradona  33’,  67’",,Arbitro: Stadio San Paolo (50 804 spett.)
+19900211-MIL-NAP,1990-02-11,1989-1990,Serie A,Milan,Napoli,3,0,Stadio Giuseppe MeazzaArbitro:,70 019,"Massaro  47’, Maldini  71’, Van Basten  86’",,Arbitro: Stadio Giuseppe Meazza (70 019 spett.)
+19900218-NAP-ROM,1990-02-18,1989-1990,Serie A,Napoli,Roma,3,1,Stadio San PaoloArbitro:,56 982,"Maradona  53’ (rig.),  72’ (rig.), Careca  62’",4’ Nela,Arbitro: Stadio San Paolo (56 982 spett.)
+19900225-INT-NAP,1990-02-25,1989-1990,Serie A,Inter,Napoli,3,1,Stadio Giuseppe MeazzaArbitro:,60 652,"Ferrara  49’ (aut.), Klinsmann  53’, Bianchi  58’",7’ Careca,Arbitro: Stadio Giuseppe Meazza (60 652 spett.)
+19900304-NAP-GEN,1990-03-04,1989-1990,Serie A,Napoli,Genoa,2,1,Stadio San PaoloArbitro:,48 231,"Francini  46’, Zola  90’",80’ Paz,Arbitro: Stadio San Paolo (48 231 spett.)
+19900311-LEC-NAP,1990-03-11,1989-1990,Serie A,Lecce,Napoli,1,1,Stadio Via del MareArbitro:,25 495,Pasculli  68’,54’ A. Carnevale,Arbitro: Stadio Via del Mare (25 495 spett.)
+19900318-SAM-NAP,1990-03-18,1989-1990,Serie A,Sampdoria,Napoli,2,1,Stadio Luigi FerrarisArbitro:,33 110,"Dossena  37’, A. Lombardo  67’",50’ Careca,Arbitro: Stadio Luigi Ferraris (33 110 spett.)
+19900325-NAP-JUV,1990-03-25,1989-1990,Serie A,Napoli,Juventus,3,1,Stadio San PaoloArbitro:,66 299,"Maradona  13’,  28’, Francini  64’",61’ (rig.) De Agostini,Arbitro: Stadio San Paolo (66 299 spett.)
+19900408-ATA-NAP,1990-04-08,1989-1990,Serie A,Atalanta,Napoli,0,2,Stadio Atleti Azzurri d'ItaliaArbitro:,32 000,,,Arbitro: Stadio Atleti Azzurri d'Italia (32 000 spett.)
+19900414-NAP-BAR,1990-04-14,1989-1990,Serie A,Napoli,Bari,3,0,Stadio San PaoloArbitro:,56 913,"Maradona  27’ (rig.), A. Carnevale  53’, Careca  70’",,Arbitro: Stadio San Paolo (56 913 spett.)
+19900422-BOL-NAP,1990-04-22,1989-1990,Serie A,Bologna,Napoli,2,4,Stadio Renato Dall'AraArbitro:,25 359,"De Marchi  47’, Iliev  90’","3’ Careca, 9’ Maradona, 15’ Francini, 85’ Alemão",Arbitro: Stadio Renato Dall'Ara (25 359 spett.)
+19900429-NAP-LAZ,1990-04-29,1989-1990,Serie A,Napoli,Lazio,1,0,Stadio San PaoloArbitro:,62 499,Baroni  7’,,Arbitro: Stadio San Paolo (62 499 spett.)
+19890823-NAP-MON,1989-08-23,1989-1990,Coppa Italia,Napoli,Monza,1,1,Stadio Romeo MentiArbitro:,,"A. Carnevale  84’, M. Neri, Ferrara, M. Mauro, Baroni, Zola, Corradini, Bigliardi, M. Tarantino, A. Carnevale, Francini, Giuliani","64’ Cappellini, Cappellini, Consonni, De Patre, Monguzzi, Mancuso, Fontanini, Viviani, Rossi, Rondini, Turci, Pinato",Arbitro: Stadio Romeo Menti
+19890830-NAP-REG,1989-08-30,1989-1990,Coppa Italia,Napoli,Reggina,2,0,Stadio PartenioArbitro:,,"Zola  20’, Renica  22’ (rig.)",,Arbitro: Stadio Partenio
+19900110-NAP-BOL,1990-01-10,1989-1990,Coppa Italia,Napoli,Bologna,2,0,Stadio San PaoloArbitro:,,"Francini  11’, Alemão  38’",,Arbitro: Stadio San Paolo
+19900124-FIO-NAP,1990-01-24,1989-1990,Coppa Italia,Fiorentina,Napoli,1,1,Stadio Renato CuriArbitro:,,Dunga  22’,48’ Maradona,Arbitro: Stadio Renato Curi
+19900131-MIL-NAP,1990-01-31,1989-1990,Coppa Italia,Milan,Napoli,0,0,Stadio Giuseppe MeazzaArbitro:,,,,Arbitro: Stadio Giuseppe Meazza
+19900214-NAP-MIL,1990-02-14,1989-1990,Coppa Italia,Napoli,Milan,1,3,Stadio San PaoloArbitro:,,Maradona  78’ (rig.),"43’,  88’ Massaro, 76’ (rig.) Van Basten",Arbitro: Stadio San Paolo
+19890914-SPO-NAP,1989-09-14,1989-1990,Coppa UEFA,Sporting Lisbona,Napoli,0,0,Stadio José AlvaladeArbitro:,,,,Arbitro: Stadio José Alvalade
+19890927-NAP-SPO,1989-09-27,1989-1990,Coppa UEFA,Napoli,Sporting Lisbona,0,0,Stadio San PaoloArbitro:,53 268,"Crippa, Careca, M. Mauro, Baroni, Maradona, Ferrara","Luizinho, Douglas, Marlon, Cascavel, Carlos Manuel, Gomes",Arbitro: Stadio San Paolo (53 268 spett.)
+19891018-WET-NAP,1989-10-18,1989-1990,Coppa UEFA,Wettingen,Napoli,0,0,Stadio LetzigrundArbitro:,,,,Arbitro: Stadio Letzigrund
+19890101-NAP-WET,1989-01-01,1989-1990,Coppa UEFA,Napoli,Wettingen,2,1,Stadio San PaoloArbitro:,,"Baroni  68’, M. Mauro  75’ (rig.)",15’ Bertelsen,Arbitro: Stadio San Paolo
+19891122-NAP-WER,1989-11-22,1989-1990,Coppa UEFA,Napoli,Werder Brema,2,3,Stadio San PaoloArbitro:,,"Alemão  52’, Careca  65’","41’ Neubarth, 46’ Riedle, 90’ Rufer",Arbitro: Stadio San Paolo
+19891206-WER-NAP,1989-12-06,1989-1990,Coppa UEFA,Werder Brema,Napoli,5,1,WeserstadionArbitro:,,"Riedle  27’,  62’, Rufer  55’, Sauer  88’, Eilts  89’",70’ Careca,Arbitro: Weserstadion

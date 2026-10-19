@@ -1,0 +1,46 @@
+match_id,date,season,competition,home_raw_name,away_raw_name,home_goals,away_goals,stadium,attendance,home_scorers,away_scorers,notes
+19860914-BRE-NAP,1986-09-14,1986-1987,Serie A,Brescia,Napoli,0,1,Stadio Mario RigamontiArbitro:,30 400,,41’ Maradona,Arbitro: Stadio Mario Rigamonti (30 400 spett.)
+19860921-NAP-UDI,1986-09-21,1986-1987,Serie A,Napoli,Udinese,1,1,Stadio San PaoloArbitro:,64 720,De Napoli  29’,49’ Graziani,Arbitro: Stadio San Paolo (64 720 spett.)
+19860928-AVE-NAP,1986-09-28,1986-1987,Serie A,Avellino,Napoli,0,0,Stadio PartenioArbitro:,35 163,,,Arbitro: Stadio Partenio (35 163 spett.)
+19861005-NAP-TOR,1986-10-05,1986-1987,Serie A,Napoli,Torino,3,1,Stadio San PaoloArbitro:,65 450,"Bagni  15’, Ferrara  60’, Giordano  76’",10’ Sabato,Arbitro: Stadio San Paolo (65 450 spett.)
+19861012-SAM-NAP,1986-10-12,1986-1987,Serie A,Sampdoria,Napoli,1,2,Stadio Luigi FerrarisArbitro:,32 460,Vialli  59’ (rig.),"8’ Caffarelli, 65’ (rig.) Maradona",Arbitro: Stadio Luigi Ferraris (32 460 spett.)
+19861019-NAP-ATA,1986-10-19,1986-1987,Serie A,Napoli,Atalanta,2,2,Stadio San PaoloArbitro:,64 476,"Volpecina  20’, Maradona  65’ (rig.)","30’ Cantarutti, 80’ Incocciati",Arbitro: Stadio San Paolo (64 476 spett.)
+19861026-ROM-NAP,1986-10-26,1986-1987,Serie A,Roma,Napoli,0,1,Stadio OlimpicoArbitro:,64 515,,46’ Maradona,Arbitro: Stadio Olimpico (64 515 spett.)
+19861102-NAP-INT,1986-11-02,1986-1987,Serie A,Napoli,Inter,0,0,Stadio San PaoloArbitro:,81 621,,,Arbitro: Stadio San Paolo (81 621 spett.)
+19861109-JUV-NAP,1986-11-09,1986-1987,Serie A,Juventus,Napoli,1,3,Stadio ComunaleArbitro:,52 380,Laudrup  50’,"73’ Ferrario, 74’ Giordano, 90’ Volpecina",Arbitro: Stadio Comunale (52 380 spett.)
+19861123-NAP-EMP,1986-11-23,1986-1987,Serie A,Napoli,Empoli,4,0,Stadio San PaoloArbitro:,66 026,"Maradona  26’, Carnevale  45’,  67’, Bagni  79’",,Arbitro: Stadio San Paolo (66 026 spett.)
+19861130-NAP-VER,1986-11-30,1986-1987,Serie A,Napoli,Verona,0,0,Stadio San PaoloArbitro:,75 704,,,Arbitro: Stadio San Paolo (75 704 spett.)
+19861214-MIL-NAP,1986-12-14,1986-1987,Serie A,Milan,Napoli,0,0,Stadio Giuseppe MeazzaArbitro:,68 208,,,Arbitro: Stadio Giuseppe Meazza (68 208 spett.)
+19861221-NAP-COM,1986-12-21,1986-1987,Serie A,Napoli,Como,2,1,Stadio San PaoloArbitro:,67 351,"Caffarelli  17’,  38’",89’ (aut.) Bruscolotti,Arbitro: Stadio San Paolo (67 351 spett.)
+19870104-FIO-NAP,1987-01-04,1986-1987,Serie A,Fiorentina,Napoli,3,1,Stadio ComunaleArbitro:,53 126,"Díaz  6’, Antognoni  25’, Monelli  89’",50’ Maradona,Arbitro: Stadio Comunale (53 126 spett.)
+19870111-NAP-ASC,1987-01-11,1986-1987,Serie A,Napoli,Ascoli,3,0,Stadio San PaoloArbitro:,63 215,"Muro  58’, Romano  67’, Bagni  86’",,Arbitro: Stadio San Paolo (63 215 spett.)
+19870118-NAP-BRE,1987-01-18,1986-1987,Serie A,Napoli,Brescia,2,1,Stadio San PaoloArbitro:,69 754,"Ferrara  14’, Giordano  64’ (rig.)",55’ Branco,Arbitro: Stadio San Paolo (69 754 spett.)
+19860101-UDI-NAP,1986-01-01,1986-1987,Serie A,Udinese,Napoli,0,3,Stadio FriuliArbitro:,39 091,,"28’ (rig.),  42’ Maradona, 77’ De Napoli",Arbitro: Stadio Friuli (39 091 spett.)
+19870208-NAP-AVE,1987-02-08,1986-1987,Serie A,Napoli,Avellino,3,0,Stadio San PaoloArbitro:,66 570,"Bagni  53’, Carnevale  68’,  78’",,Arbitro: Stadio San Paolo (66 570 spett.)
+19870222-TOR-NAP,1987-02-22,1986-1987,Serie A,Torino,Napoli,0,1,Stadio ComunaleArbitro:,46 615,,84’ Giordano,Arbitro: Stadio Comunale (46 615 spett.)
+19860101-NAP-SAM,1986-01-01,1986-1987,Serie A,Napoli,Sampdoria,1,1,Stadio San PaoloArbitro:,75 309,Maradona  37’,31’ Lorenzo,Arbitro: Stadio San Paolo (75 309 spett.)
+19870308-ATA-NAP,1987-03-08,1986-1987,Serie A,Atalanta,Napoli,0,1,Stadio ComunaleArbitro:,28 771,,12’ Giordano,Arbitro: Stadio Comunale (28 771 spett.)
+19870315-NAP-ROM,1987-03-15,1986-1987,Serie A,Napoli,Roma,0,0,Stadio San PaoloArbitro:,82 185,,,Arbitro: Stadio San Paolo (82 185 spett.)
+19870322-INT-NAP,1987-03-22,1986-1987,Serie A,Inter,Napoli,1,0,Stadio Giuseppe MeazzaArbitro:,68 281,Bergomi  85’,,Arbitro: Stadio Giuseppe Meazza (68 281 spett.)
+19870329-NAP-JUV,1987-03-29,1986-1987,Serie A,Napoli,Juventus,2,1,Stadio San PaoloArbitro:,82 185,"Renica  14’, Romano  58’",50’ Serena,Arbitro: Stadio San Paolo (82 185 spett.)
+19870405-EMP-NAP,1987-04-05,1986-1987,Serie A,Empoli,Napoli,0,0,Stadio San PaoloArbitro:,17 880,,,Arbitro: Stadio San Paolo (17 880 spett.)
+19870412-VER-NAP,1987-04-12,1986-1987,Serie A,Verona,Napoli,3,0,Stadio Marcantonio BentegodiArbitro:,38 526,"Pacione  21’, Renica  32’ (aut.), Elkjær  39’ (rig.)",,Arbitro: Stadio Marcantonio Bentegodi (38 526 spett.)
+19870426-NAP-MIL,1987-04-26,1986-1987,Serie A,Napoli,Milan,2,1,Stadio San PaoloArbitro:,82 468,"Carnevale  33’, Maradona  43’",79’ Virdis,Arbitro: Stadio San Paolo (82 468 spett.)
+19870503-COM-NAP,1987-05-03,1986-1987,Serie A,Como,Napoli,1,1,Stadio Giuseppe SinigagliaArbitro:,22 982,Giunta  63’,76’ Carnevale,Arbitro: Stadio Giuseppe Sinigaglia (22 982 spett.)
+19870510-NAP-FIO,1987-05-10,1986-1987,Serie A,Napoli,Fiorentina,1,1,Stadio San PaoloArbitro:,82 579,Carnevale  29’,39’ Baggio,Arbitro: Stadio San Paolo (82 579 spett.)
+19870517-ASC-NAP,1987-05-17,1986-1987,Serie A,Ascoli,Napoli,1,1,Stadio Cino e Lillo Del DucaArbitro:,18 894,Barbuti  54’,10’ Carnevale,Arbitro: Stadio Cino e Lillo Del Duca (18 894 spett.)
+19860824-SPA-NAP,1986-08-24,1986-1987,Coppa Italia,SPAL,Napoli,0,2,Stadio Paolo MazzaArbitro:,,,"43’ Bagni, 68’ Maradona",Arbitro: Stadio Paolo Mazza
+19860827-LAZ-NAP,1986-08-27,1986-1987,Coppa Italia,Lazio,Napoli,0,2,Stadio OlimpicoArbitro:,,,"26’ Carnevale, 36’ Maradona",Arbitro: Stadio Olimpico
+19860831-TAR-NAP,1986-08-31,1986-1987,Coppa Italia,Taranto,Napoli,0,1,Stadio Via del MareArbitro:,,,73’ De Napoli,Arbitro: Stadio Via del Mare
+19860903-NAP-LRV,1986-09-03,1986-1987,Coppa Italia,Napoli,L.R. Vicenza,2,1,Stadio Santa ColombaArbitro:,,"Muro  54’, Giordano  73’",82’ Rondon,Arbitro: Stadio Santa Colomba
+19860907-NAP-CES,1986-09-07,1986-1987,Coppa Italia,Napoli,Cesena,3,1,Stadio San PaoloArbitro:,,"Carnevale  24’, Maradona  53’, Bagni  74’",9’ Simonini,Arbitro: Stadio San Paolo
+19870225-NAP-BRE,1987-02-25,1986-1987,Coppa Italia,Napoli,Brescia,3,0,Stadio San PaoloArbitro:,,"Maradona  16’, Muro  56’, Giordano  72’",,Arbitro: Stadio San Paolo
+19870408-BRE-NAP,1987-04-08,1986-1987,Coppa Italia,Brescia,Napoli,0,3,Stadio Mario RigamontiArbitro:,,,"47’ Carnevale, 69’,  76’ Giordano",Arbitro: Stadio Mario Rigamonti
+19870429-NAP-BOL,1987-04-29,1986-1987,Coppa Italia,Napoli,Bologna,3,0,Stadio San PaoloArbitro:,,"Giordano  45’, Carnevale  61’, Maradona  84’",,Arbitro: Stadio San Paolo
+19870506-BOL-NAP,1987-05-06,1986-1987,Coppa Italia,Bologna,Napoli,2,4,Stadio Renato Dall'AraArbitro:,,"Marocchi  40’, Marronaro  86’","55’ Caffarelli, 60’,  88’ Giordano, 70’ (rig.) Maradona",Arbitro: Stadio Renato Dall'Ara
+19870527-CAG-NAP,1987-05-27,1986-1987,Coppa Italia,Cagliari,Napoli,0,1,Stadio Sant'EliaArbitro:,,,79’ Maradona,Arbitro: Stadio Sant'Elia
+19870603-NAP-CAG,1987-06-03,1986-1987,Coppa Italia,Napoli,Cagliari,4,1,Stadio San PaoloArbitro:,,"Carnevale  22’, Giordano  24’,  42’, Muro  68’",36’ (aut.) Romano,Arbitro: Stadio San Paolo
+19870607-NAP-ATA,1987-06-07,1986-1987,Coppa Italia,Napoli,Atalanta,3,0,Stadio San PaoloArbitro:,,"Renica  67’, Muro  71’, Bagni  77’",,Arbitro: Stadio San Paolo
+19870613-ATA-NAP,1987-06-13,1986-1987,Coppa Italia,Atalanta,Napoli,0,1,Stadio ComunaleArbitro:,,,86’ Giordano,Arbitro: Stadio Comunale
+19860917-NAP-TOL,1986-09-17,1986-1987,Coppa UEFA,Napoli,Tolosa,1,0,Stadio San PaoloArbitro:,,Carnevale  55’,,Arbitro: Stadio San Paolo
+19860101-TOL-NAP,1986-01-01,1986-1987,Coppa UEFA,Tolosa,Napoli,1,0,Stadium MunicipalArbitro:,,"Stopyra  15’, Stopyra, Márcico, Durand, Marx, Tarantini","Giordano, Ferrario, Renica, Bagni, Maradona",Arbitro: Stadium Municipal

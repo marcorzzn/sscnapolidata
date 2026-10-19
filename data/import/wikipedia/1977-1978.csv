@@ -1,0 +1,43 @@
+match_id,date,season,competition,home_raw_name,away_raw_name,home_goals,away_goals,stadium,attendance,home_scorers,away_scorers,notes
+19770911-PES-NAP,1977-09-11,1977-1978,Serie A,Pescara,Napoli,1,3,Stadio AdriaticoArbitro:,,Repetto  53’,"12’ Pin, 27’ Bruscolotti, 36’ Chiarugi",Arbitro: Stadio Adriatico
+19770918-NAP-JUV,1977-09-18,1977-1978,Serie A,Napoli,Juventus,1,2,Stadio San PaoloArbitro:,,Pin  59’,"7’ Gentile, 70’ Virdis",Arbitro: Stadio San Paolo
+19770925-INT-NAP,1977-09-25,1977-1978,Serie A,Inter,Napoli,1,0,Stadio San SiroArbitro:,,Oriali  35’,,Arbitro: Stadio San Siro
+19771002-NAP-GEN,1977-10-02,1977-1978,Serie A,Napoli,Genoa,0,0,Stadio San PaoloArbitro:,,,,Arbitro: Stadio San Paolo
+19771023-ATA-NAP,1977-10-23,1977-1978,Serie A,Atalanta,Napoli,1,1,Stadio ComunaleArbitro:,,Tavola  63’,86’ Savoldi,Arbitro: Stadio Comunale
+19771030-NAP-ROM,1977-10-30,1977-1978,Serie A,Napoli,Roma,2,0,Stadio San PaoloArbitro:,,"Pin  22’, Savoldi  80’ (rig.)",,Arbitro: Stadio San Paolo
+19771106-NAP-PER,1977-11-06,1977-1978,Serie A,Napoli,Perugia,3,2,Stadio San PaoloArbitro:,,"Savoldi  15’,  31’,  34’","41’ (rig.) Amenta, 87’ Bagni",Arbitro: Stadio San Paolo
+19771120-TOR-NAP,1977-11-20,1977-1978,Serie A,Torino,Napoli,1,0,Stadio ComunaleArbitro:,,Graziani  75’,,Arbitro: Stadio Comunale
+19771127-NAP-VER,1977-11-27,1977-1978,Serie A,Napoli,Verona,3,0,Stadio San PaoloArbitro:,,"Savoldi  11’, Juliano  61’, Mocellin  63’",,Arbitro: Stadio San Paolo
+19771211-LAZ-NAP,1977-12-11,1977-1978,Serie A,Lazio,Napoli,1,1,Stadio OlimpicoArbitro:,,Garlaschelli  75’,88’ Juliano,Arbitro: Stadio Olimpico
+19771218-NAP-FOG,1977-12-18,1977-1978,Serie A,Napoli,Foggia,5,0,Stadio San PaoloArbitro:,,"Valente  24’, Savoldi  32’,  48’ (rig.),  57’,  86’ (rig.)",,Arbitro: Stadio San Paolo
+19771231-FIO-NAP,1977-12-31,1977-1978,Serie A,Fiorentina,Napoli,1,0,Stadio ComunaleArbitro:,,Galdiolo  75’,,Arbitro: Stadio Comunale
+19780108-LAN-NAP,1978-01-08,1977-1978,Serie A,Lanerossi Vicenza,Napoli,0,0,Stadio Romeo MentiArbitro:,,,,Arbitro: Stadio Romeo Menti
+19780115-NAP-BOL,1978-01-15,1977-1978,Serie A,Napoli,Bologna,0,0,Stadio San PaoloArbitro:,,,,Arbitro: Stadio San Paolo
+19780122-MIL-NAP,1978-01-22,1977-1978,Serie A,Milan,Napoli,0,1,Stadio San SiroArbitro:,,,52’ (rig.) Savoldi,Arbitro: Stadio San Siro
+19780129-NAP-PES,1978-01-29,1977-1978,Serie A,Napoli,Pescara,1,1,Stadio San PaoloArbitro:,,Savoldi  80’,54’ Bertarelli,Arbitro: Stadio San Paolo
+19780205-JUV-NAP,1978-02-05,1977-1978,Serie A,Juventus,Napoli,1,0,Stadio ComunaleArbitro:,,Boninsegna  3’,,Arbitro: Stadio Comunale
+19780212-NAP-INT,1978-02-12,1977-1978,Serie A,Napoli,Inter,2,2,Stadio San PaoloArbitro:,,"Chiarugi  21’, Facchetti  83’ (aut.)","26’ Oriali, 62’ Muraro",Arbitro: Stadio San Paolo
+19780219-GEN-NAP,1978-02-19,1977-1978,Serie A,Genoa,Napoli,1,1,Stadio Luigi FerrarisArbitro:,,Berni  45’,74’ (rig.) Savoldi,Arbitro: Stadio Luigi Ferraris
+19780226-NAP-ATA,1978-02-26,1977-1978,Serie A,Napoli,Atalanta,2,2,Stadio San PaoloArbitro:,,"Massa  29’,  84’","36’ Paina, 44’ (aut.) Stanzione",Arbitro: Stadio San Paolo
+19780305-ROM-NAP,1978-03-05,1977-1978,Serie A,Roma,Napoli,0,0,Stadio OlimpicoArbitro:,,,,Arbitro: Stadio Olimpico
+19780312-PER-NAP,1978-03-12,1977-1978,Serie A,Perugia,Napoli,2,0,Stadio di Pian di MassianoArbitro:,,"Novellino  26’, Mattolini  75’ (aut.)",,Arbitro: Stadio di Pian di Massiano
+19780319-NAP-TOR,1978-03-19,1977-1978,Serie A,Napoli,Torino,1,3,Stadio San PaoloArbitro:,,Savoldi  49’ (rig.),"23’ Sala, 62’ Pulici, 88’ Graziani",Arbitro: Stadio San Paolo
+19780326-VER-NAP,1978-03-26,1977-1978,Serie A,Verona,Napoli,0,1,Stadio Marcantonio BentegodiArbitro:,,,38’ Pin,Arbitro: Stadio Marcantonio Bentegodi
+19780402-NAP-LAZ,1978-04-02,1977-1978,Serie A,Napoli,Lazio,4,3,Stadio San PaoloArbitro:,,"Juliano  6’, Savoldi  25’, Capone  55’,  61’","43’ (rig.),  83’ Giordano, 85’ Lopez",Arbitro: Stadio San Paolo
+19780409-FOG-NAP,1978-04-09,1977-1978,Serie A,Foggia,Napoli,1,1,Stadio Pino ZaccheriaArbitro:,,Nicoli  48’,73’ Savoldi,Arbitro: Stadio Pino Zaccheria
+19780416-NAP-FIO,1978-04-16,1977-1978,Serie A,Napoli,Fiorentina,0,0,Stadio San PaoloArbitro:,,,,Arbitro: Stadio San Paolo
+19780423-NAP-LAN,1978-04-23,1977-1978,Serie A,Napoli,Lanerossi Vicenza,1,4,Stadio San PaoloArbitro:,,Vinazzani  6’,"16’ Callioni, 23’,  39’ Faloppa, 81’ Rossi",Arbitro: Stadio San Paolo
+19780430-BOL-NAP,1978-04-30,1977-1978,Serie A,Bologna,Napoli,0,0,Stadio ComunaleArbitro:,,,,Arbitro: Stadio Comunale
+19780507-NAP-MIL,1978-05-07,1977-1978,Serie A,Napoli,Milan,1,1,Stadio San PaoloArbitro:,,Vinazzani  85’,74’ Bigon,Arbitro: Stadio San Paolo
+19770821-UNK-UNK,1977-08-21,1977-1978,Coppa Italia,,,,,,,,,
+19770824-NAP-CAT,1977-08-24,1977-1978,Coppa Italia,Napoli,Catanzaro,2,0,Stadio San PaoloArbitro:,,"La Palma  58’, Savoldi  85’ (rig.)",,Arbitro: Stadio San Paolo
+19770828-PAL-NAP,1977-08-28,1977-1978,Coppa Italia,Palermo,Napoli,2,3,Stadio La FavoritaArbitro:,,"Chimenti  14’,  59’","15’ Savoldi, 85’ Mocellin, 88’ Massa",Arbitro: Stadio La Favorita
+19770831-LAN-NAP,1977-08-31,1977-1978,Coppa Italia,Lanerossi Vicenza,Napoli,1,2,Stadio Romeo MentiArbitro:,,Rossi  31’,"12’ Pin, 33’ Savoldi",Arbitro: Stadio Romeo Menti
+19770904-NAP-AVE,1977-09-04,1977-1978,Coppa Italia,Napoli,Avellino,4,0,Stadio San PaoloArbitro:,,"Savoldi  5’,  40’,  75’, Massa  21’",,Arbitro: Stadio San Paolo
+19780504-NAP-JUV,1978-05-04,1977-1978,Coppa Italia,Napoli,Juventus,5,0,Stadio San PaoloArbitro:,,"Savoldi  1’,  52’,  61’,  70’, Pin  74’",,Arbitro: Stadio San Paolo
+19780510-MIL-NAP,1978-05-10,1977-1978,Coppa Italia,Milan,Napoli,1,1,Stadio Marcantonio BentegodiArbitro:,,Sartori  76’,27’ Savoldi,Arbitro: Stadio Marcantonio Bentegodi
+19780517-NAP-TAR,1978-05-17,1977-1978,Coppa Italia,Napoli,Taranto,3,0,Stadio San PaoloArbitro:,,"Capone  47’,  73’,  89’",,Arbitro: Stadio San Paolo
+19780528-JUV-NAP,1978-05-28,1977-1978,Coppa Italia,Juventus,Napoli,1,0,Stadio ComunaleArbitro:,,Spinosi  44’,,Arbitro: Stadio Comunale
+19770101-NAP-MIL,1977-01-01,1977-1978,Coppa Italia,Napoli,Milan,1,0,Stadio San PaoloArbitro:,,Savoldi  77’,,Arbitro: Stadio San Paolo
+19780606-TAR-NAP,1978-06-06,1977-1978,Coppa Italia,Taranto,Napoli,0,0,Stadio SalinellaArbitro:,,,,Arbitro: Stadio Salinella
+19780608-NAP-INT,1978-06-08,1977-1978,Coppa Italia,Napoli,Inter,1,2,Stadio OlimpicoArbitro:,,Restelli  6’,"18’ Altobelli, 87’ Bini",Arbitro: Stadio Olimpico

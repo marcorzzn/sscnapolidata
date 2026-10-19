@@ -1,0 +1,36 @@
+match_id,date,season,competition,home_raw_name,away_raw_name,home_goals,away_goals,stadium,attendance,home_scorers,away_scorers,notes
+19421004-NAP-SIE,1942-10-04,1942-1943,Altra Competizione,Napoli,Siena,3,2,Stadio PartenopeoArbitro:,,"Viani  14’, Verrina  16’,  17’","44’ Polak, 84’ Civili",Arbitro: Stadio Partenopeo
+19421011-ALE-NAP,1942-10-11,1942-1943,Altra Competizione,Alessandria,Napoli,0,0,Campo del LittorioArbitro:,,,,Arbitro: Campo del Littorio
+19421018-NAP-PAL,1942-10-18,1942-1943,Altra Competizione,Napoli,Palermo-Juventina,3,1,Stadio PartenopeoArbitro:,,"Cadregari  13’, Verrina  70’, Fabbro  80’",30’ Bazan,Arbitro: Stadio Partenopeo
+19421025-NOV-NAP,1942-10-25,1942-1943,Altra Competizione,Novara,Napoli,0,0,Stadio del LittorioArbitro:,,,,Arbitro: Stadio del Littorio
+19421101-NAP-FAN,1942-11-01,1942-1943,Altra Competizione,Napoli,Fanfulla,2,1,Stadio PartenopeoArbitro:,,"Viani  2’, Ganelli  24’",75’ Bandirali,Arbitro: Stadio Partenopeo
+19421108-PRO-NAP,1942-11-08,1942-1943,Altra Competizione,Pro Patria,Napoli,1,1,Stadio Bruno MussoliniArbitro:,,Colombi  6’,62’ Busani,Arbitro: Stadio Bruno Mussolini
+19421115-NAP-MAT,1942-11-15,1942-1943,Altra Competizione,Napoli,MATER,5,0,Stadio PartenopeoArbitro:,,"Cadregari  15’,  19’,  77’, Viani  28’, Venditto  42’",,Arbitro: Stadio Partenopeo
+19421122-PIS-NAP,1942-11-22,1942-1943,Altra Competizione,Pisa,Napoli,2,0,Campo del LittorioArbitro:,,"Paolini  28’ (rig.), Ciferri  73’",,Arbitro: Campo del Littorio
+19421129-NAP-PAD,1942-11-29,1942-1943,Altra Competizione,Napoli,Padova,0,0,Stadio PartenopeoArbitro:,,,,Arbitro: Stadio Partenopeo
+19421206-PES-NAP,1942-12-06,1942-1943,Altra Competizione,Pescara,Napoli,3,1,Stadio RampignaArbitro:,,"Lanciaprima  10’, Tontodonati  21’, Creziato  78’",50’ Busani,Arbitro: Stadio Rampigna
+19421213-NAP-SPE,1942-12-13,1942-1943,Altra Competizione,Napoli,Spezia,1,2,Stadio del LittorioArbitro:,,Viani  8’,"63’ Carapellese, 85’ Costa",Arbitro: Stadio del Littorio
+19421220-SAV-NAP,1942-12-20,1942-1943,Altra Competizione,Savona,Napoli,0,1,Campo Agostino RicciArbitro:,,,27’ Viani,Arbitro: Campo Agostino Ricci
+19421227-NAP-ANC,1942-12-27,1942-1943,Altra Competizione,Napoli,Anconitana-Bianchi,1,0,Stadio del LittorioArbitro:,,Viani  71’,,Arbitro: Stadio del Littorio
+19430103-CRE-NAP,1943-01-03,1942-1943,Altra Competizione,Cremonese,Napoli,1,0,Campo Polisportivo Roberto FarinacciArbitro:,,Galletti  47’,,Arbitro: Campo Polisportivo Roberto Farinacci
+19430110-NAP-BRE,1943-01-10,1942-1943,Altra Competizione,Napoli,Brescia,2,1,Stadio del LittorioArbitro:,,"Cadregari  45+1’, Viani  80’",78’ I. Rebuzzi,Arbitro: Stadio del Littorio
+19430117-NAP-UDI,1943-01-17,1942-1943,Altra Competizione,Napoli,Udinese,2,1,Stadio del LittorioArbitro:,,"Verrina  63’,  78’",9’ Cozzarin,Arbitro: Stadio del Littorio
+19430124-MOD-NAP,1943-01-24,1942-1943,Altra Competizione,Modena,Napoli,3,0,Stadio Cesare MarzariArbitro:,,"Remondini  47’ (rig.), Eliani  73’,  90’",,Arbitro: Stadio Cesare Marzari
+19430131-SIE-NAP,1943-01-31,1942-1943,Altra Competizione,Siena,Napoli,0,2,Stadio Rino DausArbitro:,,,"18’ Busoni, 26’ Cadregari",Arbitro: Stadio Rino Daus
+19430207-NAP-ALE,1943-02-07,1942-1943,Altra Competizione,Napoli,Alessandria,2,1,Stadio del LittorioArbitro:,,"Viani  7’,  12’ (rig.)",38’ Lacelli,Arbitro: Stadio del Littorio
+19430214-PAL-NAP,1943-02-14,1942-1943,Altra Competizione,Palermo-Juventina,Napoli,,,Stadio Michele Marrone,,,,
+19430221-NAP-NOV,1943-02-21,1942-1943,Altra Competizione,Napoli,Novara,2,1,Stadio del LittorioArbitro:,,"Cadregari  4’, Fabbro  34’ (rig.)",8’ Battioni,Arbitro: Stadio del Littorio
+19430228-FAN-NAP,1943-02-28,1942-1943,Altra Competizione,Fanfulla,Napoli,0,0,Stadio DosseninaArbitro:,,,,Arbitro: Stadio Dossenina
+19430307-NAP-PRO,1943-03-07,1942-1943,Altra Competizione,Napoli,Pro Patria,3,0,Stadio del LittorioArbitro:,,"Viani  69’,  83’, Milano  89’",,Arbitro: Stadio del Littorio
+19430313-MAT-NAP,1943-03-13,1942-1943,Altra Competizione,MATER,Napoli,0,0,Motovelodromo AppioArbitro:,,,,Arbitro: Motovelodromo Appio
+19430321-NAP-PIS,1943-03-21,1942-1943,Altra Competizione,Napoli,Pisa,1,1,Stadio del LittorioArbitro:,,Cadregari  39’ (rig.),55’ Barbon,Arbitro: Stadio del Littorio
+19430328-PAD-NAP,1943-03-28,1942-1943,Altra Competizione,Padova,Napoli,1,2,Stadio Silvio AppianiArbitro:,,Formentin  63’ (rig.),"30’,  71’ Busani",Arbitro: Stadio Silvio Appiani
+19430404-NAP-PES,1943-04-04,1942-1943,Altra Competizione,Napoli,Pescara,4,0,Stadio del LittorioArbitro:,,"Cadregari  38’, Venditto, Busani  80’, Viani  85’",,Arbitro: Stadio del Littorio
+19430411-SPE-NAP,1943-04-11,1942-1943,Altra Competizione,Spezia,Napoli,0,0,Stadio Alberto PiccoArbitro:,,,,Arbitro: Stadio Alberto Picco
+19430418-NAP-SAV,1943-04-18,1942-1943,Altra Competizione,Napoli,Savona,2,0,Stadio del LittorioArbitro:,,"Busani  48’, Cadregari  77’",,Arbitro: Stadio del Littorio
+19430425-ANC-NAP,1943-04-25,1942-1943,Altra Competizione,Anconitana-Bianchi,Napoli,2,5,Stadio del LittorioArbitro:,,"E. Conti  3’, Trevisani  65’","2’,  28’ Busani, 15’,  21’,  90’ Viani",Arbitro: Stadio del Littorio
+19430509-NAP-CRE,1943-05-09,1942-1943,Altra Competizione,Napoli,Cremonese,3,1,Stadio del LittorioArbitro:,,"Cadregari  17’,  53’ (rig.), Viani  45’",46’ Petruzzini,Arbitro: Stadio del Littorio
+19430523-BRE-NAP,1943-05-23,1942-1943,Altra Competizione,Brescia,Napoli,1,0,Stadium di viale PiaveArbitro:,,Romanini  51’,,Arbitro: Stadium di viale Piave
+19430530-UDI-NAP,1943-05-30,1942-1943,Altra Competizione,Udinese,Napoli,1,1,Stadio MorettiArbitro:,,D'Odorico  18’,33’ Busani,Arbitro: Stadio Moretti
+19430606-NAP-MOD,1943-06-06,1942-1943,Altra Competizione,Napoli,Modena,0,1,Stadio del LittorioArbitro:,,,90’ Eliani,Arbitro: Stadio del Littorio
+19420919-NAP-LAZ,1942-09-19,1942-1943,Coppa Italia,Napoli,Lazio,1,2,Stadio PartenopeoArbitro:,,Viani  57’ (rig.),"10’ Koenig, 89’ Puccinelli",Arbitro: Stadio Partenopeo

@@ -1,0 +1,33 @@
+match_id,date,season,competition,home_raw_name,away_raw_name,home_goals,away_goals,stadium,attendance,home_scorers,away_scorers,notes
+19380918-NAP-NOV,1938-09-18,1938-1939,Serie A,Napoli,Novara,2,1,Stadio PartenopeoArbitro:,,"Negro  18’, Venditto  81’",21’ Torri,Arbitro: Stadio Partenopeo
+19380925-MIL-NAP,1938-09-25,1938-1939,Serie A,Milano,Napoli,0,0,Stadio San SiroArbitro:,,,,Arbitro: Stadio San Siro
+19381002-NAP-LIG,1938-10-02,1938-1939,Serie A,Napoli,Liguria,0,0,Stadio PartenopeoArbitro:,,,,Arbitro: Stadio Partenopeo
+19381009-JUV-NAP,1938-10-09,1938-1939,Serie A,Juventus,Napoli,1,0,Stadio Municipale Benito MussoliniArbitro:,,De Filippis  76’,,Arbitro: Stadio Municipale Benito Mussolini
+19381016-NAP-TRI,1938-10-16,1938-1939,Serie A,Napoli,Triestina,2,0,Stadio PartenopeoArbitro:,,"Negro  15’, Romagnoli  88’",,Arbitro: Stadio Partenopeo
+19381030-LUC-NAP,1938-10-30,1938-1939,Serie A,Lucchese,Napoli,2,2,Stadio Porta ElisaArbitro:,,"Colli  32’, Pomponi  70’","1’ Romagnoli, 10’ Prato",Arbitro: Stadio Porta Elisa
+19381106-NAP-MOD,1938-11-06,1938-1939,Serie A,Napoli,Modena,0,1,Stadio PartenopeoArbitro:,,,47’ Montanari,Arbitro: Stadio Partenopeo
+19381113-ROM-NAP,1938-11-13,1938-1939,Serie A,Roma,Napoli,2,2,Campo TestaccioArbitro:,,"Serantoni  50’, Subinaghi  72’","32’,  43’ Biagi",Arbitro: Campo Testaccio
+19381127-TOR-NAP,1938-11-27,1938-1939,Serie A,Torino,Napoli,3,0,Stadio FiladelfiaArbitro:,,"Vallone  26’, Petron  74’, Gaddoni  87’",,Arbitro: Stadio Filadelfia
+19381211-NAP-AMB,1938-12-11,1938-1939,Serie A,Napoli,Ambrosiana-Inter,1,0,Stadio PartenopeoArbitro:,,Venditto  49’,,Arbitro: Stadio Partenopeo
+19381218-GEN-NAP,1938-12-18,1938-1939,Serie A,Genova 1893,Napoli,3,1,Stadio Luigi FerrarisArbitro:,,"Di Piazza  15’,  33’, Scarabello  72’ (rig.)",76’ (rig.) Romagnoli,Arbitro: Stadio Luigi Ferraris
+19380101-NAP-BAR,1938-01-01,1938-1939,Serie A,Napoli,Bari,1,1,Stadio PartenopeoArbitro:,,Rocco  5’,63’ Dugini,Arbitro: Stadio Partenopeo
+19390108-LIV-NAP,1939-01-08,1938-1939,Serie A,Livorno,Napoli,2,0,Stadio Edda Ciano MussoliniArbitro:,,"V. Viani  5’,  84’",,Arbitro: Stadio Edda Ciano Mussolini
+19390115-NAP-BOL,1939-01-15,1938-1939,Serie A,Napoli,Bologna,1,6,Stadio PartenopeoArbitro:,,Rocco  88’,"7’ Reguzzoni, 23’ Sansone, 45’ Biavati, 46’,  65’ Puricelli, 89’ Andreoli",Arbitro: Stadio Partenopeo
+19390122-LAZ-NAP,1939-01-22,1938-1939,Serie A,Lazio,Napoli,0,0,Stadio Nazionale del PNFArbitro:,,,,Arbitro: Stadio Nazionale del PNF
+19390129-NOV-NAP,1939-01-29,1938-1939,Serie A,Novara,Napoli,0,0,Stadio del LittorioArbitro:,,,,Arbitro: Stadio del Littorio
+19390205-NAP-MIL,1939-02-05,1938-1939,Serie A,Napoli,Milano,1,0,Stadio PartenopeoArbitro:,,Rocco  21’,,Arbitro: Stadio Partenopeo
+19390212-LIG-NAP,1939-02-12,1938-1939,Serie A,Liguria,Napoli,2,0,Stadio del LittorioArbitro:,,"Spinola  72’, Gabardo  73’",,Arbitro: Stadio del Littorio
+19390219-NAP-JUV,1939-02-19,1938-1939,Serie A,Napoli,Juventus,4,1,Stadio PartenopeoArbitro:,,"Piccini  28’, Rocco  42’, Mian  60’,  89’",61’ Santià,Arbitro: Stadio Partenopeo
+19390226-TRI-NAP,1939-02-26,1938-1939,Serie A,Triestina,Napoli,0,0,Stadio del LittorioArbitro:,,,,Arbitro: Stadio del Littorio
+19390305-NAP-LUC,1939-03-05,1938-1939,Serie A,Napoli,Lucchese,3,1,Stadio PartenopeoArbitro:,,"Gerbi  16’,  69’, Biagi  37’",48’ Colli,Arbitro: Stadio Partenopeo
+19390312-MOD-NAP,1939-03-12,1938-1939,Serie A,Modena,Napoli,2,1,Stadio Cesare MarzariArbitro:,,"Carnevali  65’,  76’",71’ Rocco,Arbitro: Stadio Cesare Marzari
+19390319-NAP-ROM,1939-03-19,1938-1939,Serie A,Napoli,Roma,1,0,Stadio PartenopeoArbitro:,,Paone  61’,,Arbitro: Stadio Partenopeo
+19390402-NAP-TOR,1939-04-02,1938-1939,Serie A,Napoli,Torino,0,0,Stadio PartenopeoArbitro:,,,,Arbitro: Stadio Partenopeo
+19390409-AMB-NAP,1939-04-09,1938-1939,Serie A,Ambrosiana-Inter,Napoli,1,2,Arena CivicaArbitro:,,Barsanti  50’,"11’ Mian, 47’ Rocco",Arbitro: Arena Civica
+19390416-NAP-GEN,1939-04-16,1938-1939,Serie A,Napoli,Genova 1893,2,0,Stadio PartenopeoArbitro:,,"Zanni  9’, Mian  72’",,Arbitro: Stadio Partenopeo
+19390421-BAR-NAP,1939-04-21,1938-1939,Serie A,Bari,Napoli,1,1,Stadio della VittoriaArbitro:,,Cappellini  77’,51’ Biagi,Arbitro: Stadio della Vittoria
+19390430-NAP-LIV,1939-04-30,1938-1939,Serie A,Napoli,Livorno,3,1,Stadio PartenopeoArbitro:,,"Venditto  52’, Mian  55’, Biagi  88’ (rig.)",44’ Zennaro,Arbitro: Stadio Partenopeo
+19390521-BOL-NAP,1939-05-21,1938-1939,Serie A,Bologna,Napoli,4,0,Stadio LittorialeArbitro:,,"Andreolo  5’, Reguzzoni  67’, Castello  77’ (aut.), Puricelli  85’",,Arbitro: Stadio Littoriale
+19390528-NAP-LAZ,1939-05-28,1938-1939,Serie A,Napoli,Lazio,0,0,Stadio PartenopeoArbitro:,,,,Arbitro: Stadio Partenopeo
+19381226-NAP-AMB,1938-12-26,1938-1939,Coppa Italia,Napoli,Ambrosiana-Inter,1,1,Stadio PartenopeoArbitro:,,Fabbro  111’,91’ Candiani,Arbitro: Stadio Partenopeo
+19390105-AMB-NAP,1939-01-05,1938-1939,Coppa Italia,Ambrosiana-Inter,Napoli,1,0,Arena CivicaArbitro:,,Candiani  54’,,Arbitro: Arena Civica

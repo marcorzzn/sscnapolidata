@@ -37,3 +37,10 @@ archive/*
 !archive/.gitkeep
 foto/*
 !foto/.gitkeep
+
+# DB e backups
+db/backups/
+db/*.sqlite-journal
+
+# Wikipedia cache HTML
+data/import/wikipedia/cache/

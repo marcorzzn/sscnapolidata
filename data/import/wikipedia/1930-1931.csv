@@ -1,0 +1,35 @@
+match_id,date,season,competition,home_raw_name,away_raw_name,home_goals,away_goals,stadium,attendance,home_scorers,away_scorers,notes
+19300928-NAP-PRO,1930-09-28,1930-1931,Serie A,Napoli,Pro Vercelli,1,0,Stadio Giorgio AscarelliArbitro:,,A. Sallustro  8’,,Arbitro: Stadio Giorgio Ascarelli
+19301005-GEN-NAP,1930-10-05,1930-1931,Serie A,Genova 1893,Napoli,4,2,Campo di Via del PianoArbitro:,,"Elv. Banchero  22’,  79’,  86’, Levratto  55’","63’ Vojak, 90’ Tansini",Arbitro: Campo di Via del Piano
+19301012-NAP-PRO,1930-10-12,1930-1931,Serie A,Napoli,Pro Patria,1,0,Stadio Giorgio AscarelliArbitro:,,Vojak  41’ (rig.),,Arbitro: Stadio Giorgio Ascarelli
+19301019-ROM-NAP,1930-10-19,1930-1931,Serie A,Roma,Napoli,3,1,Campo TestaccioArbitro:,,"Lombardo  17’, Fasanelli  58’, Volk  85’",77’ (rig.) Tansini,Arbitro: Campo Testaccio
+19301026-NAP-LIV,1930-10-26,1930-1931,Serie A,Napoli,Livorno,2,0,Stadio Giorgio AscarelliArbitro:,,"Vojak  58’, O. Sallustro  85’",,Arbitro: Stadio Giorgio Ascarelli
+19301102-NAP-MOD,1930-11-02,1930-1931,Serie A,Napoli,Modena,4,1,Stadio Giorgio AscarelliArbitro:,,"Mihalich  12’,  21’, A. Sallustro  16’,  52’",76’ Piccaluga,Arbitro: Stadio Giorgio Ascarelli
+19301109-TRI-NAP,1930-11-09,1930-1931,Serie A,Triestina,Napoli,0,0,Stadio di MontebelloArbitro:,,,,Arbitro: Stadio di Montebello
+19301116-NAP-LAZ,1930-11-16,1930-1931,Serie A,Napoli,Lazio,2,0,Stadio Giorgio AscarelliArbitro:,,"Tansini  3’, O. Sallustro  10’",,Arbitro: Stadio Giorgio Ascarelli
+19301123-JUV-NAP,1930-11-23,1930-1931,Serie A,Juventus,Napoli,1,2,Campo JuventusArbitro:,,Cesarini  76’,"2’ Buscaglia, 10’ Vojak",Arbitro: Campo Juventus
+19301130-NAP-BRE,1930-11-30,1930-1931,Serie A,Napoli,Brescia,3,1,Stadio Giorgio AscarelliArbitro:,,"Vojak  10’, Mihalich  41’,  87’",1’ Giuliani,Arbitro: Stadio Giorgio Ascarelli
+19301207-AMB-NAP,1930-12-07,1930-1931,Serie A,Ambrosiana,Napoli,2,1,Arena CivicaArbitro:,,"Meazza  26’, Serantoni  56’",73’ Mihalich,Arbitro: Arena Civica
+19301214-NAP-ALE,1930-12-14,1930-1931,Serie A,Napoli,Alessandria,3,2,Stadio Giorgio AscarelliArbitro:,,"Mihalich  5’, Vojak  48’,  67’","15’,  50’ Cattaneo",Arbitro: Stadio Giorgio Ascarelli
+19301221-MIL-NAP,1930-12-21,1930-1931,Serie A,Milan,Napoli,2,3,Stadio San SiroArbitro:,,"G. Santagostino  10’,  57’","35’ Innocenti, 75’ Vojak, 85’ Tansini",Arbitro: Stadio San Siro
+19310104-NAP-BOL,1931-01-04,1930-1931,Serie A,Napoli,Bologna,2,0,Stadio Giorgio AscarelliArbitro:,,"Buscaglia  5’, A. Sallustro  15’",,Arbitro: Stadio Giorgio Ascarelli
+19310111-CAS-NAP,1931-01-11,1930-1931,Serie A,Casale,Napoli,0,2,Stadio Natale PalliArbitro:,,,"20’,  63’ Vojak",Arbitro: Stadio Natale Palli
+19310118-TOR-NAP,1931-01-18,1930-1931,Serie A,Torino,Napoli,3,1,Stadio FiladelfiaArbitro:,,"Libonatti  9’,  78’, Silano  17’",44’ A. Sallustro,Arbitro: Stadio Filadelfia
+19300101-NAP-LEG,1930-01-01,1930-1931,Serie A,Napoli,Legnano,2,1,Stadio Giorgio AscarelliArbitro:,,"Mihalich  27’, Vojak  43’",89’ (rig.) Perduca,Arbitro: Stadio Giorgio Ascarelli
+19310208-PRO-NAP,1931-02-08,1930-1931,Serie A,Pro Vercelli,Napoli,6,3,Campo piazza Conte di TorinoArbitro:,,"Zanello  36’,  65’ (rig.), Piola  39’,  61’,  77’, Seccatore  89’","38’,  44’ Vojak, 75’ Mihalich",Arbitro: Campo piazza Conte di Torino
+19310215-NAP-GEN,1931-02-15,1930-1931,Serie A,Napoli,Genova 1893,0,1,Stadio Giorgio AscarelliArbitro:,,,40’ Elv. Banchero,Arbitro: Stadio Giorgio Ascarelli
+19300101-PRO-NAP,1930-01-01,1930-1931,Serie A,Pro Patria,Napoli,3,2,Stadio ComunaleArbitro:,,"Cazzaniga  6’,  40’,  70’","63’ A. Sallustro, 87’ (rig.) Vojak",Arbitro: Stadio Comunale
+19310308-NAP-ROM,1931-03-08,1930-1931,Serie A,Napoli,Roma,3,0,Stadio Giorgio AscarelliArbitro:,,"Mihalich  2’,  46’, O. Sallustro  55’",,Arbitro: Stadio Giorgio Ascarelli
+19310315-LIV-NAP,1931-03-15,1930-1931,Serie A,Livorno,Napoli,1,2,Campo di Villa ChayesArbitro:,,Zambianchi  31’,"42’ A. Sallustro, 89’ Vojak",Arbitro: Campo di Villa Chayes
+19310322-MOD-NAP,1931-03-22,1930-1931,Serie A,Modena,Napoli,2,0,Campo di viale FontanelliArbitro:,,"Piccaluga  12’,  59’",,Arbitro: Campo di viale Fontanelli
+19310406-NAP-TRI,1931-04-06,1930-1931,Serie A,Napoli,Triestina,5,1,Stadio Giorgio AscarelliArbitro:,,"Vojak  10’,  15’, Mihalich  25’,  31’, A. Sallustro  74’",1’ Capitanio,Arbitro: Stadio Giorgio Ascarelli
+19310426-LAZ-NAP,1931-04-26,1930-1931,Serie A,Lazio,Napoli,0,1,Stadio del PNFArbitro:,,,28’ A. Sallustro,Arbitro: Stadio del PNF
+19310503-NAP-JUV,1931-05-03,1930-1931,Serie A,Napoli,Juventus,1,2,Stadio Giorgio AscarelliArbitro:,,Vojak  54’,"28’ Ferrari, 85’ Vecchina",Arbitro: Stadio Giorgio Ascarelli
+19310510-BRE-NAP,1931-05-10,1930-1931,Serie A,Brescia,Napoli,0,1,Stadium di viale PiaveArbitro:,,,89’ Vojak,Arbitro: Stadium di viale Piave
+19310524-NAP-AMB,1931-05-24,1930-1931,Serie A,Napoli,Ambrosiana,0,2,Stadio Giorgio AscarelliArbitro:,,"A. Sallustro  40’, Vojak  85’","68’ Meazza, 70’ Visentin",Arbitro: Stadio Giorgio Ascarelli
+19310531-ALE-NAP,1931-05-31,1930-1931,Serie A,Alessandria,Napoli,4,3,Campo del LittorioArbitro:,,"Cattaneo  4’,  28’, Borelli  15’, Marchina  35’","24’ Vojak, 60’ Mihalich, 78’ Tansini",Arbitro: Campo del Littorio
+19310607-NAP-MIL,1931-06-07,1930-1931,Serie A,Napoli,Milan,0,1,Campo Littorio[10]Arbitro:,,,30’ Magnozzi,Arbitro: Campo Littorio[10]
+19310604-BOL-NAP,1931-06-04,1930-1931,Serie A,Bologna,Napoli,2,0,Stadio LittorialeArbitro:,,"Maini  73’, Ottani  75’",,Arbitro: Stadio Littoriale
+19310614-NAP-CAS,1931-06-14,1930-1931,Serie A,Napoli,Casale,1,0,Stadio Giorgio AscarelliArbitro:,,A. Sallustro  4’,,Arbitro: Stadio Giorgio Ascarelli
+19310621-NAP-TOR,1931-06-21,1930-1931,Serie A,Napoli,Torino,0,2,Stadio Giorgio AscarelliArbitro:,,,87’ (rig.) Silano,Arbitro: Stadio Giorgio Ascarelli
+19310628-LEG-NAP,1931-06-28,1930-1931,Serie A,Legnano,Napoli,2,0,Stadio di Via Carlo PisacaneArbitro:,,"Ostromann  74’, Rizzi  80’",,Arbitro: Stadio di Via Carlo Pisacane

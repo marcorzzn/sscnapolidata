@@ -1,0 +1,45 @@
+match_id,date,season,competition,home_raw_name,away_raw_name,home_goals,away_goals,stadium,attendance,home_scorers,away_scorers,notes
+19620916-ROM-NAP,1962-09-16,1962-1963,Serie A,Roma,Napoli,3,0,Stadio OlimpicoArbitro:,,"Menichelli  56’, Jonsson  64’,  87’",,Arbitro: Stadio Olimpico
+19620923-NAP-MIL,1962-09-23,1962-1963,Serie A,Napoli,Milan,1,5,Stadio San PaoloArbitro:,,Tacchi  20’,"15’,  81’ Rivera, 74’ Mora, 76’ Barison, 88’ Altafini",Arbitro: Stadio San Paolo
+19620930-SPA-NAP,1962-09-30,1962-1963,Serie A,SPAL,Napoli,4,2,Stadio ComunaleArbitro:,,"Bui  21’, Fanello  59’, Micheli  71’,  72’, Gori  87’",23’ Corelli,Arbitro: Stadio Comunale
+19621007-NAP-GEN,1962-10-07,1962-1963,Serie A,Napoli,Genoa,1,0,Stadio San PaoloArbitro:,,Tacchi  67’,,Arbitro: Stadio San Paolo
+19621014-INT-NAP,1962-10-14,1962-1963,Serie A,Inter,Napoli,1,0,Stadio San SiroArbitro:,,Maschio  80’,,Arbitro: Stadio San Siro
+19621021-NAP-FIO,1962-10-21,1962-1963,Serie A,Napoli,Fiorentina,2,0,Stadio San PaoloArbitro:,,"Fanello  40’, Mariani  56’",,Arbitro: Stadio San Paolo
+19621028-MAN-NAP,1962-10-28,1962-1963,Serie A,Mantova,Napoli,2,1,Stadio Danilo MartelliArbitro:,,"Sormani  15’ (rig.), Recagni  74’",89’ Fraschini,Arbitro: Stadio Danilo Martelli
+19620101-NAP-CAT,1962-01-01,1962-1963,Serie A,Napoli,Catania,3,2,Stadio San PaoloArbitro:,,"Fanello  16’, Rosa  31’,  85’","45’,  61’ Prenna",Arbitro: Stadio San Paolo
+19621108-JUV-NAP,1962-11-08,1962-1963,Serie A,Juventus,Napoli,1,0,Stadio ComunaleArbitro:,,Miranda  13’,,Arbitro: Stadio Comunale
+19621118-VEN-NAP,1962-11-18,1962-1963,Serie A,Venezia,Napoli,1,1,Stadio Pierluigi PenzoArbitro:,,Raffin  63’,74’ Gatti,Arbitro: Stadio Pierluigi Penzo
+19621125-NAP-LAN,1962-11-25,1962-1963,Serie A,Napoli,Lanerossi Vicenza,1,0,Stadio San PaoloArbitro:,,Tacchi  23’,,Arbitro: Stadio San Paolo
+19621209-SAM-NAP,1962-12-09,1962-1963,Serie A,Sampdoria,Napoli,3,0,Stadio Luigi FerrarisArbitro:,,"Da Silva  25’, Brighenti  85’,  88’",,Arbitro: Stadio Luigi Ferraris
+19621216-NAP-PAL,1962-12-16,1962-1963,Serie A,Napoli,Palermo,3,0,Stadio San PaoloArbitro:,,"Gatti  16’, Mariani  27’, Fanello  45’",,Arbitro: Stadio San Paolo
+19621223-MOD-NAP,1962-12-23,1962-1963,Serie A,Modena,Napoli,4,0,Stadio Alberto BragliaArbitro:,,"Cinesinho  7’, Pagliari  77’, Conti  80’, Bettini  84’",,Arbitro: Stadio Alberto Braglia
+19621230-BOL-NAP,1962-12-30,1962-1963,Serie A,Bologna,Napoli,4,2,Stadio Renato Dall'AraArbitro:,,"Perani  18’ (rig.), Nielsen  17’,  85’, Haller  75’","55’ Fanello, 82’ Corelli",Arbitro: Stadio Renato Dall'Ara
+19630106-NAP-TOR,1963-01-06,1962-1963,Serie A,Napoli,Torino,2,2,Stadio San PaoloArbitro:,,"Fraschini  15’,  57’","38’,  41’ Hitchens",Arbitro: Stadio San Paolo
+19630113-NAP-ATA,1963-01-13,1962-1963,Serie A,Napoli,Atalanta,2,1,Stadio ComunaleArbitro:,,"Rosa  6’, Fraschini  32’",68’ Nielsen,Arbitro: Stadio Comunale
+19630120-NAP-ROM,1963-01-20,1962-1963,Serie A,Napoli,Roma,3,3,Stadio San PaoloArbitro:,,"Corelli  70’,  73’, Fraschini  80’","26’,  48’ (rig.)  72’ Manfredini",Arbitro: Stadio San Paolo
+19630127-MIL-NAP,1963-01-27,1962-1963,Serie A,Milan,Napoli,0,1,Stadio San SiroArbitro:,,,25’ Corelli,Arbitro: Stadio San Siro
+19630203-NAP-SPA,1963-02-03,1962-1963,Serie A,Napoli,SPAL,2,0,Stadio San PaoloArbitro:,,"Corelli  8’,  40’",,Arbitro: Stadio San Paolo
+19630210-GEN-NAP,1963-02-10,1962-1963,Serie A,Genoa,Napoli,3,2,Stadio Luigi FerrarisArbitro:,,"Pantaleoni  39’, Firmani  63’ (rig.), Giacomini  88’","76’ Montefusco, 83’ Fraschini",Arbitro: Stadio Luigi Ferraris
+19630217-NAP-INT,1963-02-17,1962-1963,Serie A,Napoli,Inter,1,5,Stadio San PaoloArbitro:,,Fraschini  63’,"6’,  9’,  59’ Di Giacomo, 48’ Suarez, 55’ Corso",Arbitro: Stadio San Paolo
+19630224-FIO-NAP,1963-02-24,1962-1963,Serie A,Fiorentina,Napoli,5,1,Stadio ComunaleArbitro:,,"Canella  9’, Petris  33’,  74’, Hamrin  70’, Marchesi  86’",77’ Montefusco,Arbitro: Stadio Comunale
+19630303-NAP-MAN,1963-03-03,1962-1963,Serie A,Napoli,Mantova,0,0,Stadio San PaoloArbitro:,,,,Arbitro: Stadio San Paolo
+19630310-CAT-NAP,1963-03-10,1962-1963,Serie A,Catania,Napoli,1,0,Stadio CibaliArbitro:,,Rambaldelli  70’,,Arbitro: Stadio Cibali
+19630317-NAP-JUV,1963-03-17,1962-1963,Serie A,Napoli,Juventus,0,0,Stadio San PaoloArbitro:,,,,Arbitro: Stadio San Paolo
+19630331-NAP-VEN,1963-03-31,1962-1963,Serie A,Napoli,Venezia,1,0,Stadio San PaoloArbitro:,,Fanello  43’,,Arbitro: Stadio San Paolo
+19630407-LAN-NAP,1963-04-07,1962-1963,Serie A,Lanerossi Vicenza,Napoli,0,0,Stadio Romeo MentiArbitro:,,,,Arbitro: Stadio Romeo Menti
+19630414-NAP-SAM,1963-04-14,1962-1963,Serie A,Napoli,Sampdoria,0,2,Stadio San PaoloArbitro:,,,"38’ Cucchiaroni, 74’ Da Silva",Arbitro: Stadio San Paolo
+19630421-PAL-NAP,1963-04-21,1962-1963,Serie A,Palermo,Napoli,1,1,Stadio La FavoritaArbitro:,,Borjesson  59’,75’ Fraschini,Arbitro: Stadio La Favorita
+19630428-NAP-MOD,1963-04-28,1962-1963,Serie A,Napoli,Modena,0,2,Stadio San PaoloArbitro:,,,"25’ Pagliari, 63’ Brulls",Arbitro: Stadio San Paolo
+19630505-NAP-BOL,1963-05-05,1962-1963,Serie A,Napoli,Bologna,0,0,Stadio della VittoriaArbitro:,,,,Arbitro: Stadio della Vittoria
+19630519-TOR-NAP,1963-05-19,1962-1963,Serie A,Torino,Napoli,1,1,Stadio ComunaleArbitro:,,Bearzot  32’,68’ (rig.) Corelli,Arbitro: Stadio Comunale
+19630526-ATA-NAP,1963-05-26,1962-1963,Serie A,Atalanta,Napoli,2,1,Stadio ComunaleArbitro:,,"Da Costa  46’, Nielsen  82’",85’ Corelli,Arbitro: Stadio Comunale
+19620909-MES-NAP,1962-09-09,1962-1963,Coppa Italia,Messina,Napoli,2,1,Stadio Giovanni CelesteArbitro:,,"Brambilla  15’, Canuti  38’",72’ Rosa,Arbitro: Stadio Giovanni Celeste
+19620905-BAN-NAP,1962-09-05,1962-1963,Altra Competizione,Bangor City,Napoli,2,0,Farrar Road StadiumArbitro:,,"Mattews  43’, Birch  52’ (rig.)",,Arbitro: Farrar Road Stadium
+19620926-NAP-BAN,1962-09-26,1962-1963,Altra Competizione,Napoli,Bangor City,3,1,Stadio San PaoloArbitro:,,"Mariani  29’, Tacchi  54’, Fanello  84’",71’ McAllister,Arbitro: Stadio San Paolo
+19621010-BAN-NAP,1962-10-10,1962-1963,Altra Competizione,Bangor City,Napoli,1,2,HighburyArbitro:,,McAllister  70’,"27’,  85’ Rosa",Arbitro: Highbury
+19621114-ÚJP-NAP,1962-11-14,1962-1963,Altra Competizione,Újpesti Dózsa,Napoli,1,1,Ferenc Szusza StadionArbitro:,,Bene  1’,60’ Fraschini,Arbitro: Ferenc Szusza Stadion
+19621128-NAP-ÚJP,1962-11-28,1962-1963,Altra Competizione,Napoli,Újpesti Dózsa,1,1,Stadio San PaoloArbitro:,,Tomeazzi  33’,36’ Solymosi,Arbitro: Stadio San Paolo
+19621204-ÚJP-NAP,1962-12-04,1962-1963,Altra Competizione,Újpesti Dózsa,Napoli,1,3,Stade Olympique de la PontaiseArbitro:,,Kuharszki  52’,"5’ Fanello, 10’ Ronzon, 34’ Tacchi",Arbitro: Stade Olympique de la Pontaise
+19630306-OFK-NAP,1963-03-06,1962-1963,Altra Competizione,OFK Belgrado,Napoli,2,0,Stadio OmladinskiArbitro:,,"Samardzic  78’, Popov  88’",,Arbitro: Stadio Omladinski
+19630320-NAP-OFK,1963-03-20,1962-1963,Altra Competizione,Napoli,OFK Belgrado,3,1,Stadio San PaoloArbitro:,,"Cané  12’, Fanello  56’, Mariani  65’",43’ Samardzic,Arbitro: Stadio San Paolo
+19630403-OFK-NAP,1963-04-03,1962-1963,Altra Competizione,OFK Belgrado,Napoli,3,1,Stade VélodromeArbitro:,,"Samardzic  19’,  83’, Mibaiev  51’",23’ Cané,Arbitro: Stade Vélodrome

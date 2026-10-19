@@ -240,3 +240,45 @@ CREATE INDEX IF NOT EXISTS ix_nomi_stato ON nomi_da_risolvere(stato);
 
 CREATE VIEW IF NOT EXISTS squadre_v AS
   SELECT id, nome, nome_completo, citta, stadio_principale FROM squadre;
+
+-- Livello 3b: harvest log delle risorse trovate (non è il catalogo fonti né i documenti ingestiti)
+CREATE TABLE IF NOT EXISTS risorse (
+  id INTEGER PRIMARY KEY AUTOINCREMENT,
+  url TEXT NOT NULL,
+  titolo TEXT,
+  tipo TEXT NOT NULL CHECK (tipo IN (
+    'wikipedia','articolo','foto','report_lega','database',
+    'libro','video','documento_ufficiale','altro'
+  )),
+  licenza TEXT NOT NULL DEFAULT 'sconosciuta' CHECK (licenza IN (
+    'CC BY-SA 4.0','copyright','pubblico dominio','sconosciuta'
+  )),
+  data_consultazione TEXT NOT NULL CHECK (
+    data_consultazione GLOB '[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9]'
+  ),
+  estratto TEXT,
+  fatto_estratto TEXT,
+  partita_id INTEGER REFERENCES partite(id),
+  persona_id INTEGER REFERENCES persone(id),
+  stagione_id INTEGER REFERENCES stagioni(id),
+  fonte_id INTEGER REFERENCES fonti(id),
+  stato_uso TEXT NOT NULL DEFAULT 'da_usare' CHECK (stato_uso IN (
+    'da_usare','usato','da_verificare','scartato'
+  )),
+  confidence TEXT NOT NULL DEFAULT 'media' CHECK (confidence IN ('alta','media','bassa')),
+  verifica TEXT NOT NULL DEFAULT 'da_verificare' CHECK (verifica IN ('da_verificare','verificato')),
+  note TEXT,
+  created_at TEXT DEFAULT CURRENT_TIMESTAMP,
+  updated_at TEXT DEFAULT CURRENT_TIMESTAMP,
+  url_norm TEXT GENERATED ALWAYS AS (lower(trim(url))) STORED,
+  partita_key INTEGER GENERATED ALWAYS AS (COALESCE(partita_id, 0)) STORED,
+  persona_key INTEGER GENERATED ALWAYS AS (COALESCE(persona_id, 0)) STORED,
+  stagione_key INTEGER GENERATED ALWAYS AS (COALESCE(stagione_id, 0)) STORED,
+  UNIQUE (url_norm, partita_key, persona_key, stagione_key)
+);
+CREATE INDEX IF NOT EXISTS ix_risorse_tipo ON risorse(tipo);
+CREATE INDEX IF NOT EXISTS ix_risorse_stato ON risorse(stato_uso);
+CREATE INDEX IF NOT EXISTS ix_risorse_partita ON risorse(partita_id);
+CREATE INDEX IF NOT EXISTS ix_risorse_persona ON risorse(persona_id);
+CREATE INDEX IF NOT EXISTS ix_risorse_stagione ON risorse(stagione_id);
+CREATE INDEX IF NOT EXISTS ix_risorse_data ON risorse(data_consultazione);

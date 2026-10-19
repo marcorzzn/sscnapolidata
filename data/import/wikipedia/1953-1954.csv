@@ -1,0 +1,35 @@
+match_id,date,season,competition,home_raw_name,away_raw_name,home_goals,away_goals,stadium,attendance,home_scorers,away_scorers,notes
+19530913-NAP-PAL,1953-09-13,1953-1954,Serie A,Napoli,Palermo,3,0,Stadio Arturo CollanaArbitro:,,"Formentin  5’, Pesaola  13’,  50’",,Arbitro: Stadio Arturo Collana
+19530920-TOR-NAP,1953-09-20,1953-1954,Serie A,Torino,Napoli,0,2,Stadio FiladelfiaArbitro:,,,"56’ Formentin, 82’ Jeppson",Arbitro: Stadio Filadelfia
+19530927-NAP-ATA,1953-09-27,1953-1954,Serie A,Napoli,Atalanta,6,3,Stadio Arturo CollanaArbitro:,,"Jeppson  2’,  48’,  62’,  85’, Vitali  29’,  76’","27’,  43’,  59’ Bassetto",Arbitro: Stadio Arturo Collana
+19531004-SPA-NAP,1953-10-04,1953-1954,Serie A,SPAL,Napoli,1,1,Stadio ComunaleArbitro:,,Olivieri  36’,35’ Amadei,Arbitro: Stadio Comunale
+19531011-NAP-MIL,1953-10-11,1953-1954,Serie A,Napoli,Milan,0,1,Stadio Arturo Collana,,,22’ Liedholm,
+19531018-LAZ-NAP,1953-10-18,1953-1954,Serie A,Lazio,Napoli,0,4,Stadio OlimpicoArbitro:,,,"18’ Vitali, 34’,  59’ Jeppson, 67’ Granata",Arbitro: Stadio Olimpico
+19531025-NAP-TRI,1953-10-25,1953-1954,Serie A,Napoli,Triestina,1,0,Stadio Arturo CollanaArbitro:,,Jeppson  55’,,Arbitro: Stadio Arturo Collana
+19530101-NAP-SAM,1953-01-01,1953-1954,Serie A,Napoli,Sampdoria,1,1,Stadio Arturo CollanaArbitro:,,Formentin  75’,68’ (rig.) Baldini,Arbitro: Stadio Arturo Collana
+19531108-FIO-NAP,1953-11-08,1953-1954,Serie A,Fiorentina,Napoli,1,0,Stadio ComunaleArbitro:,,Novelli  44’,,Arbitro: Stadio Comunale
+19531122-NAP-UDI,1953-11-22,1953-1954,Serie A,Napoli,Udinese,2,1,Stadio Arturo CollanaArbitro:,,"Amadei  15’,  21’ (rig.)",54’ Castaldo,Arbitro: Stadio Arturo Collana
+19531129-INT-NAP,1953-11-29,1953-1954,Serie A,Inter,Napoli,2,0,,,,,
+19531206-BOL-NAP,1953-12-06,1953-1954,Serie A,Bologna,Napoli,0,0,,,,,
+19540106-NAP-LEG,1954-01-06,1953-1954,Serie A,Napoli,Legnano,1,0,Stadio Arturo Collana,,,,
+19531227-ROM-NAP,1953-12-27,1953-1954,Serie A,Roma,Napoli,0,0,,,,,
+19540103-NOV-NAP,1954-01-03,1953-1954,Serie A,Novara,Napoli,1,1,,,,,
+19540110-NAP-GEN,1954-01-10,1953-1954,Serie A,Napoli,Genoa,0,2,Stadio Arturo Collana,,,,
+19540117-NAP-JUV,1954-01-17,1953-1954,Serie A,Napoli,Juventus,1,2,Stadio Arturo Collana,,,,
+19540131-PAL-NAP,1954-01-31,1953-1954,Serie A,Palermo,Napoli,2,2,,,,,
+19540207-NAP-TOR,1954-02-07,1953-1954,Serie A,Napoli,Torino,2,2,Stadio Arturo Collana,,,,
+19540214-ATA-NAP,1954-02-14,1953-1954,Serie A,Atalanta,Napoli,1,1,,,,,
+19540221-NAP-SPA,1954-02-21,1953-1954,Serie A,Napoli,SPAL,3,1,Stadio Arturo Collana,,,,
+19540228-MIL-NAP,1954-02-28,1953-1954,Serie A,Milan,Napoli,3,2,,,,,
+19540307-NAP-LAZ,1954-03-07,1953-1954,Serie A,Napoli,Lazio,2,1,Stadio Arturo Collana,,,,
+19540314-TRI-NAP,1954-03-14,1953-1954,Serie A,Triestina,Napoli,1,1,,,,,
+19540321-SAM-NAP,1954-03-21,1953-1954,Serie A,Sampdoria,Napoli,1,0,,,,,
+19540328-NAP-FIO,1954-03-28,1953-1954,Serie A,Napoli,Fiorentina,0,0,Stadio Arturo Collana,,,,
+19540404-UDI-NAP,1954-04-04,1953-1954,Serie A,Udinese,Napoli,3,3,,,,,
+19540418-NAP-INT,1954-04-18,1953-1954,Serie A,Napoli,Inter,2,1,Stadio Arturo Collana,,,,
+19540425-NAP-BOL,1954-04-25,1953-1954,Serie A,Napoli,Bologna,2,1,Stadio Arturo Collana,,,,
+19540502-LEG-NAP,1954-05-02,1953-1954,Serie A,Legnano,Napoli,1,0,,,,,
+19540509-NAP-ROM,1954-05-09,1953-1954,Serie A,Napoli,Roma,1,0,Stadio Arturo Collana,,,,
+19540516-NAP-NOV,1954-05-16,1953-1954,Serie A,Napoli,Novara,5,1,Stadio Arturo Collana,,,,
+19540523-GEN-NAP,1954-05-23,1953-1954,Serie A,Genoa,Napoli,1,1,,,,,
+19540530-JUV-NAP,1954-05-30,1953-1954,Serie A,Juventus,Napoli,3,2,,,,,

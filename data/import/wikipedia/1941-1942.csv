@@ -1,0 +1,32 @@
+match_id,date,season,competition,home_raw_name,away_raw_name,home_goals,away_goals,stadium,attendance,home_scorers,away_scorers,notes
+19411026-ROM-NAP,1941-10-26,1941-1942,Serie A,Roma,Napoli,5,1,Stadio del Partito Nazionale FascistaArbitro:,,"Di Pasquale  12’, Coscia  20’ (rig.), Amadei  42’,  85’,  88’",36’ Dugini,Arbitro: Stadio del Partito Nazionale Fascista
+19411102-NAP-MIL,1941-11-02,1941-1942,Serie A,Napoli,Milano,2,1,Stadio PartenopeoArbitro:,,"U. Menti  16’, Busani  49’",56’ (rig.) Bollano,Arbitro: Stadio Partenopeo
+19411109-ATA-NAP,1941-11-09,1941-1942,Serie A,Atalanta,Napoli,5,1,Stadio Mario BrumanaArbitro:,,"E. Fabbri  1’,  43’, Peretti  4’,  31’, Gaddoni  27’",21’ Cadregari,Arbitro: Stadio Mario Brumana
+19411116-NAP-VEN,1941-11-16,1941-1942,Serie A,Napoli,Venezia,1,1,Stadio PartenopeoArbitro:,,Gramaglia  66’,68’ Pernigo,Arbitro: Stadio Partenopeo
+19411123-TRI-NAP,1941-11-23,1941-1942,Serie A,Triestina,Napoli,1,0,Stadio del LittorioArbitro:,,Tagliasacchi  60’,,Arbitro: Stadio del Littorio
+19411130-NAP-TOR,1941-11-30,1941-1942,Serie A,Napoli,Torino,0,0,Stadio PartenopeoArbitro:,,,,Arbitro: Stadio Partenopeo
+19411207-LIG-NAP,1941-12-07,1941-1942,Serie A,Liguria,Napoli,2,1,Stadio del LittorioArbitro:,,"Parvis  26’,  28’",19’ Solbiati,Arbitro: Stadio del Littorio
+19411214-NAP-LAZ,1941-12-14,1941-1942,Serie A,Napoli,Lazio,1,1,Stadio PartenopeoArbitro:,,Fabbro  22’,30’ Gualtieri,Arbitro: Stadio Partenopeo
+19411221-AMB-NAP,1941-12-21,1941-1942,Serie A,Ambrosiana-Inter,Napoli,5,1,Arena CivicaArbitro:,,"Quario  43’,  49’, Mascheroni  55’,  87’, Salvi  72’",47’ Venditto,Arbitro: Arena Civica
+19411228-NAP-LIV,1941-12-28,1941-1942,Serie A,Napoli,Livorno,2,1,Stadio PartenopeoArbitro:,,"U. Menti  42’, Cadregari  86’",51’ Michelini,Arbitro: Stadio Partenopeo
+19420104-MOD-NAP,1942-01-04,1941-1942,Serie A,Modena,Napoli,1,0,Stadio Cesare MarzariArbitro:,,Ottino  20’,,Arbitro: Stadio Cesare Marzari
+19420111-NAP-FIO,1942-01-11,1941-1942,Serie A,Napoli,Fiorentina,1,0,Stadio PartenopeoArbitro:,,Venditto  20’,,Arbitro: Stadio Partenopeo
+19420118-NAP-BOL,1942-01-18,1941-1942,Serie A,Napoli,Bologna,1,2,Stadio PartenopeoArbitro:,,D. Fiorini  20’ (aut.),"26’ Andreoli, 68’ B. Arcari",Arbitro: Stadio Partenopeo
+19420125-JUV-NAP,1942-01-25,1941-1942,Serie A,Juventus,Napoli,1,1,Stadio Municipale Benito MussoliniArbitro:,,Olmi  46’,83’ Barrera,Arbitro: Stadio Municipale Benito Mussolini
+19420201-NAP-GEN,1942-02-01,1941-1942,Serie A,Napoli,Genova 1893,0,0,Stadio PartenopeoArbitro:,,,,Arbitro: Stadio Partenopeo
+19420215-NAP-ROM,1942-02-15,1941-1942,Serie A,Napoli,Roma,1,1,Stadio PartenopeoArbitro:,,Verrina  66’,31’ Amadei,Arbitro: Stadio Partenopeo
+19420305-MIL-NAP,1942-03-05,1941-1942,Serie A,Milano,Napoli,3,1,Arena CivicaArbitro:,,"G. Cappello  12’,  60’, Boffi  43’",13’ Fabbro,Arbitro: Arena Civica
+19420301-NAP-ATA,1942-03-01,1941-1942,Serie A,Napoli,Atalanta,3,0,Stadio PartenopeoArbitro:,,"Busani  2’,  13’, Fabbro  90’",,Arbitro: Stadio Partenopeo
+19420308-VEN-NAP,1942-03-08,1941-1942,Serie A,Venezia,Napoli,4,1,Stadio Pier Luigi PenzoArbitro:,,"Stefanini  32’, Pernigo  46’, Alberti  60’, Puppo  69’",86’ Busani,Arbitro: Stadio Pier Luigi Penzo
+19420315-NAP-TRI,1942-03-15,1941-1942,Serie A,Napoli,Triestina,0,1,Stadio PartenopeoArbitro:,,,68’ De Filippis,Arbitro: Stadio Partenopeo
+19420322-TOR-NAP,1942-03-22,1941-1942,Serie A,Torino,Napoli,5,3,Stadio FiladelfiaArbitro:,,"R. Menti  42’,  65’ (rig.), F. Baldi  44’, Gabetto  70’,  76’","8’ (aut.) Piacentini, 24’ Busani, 33’ Fabbro",Arbitro: Stadio Filadelfia
+19420329-NAP-LIG,1942-03-29,1941-1942,Serie A,Napoli,Liguria,1,1,Stadio PartenopeoArbitro:,,Fabbro  14’,29’ Castelli,Arbitro: Stadio Partenopeo
+19420426-LAZ-NAP,1942-04-26,1941-1942,Serie A,Lazio,Napoli,1,0,Stadio Nazionale del PNFArbitro:,,Pisa  74’,,Arbitro: Stadio Nazionale del PNF
+19420503-NAP-AMB,1942-05-03,1941-1942,Serie A,Napoli,Ambrosiana-Inter,0,1,Stadio PartenopeoArbitro:,,,89’ (rig.) Campatelli,Arbitro: Stadio Partenopeo
+19420510-LIV-NAP,1942-05-10,1941-1942,Serie A,Livorno,Napoli,2,0,Stadio Edda Ciano MussoliniArbitro:,,"Traversa  57’, V. Viani  64’",,Arbitro: Stadio Edda Ciano Mussolini
+19420517-NAP-MOD,1942-05-17,1941-1942,Serie A,Napoli,Modena,2,1,Stadio PartenopeoArbitro:,,"Verrina  67’ (rig.), Busani  71’",85’ (rig.) L. Sentimenti,Arbitro: Stadio Partenopeo
+19420524-FIO-NAP,1942-05-24,1941-1942,Serie A,Fiorentina,Napoli,0,1,Stadio Giovanni BertaArbitro:,,,59’ Cadregari,Arbitro: Stadio Giovanni Berta
+19420531-BOL-NAP,1942-05-31,1941-1942,Serie A,Bologna,Napoli,1,2,Stadio LittorialeArbitro:,,Sansone  18’,"72’ (rig.) Verrina, 74’ Barrera",Arbitro: Stadio Littoriale
+19420607-NAP-JUV,1942-06-07,1941-1942,Serie A,Napoli,Juventus,4,1,Stadio PartenopeoArbitro:,,"Busani  24’,  75’, Barrera  55’, Venditto  67’",88’ (rig.) Rava,Arbitro: Stadio Partenopeo
+19420614-GEN-NAP,1942-06-14,1941-1942,Serie A,Genova 1893,Napoli,3,0,Stadio Luigi FerrarisArbitro:,,"G. Trevisan  9’, B. Barbieri  40’, Conti  65’",,Arbitro: Stadio Luigi Ferraris
+19411012-PAD-NAP,1941-10-12,1941-1942,Coppa Italia,Padova,Napoli,2,0,Stadio Silvio AppianiArbitro:,,"Formentin  6’, Sforzin  70’ (rig.)",,Arbitro: Stadio Silvio Appiani

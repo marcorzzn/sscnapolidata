@@ -1,0 +1,42 @@
+match_id,date,season,competition,home_raw_name,away_raw_name,home_goals,away_goals,stadium,attendance,home_scorers,away_scorers,notes
+19700927-NAP-VAR,1970-09-27,1970-1971,Serie A,Napoli,Varese,1,0,Stadio San PaoloArbitro:,,Altafini  22’,,Arbitro: Stadio San Paolo
+19701007-SAM-NAP,1970-10-07,1970-1971,Serie A,Sampdoria,Napoli,0,1,Stadio Luigi FerrarisArbitro:,,,50’ Bianchi,Arbitro: Stadio Luigi Ferraris
+19701011-NAP-FOG,1970-10-11,1970-1971,Serie A,Napoli,Foggia,0,0,Stadio San PaoloArbitro:,,,,Arbitro: Stadio San Paolo
+19701025-FIO-NAP,1970-10-25,1970-1971,Serie A,Fiorentina,Napoli,0,1,Stadio ComunaleArbitro:,,,11’ Sormani,Arbitro: Stadio Comunale
+19701108-NAP-JUV,1970-11-08,1970-1971,Serie A,Napoli,Juventus,1,0,Stadio San PaoloArbitro:,,Pogliana  45’,,Arbitro: Stadio San Paolo
+19701115-LAN-NAP,1970-11-15,1970-1971,Serie A,Lanerossi Vicenza,Napoli,0,1,Stadio Romeo MentiArbitro:,,,14’ Bianchi,Arbitro: Stadio Romeo Menti
+19701122-NAP-INT,1970-11-22,1970-1971,Serie A,Napoli,Inter,2,1,Stadio San PaoloArbitro:,,"Pogliana  70’, Ghio  75’",50’ Jair,Arbitro: Stadio San Paolo
+19701129-LAZ-NAP,1970-11-29,1970-1971,Serie A,Lazio,Napoli,0,0,Stadio OlimpicoArbitro:,,,,Arbitro: Stadio Olimpico
+19701213-TOR-NAP,1970-12-13,1970-1971,Serie A,Torino,Napoli,1,1,Stadio ComunaleArbitro:,,Rampanti  53’,74’ Juliano,Arbitro: Stadio Comunale
+19701220-NAP-MIL,1970-12-20,1970-1971,Serie A,Napoli,Milan,0,2,Stadio San PaoloArbitro:,,,36’ Prati,Arbitro: Stadio San Paolo
+19701227-NAP-VER,1970-12-27,1970-1971,Serie A,Napoli,Verona,2,0,Stadio della VittoriaArbitro:,,"Abbondanza  20’, Umile  83’",,Arbitro: Stadio della Vittoria
+19710103-ROM-NAP,1971-01-03,1970-1971,Serie A,Roma,Napoli,2,2,Stadio OlimpicoArbitro:,,"Del Sol  74’, Liguori  82’","13’ Hamrin, 42’ Ghio",Arbitro: Stadio Olimpico
+19710110-NAP-CAG,1971-01-10,1970-1971,Serie A,Napoli,Cagliari,1,0,Stadio San PaoloArbitro:,,Altafini  54’,,Arbitro: Stadio San Paolo
+19710117-BOL-NAP,1971-01-17,1970-1971,Serie A,Bologna,Napoli,1,0,Stadio ComunaleArbitro:,,Zurlini  42’ (aut.),,Arbitro: Stadio Comunale
+19710124-NAP-CAT,1971-01-24,1970-1971,Serie A,Napoli,Catania,1,0,Stadio San PaoloArbitro:,,Hamrin  58’,,Arbitro: Stadio San Paolo
+19710131-VAR-NAP,1971-01-31,1970-1971,Serie A,Varese,Napoli,1,1,Stadio Franco OssolaArbitro:,,Nuti  44’,74’ Sormani,Arbitro: Stadio Franco Ossola
+19710207-NAP-SAM,1971-02-07,1970-1971,Serie A,Napoli,Sampdoria,0,0,Stadio San PaoloArbitro:,,,,Arbitro: Stadio San Paolo
+19710214-FOG-NAP,1971-02-14,1970-1971,Serie A,Foggia,Napoli,0,3,Stadio Pino ZaccheriaArbitro:,,,"20’ Sormani, 60’ Bianchi, 68’ Altafini",Arbitro: Stadio Pino Zaccheria
+19710228-NAP-FIO,1971-02-28,1970-1971,Serie A,Napoli,Fiorentina,0,0,Stadio San PaoloArbitro:,,,,Arbitro: Stadio San Paolo
+19710307-JUV-NAP,1971-03-07,1970-1971,Serie A,Juventus,Napoli,4,1,Stadio ComunaleArbitro:,,"Causio  3’, Anastasi  22’, Bettega  33’, Furino  68’",58’ Zurlini,Arbitro: Stadio Comunale
+19710314-NAP-LAN,1971-03-14,1970-1971,Serie A,Napoli,Lanerossi Vicenza,1,0,Stadio San PaoloArbitro:,,Umile  25’,,Arbitro: Stadio San Paolo
+19710321-INT-NAP,1971-03-21,1970-1971,Serie A,Inter,Napoli,2,1,Stadio San SiroArbitro:,,"Boninsegna  55’ (rig.),  58’",40’ Altafini,Arbitro: Stadio San Siro
+19710328-NAP-LAZ,1971-03-28,1970-1971,Serie A,Napoli,Lazio,2,0,Stadio San PaoloArbitro:,,"Sormani  22’, Umile  33’",,Arbitro: Stadio San Paolo
+19710404-NAP-TOR,1971-04-04,1970-1971,Serie A,Napoli,Torino,2,0,Stadio San PaoloArbitro:,,"Altafini  41’,  90’",,Arbitro: Stadio San Paolo
+19710411-MIL-NAP,1971-04-11,1970-1971,Serie A,Milan,Napoli,1,1,Stadio San SiroArbitro:,,Combin  5’,23’ (aut.) Maldera,Arbitro: Stadio San Siro
+19710418-VER-NAP,1971-04-18,1970-1971,Serie A,Verona,Napoli,0,2,Stadio Marcantonio BentegodiArbitro:,,,"45’ Ghio, 78’ Abbondanza",Arbitro: Stadio Marcantonio Bentegodi
+19710425-NAP-ROM,1971-04-25,1970-1971,Serie A,Napoli,Roma,1,2,Stadio San PaoloArbitro:,,Sormani  11’,"28’ Cappellini, 61’ Salvori",Arbitro: Stadio San Paolo
+19710502-CAG-NAP,1971-05-02,1970-1971,Serie A,Cagliari,Napoli,1,1,Stadio Sant'EliaArbitro:,,Riva  63’,6’ Ghio,Arbitro: Stadio Sant'Elia
+19710516-NAP-BOL,1971-05-16,1970-1971,Serie A,Napoli,Bologna,3,0,Stadio San PaoloArbitro:,,"Improta  8’ (rig.), Altafini  10’, Bianchi  66’",,Arbitro: Stadio San Paolo
+19710523-CAT-NAP,1971-05-23,1970-1971,Serie A,Catania,Napoli,1,0,Stadio CibaliArbitro:,,Fogli  75’,,Arbitro: Stadio Cibali
+19700830-REG-NAP,1970-08-30,1970-1971,Coppa Italia,Reggina,Napoli,1,6,Stadio ComunaleArbitro:,,Bongiorni  41’,"11’,  67’ Sormani, 60’ Zurlini, 67’ Ghio, 71’ Altafini, 86’ Bianchi",Arbitro: Stadio Comunale
+19700906-CAS-NAP,1970-09-06,1970-1971,Coppa Italia,Casertana,Napoli,0,2,Stadio Alberto PintoArbitro:,,,"68’ Sormani, 76’ Altafini",Arbitro: Stadio Alberto Pinto
+19700913-NAP-CAT,1970-09-13,1970-1971,Coppa Italia,Napoli,Catania,2,0,Stadio San PaoloArbitro:,,"Improta  72’ (rig.), Altafini  89’",,Arbitro: Stadio San Paolo
+19700920-NAP-CES,1970-09-20,1970-1971,Coppa Italia,Napoli,Cesena,1,0,Stadio San PaoloArbitro:,,Sormani  23’,,Arbitro: Stadio San Paolo
+19701104-CES-NAP,1970-11-04,1970-1971,Coppa Italia,Cesena,Napoli,0,2,Stadio ComunaleArbitro:,,Ferrario  87’,,Arbitro: Stadio Comunale
+19710530-NAP-FIO,1971-05-30,1970-1971,Coppa Italia,Napoli,Fiorentina,1,1,Stadio San PaoloArbitro:,,Juliano  16’,7’ Mariani,Arbitro: Stadio San Paolo
+19710602-MIL-NAP,1971-06-02,1970-1971,Coppa Italia,Milan,Napoli,2,2,Stadio San SiroArbitro:,,"Paina  25’, Prati  88’","21’ (rig.) Improta, 45’ Bianchi",Arbitro: Stadio San Siro
+19710613-NAP-TOR,1971-06-13,1970-1971,Coppa Italia,Napoli,Torino,1,3,Stadio San PaoloArbitro:,,Juliano  50’,"14’,  23’ Rampanti, 43’ Bui",Arbitro: Stadio San Paolo
+19710616-FIO-NAP,1971-06-16,1970-1971,Coppa Italia,Fiorentina,Napoli,2,0,Stadio ComunaleArbitro:,,"Esposito  24’, Vitali  27’",,Arbitro: Stadio Comunale
+19710620-NAP-MIL,1971-06-20,1970-1971,Coppa Italia,Napoli,Milan,3,2,Stadio San PaoloArbitro:,,"Improta  26’ (rig.), Altafini  65’, Juliano  73’","75’ Combin, 84’ Rivera",Arbitro: Stadio San Paolo
+19710623-TOR-NAP,1971-06-23,1970-1971,Coppa Italia,Torino,Napoli,2,0,Stadio ComunaleArbitro:,,"Petrini  19’, Ferrini  90’",,Arbitro: Stadio Comunale

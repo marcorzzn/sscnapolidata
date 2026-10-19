@@ -1,0 +1,42 @@
+match_id,date,season,competition,home_raw_name,away_raw_name,home_goals,away_goals,stadium,attendance,home_scorers,away_scorers,notes
+19720924-NAP-TER,1972-09-24,1972-1973,Serie A,Napoli,Ternana,1,0,Stadio San PaoloArbitro:,,Damiani  60’,,Arbitro: Stadio San Paolo
+19720101-ATA-NAP,1972-01-01,1972-1973,Serie A,Atalanta,Napoli,0,0,Stadio ComunaleArbitro:,,,,Arbitro: Stadio Comunale
+19721015-NAP-LAN,1972-10-15,1972-1973,Serie A,Napoli,Lanerossi Vicenza,2,0,Stadio San PaoloArbitro:,,"Damiani  5’,  90’",,Arbitro: Stadio San Paolo
+19721020-ROM-NAP,1972-10-20,1972-1973,Serie A,Roma,Napoli,1,0,Stadio OlimpicoArbitro:,,Scaratti  35’,,Arbitro: Stadio Olimpico
+19721105-NAP-FIO,1972-11-05,1972-1973,Serie A,Napoli,Fiorentina,3,0,Stadio San PaoloArbitro:,,"Improta  5’ (rig.),  75’, Merlo  89’ (aut.)",,Arbitro: Stadio San Paolo
+19721112-INT-NAP,1972-11-12,1972-1973,Serie A,Inter,Napoli,2,0,Stadio San SiroArbitro:,,"Facchetti  81’, Moro  83’",,Arbitro: Stadio San Siro
+19721119-NAP-JUV,1972-11-19,1972-1973,Serie A,Napoli,Juventus,1,1,Stadio San PaoloArbitro:,,Mariani  72’,42’ Capello,Arbitro: Stadio San Paolo
+19721126-PAL-NAP,1972-11-26,1972-1973,Serie A,Palermo,Napoli,1,0,Stadio La FavoritaArbitro:,,Ballabio  11’,,Arbitro: Stadio La Favorita
+19721203-NAP-VER,1972-12-03,1972-1973,Serie A,Napoli,Verona,1,1,Stadio San PaoloArbitro:,,Bergamaschi  10’ (aut.),5’ Jacomuzzi,Arbitro: Stadio San Paolo
+19721210-TOR-NAP,1972-12-10,1972-1973,Serie A,Torino,Napoli,0,0,Stadio ComunaleArbitro:,,,,Arbitro: Stadio Comunale
+19721217-BOL-NAP,1972-12-17,1972-1973,Serie A,Bologna,Napoli,2,0,Stadio ComunaleArbitro:,,"Ghetti  11’, Perani  39’",,Arbitro: Stadio Comunale
+19721224-NAP-MIL,1972-12-24,1972-1973,Serie A,Napoli,Milan,0,0,Stadio San PaoloArbitro:,,,,Arbitro: Stadio San Paolo
+19721230-CAG-NAP,1972-12-30,1972-1973,Serie A,Cagliari,Napoli,1,0,Stadio Sant'EliaArbitro:,,S. Gori  43’,,Arbitro: Stadio Sant'Elia
+19730107-NAP-SAM,1973-01-07,1972-1973,Serie A,Napoli,Sampdoria,0,0,Stadio Luigi FerrarisArbitro:,,,,Arbitro: Stadio Luigi Ferraris
+19730121-LAZ-NAP,1973-01-21,1972-1973,Serie A,Lazio,Napoli,3,0,Stadio OlimpicoArbitro:,,"Manservisi  51’, Nanni  69’, Chinaglia  87’",,Arbitro: Stadio Olimpico
+19730128-TER-NAP,1973-01-28,1972-1973,Serie A,Ternana,Napoli,0,0,Stadio Libero LiberatiArbitro:,,,,Arbitro: Stadio Libero Liberati
+19730204-NAP-ATA,1973-02-04,1972-1973,Serie A,Napoli,Atalanta,1,0,Stadio San PaoloArbitro:,,Damiani  4’,,Arbitro: Stadio San Paolo
+19730211-LAN-NAP,1973-02-11,1972-1973,Serie A,Lanerossi Vicenza,Napoli,1,0,Stadio Romeo MentiArbitro:,,Galuppi  6’,,Arbitro: Stadio Romeo Menti
+19730218-NAP-ROM,1973-02-18,1972-1973,Serie A,Napoli,Roma,1,0,Stadio San PaoloArbitro:,,Damiani  22’,,Arbitro: Stadio San Paolo
+19730304-FIO-NAP,1973-03-04,1972-1973,Serie A,Fiorentina,Napoli,1,0,Stadio ComunaleArbitro:,,Saltutti  73’,,Arbitro: Stadio Comunale
+19730311-NAP-INT,1973-03-11,1972-1973,Serie A,Napoli,Inter,2,0,Stadio San PaoloArbitro:,,"S. Esposito  44’, D. Fontana  82’",,Arbitro: Stadio San Paolo
+19730318-JUV-NAP,1973-03-18,1972-1973,Serie A,Juventus,Napoli,0,0,Stadio ComunaleArbitro:,,,,Arbitro: Stadio Comunale
+19730325-NAP-PAL,1973-03-25,1972-1973,Serie A,Napoli,Palermo,1,1,Stadio San PaoloArbitro:,,S. Esposito  35’,64’ Favalli,Arbitro: Stadio San Paolo
+19730408-VER-NAP,1973-04-08,1972-1973,Serie A,Verona,Napoli,0,0,Stadio Marcantonio BentegodiArbitro:,,,,Arbitro: Stadio Marcantonio Bentegodi
+19730415-NAP-TOR,1973-04-15,1972-1973,Serie A,Napoli,Torino,1,1,Stadio San PaoloArbitro:,,Mariani  75’,86’ Sala,Arbitro: Stadio San Paolo
+19730422-NAP-BOL,1973-04-22,1972-1973,Serie A,Napoli,Bologna,1,1,Stadio San PaoloArbitro:,,Mariani  19’,1’ (aut.) Vavassori,Arbitro: Stadio San Paolo
+19730429-MIL-NAP,1973-04-29,1972-1973,Serie A,Milan,Napoli,1,0,Stadio San SiroArbitro:,,Chiarugi  90’,,Arbitro: Stadio San Siro
+19730506-NAP-CAG,1973-05-06,1972-1973,Serie A,Napoli,Cagliari,1,1,Stadio San PaoloArbitro:,,Ferradini  72’,5’ Rimbano,Arbitro: Stadio San Paolo
+19730513-SAM-NAP,1973-05-13,1972-1973,Serie A,Sampdoria,Napoli,1,1,Stadio Luigi FerrarisArbitro:,,Boni  6’,67’ Ferradini,Arbitro: Stadio Luigi Ferraris
+19730520-NAP-LAZ,1973-05-20,1972-1973,Serie A,Napoli,Lazio,1,0,Stadio San PaoloArbitro:,,Damiani  89’,,Arbitro: Stadio San Paolo
+19720827-NAP-BRI,1972-08-27,1972-1973,Coppa Italia,Napoli,Brindisi,3,0,Stadio San PaoloArbitro:,,"Improta  23’ (rig.), Mariani  42’, Pulitelli  80’",,Arbitro: Stadio San Paolo
+19720830-LAZ-NAP,1972-08-30,1972-1973,Coppa Italia,Lazio,Napoli,0,1,Stadio OlimpicoArbitro:,,,18’ S. Esposito,Arbitro: Stadio Olimpico
+19720903-NAP-TAR,1972-09-03,1972-1973,Coppa Italia,Napoli,Taranto,1,0,Stadio San PaoloArbitro:,,Zurlini  60’,,Arbitro: Stadio San Paolo
+19720906-PAL-NAP,1972-09-06,1972-1973,Coppa Italia,Palermo,Napoli,1,1,Stadio La FavoritaArbitro:,,Vallongo  14’,65’ Rimbano,Arbitro: Stadio La Favorita
+19720910-UNK-UNK,1972-09-10,1972-1973,Coppa Italia,,,,,,,,,
+19730527-CAG-NAP,1973-05-27,1972-1973,Coppa Italia,Cagliari,Napoli,1,1,Stadio Sant'EliaArbitro:,,Riva  72’,82’ (aut.) Nené,Arbitro: Stadio Sant'Elia
+19730603-NAP-ATA,1973-06-03,1972-1973,Coppa Italia,Napoli,Atalanta,0,2,Stadio San PaoloArbitro:,,,"35’ S. Pellizzaro, 74’ Musiello",Arbitro: Stadio San Paolo
+19730617-NAP-MIL,1973-06-17,1972-1973,Coppa Italia,Napoli,Milan,0,2,Stadio San PaoloArbitro:,,,"8’,  81’ Chiarugi",Arbitro: Stadio San Paolo
+19730621-NAP-CAG,1973-06-21,1972-1973,Coppa Italia,Napoli,Cagliari,1,0,Stadio San PaoloArbitro:,,Damiani  70’,,Arbitro: Stadio San Paolo
+19730624-ATA-NAP,1973-06-24,1972-1973,Coppa Italia,Atalanta,Napoli,1,1,Stadio ComunaleArbitro:,,Zurlini  23’ (aut.),16’ Mariani,Arbitro: Stadio Comunale
+19730627-MIL-NAP,1973-06-27,1972-1973,Coppa Italia,Milan,Napoli,2,0,Stadio San SiroArbitro:,,"Rivera  18’,  33’ (rig.)",,Arbitro: Stadio San Siro

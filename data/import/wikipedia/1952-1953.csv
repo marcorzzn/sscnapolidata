@@ -1,0 +1,35 @@
+match_id,date,season,competition,home_raw_name,away_raw_name,home_goals,away_goals,stadium,attendance,home_scorers,away_scorers,notes
+19520914-NAP-ATA,1952-09-14,1952-1953,Serie A,Napoli,Atalanta,2,0,Stadio VomeroArbitro:,,"Amadei  54’ (rig.), Vitali  90’",,Arbitro: Stadio Vomero
+19520921-SAM-NAP,1952-09-21,1952-1953,Serie A,Sampdoria,Napoli,0,0,Stadio Luigi FerrarisArbitro:,,,,Arbitro: Stadio Luigi Ferraris
+19520928-NAP-UDI,1952-09-28,1952-1953,Serie A,Napoli,Udinese,4,2,Stadio VomeroArbitro:,,"Vitali  26’,  57’,  60’, Amadei  52’","7’ Menegotti, 62’ Mozzambani",Arbitro: Stadio Vomero
+19521005-INT-NAP,1952-10-05,1952-1953,Serie A,Inter,Napoli,5,1,Stadio San SiroArbitro:,,"Lorenzi  32’,  66’,  80’, Nyers  82’,  89’",7’ Jeppson,Arbitro: Stadio San Siro
+19521012-LAZ-NAP,1952-10-12,1952-1953,Serie A,Lazio,Napoli,2,1,Stadio NazionaleArbitro:,,"Larsen  55’,  70’",19’ Jeppson,Arbitro: Stadio Nazionale
+19521019-NAP-PRO,1952-10-19,1952-1953,Serie A,Napoli,Pro Patria,1,0,Stadio VomeroArbitro:,,Formentin  87’,,Arbitro: Stadio Vomero
+19521102-FIO-NAP,1952-11-02,1952-1953,Serie A,Fiorentina,Napoli,2,1,Stadio ComunaleArbitro:,,"Mariani  10’, Vitali  51’ (aut.)",27’ Jeppson,Arbitro: Stadio Comunale
+19521109-NAP-PAL,1952-11-09,1952-1953,Serie A,Napoli,Palermo,0,0,Stadio VomeroArbitro:,,,,Arbitro: Stadio Vomero
+19521116-NAP-MIL,1952-11-16,1952-1953,Serie A,Napoli,Milan,4,2,Stadio VomeroArbitro:,,"Jeppson  9’,  54’, Zagatti  63’ (aut.), Amadei  70’","35’,  89’ Nordahl",Arbitro: Stadio Vomero
+19521123-COM-NAP,1952-11-23,1952-1953,Serie A,Como,Napoli,2,1,Stadio Giuseppe SinigagliaArbitro:,,"Cattaneo  3’,  19’",23’ Vitali,Arbitro: Stadio Giuseppe Sinigaglia
+19521130-NAP-NOV,1952-11-30,1952-1953,Serie A,Napoli,Novara,2,3,Stadio Vomero,,,,
+19521207-BOL-NAP,1952-12-07,1952-1953,Serie A,Bologna,Napoli,1,3,,,,,
+19521214-TOR-NAP,1952-12-14,1952-1953,Serie A,Torino,Napoli,1,2,,,,,
+19521221-NAP-TRI,1952-12-21,1952-1953,Serie A,Napoli,Triestina,1,1,,,,,
+19530104-ROM-NAP,1953-01-04,1952-1953,Serie A,Roma,Napoli,5,2,,,,,
+19530111-NAP-SPA,1953-01-11,1952-1953,Serie A,Napoli,SPAL,1,0,,,,,
+19530118-NAP-JUV,1953-01-18,1952-1953,Serie A,Napoli,Juventus,3,2,,,,,
+19530125-ATA-NAP,1953-01-25,1952-1953,Serie A,Atalanta,Napoli,1,1,,,,,
+19520101-NAP-SAM,1952-01-01,1952-1953,Serie A,Napoli,Sampdoria,2,1,,,,,
+19530208-UDI-NAP,1953-02-08,1952-1953,Serie A,Udinese,Napoli,1,1,,,,,
+19530215-NAP-INT,1953-02-15,1952-1953,Serie A,Napoli,Inter,0,1,,,,,
+19530222-NAP-LAZ,1953-02-22,1952-1953,Serie A,Napoli,Lazio,3,0,,,,,
+19520101-PRO-NAP,1952-01-01,1952-1953,Serie A,Pro Patria,Napoli,1,1,,,,,
+19530308-NAP-FIO,1953-03-08,1952-1953,Serie A,Napoli,Fiorentina,0,0,,,,,
+19530315-PAL-NAP,1953-03-15,1952-1953,Serie A,Palermo,Napoli,0,0,,,,,
+19530322-MIL-NAP,1953-03-22,1952-1953,Serie A,Milan,Napoli,2,2,,,,,
+19530329-NAP-COM,1953-03-29,1952-1953,Serie A,Napoli,Como,1,0,,,,,
+19530405-NOV-NAP,1953-04-05,1952-1953,Serie A,Novara,Napoli,0,1,,,,,
+19530412-NAP-BOL,1953-04-12,1952-1953,Serie A,Napoli,Bologna,4,1,,,,,
+19530419-NAP-TOR,1953-04-19,1952-1953,Serie A,Napoli,Torino,3,0,,,,,
+19530503-TRI-NAP,1953-05-03,1952-1953,Serie A,Triestina,Napoli,2,3,,,,,
+19530510-NAP-ROM,1953-05-10,1952-1953,Serie A,Napoli,Roma,0,0,,,,,
+19530524-SPA-NAP,1953-05-24,1952-1953,Serie A,SPAL,Napoli,4,1,,,,,
+19530531-JUV-NAP,1953-05-31,1952-1953,Serie A,Juventus,Napoli,1,1,,,,,

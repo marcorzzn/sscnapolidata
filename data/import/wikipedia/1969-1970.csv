@@ -1,0 +1,40 @@
+match_id,date,season,competition,home_raw_name,away_raw_name,home_goals,away_goals,stadium,attendance,home_scorers,away_scorers,notes
+19690914-LAN-NAP,1969-09-14,1969-1970,Serie A,Lanerossi Vicenza,Napoli,3,2,Stadio Romeo MentiArbitro:,,"Vitali  30’,  63’, Cinesinho  45’","10’,  77’ Altafini",Arbitro: Stadio Romeo Menti
+19690921-NAP-FIO,1969-09-21,1969-1970,Serie A,Napoli,Fiorentina,0,1,Stadio San PaoloArbitro:,,,47’ Maraschi,Arbitro: Stadio San Paolo
+19690928-BAR-NAP,1969-09-28,1969-1970,Serie A,Bari,Napoli,0,0,Stadio della VittoriaArbitro:,,,,Arbitro: Stadio della Vittoria
+19691005-TOR-NAP,1969-10-05,1969-1970,Serie A,Torino,Napoli,0,2,Stadio ComunaleArbitro:,,,"34’ Canzi, 45’ Juliano",Arbitro: Stadio Comunale
+19691012-NAP-ROM,1969-10-12,1969-1970,Serie A,Napoli,Roma,0,0,Stadio San PaoloArbitro:,,,,Arbitro: Stadio San Paolo
+19691019-SAM-NAP,1969-10-19,1969-1970,Serie A,Sampdoria,Napoli,0,0,Stadio Luigi FerrarisArbitro:,,,,Arbitro: Stadio Luigi Ferraris
+19691026-NAP-CAG,1969-10-26,1969-1970,Serie A,Napoli,Cagliari,0,2,Stadio San PaoloArbitro:,,,"16’,  80’ Riva",Arbitro: Stadio San Paolo
+19691109-NAP-JUV,1969-11-09,1969-1970,Serie A,Napoli,Juventus,1,0,Stadio San PaoloArbitro:,,Altafini  53’ (rig.),,Arbitro: Stadio San Paolo
+19691116-MIL-NAP,1969-11-16,1969-1970,Serie A,Milan,Napoli,1,0,Stadio San SiroArbitro:,,Fogli  59’,,Arbitro: Stadio San Siro
+19691130-NAP-BRE,1969-11-30,1969-1970,Serie A,Napoli,Brescia,0,0,Stadio San PaoloArbitro:,,,,Arbitro: Stadio San Paolo
+19691207-LAZ-NAP,1969-12-07,1969-1970,Serie A,Lazio,Napoli,0,2,Stadio OlimpicoArbitro:,,,"8’ Barison, 45’ Altafini",Arbitro: Stadio Olimpico
+19691214-BOL-NAP,1969-12-14,1969-1970,Serie A,Bologna,Napoli,1,2,Stadio ComunaleArbitro:,,G. Savoldi  46’,"21’,  61’ Altafini",Arbitro: Stadio Comunale
+19691221-NAP-INT,1969-12-21,1969-1970,Serie A,Napoli,Inter,0,0,Stadio San PaoloArbitro:,,,,Arbitro: Stadio San Paolo
+19691228-PAL-NAP,1969-12-28,1969-1970,Serie A,Palermo,Napoli,0,0,Stadio La FavoritaArbitro:,,,,Arbitro: Stadio La Favorita
+19700104-NAP-VER,1970-01-04,1969-1970,Serie A,Napoli,Verona,2,1,Stadio San PaoloArbitro:,,"Hamrin  56’, Improta  70’",20’ Bui,Arbitro: Stadio San Paolo
+19700111-NAP-LAN,1970-01-11,1969-1970,Serie A,Napoli,Lanerossi Vicenza,1,0,Stadio San PaoloArbitro:,,Monticolo  66’,,Arbitro: Stadio San Paolo
+19700118-FIO-NAP,1970-01-18,1969-1970,Serie A,Fiorentina,Napoli,1,2,Stadio ComunaleArbitro:,,Ferrante  61’,"39’ Bianchi, 50’ (rig.) Improta",Arbitro: Stadio Comunale
+19700125-NAP-BAR,1970-01-25,1969-1970,Serie A,Napoli,Bari,1,0,Stadio San PaoloArbitro:,,Improta  75’ (rig.),,Arbitro: Stadio San Paolo
+19690101-NAP-TOR,1969-01-01,1969-1970,Serie A,Napoli,Torino,4,0,Stadio San PaoloArbitro:,,"Altafini  12’, Manservisi  36’, Bianchi  49’, Bosdaves  82’",,Arbitro: Stadio San Paolo
+19700208-ROM-NAP,1970-02-08,1969-1970,Serie A,Roma,Napoli,2,1,Stadio OlimpicoArbitro:,,"Salvori  1’, Cappellini  60’",87’ Altafini,Arbitro: Stadio Olimpico
+19700215-NAP-SAM,1970-02-15,1969-1970,Serie A,Napoli,Sampdoria,0,2,Stadio San PaoloArbitro:,,,"37’ Salvi, 76’ Fotia",Arbitro: Stadio San Paolo
+19690101-CAG-NAP,1969-01-01,1969-1970,Serie A,Cagliari,Napoli,2,0,Stadio AmsicoraArbitro:,,"Gori  42’, Riva  64’ (rig.)",,Arbitro: Stadio Amsicora
+19700308-JUV-NAP,1970-03-08,1969-1970,Serie A,Juventus,Napoli,0,0,Stadio ComunaleArbitro:,,,,Arbitro: Stadio Comunale
+19700315-NAP-MIL,1970-03-15,1969-1970,Serie A,Napoli,Milan,1,1,Stadio San PaoloArbitro:,,Manservisi  18’,28’ Rivera,Arbitro: Stadio San Paolo
+19700322-BRE-NAP,1970-03-22,1969-1970,Serie A,Brescia,Napoli,1,2,RigamontiArbitro:,,Turchetto  63’,"14’ Bianchi, 71’ Juliano",Arbitro: Rigamonti
+19700329-NAP-LAZ,1970-03-29,1969-1970,Serie A,Napoli,Lazio,1,1,Stadio San PaoloArbitro:,,Manservisi  35’,16’ Chinaglia,Arbitro: Stadio San Paolo
+19700405-NAP-BOL,1970-04-05,1969-1970,Serie A,Napoli,Bologna,0,0,Stadio San PaoloArbitro:,,,,Arbitro: Stadio San Paolo
+19700412-INT-NAP,1970-04-12,1969-1970,Serie A,Inter,Napoli,1,0,Stadio San SiroArbitro:,,Jair  31’,,Arbitro: Stadio San Siro
+19700419-NAP-PAL,1970-04-19,1969-1970,Serie A,Napoli,Palermo,0,0,Stadio San PaoloArbitro:,,,,Arbitro: Stadio San Paolo
+19700426-VER-NAP,1970-04-26,1969-1970,Serie A,Verona,Napoli,1,0,Stadio Marcantonio BentegodiArbitro:,,Mascetti  61’,,Arbitro: Stadio Marcantonio Bentegodi
+19690831-REG-NAP,1969-08-31,1969-1970,Coppa Italia,Reggina,Napoli,1,1,Stadio ComunaleArbitro:,,Vallongo  69’,40’ Barison,Arbitro: Stadio Comunale
+19690903-FOG-NAP,1969-09-03,1969-1970,Coppa Italia,Foggia,Napoli,1,0,Stadio Pino ZaccheriaArbitro:,,Garzelli  65’,,Arbitro: Stadio Pino Zaccheria
+19690907-NAP-CAS,1969-09-07,1969-1970,Coppa Italia,Napoli,Casertana,3,1,Stadio San PaoloArbitro:,,"Canzi  13’, Monticolo  67’, Juliano  70’",40’ Ballotta,Arbitro: Stadio San Paolo
+19690917-MET-NAP,1969-09-17,1969-1970,Coppa UEFA,Metz,Napoli,1,1,Stadio Saint SymphorienArbitro:,,Szczepaniak  67’,8’ Bosdaves,Arbitro: Stadio Saint Symphorien
+19690101-NAP-MET,1969-01-01,1969-1970,Coppa UEFA,Napoli,Metz,2,1,Stadio San PaoloArbitro:,,"Bianchi  41’, Improta  60’ (rig.)",70’ Hausser,Arbitro: Stadio San Paolo
+19691112-STO-NAP,1969-11-12,1969-1970,Coppa UEFA,Stoccarda,Napoli,0,0,NeckarstadionArbitro:,,,,Arbitro: Neckarstadion
+19691126-NAP-STO,1969-11-26,1969-1970,Coppa UEFA,Napoli,Stoccarda,1,0,Stadio San PaoloArbitro:,,Canzi  75’,,Arbitro: Stadio San Paolo
+19700107-NAP-AJA,1970-01-07,1969-1970,Coppa UEFA,Napoli,Ajax,1,0,Stadio San PaoloArbitro:,,Manservisi  37’,,Arbitro: Stadio San Paolo
+19700121-AJA-NAP,1970-01-21,1969-1970,Coppa UEFA,Ajax,Napoli,4,0,Olympisch StadionArbitro:,,"Swart  31’, Suurendonk  109’,  110’,  115’",,Arbitro: Olympisch Stadion

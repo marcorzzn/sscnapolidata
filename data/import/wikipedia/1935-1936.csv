@@ -1,0 +1,34 @@
+match_id,date,season,competition,home_raw_name,away_raw_name,home_goals,away_goals,stadium,attendance,home_scorers,away_scorers,notes
+19350922-SAM-NAP,1935-09-22,1935-1936,Serie A,Sampierdarenese,Napoli,2,2,Stadio del LittorioArbitro:,,"Busini  27’, Peretti  48’","20’ Venditto, 74’ Rossetti",Arbitro: Stadio del Littorio
+19350929-NAP-BRE,1935-09-29,1935-1936,Serie A,Napoli,Brescia,1,0,Stadio PartenopeoArbitro:,,Colombari  78’,,Arbitro: Stadio Partenopeo
+19351006-ROM-NAP,1935-10-06,1935-1936,Serie A,Roma,Napoli,1,0,Campo TestaccioArbitro:,,Gadaldi  55’,,Arbitro: Campo Testaccio
+19351013-NAP-BOL,1935-10-13,1935-1936,Serie A,Napoli,Bologna,0,1,Stadio PartenopeoArbitro:,,,44’ Sansone,Arbitro: Stadio Partenopeo
+19351020-NAP-FIO,1935-10-20,1935-1936,Serie A,Napoli,Fiorentina,4,0,Stadio PartenopeoArbitro:,,"Rossetti  15’, A. Sallustro  23’, Busoni  28’,  41’",,Arbitro: Stadio Partenopeo
+19351103-ALE-NAP,1935-11-03,1935-1936,Serie A,Alessandria,Napoli,2,3,Campo del LittorioArbitro:,,"Borelli  83’, Notti  87’","37’,  89’ Busoni, 42’ Rossetti",Arbitro: Campo del Littorio
+19351110-NAP-TOR,1935-11-10,1935-1936,Serie A,Napoli,Torino,0,1,Stadio PartenopeoArbitro:,,,41’ Sudati,Arbitro: Stadio Partenopeo
+19351117-BAR-NAP,1935-11-17,1935-1936,Serie A,Bari,Napoli,0,0,Stadio della VittoriaArbitro:,,,,Arbitro: Stadio della Vittoria
+19351201-NAP-AMB,1935-12-01,1935-1936,Serie A,Napoli,Ambrosiana-Inter,3,2,Stadio PartenopeoArbitro:,,"Rossetti  52’, C. Buscaglia  67’, Ballerio  78’ (aut.)","9’,  74’ De Vincenzi",Arbitro: Stadio Partenopeo
+19351208-GEN-NAP,1935-12-08,1935-1936,Serie A,Genova 1893,Napoli,2,2,Stadio Luigi FerrarisArbitro:,,"Evaristo  67’,  88’","42’ (rig.) C. Buscaglia, 71’ A. Sallustro",Arbitro: Stadio Luigi Ferraris
+19351215-NAP-JUV,1935-12-15,1935-1936,Serie A,Napoli,Juventus,0,1,Stadio PartenopeoArbitro:,,,69’ (aut.) Fenoglio,Arbitro: Stadio Partenopeo
+19351222-TRI-NAP,1935-12-22,1935-1936,Serie A,Triestina,Napoli,6,1,Stadio del LittorioArbitro:,,"Rocco  8’,  87’, Mian  20’,  21’, Pasinati  50’, G. Colaussi  75’",47’ (rig.) C. Buscaglia,Arbitro: Stadio del Littorio
+19351229-NAP-PAL,1935-12-29,1935-1936,Serie A,Napoli,Palermo,3,0,Stadio PartenopeoArbitro:,,"Busoni  13’, Rossetti  80’,  87’",,Arbitro: Stadio Partenopeo
+19360105-LAZ-NAP,1936-01-05,1935-1936,Serie A,Lazio,Napoli,3,1,Stadio del Partito Nazionale FascistaArbitro:,,"Piola  1’, Guarisi  59’,  63’",49’ Rossetti,Arbitro: Stadio del Partito Nazionale Fascista
+19360112-NAP-MIL,1936-01-12,1935-1936,Serie A,Napoli,Milan,1,0,Stadio PartenopeoArbitro:,,A. Sallustro  24’,,Arbitro: Stadio Partenopeo
+19360126-NAP-SAM,1936-01-26,1935-1936,Serie A,Napoli,Sampierdarenese,4,2,Stadio PartenopeoArbitro:,,"Sallustro I  8’, Venditto  18’,  77’, Rossetti  59’","28’ Silvestri, 64’ Bodini",Arbitro: Stadio Partenopeo
+19360202-BRE-NAP,1936-02-02,1935-1936,Serie A,Brescia,Napoli,2,0,Stadium di Viale PiaveArbitro:,,"Locatelli  44’, Boltri  59’",,Arbitro: Stadium di Viale Piave
+19360209-NAP-ROM,1936-02-09,1935-1936,Serie A,Napoli,Roma,1,2,Stadio PartenopeoArbitro:,,Venditto  22’,"5’ Di Benedetti, 23’ Tomasi",Arbitro: Stadio Partenopeo
+19360216-BOL-NAP,1936-02-16,1935-1936,Serie A,Bologna,Napoli,2,1,Stadio LittorialeArbitro:,,"Maini  33’, Ottani  55’",50’ C. Buscaglia,Arbitro: Stadio Littoriale
+19360223-FIO-NAP,1936-02-23,1935-1936,Serie A,Fiorentina,Napoli,2,0,Stadio Giovanni BertaArbitro:,,"Scagliotti  18’, Morselli  34’",,Arbitro: Stadio Giovanni Berta
+19360301-NAP-ALE,1936-03-01,1935-1936,Serie A,Napoli,Alessandria,1,0,Stadio PartenopeoArbitro:,,Rossetti  31’,,Arbitro: Stadio Partenopeo
+19360308-TOR-NAP,1936-03-08,1935-1936,Serie A,Torino,Napoli,1,0,Stadio FiladelfiaArbitro:,,F. Baldi  53’,,Arbitro: Stadio Filadelfia
+19360315-NAP-BAR,1936-03-15,1935-1936,Serie A,Napoli,Bari,2,0,Stadio PartenopeoArbitro:,,"C. Buscaglia  20’ (rig.), A. Sallustro  63’",,Arbitro: Stadio Partenopeo
+19360322-AMB-NAP,1936-03-22,1935-1936,Serie A,Ambrosiana-Inter,Napoli,4,2,Arena CivicaArbitro:,,"Meazza  27’,  62’, De Vincenzi  32’, Demaria  60’","18’,  75’ Busoni",Arbitro: Arena Civica
+19360329-NAP-GEN,1936-03-29,1935-1936,Serie A,Napoli,Genova 1893,2,1,Stadio PartenopeoArbitro:,,"A. Sallustro  10’, Venditto  43’",47’ Vojak,Arbitro: Stadio Partenopeo
+19360412-JUV-NAP,1936-04-12,1935-1936,Serie A,Juventus,Napoli,2,2,Stadio Municipale Benito MussoliniArbitro:,,"Serantoni  32’, G. Varglien  62’","30’ C. Buscaglia, 67’ Busoni",Arbitro: Stadio Municipale Benito Mussolini
+19360419-NAP-TRI,1936-04-19,1935-1936,Serie A,Napoli,Triestina,2,2,Stadio PartenopeoArbitro:,,"Busoni  43’,  62’","22’,  67’ Pasinati",Arbitro: Stadio Partenopeo
+19360426-PAL-NAP,1936-04-26,1935-1936,Serie A,Palermo,Napoli,2,2,Stadio del LittorioArbitro:,,"Ziroli  52’, Carnevali  78’","18’,  88’ Busoni",Arbitro: Stadio del Littorio
+19360503-NAP-LAZ,1936-05-03,1935-1936,Serie A,Napoli,Lazio,1,2,Stadio PartenopeoArbitro:,,A. Sallustro  64’,"5’ Camolese, 29’ D'Odorico",Arbitro: Stadio Partenopeo
+19360510-MIL-NAP,1936-05-10,1935-1936,Serie A,Milan,Napoli,0,1,Arena CivicaArbitro:,,,78’ Venditto,Arbitro: Arena Civica
+19350101-NAP-BAR,1935-01-01,1935-1936,Coppa Italia,Napoli,Bari,2,1,Stadio PartenopeoArbitro:,,"A. Sallustro  37’, Rossetti  66’",61’ Pignatelli,Arbitro: Stadio Partenopeo
+19360119-NAP-TRI,1936-01-19,1935-1936,Coppa Italia,Napoli,Triestina,3,1,Stadio PartenopeoArbitro:,,"Rossetti  37’, Venditto  43’,  60’",21’ Mian,Arbitro: Stadio Partenopeo
+19360524-NAP-MIL,1936-05-24,1935-1936,Coppa Italia,Napoli,Milan,1,2,Stadio PartenopeoArbitro:,,C. Buscaglia  4’ (rig.),"10’ Arnoni, 22’ Romani",Arbitro: Stadio Partenopeo

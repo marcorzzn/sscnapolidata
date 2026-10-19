@@ -7,7 +7,7 @@ Questo schema SQLite (schema.sql) rappresenta la fonte di verità per i dati str
 Il database è strutturato in livelli:
 1. **Livello 1 - Entità di base**: Tabelle anagrafiche, squadre, partite e statistiche consolidate.
 2. **Livello 2 - Arricchimento**: Non ancora implementato. Verrà aggiunto quando i dati per popolarlo esisteranno (formazioni, eventi partita, statistiche avanzate come xG).
-3. **Livello 3 - Materiale grezzo**: Documenti testuali e foto raccolti tramite il sistema di ingestion, archiviati e collegati alle partite.
+3. **Livello 3 - Materiale grezzo**: Documenti testuali e foto raccolti tramite il sistema di ingestion, archiviati e collegati alle partite. Accanto, la tabella `risorse` è il registro di harvest: URL trovati, licenza, estratto, fatto ricavato, collegamento a partita/persona/stagione, stato d'uso. Non duplica `fonti` (chi è la fonte) né `documenti` (testo completo ingestito).
 
 ## Politica editoriale sull'eredità sportiva
 

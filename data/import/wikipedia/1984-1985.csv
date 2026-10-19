@@ -1,0 +1,38 @@
+match_id,date,season,competition,home_raw_name,away_raw_name,home_goals,away_goals,stadium,attendance,home_scorers,away_scorers,notes
+19840916-VER-NAP,1984-09-16,1984-1985,Serie A,Verona,Napoli,3,1,Stadio Marcantonio BentegodiArbitro:,41 000,"Briegel  26’, Galderisi  33’, Di Gennaro  75’",58’ D. Bertoni,Arbitro: Stadio Marcantonio Bentegodi (41 000 spett.)
+19840923-NAP-SAM,1984-09-23,1984-1985,Serie A,Napoli,Sampdoria,1,1,Stadio San PaoloArbitro:,77 099,Maradona  62’ (rig.),72’ Salsano,Arbitro: Stadio San Paolo (77 099 spett.)
+19840930-TOR-NAP,1984-09-30,1984-1985,Serie A,Torino,Napoli,3,0,Stadio ComunaleArbitro:,51 252,"Serena  1’,  79’, Francini  57’",,Arbitro: Stadio Comunale (51 252 spett.)
+19841007-NAP-COM,1984-10-07,1984-1985,Serie A,Napoli,Como,3,0,Stadio San PaoloArbitro:,74 338,"D. Bertoni  16’, Maradona  27’, Penzo  56’",,Arbitro: Stadio San Paolo (74 338 spett.)
+19841014-LAZ-NAP,1984-10-14,1984-1985,Serie A,Lazio,Napoli,1,1,Stadio OlimpicoArbitro:,55 781,D'Amico  35’,51’ Maradona,Arbitro: Stadio Olimpico (55 781 spett.)
+19841021-NAP-MIL,1984-10-21,1984-1985,Serie A,Napoli,Milan,0,0,Stadio San PaoloArbitro:,82 890,,,Arbitro: Stadio San Paolo (82 890 spett.)
+19841028-ATA-NAP,1984-10-28,1984-1985,Serie A,Atalanta,Napoli,1,0,Stadio Atleti Azzurri d'ItaliaArbitro:,40 099,Soldà  32’,,Arbitro: Stadio Atleti Azzurri d'Italia (40 099 spett.)
+19841111-NAP-AVE,1984-11-11,1984-1985,Serie A,Napoli,Avellino,0,0,Stadio San PaoloArbitro:,77 698,,,Arbitro: Stadio San Paolo (77 698 spett.)
+19841118-ASC-NAP,1984-11-18,1984-1985,Serie A,Ascoli,Napoli,1,1,Stadio Cino e Lillo Del DucaArbitro:,25 273,F. Vincenzi  51’,8’ Penzo,Arbitro: Stadio Cino e Lillo Del Duca (25 273 spett.)
+19841125-NAP-CRE,1984-11-25,1984-1985,Serie A,Napoli,Cremonese,1,0,Stadio San PaoloArbitro:,74 505,D. Bertoni  27’,,Arbitro: Stadio San Paolo (74 505 spett.)
+19841202-INT-NAP,1984-12-02,1984-1985,Serie A,Inter,Napoli,2,1,Stadio Giuseppe MeazzaArbitro:,60 189,"Rummenigge  63’, Altobelli  88’",47’ Caffarelli,Arbitro: Stadio Giuseppe Meazza (60 189 spett.)
+19841216-NAP-ROM,1984-12-16,1984-1985,Serie A,Napoli,Roma,1,2,Stadio San PaoloArbitro:,79 786,D. Bertoni  45’,"20’ Falcão, 78’ (aut.) Marino",Arbitro: Stadio San Paolo (79 786 spett.)
+19841223-JUV-NAP,1984-12-23,1984-1985,Serie A,Juventus,Napoli,2,0,Stadio ComunaleArbitro:,50 461,"M. Briaschi  42’, Platini  62’",,Arbitro: Stadio Comunale (50 461 spett.)
+19850106-NAP-UDI,1985-01-06,1984-1985,Serie A,Napoli,Udinese,4,3,Stadio San PaoloArbitro:,72 139,"Maradona  22’ (rig.),  74’ (rig.), D. Bertoni  40’,  82’","12’ Edinho, 43’ Miano, 85’ Billia",Arbitro: Stadio San Paolo (72 139 spett.)
+19850113-FIO-NAP,1985-01-13,1984-1985,Serie A,Fiorentina,Napoli,0,1,Stadio Artemio FranchiArbitro:,36 591,,49’ Maradona,Arbitro: Stadio Artemio Franchi (36 591 spett.)
+19850120-NAP-VER,1985-01-20,1984-1985,Serie A,Napoli,Verona,0,0,Stadio San PaoloArbitro:,81 798,,,Arbitro: Stadio San Paolo (81 798 spett.)
+19850127-SAM-NAP,1985-01-27,1984-1985,Serie A,Sampdoria,Napoli,0,0,Stadio Luigi FerrarisArbitro:,38 087,,,Arbitro: Stadio Luigi Ferraris (38 087 spett.)
+19850210-NAP-TOR,1985-02-10,1984-1985,Serie A,Napoli,Torino,2,1,Stadio San PaoloArbitro:,79 706,"Maradona  23’ (rig.), Caffarelli  45’",7’ Júnior,Arbitro: Stadio San Paolo (79 706 spett.)
+19850217-COM-NAP,1985-02-17,1984-1985,Serie A,Como,Napoli,1,1,Stadio Giuseppe SinigagliaArbitro:,18 955,Todesco  58’,17’ (rig.) Maradona,Arbitro: Stadio Giuseppe Sinigaglia (18 955 spett.)
+19850224-NAP-LAZ,1985-02-24,1984-1985,Serie A,Napoli,Lazio,4,0,Stadio San PaoloArbitro:,75 378,"Maradona  58’,  84’,  87’, Filisetti  78’ (aut.)",,Arbitro: Stadio San Paolo (75 378 spett.)
+19850303-MIL-NAP,1985-03-03,1984-1985,Serie A,Milan,Napoli,2,1,Stadio Giuseppe MeazzaArbitro:,68 844,"Battistini  15’, Incocciati  68’",35’ (aut.) Wilkins,Arbitro: Stadio Giuseppe Meazza (68 844 spett.)
+19850317-NAP-ATA,1985-03-17,1984-1985,Serie A,Napoli,Atalanta,1,0,Stadio San PaoloArbitro:,72 868,D. Bertoni  21’,,Arbitro: Stadio San Paolo (72 868 spett.)
+19850324-AVE-NAP,1985-03-24,1984-1985,Serie A,Avellino,Napoli,0,1,Stadio PartenioArbitro:,38 805,,64’ Caffarelli,Arbitro: Stadio Partenio (38 805 spett.)
+19850331-NAP-ASC,1985-03-31,1984-1985,Serie A,Napoli,Ascoli,1,1,Stadio San PaoloArbitro:,76 303,Maradona  84’,56’ Cantarutti,Arbitro: Stadio San Paolo (76 303 spett.)
+19850414-CRE-NAP,1985-04-14,1984-1985,Serie A,Cremonese,Napoli,1,1,Stadio Giovanni ZiniArbitro:,17 953,Bonomi  57’,53’ D. Bertoni,Arbitro: Stadio Giovanni Zini (17 953 spett.)
+19850421-NAP-INT,1985-04-21,1984-1985,Serie A,Napoli,Inter,3,1,Stadio San PaoloArbitro:,82 610,"D. Bertoni  18’,  63’, Dal Fiume  50’",39’ G. Baresi,Arbitro: Stadio San Paolo (82 610 spett.)
+19850428-ROM-NAP,1985-04-28,1984-1985,Serie A,Roma,Napoli,1,1,Stadio OlimpicoArbitro:,67 088,Dal Fiume  72’ (aut.),40’ D. Bertoni,Arbitro: Stadio Olimpico (67 088 spett.)
+19850505-NAP-JUV,1985-05-05,1984-1985,Serie A,Napoli,Juventus,0,0,Stadio San PaoloArbitro:,82 751,,,Arbitro: Stadio San Paolo (82 751 spett.)
+19850512-UDI-NAP,1985-05-12,1984-1985,Serie A,Udinese,Napoli,2,2,Stadio FriuliArbitro:,41 769,"Galparoli  8’, De Agostini  55’","4’,  88’ Maradona",Arbitro: Stadio Friuli (41 769 spett.)
+19850519-NAP-FIO,1985-05-19,1984-1985,Serie A,Napoli,Fiorentina,1,0,Stadio San PaoloArbitro:,73 030,Caffarelli  39’,,Arbitro: Stadio San Paolo (73 030 spett.)
+19840822-NAP-ARE,1984-08-22,1984-1985,Coppa Italia,Napoli,Arezzo,4,1,Stadio San PaoloArbitro:,,"Maradona  20’, Penzo  52’, D. Bertoni  64’, De Vecchi  77’",36’ Tovalieri,Arbitro: Stadio San Paolo
+19840826-CAS-NAP,1984-08-26,1984-1985,Coppa Italia,Casertana,Napoli,0,3,Stadio San PaoloArbitro:,,,"18’ (rig.) Maradona, 44’ Penzo, 48’ D. Bertoni",Arbitro: Stadio San Paolo
+19840829-PER-NAP,1984-08-29,1984-1985,Coppa Italia,Perugia,Napoli,0,0,Stadio Renato CuriArbitro:,,,,Arbitro: Stadio Renato Curi
+19840902-PES-NAP,1984-09-02,1984-1985,Coppa Italia,Pescara,Napoli,0,3,Stadio AdriaticoArbitro:,,,"16’ Penzo, 51’ D. Bertoni, 82’ Maradona",Arbitro: Stadio Adriatico
+19840909-NAP-FIO,1984-09-09,1984-1985,Coppa Italia,Napoli,Fiorentina,1,1,Stadio San PaoloArbitro:,,D. Bertoni  65’,55’ Monelli,Arbitro: Stadio San Paolo
+19850213-MIL-NAP,1985-02-13,1984-1985,Coppa Italia,Milan,Napoli,2,1,Stadio San SiroArbitro:,,"Battistini  14’, Di Bartolomei  51’ (rig.)",46’ Bagni,Arbitro: Stadio San Siro
+19850227-NAP-MIL,1985-02-27,1984-1985,Coppa Italia,Napoli,Milan,1,1,Stadio San PaoloArbitro:,,Caffarelli  78’,40’ Battistini,Arbitro: Stadio San Paolo

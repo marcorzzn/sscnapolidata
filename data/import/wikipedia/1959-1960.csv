@@ -1,0 +1,38 @@
+match_id,date,season,competition,home_raw_name,away_raw_name,home_goals,away_goals,stadium,attendance,home_scorers,away_scorers,notes
+19590920-NAP-SPA,1959-09-20,1959-1960,Serie A,Napoli,SPAL,0,3,Stadio del VomeroArbitro:,,,"61’,  62’ Rossi, 68’ Morbello",Arbitro: Stadio del Vomero
+19590927-FIO-NAP,1959-09-27,1959-1960,Serie A,Fiorentina,Napoli,2,1,Stadio ComunaleArbitro:,,"Orzan  56’, Hamrin  61’",54’ Di Giacomo,Arbitro: Stadio Comunale
+19591004-NAP-GEN,1959-10-04,1959-1960,Serie A,Napoli,Genoa,0,2,Stadio del VomeroArbitro:,,,75’ Barison,Arbitro: Stadio del Vomero
+19591011-MIL-NAP,1959-10-11,1959-1960,Serie A,Milan,Napoli,3,1,Stadio San SiroArbitro:,,"Galli  13’, Schiaffino  20’, Bertucco  74’ (aut.)",89’ Del Vecchio,Arbitro: Stadio San Siro
+19591018-NAP-ATA,1959-10-18,1959-1960,Serie A,Napoli,Atalanta,1,0,Stadio ComunaleArbitro:,,Del Vecchio  28’,,Arbitro: Stadio Comunale
+19591025-PAL-NAP,1959-10-25,1959-1960,Serie A,Palermo,Napoli,0,0,Stadio La FavoritaArbitro:,,,,Arbitro: Stadio La Favorita
+19591108-NAP-LAZ,1959-11-08,1959-1960,Serie A,Napoli,Lazio,0,0,Stadio del VomeroArbitro:,,,,Arbitro: Stadio del Vomero
+19591115-NAP-LAN,1959-11-15,1959-1960,Serie A,Napoli,Lanerossi Vicenza,3,1,Stadio del VomeroArbitro:,,"Comaschi  22’, Del Vecchio  54’, Vitali  63’",40’ Traverso,Arbitro: Stadio del Vomero
+19591122-UDI-NAP,1959-11-22,1959-1960,Serie A,Udinese,Napoli,0,0,Stadio MorettiArbitro:,,,,Arbitro: Stadio Moretti
+19591206-NAP-JUV,1959-12-06,1959-1960,Serie A,Napoli,Juventus,2,1,Stadio San PaoloArbitro:,,"Vitali  6’, Vinicio  63’",89’ (rig.) Cervato,Arbitro: Stadio San Paolo
+19591213-ALE-NAP,1959-12-13,1959-1960,Serie A,Alessandria,Napoli,1,1,Stadio Giuseppe MoccagattaArbitro:,,Filini  65’,68’ Di Giacomo,Arbitro: Stadio Giuseppe Moccagatta
+19591220-NAP-BAR,1959-12-20,1959-1960,Serie A,Napoli,Bari,1,2,Stadio San PaoloArbitro:,,Rambone  14’,"62’ (aut.) Mistone, 89’ Erba",Arbitro: Stadio San Paolo
+19591227-SAM-NAP,1959-12-27,1959-1960,Serie A,Sampdoria,Napoli,0,2,Stadio Luigi FerrarisArbitro:,,,"72’,  89’ Vinicio",Arbitro: Stadio Luigi Ferraris
+19600110-BOL-NAP,1960-01-10,1959-1960,Serie A,Bologna,Napoli,4,1,Stadio Renato Dall'AraArbitro:,,"Pascutti  35’,  55’, Campana  39’, Beltrandi  68’ (aut.)",61’ Di Giacomo,Arbitro: Stadio Renato Dall'Ara
+19600117-NAP-PAD,1960-01-17,1959-1960,Serie A,Napoli,Padova,1,2,Stadio San PaoloArbitro:,,Del Vecchio  42’,"33’ Zerlin, 90’ Brighenti",Arbitro: Stadio San Paolo
+19600124-ROM-NAP,1960-01-24,1959-1960,Serie A,Roma,Napoli,3,0,Stadio OlimpicoArbitro:,,"Castellazzi  9’, Selmosson  42’, David  45’",,Arbitro: Stadio Olimpico
+19600131-NAP-INT,1960-01-31,1959-1960,Serie A,Napoli,Inter,1,1,Stadio San PaoloArbitro:,,Di Giacomo  82’,7’ Corso,Arbitro: Stadio San Paolo
+19600207-SPA-NAP,1960-02-07,1959-1960,Serie A,SPAL,Napoli,2,2,Stadio ComunaleArbitro:,,Morbello  37’ (rig.)  55’ (rig.),"22’ Del Vecchio, 50’ Vinicio",Arbitro: Stadio Comunale
+19600214-NAP-FIO,1960-02-14,1959-1960,Serie A,Napoli,Fiorentina,0,4,Stadio San PaoloArbitro:,,,"9’ Azzali, 34’,  63’,  70’ Hamrin",Arbitro: Stadio San Paolo
+19600221-GEN-NAP,1960-02-21,1959-1960,Serie A,Genoa,Napoli,0,0,Stadio Luigi FerrarisArbitro:,,,,Arbitro: Stadio Luigi Ferraris
+19600228-NAP-MIL,1960-02-28,1959-1960,Serie A,Napoli,Milan,1,1,Stadio San PaoloArbitro:,,Vinicio  11’,63’ Danova,Arbitro: Stadio San Paolo
+19600306-ATA-NAP,1960-03-06,1959-1960,Serie A,Atalanta,Napoli,1,0,Stadio ComunaleArbitro:,,Olivieri  82’,,Arbitro: Stadio Comunale
+19600320-NAP-PAL,1960-03-20,1959-1960,Serie A,Napoli,Palermo,2,1,Stadio San PaoloArbitro:,,"Di Giacomo  8’, Del Vecchio  13’",2’ Vernazza,Arbitro: Stadio San Paolo
+19600327-LAZ-NAP,1960-03-27,1959-1960,Serie A,Lazio,Napoli,2,1,Stadio OlimpicoArbitro:,,"Visentin  48’, Rozzoni  86’",80’ Del Vecchio,Arbitro: Stadio Olimpico
+19600403-LAN-NAP,1960-04-03,1959-1960,Serie A,Lanerossi Vicenza,Napoli,0,0,Stadio Romeo MentiArbitro:,,,,Arbitro: Stadio Romeo Menti
+19600410-NAP-UDI,1960-04-10,1959-1960,Serie A,Napoli,Udinese,1,1,Stadio San PaoloArbitro:,,Del Vecchio  52’,76’ Milan,Arbitro: Stadio San Paolo
+19600417-JUV-NAP,1960-04-17,1959-1960,Serie A,Juventus,Napoli,4,2,Stadio ComunaleArbitro:,,"Sivori  19’,  20’ (rig.)  67’, Charles  37’","57’ Di Giacomo, 82’ Del Vecchio",Arbitro: Stadio Comunale
+19600424-NAP-ALE,1960-04-24,1959-1960,Serie A,Napoli,Alessandria,1,1,Stadio San PaoloArbitro:,,Vitali  55’,23’ Rivera,Arbitro: Stadio San Paolo
+19590101-BAR-NAP,1959-01-01,1959-1960,Serie A,Bari,Napoli,1,1,Stadio della VittoriaArbitro:,,Seghedoni  34’ (rig.),77’ Di Giacomo,Arbitro: Stadio della Vittoria
+19600508-NAP-SAM,1960-05-08,1959-1960,Serie A,Napoli,Sampdoria,1,1,Stadio San PaoloArbitro:,,Di Giacomo  45’,24’ Skoglund,Arbitro: Stadio San Paolo
+19600515-NAP-BOL,1960-05-15,1959-1960,Serie A,Napoli,Bologna,2,0,Stadio San PaoloArbitro:,,"Postiglione  34’, Di Giacomo  71’",,Arbitro: Stadio San Paolo
+19600522-PAD-NAP,1960-05-22,1959-1960,Serie A,Padova,Napoli,1,2,Stadio Silvio AppianiArbitro:,,Tortul  45’,"68’ Postiglione, 71’ Vinicio",Arbitro: Stadio Silvio Appiani
+19600529-NAP-ROM,1960-05-29,1959-1960,Serie A,Napoli,Roma,1,0,Stadio San PaoloArbitro:,,Del Vecchio  11’ (rig.),,Arbitro: Stadio San Paolo
+19600605-INT-NAP,1960-06-05,1959-1960,Serie A,Inter,Napoli,3,1,Stadio San SiroArbitro:,,"Firmani  25’, Lindskog  42’, Bicicli  82’",45’ Vinicio,Arbitro: Stadio San Siro
+19590906-NAP-SAM,1959-09-06,1959-1960,Coppa Italia,Napoli,Sambenedettese,4,0,Stadio del VomeroArbitro:,,"Vitali  15’,  24’,  64’, Vinicio  86’ (rig.)",,Arbitro: Stadio del Vomero
+19590914-NAP-BAR,1959-09-14,1959-1960,Coppa Italia,Napoli,Bari,1,0,Stadio del VomeroArbitro:,,Di Giacomo  9’,,Arbitro: Stadio del Vomero
+19591104-BOL-NAP,1959-11-04,1959-1960,Coppa Italia,Bologna,Napoli,1,0,Stadio Renato Dall'AraArbitro:,,Campana  31’,,Arbitro: Stadio Renato Dall'Ara

@@ -1,0 +1,45 @@
+match_id,date,season,competition,home_raw_name,away_raw_name,home_goals,away_goals,stadium,attendance,home_scorers,away_scorers,notes
+19751005-NAP-COM,1975-10-05,1975-1976,Serie A,Napoli,Como,1,0,Stadio San PaoloArbitro:,,Savoldi  83’ (rig.),,Arbitro: Stadio San Paolo
+19751012-FIO-NAP,1975-10-12,1975-1976,Serie A,Fiorentina,Napoli,1,1,Stadio ComunaleArbitro:,,Casarsa  9’ (rig.),67’ Massa,Arbitro: Stadio Comunale
+19751019-NAP-CES,1975-10-19,1975-1976,Serie A,Napoli,Cesena,2,0,Stadio San PaoloArbitro:,,"Savoldi  45’, Braglia  52’",,Arbitro: Stadio San Paolo
+19751102-VER-NAP,1975-11-02,1975-1976,Serie A,Verona,Napoli,2,4,Stadio Marcantonio BentegodiArbitro:,,"Luppi  41’, Moro  74’","53’ Juliano, 56’ La Palma, 62’ Braglia, 90’ Savoldi",Arbitro: Stadio Marcantonio Bentegodi
+19751109-NAP-CAG,1975-11-09,1975-1976,Serie A,Napoli,Cagliari,3,1,Stadio San PaoloArbitro:,,"Massa  46’, Savoldi  64’,  80’",19’ Riva,Arbitro: Stadio San Paolo
+19751116-TOR-NAP,1975-11-16,1975-1976,Serie A,Torino,Napoli,3,1,Stadio ComunaleArbitro:,,"Pulici  18’,  28’, Punziano  70’ (aut.)",24’ Savoldi,Arbitro: Stadio Comunale
+19751130-NAP-MIL,1975-11-30,1975-1976,Serie A,Napoli,Milan,1,0,Stadio San PaoloArbitro:,,Savoldi  40’ (rig.),,Arbitro: Stadio San Paolo
+19751207-LAZ-NAP,1975-12-07,1975-1976,Serie A,Lazio,Napoli,0,1,Stadio OlimpicoArbitro:,,,11’ Boccolini,Arbitro: Stadio Olimpico
+19751214-NAP-ASC,1975-12-14,1975-1976,Serie A,Napoli,Ascoli,0,0,Stadio San PaoloArbitro:,,,,Arbitro: Stadio San Paolo
+19751221-INT-NAP,1975-12-21,1975-1976,Serie A,Inter,Napoli,2,1,Stadio San SiroArbitro:,,"Boninsegna  37’, Facchetti  90’",68’ Juliano,Arbitro: Stadio San Siro
+19760104-JUV-NAP,1976-01-04,1975-1976,Serie A,Juventus,Napoli,2,1,Stadio ComunaleArbitro:,,"Damiani  34’, Gori  84’",4’ (rig.) Savoldi,Arbitro: Stadio Comunale
+19760111-NAP-BOL,1976-01-11,1975-1976,Serie A,Napoli,Bologna,2,2,Stadio San PaoloArbitro:,,"Braglia  9’, Massa  86’","1’,  33’ Chiodi",Arbitro: Stadio San Paolo
+19760118-NAP-ROM,1976-01-18,1975-1976,Serie A,Napoli,Roma,2,1,Stadio San PaoloArbitro:,,"Massa  60’, Savoldi  69’",85’ Negrisolo,Arbitro: Stadio San Paolo
+19760125-PER-NAP,1976-01-25,1975-1976,Serie A,Perugia,Napoli,2,2,Stadio Pian di MassianoArbitro:,,"Scarpa  68’, Marchei  85’","4’ Massa, 16’ Braglia",Arbitro: Stadio Pian di Massiano
+19750101-NAP-SAM,1975-01-01,1975-1976,Serie A,Napoli,Sampdoria,0,0,Stadio San PaoloArbitro:,,,,Arbitro: Stadio San Paolo
+19760208-COM-NAP,1976-02-08,1975-1976,Serie A,Como,Napoli,0,1,Stadio Giuseppe SinigagliaArbitro:,,,67’ (aut.) Rossi,Arbitro: Stadio Giuseppe Sinigaglia
+19760215-NAP-FIO,1976-02-15,1975-1976,Serie A,Napoli,Fiorentina,1,2,Stadio San PaoloArbitro:,,Esposito  15’,"76’,  88’ Desolati",Arbitro: Stadio San Paolo
+19760222-CES-NAP,1976-02-22,1975-1976,Serie A,Cesena,Napoli,0,1,Stadio La FioritaArbitro:,,,7’ Juliano,Arbitro: Stadio La Fiorita
+19760229-NAP-VER,1976-02-29,1975-1976,Serie A,Napoli,Verona,0,1,Stadio San PaoloArbitro:,,,41’ Mascetti,Arbitro: Stadio San Paolo
+19760307-CAG-NAP,1976-03-07,1975-1976,Serie A,Cagliari,Napoli,1,1,Stadio Sant'EliaArbitro:,,Quagliozzi  68’,43’ Orlandini,Arbitro: Stadio Sant'Elia
+19760314-NAP-TOR,1976-03-14,1975-1976,Serie A,Napoli,Torino,0,0,Stadio San PaoloArbitro:,,,,Arbitro: Stadio San Paolo
+19760321-MIL-NAP,1976-03-21,1975-1976,Serie A,Milan,Napoli,1,1,Stadio San SiroArbitro:,,Calloni  40’ (rig.),57’ Massa,Arbitro: Stadio San Siro
+19760328-NAP-LAZ,1976-03-28,1975-1976,Serie A,Napoli,Lazio,1,0,Stadio San PaoloArbitro:,,Massa  88’,,Arbitro: Stadio San Paolo
+19760404-ASC-NAP,1976-04-04,1975-1976,Serie A,Ascoli,Napoli,0,0,Stadio Cino e Lillo Del DucaArbitro:,,,,Arbitro: Stadio Cino e Lillo Del Duca
+19760411-NAP-INT,1976-04-11,1975-1976,Serie A,Napoli,Inter,3,1,Stadio San PaoloArbitro:,,"Pogliana  5’, Savoldi  15’, Massa  20’",16’ (aut.) Esposito,Arbitro: Stadio San Paolo
+19760418-NAP-JUV,1976-04-18,1975-1976,Serie A,Napoli,Juventus,1,1,Stadio San PaoloArbitro:,,Boccolini  40’,55’ Bettega,Arbitro: Stadio San Paolo
+19760425-BOL-NAP,1976-04-25,1975-1976,Serie A,Bologna,Napoli,2,0,Stadio ComunaleArbitro:,,"Clerici  9’, Chiodi  88’",,Arbitro: Stadio Comunale
+19760502-ROM-NAP,1976-05-02,1975-1976,Serie A,Roma,Napoli,0,3,Stadio OlimpicoArbitro:,,,"10’ Sperotto, 42’,  62’ (rig.) Savoldi",Arbitro: Stadio Olimpico
+19760509-NAP-PER,1976-05-09,1975-1976,Serie A,Napoli,Perugia,4,0,Stadio San PaoloArbitro:,,"Esposito  42’, Savoldi  45’ (rig.), Massa  49’, Vavassori  51’",,Arbitro: Stadio San Paolo
+19760516-SAM-NAP,1976-05-16,1975-1976,Serie A,Sampdoria,Napoli,2,1,Stadio Luigi FerrarisArbitro:,,"Tuttino  20’, Magistrelli  58’ (rig.)",64’ (rig.) Savoldi,Arbitro: Stadio Luigi Ferraris
+19750827-CES-NAP,1975-08-27,1975-1976,Coppa Italia,Cesena,Napoli,0,0,Stadio La FioritaArbitro:,,,,Arbitro: Stadio La Fiorita
+19750831-NAP-REG,1975-08-31,1975-1976,Coppa Italia,Napoli,Reggiana,2,1,Stadio San PaoloArbitro:,,"Massa  5’, Braglia  40’",81’ Passalacqua,Arbitro: Stadio San Paolo
+19750907-NAP-FOG,1975-09-07,1975-1976,Coppa Italia,Napoli,Foggia,4,2,Stadio San PaoloArbitro:,,"Orlandini  37’, Massa  53’, Savoldi  60’, Pirazzini  77’ (aut.)","66’,  69’ Turella",Arbitro: Stadio San Paolo
+19750914-UNK-UNK,1975-09-14,1975-1976,Coppa Italia,,,,,,,,,
+19750921-PAL-NAP,1975-09-21,1975-1976,Coppa Italia,Palermo,Napoli,0,3,Stadio La FavoritaArbitro:,,,"19’,  49’ Sperotto, 69’ Juliano",Arbitro: Stadio La Favorita
+19760519-NAP-FIO,1976-05-19,1975-1976,Coppa Italia,Napoli,Fiorentina,0,0,Stadio San PaoloArbitro:,,,,Arbitro: Stadio San Paolo
+19760609-MIL-NAP,1976-06-09,1975-1976,Coppa Italia,Milan,Napoli,0,2,Stadio San SiroArbitro:,,,"56’ (rig.) Savoldi, 71’ Boccolini",Arbitro: Stadio San Siro
+19760613-NAP-SAM,1976-06-13,1975-1976,Coppa Italia,Napoli,Sampdoria,2,1,Stadio San PaoloArbitro:,,"Braglia  12’,  56’",51’ Orlandi,Arbitro: Stadio San Paolo
+19760616-FIO-NAP,1976-06-16,1975-1976,Coppa Italia,Fiorentina,Napoli,1,1,Stadio ComunaleArbitro:,,Bresciani  36’,49’ Massa,Arbitro: Stadio Comunale
+19760620-NAP-MIL,1976-06-20,1975-1976,Coppa Italia,Napoli,Milan,2,1,Stadio San PaoloArbitro:,,"Savoldi  16’,  89’ (rig.)",81’ (rig.) Benetti,Arbitro: Stadio San Paolo
+19760626-SAM-NAP,1976-06-26,1975-1976,Coppa Italia,Sampdoria,Napoli,2,2,Stadio Luigi FerrarisArbitro:,,"Saltutti  69’, Rossinelli  79’","26’ Braglia, 49’ Massa",Arbitro: Stadio Luigi Ferraris
+19760629-NAP-VER,1976-06-29,1975-1976,Coppa Italia,Napoli,Verona,4,0,Stadio OlimpicoArbitro:,,"Ginulfi  76’ (aut.), Braglia  78’, Savoldi  79’,  86’",,Arbitro: Stadio Olimpico
+19750917-TOR-NAP,1975-09-17,1975-1976,Coppa UEFA,Torpedo Mosca,Napoli,4,1,Stadio LužnikiArbitro:,,"Grishin  2’,  88’, Sacharov  30’ (rig.), Belenkov  90’",35’ Savoldi,Arbitro: Stadio Lužniki
+19750101-NAP-TOR,1975-01-01,1975-1976,Coppa UEFA,Napoli,Torpedo Mosca,1,1,Stadio San PaoloArbitro:,,Braglia  37’,15’ Filatov,Arbitro: Stadio San Paolo

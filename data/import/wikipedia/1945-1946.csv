@@ -1,0 +1,39 @@
+match_id,date,season,competition,home_raw_name,away_raw_name,home_goals,away_goals,stadium,attendance,home_scorers,away_scorers,notes
+19451021-UNK-UNK,1945-10-21,1945-1946,Serie A,,,,,,,,,
+19451028-BAR-NAP,1945-10-28,1945-1946,Serie A,Bari,Napoli,2,1,Stadio della VittoriaArbitro:,,"Di Benedetti  44’,  87’",71’ Gallanti,Arbitro: Stadio della Vittoria
+19451104-NAP-LAZ,1945-11-04,1945-1946,Serie A,Napoli,Lazio,0,0,Stadio della LiberazioneArbitro:,,,,Arbitro: Stadio della Liberazione
+19451111-ANC-NAP,1945-11-11,1945-1946,Serie A,Anconitana,Napoli,0,3,Stadio DoricoArbitro:,,,"14’ Busani, 44’ Andreolo, 84’ Pretto",Arbitro: Stadio Dorico
+19451118-NAP-PES,1945-11-18,1945-1946,Serie A,Napoli,Pescara,1,0,Stadio della LiberazioneArbitro:,,Gallanti  10’,,Arbitro: Stadio della Liberazione
+19451125-NAP-PRO,1945-11-25,1945-1946,Serie A,Napoli,Pro Livorno,1,0,Stadio della LiberazioneArbitro:,,Busani  44’,,Arbitro: Stadio della Liberazione
+19451202-UNK-UNK,1945-12-02,1945-1946,Serie A,,,,,,,,,
+19451209-FIO-NAP,1945-12-09,1945-1946,Serie A,Fiorentina,Napoli,0,1,Stadio ComunaleArbitro:,8000,,34’ Di Costanzo,Arbitro: Stadio Comunale (8000 spett.)
+19451216-ROM-NAP,1945-12-16,1945-1946,Serie A,Roma,Napoli,0,0,Stadio NazionaleArbitro:,,,,Arbitro: Stadio Nazionale
+19451223-NAP-SAL,1945-12-23,1945-1946,Serie A,Napoli,Salernitana,1,0,Stadio della LiberazioneArbitro:,,Verrina  48’,,Arbitro: Stadio della Liberazione
+19451230-PAL-NAP,1945-12-30,1945-1946,Serie A,Palermo,Napoli,0,0,Stadio La FavoritaArbitro:,,,,Arbitro: Stadio La Favorita
+19460113-NAP-SIE,1946-01-13,1945-1946,Serie A,Napoli,Siena,6,1,Stadio della LiberazioneArbitro:,,"Rosi  6’, Barbieri  22’,  55’,  78’, Verrina  62’,  76’",75’ Boldi,Arbitro: Stadio della Liberazione
+19460120-UNK-UNK,1946-01-20,1945-1946,Serie A,,,,,,,,,
+19460127-NAP-BAR,1946-01-27,1945-1946,Serie A,Napoli,Bari,2,1,Stadio della LiberazioneArbitro:,,"Lushta  3’, Barbieri  8’",47’ Fusco,Arbitro: Stadio della Liberazione
+19460203-LAZ-NAP,1946-02-03,1945-1946,Serie A,Lazio,Napoli,0,0,Stadio NazionaleArbitro:,,,,Arbitro: Stadio Nazionale
+19460210-NAP-ANC,1946-02-10,1945-1946,Serie A,Napoli,Anconitana,2,0,Stadio della LiberazioneArbitro:,,"Andreolo  75’,  80’",,Arbitro: Stadio della Liberazione
+19460217-PES-NAP,1946-02-17,1945-1946,Serie A,Pescara,Napoli,2,1,Stadio RampignaArbitro:,,"Tontodonati  17’, Centorame  30’",88’ Barbieri,Arbitro: Stadio Rampigna
+19460224-PRO-NAP,1946-02-24,1945-1946,Serie A,Pro Livorno,Napoli,1,0,Stadio ComunaleArbitro:,,Cattaneo  28’,,Arbitro: Stadio Comunale
+19460303-UNK-UNK,1946-03-03,1945-1946,Serie A,,,,,,,,,
+19460310-NAP-FIO,1946-03-10,1945-1946,Serie A,Napoli,Fiorentina,1,0,Stadio della LiberazioneArbitro:,,F. Baldi  27’,,Arbitro: Stadio della Liberazione
+19460317-NAP-ROM,1946-03-17,1945-1946,Serie A,Napoli,Roma,1,1,Stadio della LiberazioneArbitro:,,Andreolo  39’,50’ Dagianti,Arbitro: Stadio della Liberazione
+19460324-SAL-NAP,1946-03-24,1945-1946,Serie A,Salernitana,Napoli,1,1,Stadio ComunaleArbitro:,,Colaneri  50’,60’ Andreolo,Arbitro: Stadio Comunale
+19460331-NAP-PAL,1946-03-31,1945-1946,Serie A,Napoli,Palermo,2,0,Stadio della LiberazioneArbitro:,,"Lushta  15’,  76’",,Arbitro: Stadio della Liberazione
+19460407-SIE-NAP,1946-04-07,1945-1946,Serie A,Siena,Napoli,1,4,Stadio del RastrelloArbitro:,,Polack  71’ (rig.),"46’,  57’ Busani, 48’,  64’ Barbieri",Arbitro: Stadio del Rastrello
+19460428-NAP-MIL,1946-04-28,1945-1946,Serie A,Napoli,Milan,1,0,Stadio della LiberazioneArbitro:,,Barbieri  2’,,Arbitro: Stadio della Liberazione
+19460505-BAR-NAP,1946-05-05,1945-1946,Serie A,Bari,Napoli,2,2,Stadio della VittoriaArbitro:,,"Orlando  22’, Maestrelli  48’","17’ Lushta, 72’ Barbieri",Arbitro: Stadio della Vittoria
+19460512-NAP-TOR,1946-05-12,1945-1946,Serie A,Napoli,Torino,0,2,Stadio della LiberazioneArbitro:,,,"22’,  28’ Gabetto",Arbitro: Stadio della Liberazione
+19460519-INT-NAP,1946-05-19,1945-1946,Serie A,Inter,Napoli,2,1,Arena CivicaArbitro:,,"Penzo  67’,  88’",23’ Di Costanzo,Arbitro: Arena Civica
+19460526-NAP-ROM,1946-05-26,1945-1946,Serie A,Napoli,Roma,2,1,Stadio della LiberazioneArbitro:,,"Barbieri  8’,  39’",16’ Amadei,Arbitro: Stadio della Liberazione
+19460530-NAP-PRO,1946-05-30,1945-1946,Serie A,Napoli,Pro Livorno,3,0,Stadio della LiberazioneArbitro:,,"Verrina  3’, Barbieri  47’,  65’ (rig.)",,Arbitro: Stadio della Liberazione
+19460609-JUV-NAP,1946-06-09,1945-1946,Serie A,Juventus,Napoli,6,0,Stadio ComunaleArbitro:,,"Piola  25’,  67’, Magni  47’, Coscia  52’, Borel  79’, Locatelli  84’",,Arbitro: Stadio Comunale
+19460616-MIL-NAP,1946-06-16,1945-1946,Serie A,Milan,Napoli,2,3,Stadio San SiroArbitro:,,"Rosellini  28’, Annovazzi  46’","23’ Lushta, 29’ Di Costanzo, 80’ Busani",Arbitro: Stadio San Siro
+19460620-NAP-BAR,1946-06-20,1945-1946,Serie A,Napoli,Bari,4,0,Stadio della LiberazioneArbitro:,,"Barbieri  13’,  42’, Lushta  30’, Di Costanzo  41’",,Arbitro: Stadio della Liberazione
+19460630-TOR-NAP,1946-06-30,1945-1946,Serie A,Torino,Napoli,7,1,Stadio FiladelfiaArbitro:,,"Castigliano  6’,  49’,  60’, Ez. Loik  8’,  61’, Mazzola  13’,  86’",34’ F. Baldi,Arbitro: Stadio Filadelfia
+19460707-NAP-INT,1946-07-07,1945-1946,Serie A,Napoli,Inter,0,0,Stadio della LiberazioneArbitro:,,,,Arbitro: Stadio della Liberazione
+19460714-ROM-NAP,1946-07-14,1945-1946,Serie A,Roma,Napoli,2,0,Stadio NazionaleArbitro:,,"Dagianti  17’, Krieziu  23’",,Arbitro: Stadio Nazionale
+19460721-PRO-NAP,1946-07-21,1945-1946,Serie A,Pro Livorno,Napoli,2,1,Stadio ComunaleArbitro:,,"Raccis  40’, Mazzi  82’",52’ (rig.) Rosi,Arbitro: Stadio Comunale
+19460728-NAP-JUV,1946-07-28,1945-1946,Serie A,Napoli,Juventus,1,1,Stadio della LiberazioneArbitro:,,Busani  58’,63’ Piola,Arbitro: Stadio della Liberazione

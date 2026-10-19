@@ -1,0 +1,45 @@
+match_id,date,season,competition,home_raw_name,away_raw_name,home_goals,away_goals,stadium,attendance,home_scorers,away_scorers,notes
+19610903-NAP-NOV,1961-09-03,1961-1962,Serie A,Napoli,Novara,1,0,Stadio San PaoloArbitro:,,Fraschini  4’,,Arbitro: Stadio San Paolo
+19610910-MOD-NAP,1961-09-10,1961-1962,Serie A,Modena,Napoli,0,0,Stadio ComunaleArbitro:,,,,Arbitro: Stadio Comunale
+19610917-NAP-PAR,1961-09-17,1961-1962,Serie A,Napoli,Parma,0,0,Stadio San PaoloArbitro:,,,,Arbitro: Stadio San Paolo
+19610924-LUC-NAP,1961-09-24,1961-1962,Serie A,Lucchese,Napoli,0,1,Stadio Porta ElisaArbitro:,,,83’ Fraschini,Arbitro: Stadio Porta Elisa
+19610101-BRE-NAP,1961-01-01,1961-1962,Serie A,Brescia,Napoli,1,1,Stadio Mario RigamontiArbitro:,,De Paoli  12’,25’ Corelli,Arbitro: Stadio Mario Rigamonti
+19611008-NAP-LAZ,1961-10-08,1961-1962,Serie A,Napoli,Lazio,0,2,Stadio San PaoloArbitro:,,,"26’ Morrone, 30’ Landoni",Arbitro: Stadio San Paolo
+19611022-COM-NAP,1961-10-22,1961-1962,Serie A,Como,Napoli,1,1,Stadio Giuseppe SinigagliaArbitro:,,Meroni  7’,13’ Tacchi,Arbitro: Stadio Giuseppe Sinigaglia
+19611029-NAP-BAR,1961-10-29,1961-1962,Serie A,Napoli,Bari,0,0,Stadio San PaoloArbitro:,,,,Arbitro: Stadio San Paolo
+19611105-MES-NAP,1961-11-05,1961-1962,Serie A,Messina,Napoli,2,0,Stadio Giovanni CelesteArbitro:,,"Lazzotti  2’, Radaelli  29’",,Arbitro: Stadio Giovanni Celeste
+19611119-NAP-CAT,1961-11-19,1961-1962,Serie A,Napoli,Catanzaro,3,1,Stadio San PaoloArbitro:,,"Corelli  21’,  71’,  82’ (rig.)",84’ Rambone,Arbitro: Stadio San Paolo
+19611126-REG-NAP,1961-11-26,1961-1962,Serie A,Reggiana,Napoli,2,1,Stadio MirabelloArbitro:,,"Volpi  20’, Greatti  49’",84’ Mariani,Arbitro: Stadio Mirabello
+19611203-GEN-NAP,1961-12-03,1961-1962,Serie A,Genoa,Napoli,3,1,Stadio Luigi FerrarisArbitro:,,"Giacomini  11’, Bean  29’, Firmani  72’",53’ Fraschini,Arbitro: Stadio Luigi Ferraris
+19611210-NAP-SIM,1961-12-10,1961-1962,Serie A,Napoli,Simmenthal-Monza,0,0,Stadio San PaoloArbitro:,,,,Arbitro: Stadio San Paolo
+19611217-PRO-NAP,1961-12-17,1961-1962,Serie A,Pro Patria,Napoli,2,1,Stadio ComunaleArbitro:,,"Meraviglia  9’, Calloni  76’",19’ Corelli,Arbitro: Stadio Comunale
+19611224-NAP-ALE,1961-12-24,1961-1962,Serie A,Napoli,Alessandria,4,3,Stadio San PaoloArbitro:,,"Mariani  7’,  61’, Fanello  23’, Corelli  84’","2’,  21’ Cappellaro, 38’ Rizzo",Arbitro: Stadio San Paolo
+19611231-COS-NAP,1961-12-31,1961-1962,Serie A,Cosenza,Napoli,1,1,Stadio Città di CosenzaArbitro:,,Perli  74’,61’ Fanello,Arbitro: Stadio Città di Cosenza
+19620107-NAP-VER,1962-01-07,1961-1962,Serie A,Napoli,Verona,0,0,Stadio San PaoloArbitro:,,,,Arbitro: Stadio San Paolo
+19620114-NAP-PRA,1962-01-14,1961-1962,Serie A,Napoli,Prato,2,1,Stadio San PaoloArbitro:,,"Fanello  30’, Ronzon  58’",44’ Cella,Arbitro: Stadio San Paolo
+19620121-SAM-NAP,1962-01-21,1961-1962,Serie A,Sambenedettese,Napoli,1,0,Stadio Fratelli BallarinArbitro:,,Merlo  23’,,Arbitro: Stadio Fratelli Ballarin
+19620128-NOV-NAP,1962-01-28,1961-1962,Serie A,Novara,Napoli,2,1,Stadio ComunaleArbitro:,,"Montenovo  74’, Mentani  78’",8’ Gilardoni,Arbitro: Stadio Comunale
+19620204-NAP-MOD,1962-02-04,1961-1962,Serie A,Napoli,Modena,2,0,Stadio San PaoloArbitro:,,"Fraschini  69’, Fanello  88’",,Arbitro: Stadio San Paolo
+19620211-PAR-NAP,1962-02-11,1961-1962,Serie A,Parma,Napoli,0,2,Stadio Ennio TardiniArbitro:,,,"40’ Ronzon, 66’ (rig.) Corelli",Arbitro: Stadio Ennio Tardini
+19620218-NAP-LUC,1962-02-18,1961-1962,Serie A,Napoli,Lucchese,1,0,Stadio San PaoloArbitro:,,Fraschini  70’,,Arbitro: Stadio San Paolo
+19620225-NAP-BRE,1962-02-25,1961-1962,Serie A,Napoli,Brescia,1,1,Stadio San PaoloArbitro:,,Fraschini  3’,66’ Recagno,Arbitro: Stadio San Paolo
+19620304-LAZ-NAP,1962-03-04,1961-1962,Serie A,Lazio,Napoli,0,0,Stadio FlaminioArbitro:,,,,Arbitro: Stadio Flaminio
+19620311-NAP-COM,1962-03-11,1961-1962,Serie A,Napoli,Como,3,1,Stadio San PaoloArbitro:,,"Ronzon  6’,  58’, Gilardoni  85’",71’ Sartore,Arbitro: Stadio San Paolo
+19620318-BAR-NAP,1962-03-18,1961-1962,Serie A,Bari,Napoli,1,0,Stadio della VittoriaArbitro:,,Cicogna  45’,,Arbitro: Stadio della Vittoria
+19620325-NAP-MES,1962-03-25,1961-1962,Serie A,Napoli,Messina,4,2,Stadio San PaoloArbitro:,,"Ronzon  9’,  36’, Tacchi  28’, Mariani  53’","57’,  75’ Carminati",Arbitro: Stadio San Paolo
+19610101-CAT-NAP,1961-01-01,1961-1962,Serie A,Catanzaro,Napoli,1,2,Stadio MilitareArbitro:,,Mascalaito  73’,"5’ Corelli, 24’ Tacchi",Arbitro: Stadio Militare
+19620408-NAP-REG,1962-04-08,1961-1962,Serie A,Napoli,Reggiana,0,1,Stadio San PaoloArbitro:,,,64’ Tribuzio,Arbitro: Stadio San Paolo
+19620415-NAP-GEN,1962-04-15,1961-1962,Serie A,Napoli,Genoa,1,4,Stadio San PaoloArbitro:,,Corelli  40’ (rig.),"20’ (aut.) Schiavone, 27’ Bean, 88’,  90’ Pantaleoni",Arbitro: Stadio San Paolo
+19620422-SIM-NAP,1962-04-22,1961-1962,Serie A,Simmenthal-Monza,Napoli,0,1,Stadio Città di MonzaArbitro:,,,28’ Ronzon,Arbitro: Stadio Città di Monza
+19620429-NAP-PRO,1962-04-29,1961-1962,Serie A,Napoli,Pro Patria,4,0,Stadio San PaoloArbitro:,,"Fraschini  2’,  65’, Ronzon  26’, Fanello  74’",,Arbitro: Stadio San Paolo
+19620506-ALE-NAP,1962-05-06,1961-1962,Serie A,Alessandria,Napoli,0,0,Stadio Giuseppe MoccagattaArbitro:,,,,Arbitro: Stadio Giuseppe Moccagatta
+19620513-NAP-COS,1962-05-13,1961-1962,Serie A,Napoli,Cosenza,1,1,Stadio San PaoloArbitro:,,Corelli  52’ (rig.),47’ Lenzi,Arbitro: Stadio San Paolo
+19610101-VER-NAP,1961-01-01,1961-1962,Serie A,Verona,Napoli,0,1,Stadio Marcantonio BentegodiArbitro:,,,61’ Corelli,Arbitro: Stadio Marcantonio Bentegodi
+19620527-PRA-NAP,1962-05-27,1961-1962,Serie A,Prato,Napoli,1,1,Stadio LungobisenzioArbitro:,,Magi  74’,85’ Tacchi,Arbitro: Stadio Lungobisenzio
+19620603-NAP-SAM,1962-06-03,1961-1962,Serie A,Napoli,Sambenedettese,2,0,Stadio San PaoloArbitro:,,"Fraschini  71’, Ronzon  80’",,Arbitro: Stadio San Paolo
+19610827-NAP-ALE,1961-08-27,1961-1962,Coppa Italia,Napoli,Alessandria,1,1,Stadio San PaoloArbitro:,,Gilardoni  58’,75’ Cappellaro,Arbitro: Stadio San Paolo
+19611015-NAP-SAM,1961-10-15,1961-1962,Coppa Italia,Napoli,Sampdoria,0,0,Stadio San PaoloArbitro:,,,,Arbitro: Stadio San Paolo
+19620425-TOR-NAP,1962-04-25,1961-1962,Coppa Italia,Torino,Napoli,0,2,Stadio FiladelfiaArbitro:,,,"66’,  78’ Gilardoni",Arbitro: Stadio Filadelfia
+19610101-ROM-NAP,1961-01-01,1961-1962,Coppa Italia,Roma,Napoli,0,1,Stadio OlimpicoArbitro:,,,66’ Corelli,Arbitro: Stadio Olimpico
+19620531-NAP-MAN,1962-05-31,1961-1962,Coppa Italia,Napoli,Mantova,2,1,Stadio San PaoloArbitro:,,"Tomeazzi  9’, Fanello  67’",35’ (rig.) Mazzero,Arbitro: Stadio San Paolo
+19620621-NAP-SPA,1962-06-21,1961-1962,Coppa Italia,Napoli,SPAL,2,1,Stadio OlimpicoArbitro:,,"Corelli  12’, Ronzon  78’",16’ Micheli,Arbitro: Stadio Olimpico

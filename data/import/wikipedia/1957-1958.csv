@@ -1,0 +1,41 @@
+match_id,date,season,competition,home_raw_name,away_raw_name,home_goals,away_goals,stadium,attendance,home_scorers,away_scorers,notes
+19570908-NAP-GEN,1957-09-08,1957-1958,Serie A,Napoli,Genoa,4,0,Stadio del VomeroArbitro:,,"Vinicio  10’, Brugola  18’, Di Giacomo  72’, Franchini  77’ (rig.)",,Arbitro: Stadio del Vomero
+19570915-MIL-NAP,1957-09-15,1957-1958,Serie A,Milan,Napoli,2,2,Stadio San SiroArbitro:,,"Bean  27’,  75’","43’ Brugola, 57’ (aut.) Maldini",Arbitro: Stadio San Siro
+19570922-NAP-TOR,1957-09-22,1957-1958,Serie A,Napoli,Torino,3,0,Stadio del VomeroArbitro:,,"Vinicio  17’,  23’, Di Giacomo  59’",,Arbitro: Stadio del Vomero
+19570929-ATA-NAP,1957-09-29,1957-1958,Serie A,Atalanta,Napoli,2,4,Stadio ComunaleArbitro:,,"Conti  3’, Perani  30’","12’ Novelli, 25’ Di Giacomo, 49’,  87’ Vinicio",Arbitro: Stadio Comunale
+19571006-NAP-VER,1957-10-06,1957-1958,Serie A,Napoli,Verona,6,0,Stadio del VomeroArbitro:,,"Di Giacomo  6’,  62’,  85’, Novelli  25’,  76’, Franchini  32’ (rig.)",,Arbitro: Stadio del Vomero
+19571013-NAP-PAD,1957-10-13,1957-1958,Serie A,Napoli,Padova,4,0,Stadio del VomeroArbitro:,,"Pesaola  41’, Franchini  50’ (rig.), Vinicio  58’, Brugola  71’",,Arbitro: Stadio del Vomero
+19571020-LAZ-NAP,1957-10-20,1957-1958,Serie A,Lazio,Napoli,4,1,Stadio OlimpicoArbitro:,,"Vivolo  10’ (rig.), Pozzan  37’,  48’, Selmosson  69’",87’ Vinicio,Arbitro: Stadio Olimpico
+19571027-FIO-NAP,1957-10-27,1957-1958,Serie A,Fiorentina,Napoli,4,1,Stadio ComunaleArbitro:,,"Cervato  13’, Lojacono  17’,  62’, Bizzarri  61’",88’ Vinicio,Arbitro: Stadio Comunale
+19571103-NAP-SPA,1957-11-03,1957-1958,Serie A,Napoli,SPAL,2,0,Stadio del VomeroArbitro:,,"Vinicio  47’,  56’",,Arbitro: Stadio del Vomero
+19571110-ALE-NAP,1957-11-10,1957-1958,Serie A,Alessandria,Napoli,0,0,Stadio Giuseppe MoccagattaArbitro:,,,,Arbitro: Stadio Giuseppe Moccagatta
+19571117-NAP-ROM,1957-11-17,1957-1958,Serie A,Napoli,Roma,0,0,Stadio del VomeroArbitro:,,,,Arbitro: Stadio del Vomero
+19571124-JUV-NAP,1957-11-24,1957-1958,Serie A,Juventus,Napoli,1,3,Stadio OlimpicoArbitro:,,Charles  47’,"10’ Vinicio, 82’ Novelli, 87’ Di Giacomo",Arbitro: Stadio Olimpico
+19571215-NAP-BOL,1957-12-15,1957-1958,Serie A,Napoli,Bologna,0,1,Stadio del VomeroArbitro:,,,38’ Pivatelli,Arbitro: Stadio del Vomero
+19571222-SAM-NAP,1957-12-22,1957-1958,Serie A,Sampdoria,Napoli,3,0,Stadio Luigi FerrarisArbitro:,,"Conti  7’, Firmani",,Arbitro: Stadio Luigi Ferraris
+19571229-NAP-UDI,1957-12-29,1957-1958,Serie A,Napoli,Udinese,3,2,Stadio del VomeroArbitro:,,"Di Giacomo  3’, Posio  76’,  87’","22’ Pantaleoni, 56’ (rig.) Lindskog",Arbitro: Stadio del Vomero
+19580105-INT-NAP,1958-01-05,1957-1958,Serie A,Inter,Napoli,0,1,Stadio San SiroArbitro:,,,79’ Pesaola,Arbitro: Stadio San Siro
+19580112-NAP-LAN,1958-01-12,1957-1958,Serie A,Napoli,Lanerossi Vicenza,3,1,Stadio del VomeroArbitro:,,"Vinicio  15’,  65’,  88’",63’ (rig.) David,Arbitro: Stadio del Vomero
+19580126-GEN-NAP,1958-01-26,1957-1958,Serie A,Genoa,Napoli,2,1,Stadio Luigi FerrarisArbitro:,,"Abbadie  9’, Frignani  71’",6’ Pesaola,Arbitro: Stadio Luigi Ferraris
+19580202-NAP-MIL,1958-02-02,1957-1958,Serie A,Napoli,Milan,1,0,Stadio del VomeroArbitro:,,Pesaola  5’,,Arbitro: Stadio del Vomero
+19580209-TAL-NAP,1958-02-09,1957-1958,Serie A,Talmone Torino,Napoli,4,3,Stadio FiladelfiaArbitro:,,"Morin  17’ (aut.), Santelli  40’,  83’, Armano  88’","54’ (rig.) Pesaola, 56’ Vinicio, 65’ Posio",Arbitro: Stadio Filadelfia
+19580216-NAP-ATA,1958-02-16,1957-1958,Serie A,Napoli,Atalanta,2,2,Stadio Arturo CollanaArbitro:,,"Bertucco  47’,  70’","36’ Bonistalli, 88’ Longoni",Arbitro: Stadio Arturo Collana
+19580223-VER-NAP,1958-02-23,1957-1958,Serie A,Verona,Napoli,4,3,Stadio Marcantonio BentegodiArbitro:,,"Ghiandi  20’,  31’, Larini  75’, Del Vecchio  82’","9’ Bertucco, 62’ Pesaola, 84’ Vinicio",Arbitro: Stadio Marcantonio Bentegodi
+19580302-PAD-NAP,1958-03-02,1957-1958,Serie A,Padova,Napoli,3,0,Stadio Silvio AppianiArbitro:,,"Brighenti  22’, Hamrin  30’, Blason  80’",,Arbitro: Stadio Silvio Appiani
+19580309-NAP-LAZ,1958-03-09,1957-1958,Serie A,Napoli,Lazio,1,1,Stadio del VomeroArbitro:,,Pesaola  48’ (rig.),33’ Selmosson,Arbitro: Stadio del Vomero
+19580316-NAP-FIO,1958-03-16,1957-1958,Serie A,Napoli,Fiorentina,3,1,Stadio del VomeroArbitro:,,"Novelli  21’,  88’, Vinicio  57’",85’ Montuori,Arbitro: Stadio del Vomero
+19580330-SPA-NAP,1958-03-30,1957-1958,Serie A,SPAL,Napoli,1,2,Stadio ComunaleArbitro:,,Santin  61’,"51’ Vinicio, 75’ Pesaola",Arbitro: Stadio Comunale
+19580406-NAP-ALE,1958-04-06,1957-1958,Serie A,Napoli,Alessandria,4,1,Stadio del VomeroArbitro:,,"Brugola  8’, Pesaola  14’, Bertucco  33’, Morin  42’",85’ Vonlanthen,Arbitro: Stadio del Vomero
+19580413-ROM-NAP,1958-04-13,1957-1958,Serie A,Roma,Napoli,0,2,Stadio OlimpicoArbitro:,,,"10’ Di Giacomo, 46’ Vinicio",Arbitro: Stadio Olimpico
+19580420-NAP-JUV,1958-04-20,1957-1958,Serie A,Napoli,Juventus,4,3,Stadio del VomeroArbitro:,,"Vinicio  4’,  77’, Brugola  24’, Bertucco  88’","6’ (aut.) Greco, 58’ Stacchini, 86’ Montico",Arbitro: Stadio del Vomero
+19580427-BOL-NAP,1958-04-27,1957-1958,Serie A,Bologna,Napoli,1,1,Stadio Renato Dall'AraArbitro:,,Pascutti  56’,63’ Brugola,Arbitro: Stadio Renato Dall'Ara
+19580504-NAP-SAM,1958-05-04,1957-1958,Serie A,Napoli,Sampdoria,0,1,Stadio del VomeroArbitro:,,,76’ Bolzoni,Arbitro: Stadio del Vomero
+19580511-UDI-NAP,1958-05-11,1957-1958,Serie A,Udinese,Napoli,7,0,Stadio MorettiArbitro:,,"Franchini  26’ (aut.), Comaschi  63’ (aut.), Fontanesi  64’,  74’,  87’, Lindskog  67’, Bettini  69’",,Arbitro: Stadio Moretti
+19580518-NAP-INT,1958-05-18,1957-1958,Serie A,Napoli,Inter,1,0,Stadio del VomeroArbitro:,,Betello  12’,,Arbitro: Stadio del Vomero
+19580525-LAN-NAP,1958-05-25,1957-1958,Serie A,Lanerossi Vicenza,Napoli,4,0,Stadio Romeo MentiArbitro:,,"Cappellaro  54’,  73’, Fusato  69’, Savoini  77’",,Arbitro: Stadio Romeo Menti
+19580607-NAP-ROM,1958-06-07,1957-1958,Coppa Italia,Napoli,Roma,0,2,Stadio del VomeroArbitro:,,,"70’ Menegotti, 88’ Morbello",Arbitro: Stadio del Vomero
+19580615-LAZ-NAP,1958-06-15,1957-1958,Coppa Italia,Lazio,Napoli,3,1,Stadio OlimpicoArbitro:,,"Tozzi  15’,  76’, Tagnin  46’",80’ (aut.) Colombo,Arbitro: Stadio Olimpico
+19580622-NAP-PAL,1958-06-22,1957-1958,Coppa Italia,Napoli,Palermo,4,2,Stadio del VomeroArbitro:,,"Novelli  4’,  86’, Comaschi  41’, Brugola  56’","67’ Benedetti, 74’ Sandri",Arbitro: Stadio del Vomero
+19580628-ROM-NAP,1958-06-28,1957-1958,Coppa Italia,Roma,Napoli,2,1,Stadio OlimpicoArbitro:,,"Orlando  80’, Da Costa  82’",85’ Molinari,Arbitro: Stadio Olimpico
+19580706-NAP-LAZ,1958-07-06,1957-1958,Coppa Italia,Napoli,Lazio,0,4,Stadio del VomeroArbitro:,,,"13’,  42’ (rig.) Burini, 18’ Pozzan, 59’ Bizzarri",Arbitro: Stadio del Vomero
+19580713-PAL-NAP,1958-07-13,1957-1958,Coppa Italia,Palermo,Napoli,5,1,Stadio La FavoritaArbitro:,,"Azzali II  17’, Gomez  47’, Malavasi  57’, Biagini  61’, Lonardi  80’",15’ Gasparini,Arbitro: Stadio La Favorita

@@ -44,7 +44,7 @@ def main():
         except Exception as e:
             print(f"Error processing match {match.get('match_id')}: {e}")
 
-    print(f"✅ Generazione completata: create {count} schede partita HTML.")
+    print(f"OK Generazione completata: create {count} schede partita HTML.")
 
 if __name__ == '__main__':
     main()

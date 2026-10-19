@@ -1,9 +1,11 @@
-﻿import csv
+import csv
 import sqlite3
 import re
 
-filepath = 'C:\\Users\\marco\\sscnapolidata-remoto\\data\\import\\openfootball.csv'
-dbpath = 'C:\\Users\\marco\\sscnapolidata-remoto\\db\\datanapoli.sqlite'
+import os
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+filepath = os.path.join(BASE_DIR, 'data', 'import', 'openfootball.csv')
+dbpath = os.path.join(BASE_DIR, 'db', 'datanapoli.sqlite')
 
 def make_code(name):
     letters = ''.join(c for c in name if c.isalpha())

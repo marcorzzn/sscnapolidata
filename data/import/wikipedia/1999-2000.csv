@@ -1,0 +1,49 @@
+match_id,date,season,competition,home_raw_name,away_raw_name,home_goals,away_goals,stadium,attendance,home_scorers,away_scorers,notes
+19990829-NAP-RAV,1999-08-29,1999-2000,Altra Competizione,Napoli,Ravenna,1,1,Stadio San PaoloArbitro:,22 011,Turrini  63’ (rig.),21’ Murgita,Arbitro: Stadio San Paolo (22 011 spett.)
+19990905-MON-NAP,1999-09-05,1999-2000,Altra Competizione,Monza,Napoli,0,0,Stadio BrianteoArbitro:,8 657,,,Arbitro: Stadio Brianteo (8 657 spett.)
+19990912-NAP-FER,1999-09-12,1999-2000,Altra Competizione,Napoli,Fermana,4,0,Stadio San PaoloArbitro:,19 062,"Schwoch  54’, Lucenti  59’, Stellone  77’,  87’",,Arbitro: Stadio San Paolo (19 062 spett.)
+19990919-ATA-NAP,1999-09-19,1999-2000,Altra Competizione,Atalanta,Napoli,1,0,Stadio Atleti Azzurri d'ItaliaArbitro:,15 695,Doni  68’,,Arbitro: Stadio Atleti Azzurri d'Italia (15 695 spett.)
+19990926-NAP-VIC,1999-09-26,1999-2000,Altra Competizione,Napoli,Vicenza,2,1,Stadio San PaoloArbitro:,26 861,"Schwoch  65’, Turrini  80’ (rig.)",17’ Dicara,Arbitro: Stadio San Paolo (26 861 spett.)
+19991003-SAL-NAP,1999-10-03,1999-2000,Altra Competizione,Salernitana,Napoli,1,1,Stadio ArechiArbitro:,26 084,Guidoni  80’,44’ Schwoch,Arbitro: Stadio Arechi (26 084 spett.)
+19991010-NAP-CHI,1999-10-10,1999-2000,Altra Competizione,Napoli,Chievo,3,2,Stadio San PaoloArbitro:,26 103,"Oddo  51’, Schwoch  57’, Magoni  62’","61’ (rig.) Zanchetta, 78’ F. Cossato",Arbitro: Stadio San Paolo (26 103 spett.)
+19991024-TRE-NAP,1999-10-24,1999-2000,Altra Competizione,Treviso,Napoli,5,1,Stadio Omobono TenniArbitro:,6 019,"Pizzi  8’,  81’, Toni  52’ (rig.),  68’, L. Beghetto  45+2’",79’ (rig.) Schwoch,Arbitro: Stadio Omobono Tenni (6 019 spett.)
+19991031-TER-NAP,1999-10-31,1999-2000,Altra Competizione,Ternana,Napoli,2,2,Stadio Libero LiberatiArbitro:,11 483,"Teodorani  7’, Miccoli  18’","34’,  60’ Robbiati",Arbitro: Stadio Libero Liberati (11 483 spett.)
+19991108-NAP-PES,1999-11-08,1999-2000,Altra Competizione,Napoli,Pescara,1,1,Stadio San PaoloArbitro:,17 916,Schwoch  27’,44’ Gregori,Arbitro: Stadio San Paolo (17 916 spett.)
+19991114-SAV-NAP,1999-11-14,1999-2000,Altra Competizione,Savoia,Napoli,0,1,Stadio PartenioArbitro:,10 250,,83’ Schwoch,Arbitro: Stadio Partenio (10 250 spett.)
+19991122-NAP-SAM,1999-11-22,1999-2000,Altra Competizione,Napoli,Sampdoria,1,0,Stadio San PaoloArbitro:,30 770,Schwoch  9’,,Arbitro: Stadio San Paolo (30 770 spett.)
+19991128-COS-NAP,1999-11-28,1999-2000,Altra Competizione,Cosenza,Napoli,1,0,Stadio San VitoArbitro:,5 197,Gioacchini  57’,,Arbitro: Stadio San Vito (5 197 spett.)
+19991205-NAP-EMP,1999-12-05,1999-2000,Altra Competizione,Napoli,Empoli,1,0,Stadio San PaoloArbitro:,19 109,Schwoch  12’,,Arbitro: Stadio San Paolo (19 109 spett.)
+19991212-ALZ-NAP,1999-12-12,1999-2000,Altra Competizione,Alzano Virescit,Napoli,0,4,Stadio Atleti Azzurri d'ItaliaArbitro:,4 410,,"23’,  48’ Schwoch, 41’ C. Bellucci, 90+3’ Stellone",Arbitro: Stadio Atleti Azzurri d'Italia (4 410 spett.)
+19991220-NAP-CES,1999-12-20,1999-2000,Altra Competizione,Napoli,Cesena,1,1,Stadio San PaoloArbitro:,26 405,C. Bellucci  62’,2’ Scienza,Arbitro: Stadio San Paolo (26 405 spett.)
+20000106-BRE-NAP,2000-01-06,1999-2000,Altra Competizione,Brescia,Napoli,3,1,Stadio Mario RigamontiArbitro:,10 319,"Bonazzoli  18’, Hübner  46’,  70’",66’ Stellone,Arbitro: Stadio Mario Rigamonti (10 319 spett.)
+20000109-NAP-PIS,2000-01-09,1999-2000,Altra Competizione,Napoli,Pistoiese,0,0,Stadio San PaoloArbitro:,21 225,,,Arbitro: Stadio San Paolo (21 225 spett.)
+20000116-GEN-NAP,2000-01-16,1999-2000,Altra Competizione,Genoa,Napoli,0,1,Stadio Luigi FerrarisArbitro:,12 313,,53’ Lucenti,Arbitro: Stadio Luigi Ferraris (12 313 spett.)
+20000123-RAV-NAP,2000-01-23,1999-2000,Altra Competizione,Ravenna,Napoli,0,0,Stadio Bruno BenelliArbitro:,5 913,,,Arbitro: Stadio Bruno Benelli (5 913 spett.)
+20000130-NAP-MON,2000-01-30,1999-2000,Altra Competizione,Napoli,Monza,2,2,Stadio San PaoloArbitro:,22 669,"C. Bellucci  27’,  54’","28’ Mazzeo, 76’ Ambrosi",Arbitro: Stadio San Paolo (22 669 spett.)
+20000213-FER-NAP,2000-02-13,1999-2000,Altra Competizione,Fermana,Napoli,3,2,Stadio Bruno RecchioniArbitro:,8 236,"Rachini  7’, Chianese  57’, Koloušek  66’","18’ Turrini, 19’ Schwoch",Arbitro: Stadio Bruno Recchioni (8 236 spett.)
+20000221-NAP-ATA,2000-02-21,1999-2000,Altra Competizione,Napoli,Atalanta,1,0,Stadio San PaoloArbitro:,31 423,Stellone  10’,,Arbitro: Stadio San Paolo (31 423 spett.)
+20000228-VIC-NAP,2000-02-28,1999-2000,Altra Competizione,Vicenza,Napoli,3,0,Stadio Romeo MentiArbitro:,16 421,"Comandini  20’,  64’ (rig.), Zauli  51’",,Arbitro: Stadio Romeo Menti (16 421 spett.)
+20000305-NAP-SAL,2000-03-05,1999-2000,Altra Competizione,Napoli,Salernitana,3,1,Stadio San PaoloArbitro:,45 376,"Stellone  21’, Lucenti  24’,  39’",6’ Rossi,Arbitro: Stadio San Paolo (45 376 spett.)
+20000312-CHI-NAP,2000-03-12,1999-2000,Altra Competizione,Chievo,Napoli,1,2,Stadio Marcantonio BentegodiArbitro:,4 076,D. Franceschini  90’,"45’ Stellone, 78’ Lucenti",Arbitro: Stadio Marcantonio Bentegodi (4 076 spett.)
+20000319-NAP-TRE,2000-03-19,1999-2000,Altra Competizione,Napoli,Treviso,2,3,Stadio San PaoloArbitro:,29 545,"Schwoch  12’,  67’ (rig.)","9’ L. Beghetto, 63’ Crovari, 83’ Ballarin",Arbitro: Stadio San Paolo (29 545 spett.)
+20000326-NAP-TER,2000-03-26,1999-2000,Altra Competizione,Napoli,Ternana,2,0,Stadio San PaoloArbitro:,25 816,"Stellone  17’, Schwoch  34’",,Arbitro: Stadio San Paolo (25 816 spett.)
+20000403-PES-NAP,2000-04-03,1999-2000,Altra Competizione,Pescara,Napoli,1,1,Stadio AdriaticoArbitro:,8 067,Allegri  72’,50’ Schwoch,Arbitro: Stadio Adriatico (8 067 spett.)
+20000409-NAP-SAV,2000-04-09,1999-2000,Altra Competizione,Napoli,Savoia,1,1,Stadio San PaoloArbitro:,35 264,Mora  45+2’,9’ Greco,Arbitro: Stadio San Paolo (35 264 spett.)
+20000422-SAM-NAP,2000-04-22,1999-2000,Altra Competizione,Sampdoria,Napoli,0,2,Stadio Luigi FerrarisArbitro:,21 510,,"42’ Asta, 69’ (rig.) Schwoch",Arbitro: Stadio Luigi Ferraris (21 510 spett.)
+20000430-NAP-COS,2000-04-30,1999-2000,Altra Competizione,Napoli,Cosenza,1,0,Stadio San PaoloArbitro:,38 430,Galletti  84’,,Arbitro: Stadio San Paolo (38 430 spett.)
+20000508-EMP-NAP,2000-05-08,1999-2000,Altra Competizione,Empoli,Napoli,4,1,Stadio Carlo CastellaniArbitro:,12 476,"Marchionni  6’,  36’, Saudati  63’,  90’ (rig.)",82’ (rig.) Schwoch,Arbitro: Stadio Carlo Castellani (12 476 spett.)
+20000514-NAP-ALZ,2000-05-14,1999-2000,Altra Competizione,Napoli,Alzano Virescit,3,1,Stadio San PaoloArbitro:,26 294,"Schwoch  45+1’ (rig.),  63’, Asta  77’",85’ Garavelli,Arbitro: Stadio San Paolo (26 294 spett.)
+20000521-CES-NAP,2000-05-21,1999-2000,Altra Competizione,Cesena,Napoli,2,2,Stadio Dino ManuzziArbitro:,9 627,"Pancu  26’, Taldo  65’","67’ C. Bellucci, 68’ Stellone",Arbitro: Stadio Dino Manuzzi (9 627 spett.)
+20000528-NAP-BRE,2000-05-28,1999-2000,Altra Competizione,Napoli,Brescia,3,0,Stadio San PaoloArbitro:,68 831,"Stellone  9’, Schwoch  32’ (rig.), C. Bellucci  84’",,Arbitro: Stadio San Paolo (68 831 spett.)
+20000604-PIS-NAP,2000-06-04,1999-2000,Altra Competizione,Pistoiese,Napoli,0,1,Stadio ComunaleArbitro:,12 051,,25’ Schwoch,Arbitro: Stadio Comunale (12 051 spett.)
+20000611-NAP-GEN,2000-06-11,1999-2000,Altra Competizione,Napoli,Genoa,1,3,Stadio San PaoloArbitro:,70 657,Galletti  80’,"30’,  61’ Carparelli, 90’ Francioso",Arbitro: Stadio San Paolo (70 657 spett.)
+19990815-SAL-NAP,1999-08-15,1999-2000,Coppa Italia,Salernitana,Napoli,2,0,Stadio ArechiArbitro:,,"Di Michele  37’,  75’",,Arbitro: Stadio Arechi
+19990818-NAP-COM,1999-08-18,1999-2000,Coppa Italia,Napoli,Como,1,1,Stadio San PaoloArbitro:,,Lombardi  87’,72’ Comazzi,Arbitro: Stadio San Paolo
+19990822-FER-NAP,1999-08-22,1999-2000,Coppa Italia,Fermana,Napoli,1,3,Stadio Riviera delle PalmeArbitro:,,Bonfiglio  58’,"40’ Stellone, 67’,  78’ Schwoch",Arbitro: Stadio Riviera delle Palme
+19990825-NAP-FER,1999-08-25,1999-2000,Coppa Italia,Napoli,Fermana,2,0,Stadio San PaoloArbitro:,,"Schwoch  41’ (rig.), Scarlato  89’",,Arbitro: Stadio San Paolo
+19990101-NAP-SAL,1999-01-01,1999-2000,Coppa Italia,Napoli,Salernitana,3,0,Stadio San PaoloArbitro:,,"Lucenti  39’, Schwoch  45’, Turrini  67’",,Arbitro: Stadio San Paolo
+19990915-COM-NAP,1999-09-15,1999-2000,Coppa Italia,Como,Napoli,1,2,Stadio Giuseppe SinigagliaArbitro:,,De Zerbi  77’,"40’ Robbiati, 82’ Miceli",Arbitro: Stadio Giuseppe Sinigaglia
+19991013-NAP-BAR,1999-10-13,1999-2000,Coppa Italia,Napoli,Bari,1,0,Stadio San PaoloArbitri:,,Scapolo  90+2’,,
+19991028-BAR-NAP,1999-10-28,1999-2000,Coppa Italia,Bari,Napoli,1,1,Stadio San NicolaArbitri:,,D. Andersson  56’,79’ Robbiati,
+19990101-NAP-JUV,1999-01-01,1999-2000,Coppa Italia,Napoli,Juventus,1,3,Stadio San PaoloArbitri:,70000,Turrini  34’ (rig.),"18’ Inzaghi, 29’,  79’ Kovačević",
+19991216-JUV-NAP,1999-12-16,1999-2000,Coppa Italia,Juventus,Napoli,1,0,Stadio Delle AlpiArbitri:,1000,Esnáider  26’,,

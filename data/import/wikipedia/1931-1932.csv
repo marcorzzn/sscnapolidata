@@ -1,0 +1,35 @@
+match_id,date,season,competition,home_raw_name,away_raw_name,home_goals,away_goals,stadium,attendance,home_scorers,away_scorers,notes
+19310920-NAP-TRI,1931-09-20,1931-1932,Serie A,Napoli,Triestina,4,2,Stadio Giorgio AscarelliArbitro:,,"O. Vojak  22’,  60’, A. Vojak  34’ (rig.), Mihalich  67’","75’ Colaussi, 76’ Castellani",Arbitro: Stadio Giorgio Ascarelli
+19310927-JUV-NAP,1931-09-27,1931-1932,Serie A,Juventus,Napoli,5,3,Campo JuventusArbitro:,,"Gio. Ferrari  3’,  24’, Vecchina  39’, Orsi  55’,  68’","15’ Buscaglia, 58’ A. Vojak, 80’ O. Vojak",Arbitro: Campo Juventus
+19311004-NAP-BAR,1931-10-04,1931-1932,Serie A,Napoli,Bari,3,0,Stadio Giorgio AscarelliArbitro:,,"A. Sallustro  17’, O. Vojak  36’,  85’",,Arbitro: Stadio Giorgio Ascarelli
+19311011-AMB-NAP,1931-10-11,1931-1932,Serie A,Ambrosiana,Napoli,6,1,Arena CivicaArbitro:,,"U. Visentin  23’,  82’, Serantoni  44’,  46’, L. Ferrero  59’,  60’",54’ Mihalich,Arbitro: Arena Civica
+19311018-NAP-ALE,1931-10-18,1931-1932,Serie A,Napoli,Alessandria,1,1,Stadio Giorgio AscarelliArbitro:,,Tansini  66’,72’ Cattaneo,Arbitro: Stadio Giorgio Ascarelli
+19311025-LAZ-NAP,1931-10-25,1931-1932,Serie A,Lazio,Napoli,0,2,Stadio Nazionale del PNFArbitro:,,,"45’ Mihalich, 79’ Tansini",Arbitro: Stadio Nazionale del PNF
+19311101-MIL-NAP,1931-11-01,1931-1932,Serie A,Milan,Napoli,3,1,Stadio San SiroArbitro:,,"Pastore  27’,  78’, P. Arcari  44’",88’ Tansini,Arbitro: Stadio San Siro
+19311108-NAP-FIO,1931-11-08,1931-1932,Serie A,Napoli,Fiorentina,0,2,Stadio Giorgio AscarelliArbitro:,,,"52’,  80’ Petrone",Arbitro: Stadio Giorgio Ascarelli
+19311122-NAP-CAS,1931-11-22,1931-1932,Serie A,Napoli,Casale,5,1,Stadio Giorgio AscarelliArbitro:,,"Tansini  23’, Mihalich  27’,  76’, Benatti  56’, A. Vojak  75’",1’ A. Borel,Arbitro: Stadio Giorgio Ascarelli
+19311129-ROM-NAP,1931-11-29,1931-1932,Serie A,Roma,Napoli,1,0,Campo TestaccioArbitro:,,Bernardini  71’,,Arbitro: Campo Testaccio
+19311206-TOR-NAP,1931-12-06,1931-1932,Serie A,Torino,Napoli,4,1,Stadio FiladelfiaArbitro:,,"G. Rossetti  30’,  49’, Libonatti  43’, Silano  73’ (rig.)",51’ Benatti,Arbitro: Stadio Filadelfia
+19311220-NAP-MOD,1931-12-20,1931-1932,Serie A,Napoli,Modena,4,1,Stadio Giorgio AscarelliArbitro:,,"A. Sallustro  13’, Tansini  27’, Mihalich  30’, A. Vojak  43’",41’ (aut.) Fontana,Arbitro: Stadio Giorgio Ascarelli
+19311227-NAP-GEN,1931-12-27,1931-1932,Serie A,Napoli,Genova 1893,3,1,Stadio Giorgio AscarelliArbitro:,,"A. Sallustro  8’,  41’, Mihalich  32’",22’ Patri,Arbitro: Stadio Giorgio Ascarelli
+19320103-PRO-NAP,1932-01-03,1931-1932,Serie A,Pro Vercelli,Napoli,1,1,Campo piazza Conte di TorinoArbitro:,,F. Santagostino  47’,87’ Buscaglia,Arbitro: Campo piazza Conte di Torino
+19320110-PRO-NAP,1932-01-10,1931-1932,Serie A,Pro Patria,Napoli,0,0,Stadio ComunaleArbitro:,,,,Arbitro: Stadio Comunale
+19320117-NAP-BRE,1932-01-17,1931-1932,Serie A,Napoli,Brescia,1,1,Stadio Giorgio AscarelliArbitro:,,Benatti  89’,50’ Volpi,Arbitro: Stadio Giorgio Ascarelli
+19320124-NAP-BOL,1932-01-24,1931-1932,Serie A,Napoli,Bologna,1,1,Stadio Giorgio AscarelliArbitro:,,A. Vojak  54’,15’ Maini,Arbitro: Stadio Giorgio Ascarelli
+19320131-TRI-NAP,1932-01-31,1931-1932,Serie A,Triestina,Napoli,1,2,Stadio MontebelloArbitro:,,De Manzano  4’,"2’ Mihalich, 75’ A. Vojak",Arbitro: Stadio Montebello
+19320207-NAP-JUV,1932-02-07,1931-1932,Serie A,Napoli,Juventus,2,0,Stadio Giorgio AscarelliArbitro:,,"A. Sallustro  60’,  90+2’",,Arbitro: Stadio Giorgio Ascarelli
+19320221-BAR-NAP,1932-02-21,1931-1932,Serie A,Bari,Napoli,0,2,Campo degli SportsArbitro:,,,"55’ A. Vojak, 81’ A. Sallustro",Arbitro: Campo degli Sports
+19320228-NAP-AMB,1932-02-28,1931-1932,Serie A,Napoli,Ambrosiana-Inter,1,0,Stadio Giorgio AscarelliArbitro:,,A. Sallustro  22’,,Arbitro: Stadio Giorgio Ascarelli
+19320306-ALE-NAP,1932-03-06,1931-1932,Serie A,Alessandria,Napoli,3,1,Stadio del LittorioArbitro:,,"Scagliotti  20’,  27’, Marchina  74’",47’ A. Sallustro,Arbitro: Stadio del Littorio
+19320313-NAP-LAZ,1932-03-13,1931-1932,Serie A,Napoli,Lazio,0,0,Stadio Giorgio AscarelliArbitro:,,,,Arbitro: Stadio Giorgio Ascarelli
+19320328-NAP-MIL,1932-03-28,1931-1932,Serie A,Napoli,Milan,3,1,Stadio Giorgio AscarelliArbitro:,,"A. Vojak  3’,  71’ (rig.), A. Sallustro  43’",41’ P. Arcari,Arbitro: Stadio Giorgio Ascarelli
+19320403-FIO-NAP,1932-04-03,1931-1932,Serie A,Fiorentina,Napoli,2,0,Stadio Giovanni BertaArbitro:,,"Petrone  20’, Galluzzi  71’",,Arbitro: Stadio Giovanni Berta
+19320417-CAS-NAP,1932-04-17,1931-1932,Serie A,Casale,Napoli,1,0,Stadio Natale PalliArbitro:,,Migliavacca  56’,,Arbitro: Stadio Natale Palli
+19320424-NAP-ROM,1932-04-24,1931-1932,Serie A,Napoli,Roma,1,0,Stadio Giorgio AscarelliArbitro:,,A. Sallustro  10’,,Arbitro: Stadio Giorgio Ascarelli
+19310101-NAP-TOR,1931-01-01,1931-1932,Serie A,Napoli,Torino,0,0,Stadio Giorgio AscarelliArbitro:,,,,Arbitro: Stadio Giorgio Ascarelli
+19320515-MOD-NAP,1932-05-15,1931-1932,Serie A,Modena,Napoli,2,2,Campo di Viale FontanelliArbitro:,,"Scaramelli  21’, Moretti  78’","47’ Tansini, 90+1’ O. Vojak",Arbitro: Campo di Viale Fontanelli
+19320522-GEN-NAP,1932-05-22,1931-1932,Serie A,Genova 1893,Napoli,1,0,Campo di Via del PianoArbitro:,,A. Mazzoni  47’,,Arbitro: Campo di Via del Piano
+19320526-NAP-PRO,1932-05-26,1931-1932,Serie A,Napoli,Pro Vercelli,2,1,Stadio Giorgio AscarelliArbitro:,,"A. Sallustro  28’, Mihalich  75’",11’ M. Ferraris,Arbitro: Stadio Giorgio Ascarelli
+19320529-NAP-PRO,1932-05-29,1931-1932,Serie A,Napoli,Pro Patria,1,1,Stadio Giorgio AscarelliArbitro:,,P. Innocenti  37’,86’ Cazzaniga,Arbitro: Stadio Giorgio Ascarelli
+19320605-BRE-NAP,1932-06-05,1931-1932,Serie A,Brescia,Napoli,1,0,Stadium di Viale PiaveArbitro:,,Scaltriti  5’,,Arbitro: Stadium di Viale Piave
+19320612-BOL-NAP,1932-06-12,1931-1932,Serie A,Bologna,Napoli,2,0,Stadio del LittorialeArbitro:,,"Bortolini  15’, Ottani  40’",,Arbitro: Stadio del Littoriale

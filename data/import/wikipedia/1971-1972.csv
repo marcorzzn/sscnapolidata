@@ -1,0 +1,45 @@
+match_id,date,season,competition,home_raw_name,away_raw_name,home_goals,away_goals,stadium,attendance,home_scorers,away_scorers,notes
+19711003-FIO-NAP,1971-10-03,1971-1972,Serie A,Fiorentina,Napoli,2,1,Stadio ComunaleArbitro:,,"Orlandini  10’, Clerici  89’",25’ Ripari,Arbitro: Stadio Comunale
+19710101-NAP-MAN,1971-01-01,1971-1972,Serie A,Napoli,Mantova,1,0,Stadio San PaoloArbitro:,,Altafini  55’,,Arbitro: Stadio San Paolo
+19711024-NAP-SAM,1971-10-24,1971-1972,Serie A,Napoli,Sampdoria,0,0,Stadio San PaoloArbitro:,,,,Arbitro: Stadio San Paolo
+19711031-VAR-NAP,1971-10-31,1971-1972,Serie A,Varese,Napoli,0,1,Stadio Franco OssolaArbitro:,,,84’ Macchi,Arbitro: Stadio Franco Ossola
+19711107-CAG-NAP,1971-11-07,1971-1972,Serie A,Cagliari,Napoli,2,1,Stadio Sant'EliaArbitro:,,"Riva  8’, Pogliana  27’ (aut.)",45’ Manservisi,Arbitro: Stadio Sant'Elia
+19711114-NAP-INT,1971-11-14,1971-1972,Serie A,Napoli,Inter,0,0,Stadio San PaoloArbitro:,,,,Arbitro: Stadio San Paolo
+19711128-JUV-NAP,1971-11-28,1971-1972,Serie A,Juventus,Napoli,2,2,Stadio ComunaleArbitro:,,"Capello  23’, Bettega  69’","17’ Altafini, 66’ (rig.) Improta",Arbitro: Stadio Comunale
+19711205-LAN-NAP,1971-12-05,1971-1972,Serie A,Lanerossi Vicenza,Napoli,6,2,Stadio Romeo MentiArbitro:,,"Turchetto  14’,  60’, Fontana  43’, Damiani  47’,  71’, Maraschi  63’","46’ Altafini, 48’ Manservisi",Arbitro: Stadio Romeo Menti
+19711212-NAP-ROM,1971-12-12,1971-1972,Serie A,Napoli,Roma,4,0,Stadio San PaoloArbitro:,,"Esposito  42’,  63’, Altafini  63’, Pogliana  67’",,Arbitro: Stadio San Paolo
+19711219-NAP-TOR,1971-12-19,1971-1972,Serie A,Napoli,Torino,1,1,Stadio San PaoloArbitro:,,Montefusco  20’,24’ Ferrini,Arbitro: Stadio San Paolo
+19711226-CAT-NAP,1971-12-26,1971-1972,Serie A,Catanzaro,Napoli,0,0,Stadio MilitareArbitro:,,,,Arbitro: Stadio Militare
+19720102-VER-NAP,1972-01-02,1971-1972,Serie A,Verona,Napoli,1,1,Stadio Marcantonio BentegodiArbitro:,,Mariani  60’,15’ Sormani,Arbitro: Stadio Marcantonio Bentegodi
+19720109-NAP-MIL,1972-01-09,1971-1972,Serie A,Napoli,Milan,0,0,Stadio San PaoloArbitro:,,,,Arbitro: Stadio San Paolo
+19720116-BOL-NAP,1972-01-16,1971-1972,Serie A,Bologna,Napoli,2,2,Stadio ComunaleArbitro:,,"Perani  40’, G. Savoldi  44’","16’ (rig.) Improta, 42’ Altafini",Arbitro: Stadio Comunale
+19720123-NAP-ATA,1972-01-23,1971-1972,Serie A,Napoli,Atalanta,2,1,Stadio San PaoloArbitro:,,"Sormani  5’, Altafini  77’",57’ Sacco,Arbitro: Stadio San Paolo
+19720130-NAP-FIO,1972-01-30,1971-1972,Serie A,Napoli,Fiorentina,0,0,Stadio San PaoloArbitro:,,,,Arbitro: Stadio San Paolo
+19720206-MAN-NAP,1972-02-06,1971-1972,Serie A,Mantova,Napoli,0,0,Stadio Danilo MartelliArbitro:,,,,Arbitro: Stadio Danilo Martelli
+19720213-SAM-NAP,1972-02-13,1971-1972,Serie A,Sampdoria,Napoli,1,2,Stadio Luigi FerrarisArbitro:,,Negrisolo  87’,"54’ Manservisi, 56’ Improta",Arbitro: Stadio Luigi Ferraris
+19720220-NAP-VAR,1972-02-20,1971-1972,Serie A,Napoli,Varese,3,0,Stadio San PaoloArbitro:,,"Improta  29’,  55’, M. Perego  60’",,Arbitro: Stadio San Paolo
+19720227-NAP-CAG,1972-02-27,1971-1972,Serie A,Napoli,Cagliari,0,0,Stadio San PaoloArbitro:,,,,Arbitro: Stadio San Paolo
+19720312-INT-NAP,1972-03-12,1971-1972,Serie A,Inter,Napoli,2,0,Stadio San SiroArbitro:,,"Panzanato  38’ (aut.), Giubertoni  89’",,Arbitro: Stadio San Siro
+19720319-NAP-JUV,1972-03-19,1971-1972,Serie A,Napoli,Juventus,1,1,Stadio San PaoloArbitro:,,Pogliana  69’,10’ Capello,Arbitro: Stadio San Paolo
+19720326-NAP-LAN,1972-03-26,1971-1972,Serie A,Napoli,Lanerossi Vicenza,1,1,Stadio San PaoloArbitro:,,Altafini  59’,80’ Bagatti,Arbitro: Stadio San Paolo
+19720402-ROM-NAP,1972-04-02,1971-1972,Serie A,Roma,Napoli,1,0,Stadio OlimpicoArbitro:,,Cappellini  59’,,Arbitro: Stadio Olimpico
+19720409-TOR-NAP,1972-04-09,1971-1972,Serie A,Torino,Napoli,1,0,Stadio ComunaleArbitro:,,Toschi  90’,,Arbitro: Stadio Comunale
+19720416-NAP-CAT,1972-04-16,1971-1972,Serie A,Napoli,Catanzaro,0,0,Stadio San PaoloArbitro:,,,,Arbitro: Stadio San Paolo
+19720423-NAP-VER,1972-04-23,1971-1972,Serie A,Napoli,Verona,1,1,Stadio San PaoloArbitro:,,Improta  42’ (rig.),34’ Mascetti,Arbitro: Stadio San Paolo
+19720507-MIL-NAP,1972-05-07,1971-1972,Serie A,Milan,Napoli,3,0,Stadio San SiroArbitro:,,"Prati  14’, S. Villa  50’, Biasiolo  58’",,Arbitro: Stadio San Siro
+19720521-NAP-BOL,1972-05-21,1971-1972,Serie A,Napoli,Bologna,0,0,Stadio San PaoloArbitro:,,,,Arbitro: Stadio San Paolo
+19720528-ATA-NAP,1972-05-28,1971-1972,Serie A,Atalanta,Napoli,3,1,Stadio ComunaleArbitro:,,"Bianchi  8’, Magistrelli  10’,  50’",52’ (rig.) Altafini,Arbitro: Stadio Comunale
+19710829-NAP-SOR,1971-08-29,1971-1972,Coppa Italia,Napoli,Sorrento,0,1,Stadio San PaoloArbitro:,,,42’ Bozza,Arbitro: Stadio San Paolo
+19710905-CAT-NAP,1971-09-05,1971-1972,Coppa Italia,Catanzaro,Napoli,0,1,Stadio San VitoArbitro:,,,85’ Improta,Arbitro: Stadio San Vito
+19710908-VER-NAP,1971-09-08,1971-1972,Coppa Italia,Verona,Napoli,1,2,Stadio Marcantonio BentegodiArbitro:,,Mascetti  2’,"57’,  63’ Altafini",Arbitro: Stadio Marcantonio Bentegodi
+19710912-UNK-UNK,1971-09-12,1971-1972,Coppa Italia,,,,,,,,,
+19710919-NAP-PAL,1971-09-19,1971-1972,Coppa Italia,Napoli,Palermo,1,0,Stadio San PaoloArbitro:,,Improta  28’ (rig.),,Arbitro: Stadio San Paolo
+19720604-BOL-NAP,1972-06-04,1971-1972,Coppa Italia,Bologna,Napoli,2,2,Stadio ComunaleArbitro:,,"Bulgarelli  68’, Gregori  77’","14’ M. Perego, 88’ Juliano",Arbitro: Stadio Comunale
+19720608-NAP-LAZ,1972-06-08,1971-1972,Coppa Italia,Napoli,Lazio,5,1,Stadio San PaoloArbitro:,,"Sormani  39’, Juliano  43’, Montefusco  47’,  85’, Macchi  73’",30’ Facchin,Arbitro: Stadio San Paolo
+19720611-FIO-NAP,1972-06-11,1971-1972,Coppa Italia,Fiorentina,Napoli,1,1,Stadio ComunaleArbitro:,,Clerici  28’ (rig.),90’ Macchi,Arbitro: Stadio Comunale
+19720625-NAP-BOL,1972-06-25,1971-1972,Coppa Italia,Napoli,Bologna,2,1,Stadio San PaoloArbitro:,,"M. Perego  16’, Macchi  46’",20’ Rizzo,Arbitro: Stadio San Paolo
+19720628-LAZ-NAP,1972-06-28,1971-1972,Coppa Italia,Lazio,Napoli,3,0,Stadio OlimpicoArbitro:,,"Gritti  38’, D'Amico  60’, Chinaglia  67’",,Arbitro: Stadio Olimpico
+19710101-NAP-FIO,1971-01-01,1971-1972,Coppa Italia,Napoli,Fiorentina,1,1,Stadio San PaoloArbitro:,,M. Perego  10’,25’ Braglia,Arbitro: Stadio San Paolo
+19720705-MIL-NAP,1972-07-05,1971-1972,Coppa Italia,Milan,Napoli,2,0,Stadio OlimpicoArbitro:,,"Panzanato  49’ (aut.), Rosato  78’",,Arbitro: Stadio Olimpico
+19710915-NAP-RAP,1971-09-15,1971-1972,Coppa UEFA,Napoli,Rapid Bucarest,1,0,Stadio San PaoloArbitro:,,Lupescu  75’ (aut.),,Arbitro: Stadio San Paolo
+19710930-RAP-NAP,1971-09-30,1971-1972,Coppa UEFA,Rapid Bucarest,Napoli,2,0,Stadio GiuleștiArbitro:,,"Dumitru  26’, Ene  34’",,Arbitro: Stadio Giulești

@@ -1,0 +1,1 @@
+-- Baseline: schema attuale al 2026-10-09

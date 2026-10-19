@@ -1,0 +1,44 @@
+match_id,date,season,competition,home_raw_name,away_raw_name,home_goals,away_goals,stadium,attendance,home_scorers,away_scorers,notes
+19820912-NAP-UDI,1982-09-12,1982-1983,Serie A,Napoli,Udinese,0,0,Stadio San PaoloArbitro:,57 133,,,Arbitro: Stadio San Paolo (57 133 spett.)
+19820919-PIS-NAP,1982-09-19,1982-1983,Serie A,Pisa,Napoli,2,0,Stadio Arena GaribaldiArbitro:,25 256,"Casale  30’,  70’ (rig.)",,Arbitro: Stadio Arena Garibaldi (25 256 spett.)
+19820926-NAP-CAT,1982-09-26,1982-1983,Serie A,Napoli,Catanzaro,2,0,Stadio San PaoloArbitro:,48 128,"Criscimanni  35’, Díaz  68’",,Arbitro: Stadio San Paolo (48 128 spett.)
+19821003-JUV-NAP,1982-10-03,1982-1983,Serie A,Juventus,Napoli,3,0,Stadio ComunaleArbitro:,54 177,"Rossi  17’, Boniek  45’,  51’",,Arbitro: Stadio Comunale (54 177 spett.)
+19821010-NAP-ROM,1982-10-10,1982-1983,Serie A,Napoli,Roma,1,3,Stadio San PaoloArbitro:,64 292,Pellegrini  1’,"33’ Iorio, 65’ Nela, 78’ Chierico",Arbitro: Stadio San Paolo (64 292 spett.)
+19821017-INT-NAP,1982-10-17,1982-1983,Serie A,Inter,Napoli,2,2,Stadio Giuseppe MeazzaArbitro:,44 432,"Oriali  56’, Altobelli  67’ (rig.)","86’ Criscimanni, 90’ Marino",Arbitro: Stadio Giuseppe Meazza (44 432 spett.)
+19821024-NAP-AVE,1982-10-24,1982-1983,Serie A,Napoli,Avellino,1,1,Stadio San PaoloArbitro:,40 450,Ferrari  63’ (aut.),31’ Limido,Arbitro: Stadio San Paolo (40 450 spett.)
+19821031-TOR-NAP,1982-10-31,1982-1983,Serie A,Torino,Napoli,1,1,Stadio ComunaleArbitro:,33 243,Borghi  75’,37’ Díaz,Arbitro: Stadio Comunale (33 243 spett.)
+19821107-NAP-SAM,1982-11-07,1982-1983,Serie A,Napoli,Sampdoria,0,1,Stadio San PaoloArbitro:,49 380,,56’ Scanziani,Arbitro: Stadio San Paolo (49 380 spett.)
+19821121-NAP-ASC,1982-11-21,1982-1983,Serie A,Napoli,Ascoli,0,0,Stadio San PaoloArbitro:,43 000,,,Arbitro: Stadio San Paolo (43 000 spett.)
+19821128-CAG-NAP,1982-11-28,1982-1983,Serie A,Cagliari,Napoli,1,0,Stadio Sant'EliaArbitro:,24 334,Restelli  81’,,Arbitro: Stadio Sant'Elia (24 334 spett.)
+19821212-NAP-GEN,1982-12-12,1982-1983,Serie A,Napoli,Genoa,1,1,Stadio San PaoloArbitro:,47 338,Ferrario  87’ (rig.),42’ (rig.) Iachini,Arbitro: Stadio San Paolo (47 338 spett.)
+19821219-FIO-NAP,1982-12-19,1982-1983,Serie A,Fiorentina,Napoli,1,0,Stadio ComunaleArbitro:,36 556,Massaro  56’,,Arbitro: Stadio Comunale (36 556 spett.)
+19830102-NAP-VER,1983-01-02,1982-1983,Serie A,Napoli,Verona,1,2,Stadio San PaoloArbitro:,63 490,Pellegrini III  60’,"15’,  52’ Fanna",Arbitro: Stadio San Paolo (63 490 spett.)
+19830109-CES-NAP,1983-01-09,1982-1983,Serie A,Cesena,Napoli,0,0,Stadio La FioritaArbitro:,19 561,,,Arbitro: Stadio La Fiorita (19 561 spett.)
+19830116-UDI-NAP,1983-01-16,1982-1983,Serie A,Udinese,Napoli,0,0,Stadio FriuliArbitro:,36 198,,,Arbitro: Stadio Friuli (36 198 spett.)
+19830123-NAP-PIS,1983-01-23,1982-1983,Serie A,Napoli,Pisa,2,1,Stadio San PaoloArbitro:,57 765,"Ferrario  8’ (rig.), Pellegrini  47’",67’ (rig.) Ugolotti,Arbitro: Stadio San Paolo (57 765 spett.)
+19830130-CAT-NAP,1983-01-30,1982-1983,Serie A,Catanzaro,Napoli,1,2,Stadio MilitareArbitro:,8 952,Bivi  26’,"41’,  65’ Pellegrini",Arbitro: Stadio Militare (8 952 spett.)
+19830206-NAP-JUV,1983-02-06,1982-1983,Serie A,Napoli,Juventus,0,0,Stadio San PaoloArbitro:,77 470,,,Arbitro: Stadio San Paolo (77 470 spett.)
+19830220-ROM-NAP,1983-02-20,1982-1983,Serie A,Roma,Napoli,5,2,Stadio OlimpicoArbitro:,62 526,"Nela  30’, Ancelotti  43’, Di Bartolomei  48’,  62’, Pruzzo  70’","12’ Díaz, 78’ Marino",Arbitro: Stadio Olimpico (62 526 spett.)
+19830227-NAP-INT,1983-02-27,1982-1983,Serie A,Napoli,Inter,1,1,Stadio San PaoloArbitro:,68 180,Dal Fiume  87’,10’ Altobelli,Arbitro: Stadio San Paolo (68 180 spett.)
+19830306-AVE-NAP,1983-03-06,1982-1983,Serie A,Avellino,Napoli,0,0,Stadio PartenioArbitro:,28 240,,,Arbitro: Stadio Partenio (28 240 spett.)
+19830313-NAP-TOR,1983-03-13,1982-1983,Serie A,Napoli,Torino,1,0,Stadio San PaoloArbitro:,59 709,Ferrario  21’ (rig.),,Arbitro: Stadio San Paolo (59 709 spett.)
+19830320-SAM-NAP,1983-03-20,1982-1983,Serie A,Sampdoria,Napoli,1,1,Stadio Luigi FerrarisArbitro:,34 775,Francis  25’,79’ Dal Fiume,Arbitro: Stadio Luigi Ferraris (34 775 spett.)
+19830327-ASC-NAP,1983-03-27,1982-1983,Serie A,Ascoli,Napoli,2,1,Stadio Cino e Lillo Del DucaArbitro:,17 398,"Novellino  14’, De Vecchi  79’",55’ Criscimanni,Arbitro: Stadio Cino e Lillo Del Duca (17 398 spett.)
+19830410-NAP-CAG,1983-04-10,1982-1983,Serie A,Napoli,Cagliari,1,0,Stadio San PaoloArbitro:,63 843,Ferrario  11’ (rig.),,Arbitro: Stadio San Paolo (63 843 spett.)
+19830424-GEN-NAP,1983-04-24,1982-1983,Serie A,Genoa,Napoli,0,0,Stadio Luigi FerrarisArbitro:,29 638,,,Arbitro: Stadio Luigi Ferraris (29 638 spett.)
+19820101-NAP-FIO,1982-01-01,1982-1983,Serie A,Napoli,Fiorentina,1,0,Stadio San PaoloArbitro:,67 797,Ferroni II  63’ (aut.),,Arbitro: Stadio San Paolo (67 797 spett.)
+19830508-VER-NAP,1983-05-08,1982-1983,Serie A,Verona,Napoli,0,0,Stadio Marcantonio BentegodiArbitro:,27 815,,,Arbitro: Stadio Marcantonio Bentegodi (27 815 spett.)
+19830515-NAP-CES,1983-05-15,1982-1983,Serie A,Napoli,Cesena,1,0,Stadio San PaoloArbitro:,69 754,Dal Fiume  54’,,Arbitro: Stadio San Paolo (69 754 spett.)
+19820818-SAL-NAP,1982-08-18,1982-1983,Coppa Italia,Salernitana,Napoli,0,1,Stadio VestutiArbitro:,,,47’ (rig.) Ferrario,Arbitro: Stadio Vestuti
+19820822-PER-NAP,1982-08-22,1982-1983,Coppa Italia,Perugia,Napoli,0,0,Stadio Renato CuriArbitro:,,,,Arbitro: Stadio Renato Curi
+19820829-NAP-AVE,1982-08-29,1982-1983,Coppa Italia,Napoli,Avellino,2,1,Stadio San PaoloArbitro:,,"Ferrario  42’ (rig.), Pellegrini  78’",26’ Skov,Arbitro: Stadio San Paolo
+19820101-LAZ-NAP,1982-01-01,1982-1983,Coppa Italia,Lazio,Napoli,1,2,Stadio OlimpicoArbitro:,,Giordano  51’,"42’,  69’ Díaz",Arbitro: Stadio Olimpico
+19820905-NAP-ATA,1982-09-05,1982-1983,Coppa Italia,Napoli,Atalanta,1,0,Stadio San PaoloArbitro:,,Capone  59’,,Arbitro: Stadio San Paolo
+19830331-CES-NAP,1983-03-31,1982-1983,Coppa Italia,Cesena,Napoli,1,0,Stadio Dino ManuzziArbitro:,,Krol  58’ (aut.),,Arbitro: Stadio Dino Manuzzi
+19830417-NAP-CES,1983-04-17,1982-1983,Coppa Italia,Napoli,Cesena,2,0,Stadio San PaoloArbitro:,,"Díaz  56’, Pellegrini  66’",,Arbitro: Stadio San Paolo
+19830518-TOR-NAP,1983-05-18,1982-1983,Coppa Italia,Torino,Napoli,2,0,Stadio ComunaleArbitro:,,"Hernández  32’, Comi  67’",,Arbitro: Stadio Comunale
+19820101-NAP-TOR,1982-01-01,1982-1983,Coppa Italia,Napoli,Torino,0,0,Stadio San PaoloArbitro:,,,,Arbitro: Stadio San Paolo
+19820915-DIN-NAP,1982-09-15,1982-1983,Coppa UEFA,Dinamo Tbilisi,Napoli,2,1,Dinamo StadiumArbitro:,,"Khizanishvili  5’, Shengelia  31’",20’ Díaz,Arbitro: Dinamo Stadium
+19820920-NAP-DIN,1982-09-20,1982-1983,Coppa UEFA,Napoli,Dinamo Tbilisi,1,0,Stadio San PaoloArbitro:,,Dal Fiume  58’,,Arbitro: Stadio San Paolo
+19821020-NAP-KAI,1982-10-20,1982-1983,Coppa UEFA,Napoli,Kaiserslautern,1,2,Stadio San PaoloArbitro:,,Díaz  79’,"72’ Nilsson, 89’ Allofs",Arbitro: Stadio San Paolo
+19821103-KAI-NAP,1982-11-03,1982-1983,Coppa UEFA,Kaiserslautern,Napoli,2,0,BetzembergstadionArbitro:,,"Nilsson  70’, Briegel  82’",,Arbitro: Betzembergstadion

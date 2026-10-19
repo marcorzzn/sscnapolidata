@@ -1,0 +1,39 @@
+match_id,date,season,competition,home_raw_name,away_raw_name,home_goals,away_goals,stadium,attendance,home_scorers,away_scorers,notes
+19460922-NAP-LIV,1946-09-22,1946-1947,Serie A,Napoli,Livorno,4,0,Stadio della LiberazioneArbitro:,,"Busani  2’, Di Benedetti  55’,  90’, Verrina  81’",,Arbitro: Stadio della Liberazione
+19460929-BRE-NAP,1946-09-29,1946-1947,Serie A,Brescia,Napoli,2,1,Stadium ComunaleArbitro:,,"E. Bertoni  56’,  82’",19’ Verrina,Arbitro: Stadium Comunale
+19461006-MOD-NAP,1946-10-06,1946-1947,Serie A,Modena,Napoli,6,1,Stadio ComunaleArbitro:,,"Romani  19’, Cassani  50’,  63’, Berra  55’ (aut.), Del Medico  73’, Zecca  77’",27’ Barbieri,Arbitro: Stadio Comunale
+19461013-NAP-ALE,1946-10-13,1946-1947,Serie A,Napoli,Alessandria,2,1,Stadio della LiberazioneArbitro:,,"Busani  15’ (rig.), Di Benedetti  52’",84’ (aut.) Berra,Arbitro: Stadio della Liberazione
+19461020-NAP-VIC,1946-10-20,1946-1947,Serie A,Napoli,Vicenza,2,2,Stadio della LiberazioneArbitro:,,"Barbieri  23’,  56’","8’ Quaresima, 31’ Conti",Arbitro: Stadio della Liberazione
+19461027-JUV-NAP,1946-10-27,1946-1947,Serie A,Juventus,Napoli,1,0,Stadio ComunaleArbitro:,,Piola  78’,,Arbitro: Stadio Comunale
+19461103-NAP-TRI,1946-11-03,1946-1947,Serie A,Napoli,Triestina,2,0,Stadio della LiberazioneArbitro:,,"Antonini  25’ (aut.), Morgia  72’",,Arbitro: Stadio della Liberazione
+19461110-NAP-VEN,1946-11-10,1946-1947,Serie A,Napoli,Venezia,1,1,Stadio della LiberazioneArbitro:,,Busani  34’,40’ Ottino,Arbitro: Stadio della Liberazione
+19461112-NAP-ATA,1946-11-12,1946-1947,Serie A,Napoli,Atalanta,3,1,Stadio della LiberazioneArbitro:,,"Romagnoli  38’,  81’, Busani  48’",15’ Cergoli,Arbitro: Stadio della Liberazione
+19461124-LAZ-NAP,1946-11-24,1946-1947,Serie A,Lazio,Napoli,2,1,Stadio NazionaleArbitro:,,"De Andreis  57’, Koenig  68’",27’ Romagnoli,Arbitro: Stadio Nazionale
+19461208-BAR-NAP,1946-12-08,1946-1947,Serie A,Bari,Napoli,1,0,Stadio della VittoriaArbitro:,,Carlini  85’,,Arbitro: Stadio della Vittoria
+19461215-NAP-TOR,1946-12-15,1946-1947,Serie A,Napoli,Torino,2,2,Stadio della LiberazioneArbitro:,,"Andreolo  63’, Busani  73’","12’,  84’ Gabetto",Arbitro: Stadio della Liberazione
+19461222-NAP-BOL,1946-12-22,1946-1947,Serie A,Napoli,Bologna,2,0,Stadio della LiberazioneArbitro:,,"Barbieri  12’, Di Benedetti  37’",,Arbitro: Stadio della Liberazione
+19461229-INT-NAP,1946-12-29,1946-1947,Serie A,Inter,Napoli,2,3,Arena CivicaArbitro:,,"Bovio  41’, Muci  54’","3’,  80’ Busani, 44’ Di Benedetti",Arbitro: Arena Civica
+19470105-FIO-NAP,1947-01-05,1946-1947,Serie A,Fiorentina,Napoli,1,0,Stadio ComunaleArbitro:,,Badiali  72’,,Arbitro: Stadio Comunale
+19470112-NAP-GEN,1947-01-12,1946-1947,Serie A,Napoli,Genoa,2,1,Stadio della LiberazioneArbitro:,,"Verrina  69’, Barbieri  73’",15’ Trevisan,Arbitro: Stadio della Liberazione
+19470119-ROM-NAP,1947-01-19,1946-1947,Serie A,Roma,Napoli,0,0,Stadio NazionaleArbitro:,,,,Arbitro: Stadio Nazionale
+19470126-SAM-NAP,1947-01-26,1946-1947,Serie A,Sampdoria,Napoli,0,1,Stadio Luigi FerrarisArbitro:,,,78’ Andreolo,Arbitro: Stadio Luigi Ferraris
+19470202-NAP-MIL,1947-02-02,1946-1947,Serie A,Napoli,Milan,0,0,Stadio della LIberazioneArbitro:,,,,Arbitro: Stadio della LIberazione
+19470216-LIV-NAP,1947-02-16,1946-1947,Serie A,Livorno,Napoli,2,2,Stadio ArdenzaArbitro:,,"Stua  43’, Mannocci  87’","11’ Andreolo, 56’ Barbieri",Arbitro: Stadio Ardenza
+19470223-NAP-BRE,1947-02-23,1946-1947,Serie A,Napoli,Brescia,2,1,Stadio della LiberazioneArbitro:,,"Santamaria  34’, Di Benedetti  49’",23’ Paolini,Arbitro: Stadio della Liberazione
+19470302-NAP-MOD,1947-03-02,1946-1947,Serie A,Napoli,Modena,1,0,Stadio della LiberazioneArbitro:,,Verrina  52’ (rig.),,Arbitro: Stadio della Liberazione
+19470309-ALE-NAP,1947-03-09,1946-1947,Serie A,Alessandria,Napoli,5,0,Stadio Giuseppe MoccagattaArbitro:,,"Stradella  27’,  59’, Armano  66’,  73’, Tortarolo  81’",,Arbitro: Stadio Giuseppe Moccagatta
+19470316-VIC-NAP,1947-03-16,1946-1947,Serie A,Vicenza,Napoli,4,1,Stadio ComunaleArbitro:,,"P. Rebuzzi  32’, Carraro  46’, Quaresima  73’,  86’",77’ Di Costanzo,Arbitro: Stadio Comunale
+19470323-NAP-JUV,1947-03-23,1946-1947,Serie A,Napoli,Juventus,3,3,Stadio della LiberazioneArbitro:,,"Santamaria  10’, Busani  64’, Di Benedetti  65’","47’,  68’ (rig.) Candiani, 61’ Vycpálek",Arbitro: Stadio della Liberazione
+19470330-TRI-NAP,1947-03-30,1946-1947,Serie A,Triestina,Napoli,3,0,Stadio ComunaleArbitro:,,"Zanolla  9’, Rossetti  46’,  52’",,Arbitro: Stadio Comunale
+19470406-VEN-NAP,1947-04-06,1946-1947,Serie A,Venezia,Napoli,0,1,Stadio Pierluigi PenzoArbitro:,,,39’ Santamaria,Arbitro: Stadio Pierluigi Penzo
+19470413-ATA-NAP,1947-04-13,1946-1947,Serie A,Atalanta,Napoli,2,1,Stadio ComunaleArbitro:,,"Kincses  20’, Citterio  87’",35’ Santamaria,Arbitro: Stadio Comunale
+19470420-NAP-LAZ,1947-04-20,1946-1947,Serie A,Napoli,Lazio,0,0,Stadio della LiberazioneArbitro:,,,,Arbitro: Stadio della Liberazione
+19470504-NAP-BAR,1947-05-04,1946-1947,Serie A,Napoli,Bari,5,1,Stadio della LiberazioneArbitro:,,"Santamaria  13’,  65’, Busani  49’,  85’,  86’",80’ Tontodonati,Arbitro: Stadio della Liberazione
+19470518-TOR-NAP,1947-05-18,1946-1947,Serie A,Torino,Napoli,2,1,Stadio FiladelfiaArbitro:,,"Castigliano  7’, Ferraris  59’",20’ Barbieri,Arbitro: Stadio Filadelfia
+19470525-BOL-NAP,1947-05-25,1946-1947,Serie A,Bologna,Napoli,3,0,Stadio ComunaleArbitro:,,"Cappello  14’, Arcari  34’ (rig.), Biavati  46’",,Arbitro: Stadio Comunale
+19460101-NAP-INT,1946-01-01,1946-1947,Serie A,Napoli,Inter,1,0,Stadio della LiberazioneArbitro:,,Rosi  4’,,Arbitro: Stadio della Liberazione
+19470608-NAP-FIO,1947-06-08,1946-1947,Serie A,Napoli,Fiorentina,1,1,Stadio della LiberazioneArbitro:,,Verrina  3’ (rig.),27’ Badiali,Arbitro: Stadio della Liberazione
+19470615-GEN-NAP,1947-06-15,1946-1947,Serie A,Genoa,Napoli,2,1,Stadio Luigi FerrarisArbitro:,,"Chizzo  21’, Verdeal  32’",66’ Andreolo,Arbitro: Stadio Luigi Ferraris
+19470622-NAP-ROM,1947-06-22,1946-1947,Serie A,Napoli,Roma,0,3,Stadio della LiberazioneArbitro:,,,"42’ Salar, 51’,  66’ Krieziu",Arbitro: Stadio della Liberazione
+19470629-NAP-SAM,1947-06-29,1946-1947,Serie A,Napoli,Sampdoria,1,0,Stadio della LiberazioneArbitro:,,Santamaria  65’,,Arbitro: Stadio della Liberazione
+19470806-MIL-NAP,1947-08-06,1946-1947,Serie A,Milan,Napoli,4,2,Stadio San SiroArbitro:,,"Antonini  23’, Carapellese  66’,  69’, Berra  85’ (aut.)","9’ Busani, 25’ Barbieri",Arbitro: Stadio San Siro

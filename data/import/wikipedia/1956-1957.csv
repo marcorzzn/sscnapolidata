@@ -1,0 +1,35 @@
+match_id,date,season,competition,home_raw_name,away_raw_name,home_goals,away_goals,stadium,attendance,home_scorers,away_scorers,notes
+19560916-NAP-ATA,1956-09-16,1956-1957,Serie A,Napoli,Atalanta,2,0,Stadio della LiberazioneArbitro:,,"Vinicio  38’, Vitali  65’",,Arbitro: Stadio della Liberazione
+19560923-TRI-NAP,1956-09-23,1956-1957,Serie A,Triestina,Napoli,1,2,Stadio Giuseppe GrezarArbitro:,,Renosto  67’,"25’,  84’ (rig.) Beltrandi",Arbitro: Stadio Giuseppe Grezar
+19560930-NAP-INT,1956-09-30,1956-1957,Serie A,Napoli,Inter,1,1,Stadio della LiberazioneArbitro:,,Ciccarelli  29’,31’ Massei,Arbitro: Stadio della Liberazione
+19561007-MIL-NAP,1956-10-07,1956-1957,Serie A,Milan,Napoli,3,5,Stadio San SiroArbitro:,,"Schiaffino  60’ (rig.),  86’, Galli  90’","9’ Posio, 19’,  32’ Pesaola, 26’,  42’ Vinicio",Arbitro: Stadio San Siro
+19561014-NAP-BOL,1956-10-14,1956-1957,Serie A,Napoli,Bologna,0,0,Stadio della LiberazioneArbitro:,,,,Arbitro: Stadio della Liberazione
+19561021-LRV-NAP,1956-10-21,1956-1957,Serie A,L.R. Vicenza,Napoli,0,0,Stadio Romeo MentiArbitro:,,,,Arbitro: Stadio Romeo Menti
+19561028-PAD-NAP,1956-10-28,1956-1957,Serie A,Padova,Napoli,1,1,Stadio Silvio AppianiArbitro:,,Bonistalli  25’,2’ Vinicio,Arbitro: Stadio Silvio Appiani
+19561118-NAP-LAZ,1956-11-18,1956-1957,Serie A,Napoli,Lazio,0,0,Stadio della LiberazioneArbitro:,,,,Arbitro: Stadio della Liberazione
+19561125-SPA-NAP,1956-11-25,1956-1957,Serie A,SPAL,Napoli,2,0,Stadio ComunaleArbitro:,,"Sandell  38’ (rig.), Di Giacomo  50’",,Arbitro: Stadio Comunale
+19561202-NAP-FIO,1956-12-02,1956-1957,Serie A,Napoli,Fiorentina,1,1,Stadio della LiberazioneArbitro:,,Moro  23’,42’ Segato,Arbitro: Stadio della Liberazione
+19561216-UDI-NAP,1956-12-16,1956-1957,Serie A,Udinese,Napoli,2,1,Stadio MorettiArbitro:,,"Fontanesi  59’, Pantaleoni  64’",90’ Beltrandi,Arbitro: Stadio Moretti
+19561223-NAP-JUV,1956-12-23,1956-1957,Serie A,Napoli,Juventus,1,2,Stadio della LiberazioneArbitro:,,Vinicio  20’,"12’ Montico, 85’ Conti",Arbitro: Stadio della Liberazione
+19561230-ROM-NAP,1956-12-30,1956-1957,Serie A,Roma,Napoli,1,3,Stadio OlimpicoArbitro:,,Da Costa  75’,"13’ Vitali, 58’,  76’ Vinicio",Arbitro: Stadio Olimpico
+19570106-NAP-SAM,1957-01-06,1956-1957,Serie A,Napoli,Sampdoria,2,0,Stadio della LiberazioneArbitro:,,"Pesaola  46’, Farina  64’ (aut.)",,Arbitro: Stadio della Liberazione
+19570113-NAP-TOR,1957-01-13,1956-1957,Serie A,Napoli,Torino,2,1,Stadio della LiberazioneArbitro:,,"Pesaola  66’,  89’ (rig.)",76’ Tacchi,Arbitro: Stadio della Liberazione
+19570120-PAL-NAP,1957-01-20,1956-1957,Serie A,Palermo,Napoli,0,0,Stadio La FavoritaArbitro:,,,,Arbitro: Stadio La Favorita
+19570127-NAP-GEN,1957-01-27,1956-1957,Serie A,Napoli,Genoa,1,2,Stadio della LiberazioneArbitro:,,Vinicio  5’,"10’ Abbadie, 51’ Carapellese",Arbitro: Stadio della Liberazione
+19570203-ATA-NAP,1957-02-03,1956-1957,Serie A,Atalanta,Napoli,2,0,Stadio ComunaleArbitro:,,"Cancela  1’, Bassetto  52’",,Arbitro: Stadio Comunale
+19570210-NAP-TRI,1957-02-10,1956-1957,Serie A,Napoli,Triestina,2,1,Stadio della LiberazioneArbitro:,,"Vinicio  19’, Moro  47’",37’ Olivieri,Arbitro: Stadio della Liberazione
+19570217-INT-NAP,1957-02-17,1956-1957,Serie A,Inter,Napoli,3,1,Stadio San SiroArbitro:,,"Lorenzi  7’, Savioni  10’, Pandolfini  48’",53’ Moro,Arbitro: Stadio San Siro
+19570224-NAP-MIL,1957-02-24,1956-1957,Serie A,Napoli,Milan,2,2,Stadio della LiberazioneArbitro:,,"Vinicio  66’,  87’","37’ Galli, 72’ Bean",Arbitro: Stadio della Liberazione
+19570303-BOL-NAP,1957-03-03,1956-1957,Serie A,Bologna,Napoli,2,1,Stadio ComunaleArbitro:,,"Cervellati  64’, Bonafin  69’",71’ (rig.) Moro,Arbitro: Stadio Comunale
+19570310-NAP-LRV,1957-03-10,1956-1957,Serie A,Napoli,L.R. Vicenza,1,0,Stadio della LiberazioneArbitro:,,Vinicio  24’,,Arbitro: Stadio della Liberazione
+19570317-NAP-PAD,1957-03-17,1956-1957,Serie A,Napoli,Padova,1,0,Stadio della LiberazioneArbitro:,,Brugola  18’,,Arbitro: Stadio della Liberazione
+19570324-LAZ-NAP,1957-03-24,1956-1957,Serie A,Lazio,Napoli,1,1,Stadio OlimpicoArbitro:,,Selmosson  28’,21’ (rig.) Moro,Arbitro: Stadio Olimpico
+19570331-NAP-SPA,1957-03-31,1956-1957,Serie A,Napoli,SPAL,0,1,Stadio della LiberazioneArbitro:,,,76’ (aut.) Del Bene,Arbitro: Stadio della Liberazione
+19570407-FIO-NAP,1957-04-07,1956-1957,Serie A,Fiorentina,Napoli,4,0,Stadio ComunaleArbitro:,,"Cervato  21’ (rig.), Virgili  32’, Montuori  42’,  52’",,Arbitro: Stadio Comunale
+19570414-NAP-UDI,1957-04-14,1956-1957,Serie A,Napoli,Udinese,2,1,Stadio della LiberazioneArbitro:,,"Beltrandi  39’, Vinicio  53’",78’ Lindskog,Arbitro: Stadio della Liberazione
+19570428-JUV-NAP,1957-04-28,1956-1957,Serie A,Juventus,Napoli,1,0,Stadio ComunaleArbitro:,,Hamrin  87’,,Arbitro: Stadio Comunale
+19570505-NAP-ROM,1957-05-05,1956-1957,Serie A,Napoli,Roma,1,2,Stadio della LiberazioneArbitro:,,Brugola  36’,"61’,  63’ Da Costa",Arbitro: Stadio della Liberazione
+19570519-SAM-NAP,1957-05-19,1956-1957,Serie A,Sampdoria,Napoli,1,0,Stadio Luigi FerrarisArbitro:,,Conti  89’,,Arbitro: Stadio Luigi Ferraris
+19570602-TOR-NAP,1957-06-02,1956-1957,Serie A,Torino,Napoli,1,1,Stadio FiladelfiaArbitro:,,Armano  9’,38’ Vinicio,Arbitro: Stadio Filadelfia
+19570609-NAP-PAL,1957-06-09,1956-1957,Serie A,Napoli,Palermo,4,1,Stadio della LiberazioneArbitro:,,"Vinicio  29’,  38’,  57’,  73’",87’ Vernazza,Arbitro: Stadio della Liberazione
+19570616-GEN-NAP,1957-06-16,1956-1957,Serie A,Genoa,Napoli,1,0,Stadio Luigi FerrarisArbitro:,,Corso  19’,,Arbitro: Stadio Luigi Ferraris

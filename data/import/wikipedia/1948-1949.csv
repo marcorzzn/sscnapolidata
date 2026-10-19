@@ -1,0 +1,43 @@
+match_id,date,season,competition,home_raw_name,away_raw_name,home_goals,away_goals,stadium,attendance,home_scorers,away_scorers,notes
+19480919-NAP-CRE,1948-09-19,1948-1949,Altra Competizione,Napoli,Cremonese,2,2,Stadio della LiberazioneArbitro:,,"Šuprina  34’,  76’","36’ (aut.) Soldani, 69’ Rizzoni",Arbitro: Stadio della Liberazione
+19480926-NAP-VEN,1948-09-26,1948-1949,Altra Competizione,Napoli,Venezia,1,0,Stadio del VomeroArbitro:,18000,Di Costanzo  39’,,Arbitro: Stadio del Vomero (18.000 spett.)
+19481003-SPA-NAP,1948-10-03,1948-1949,Altra Competizione,SPAL,Napoli,1,0,Stadio ComunaleArbitro:,,Badiali  44’,,Arbitro: Stadio Comunale
+19481010-NAP-SPE,1948-10-10,1948-1949,Altra Competizione,Napoli,Spezia,0,0,Stadio del VomeroArbitro:,,,,Arbitro: Stadio del Vomero
+19481017-PES-NAP,1948-10-17,1948-1949,Altra Competizione,Pescara,Napoli,1,1,Stadio RampignaArbitro:,,De Angelis  76’,12’ (aut.) Tiriticco,Arbitro: Stadio Rampigna
+19481024-NAP-SIR,1948-10-24,1948-1949,Altra Competizione,Napoli,Siracusa,3,0,Stadio del VomeroArbitro:,,"Šuprina  10’, R. Brighenti  79’, Krieziu  87’",,Arbitro: Stadio del Vomero
+19481031-LEG-NAP,1948-10-31,1948-1949,Altra Competizione,Legnano,Napoli,1,2,Stadio ComunaleArbitro:,,Lenci  46’,"6’ R. Brighenti, 84’ Suprina",Arbitro: Stadio Comunale
+19481104-NAP-LEC,1948-11-04,1948-1949,Altra Competizione,Napoli,Lecce,1,0,Stadio del VomeroArbitro:,,R. Brighenti  83’,,Arbitro: Stadio del Vomero
+19481107-SAL-NAP,1948-11-07,1948-1949,Altra Competizione,Salernitana,Napoli,1,1,Stadio ComunaleArbitro:,,Flumini  13’,3’ (aut.) Scopigno,Arbitro: Stadio Comunale
+19481114-NAP-REG,1948-11-14,1948-1949,Altra Competizione,Napoli,Reggiana,1,0,Stadio del VomeroArbitro:,,Suprina  78’,,Arbitro: Stadio del Vomero
+19481121-PIS-NAP,1948-11-21,1948-1949,Altra Competizione,Pisa,Napoli,0,0,Stadio Arena GaribaldiArbitro:,,,,Arbitro: Stadio Arena Garibaldi
+19481128-NAP-SER,1948-11-28,1948-1949,Altra Competizione,Napoli,Seregno,2,1,Stadio del VomeroArbitro:,,"Soldani  18’ (rig.), La Paz  42’",38’ De Grandi,Arbitro: Stadio del Vomero
+19481205-PRO-NAP,1948-12-05,1948-1949,Altra Competizione,Pro Sesto,Napoli,0,0,Stadio Ernesto BredaArbitro:,,,,Arbitro: Stadio Ernesto Breda
+19481208-VIC-NAP,1948-12-08,1948-1949,Altra Competizione,Vicenza,Napoli,2,0,Vincenzo Orlandini,,"Muci  5’, Quaresima  53’",,Arbitro: Vincenzo Orlandini (Roma)
+19481212-NAP-PAR,1948-12-12,1948-1949,Altra Competizione,Napoli,Parma,1,1,Stadio del VomeroArbitro:,,Santamaria  83’,43’ Bronzoni,Arbitro: Stadio del Vomero
+19481219-EMP-NAP,1948-12-19,1948-1949,Altra Competizione,Empoli,Napoli,2,1,Stadio ComunaleArbitro:,,"Ercoli  58’, Calichio  64’",37’ Santamaria,Arbitro: Stadio Comunale
+19481226-NAP-VER,1948-12-26,1948-1949,Altra Competizione,Napoli,Verona,0,1,Stadio del VomeroArbitro:,,,11’ Lodi,Arbitro: Stadio del Vomero
+19490102-NAP-COM,1949-01-02,1948-1949,Altra Competizione,Napoli,Como,1,0,Stadio del VomeroArbitro:,,Rosignoli  7’ (rig.),,Arbitro: Stadio del Vomero
+19490106-ALE-NAP,1949-01-06,1948-1949,Altra Competizione,Alessandria,Napoli,3,0,Stadio Giuseppe MoccagattaArbitro:,,"Giraudo  23’, Soffrido  46’,  51’",,Arbitro: Stadio Giuseppe Moccagatta
+19490109-NAP-ARS,1949-01-09,1948-1949,Altra Competizione,Napoli,Arsenaltaranto,3,2,Stadio del VomeroArbitro:,,"Rosignoli  59’, Cerilla  67’, R. Brighenti  79’","11’ (aut.) Pretto, 57’ Castellano",Arbitro: Stadio del Vomero
+19490116-BRE-NAP,1949-01-16,1948-1949,Altra Competizione,Brescia,Napoli,1,2,Stadium di Viale PiaveArbitro:,,Schiavi  63’,"26’ Suprina, 85’ Spartano",Arbitro: Stadium di Viale Piave
+19490123-CRE-NAP,1949-01-23,1948-1949,Altra Competizione,Cremonese,Napoli,0,0,Stadio Giovanni ZiniArbitro:,,,,Arbitro: Stadio Giovanni Zini
+19490130-VEN-NAP,1949-01-30,1948-1949,Altra Competizione,Venezia,Napoli,3,2,Stadio Pierluigi PenzoArbitro:,,"Zecca  67’,  75’, Colombi  85’","3’,  90+1’ (rig.) Rosignoli",Arbitro: Stadio Pierluigi Penzo
+19490206-NAP-SPA,1949-02-06,1948-1949,Altra Competizione,Napoli,SPAL,0,0,Stadio del VomeroArbitro:,,,,Arbitro: Stadio del Vomero
+19490213-SPE-NAP,1949-02-13,1948-1949,Altra Competizione,Spezia,Napoli,2,0,Stadio Alberto PiccoArbitro:,,"P. Rostagno  22’, Zordan  58’",,Arbitro: Stadio Alberto Picco
+19490220-NAP-PES,1949-02-20,1948-1949,Altra Competizione,Napoli,Pescara,1,1,Stadio del VomeroArbitro:,,R. Brighenti  85’,88’ Masoni,Arbitro: Stadio del Vomero
+19490306-SIR-NAP,1949-03-06,1948-1949,Altra Competizione,Siracusa,Napoli,1,0,Stadio Vittorio Emanuele IIIArbitro:,,Rubino  72’,,Arbitro: Stadio Vittorio Emanuele III
+19490313-NAP-LEG,1949-03-13,1948-1949,Altra Competizione,Napoli,Legnano,2,0,Stadio del VomeroArbitro:,,"R. Brighenti  4’, Capolino  55’",,Arbitro: Stadio del Vomero
+19490320-LEC-NAP,1949-03-20,1948-1949,Altra Competizione,Lecce,Napoli,2,3,Stadio Carlo PranzoArbitro:,,"Silvestri  5’, Mosca  8’ (rig.)","35’ Barbieri, 37’,  47’ Krieziu",Arbitro: Stadio Carlo Pranzo
+19490403-NAP-SAL,1949-04-03,1948-1949,Altra Competizione,Napoli,Salernitana,1,0,Staio del VomeroArbitro:,,Krieziu  35’,,Arbitro: Staio del Vomero
+19490410-REG-NAP,1949-04-10,1948-1949,Altra Competizione,Reggiana,Napoli,1,0,Stadio MirabelloArbitro:,,A. Marmiroli  43’,,Arbitro: Stadio Mirabello
+19490417-NAP-PIS,1949-04-17,1948-1949,Altra Competizione,Napoli,Pisa,3,0,Stadio del VomeroArbitro:,,"R. Brighenti  12’, Krieziu  55’, Spartano  87’",,Arbitro: Stadio del Vomero
+19490424-SER-NAP,1949-04-24,1948-1949,Altra Competizione,Seregno,Napoli,2,1,Stadio Ferruccio TrabattoniArbitro:,,"Ferrari  22’, Gallanti  82’",36’ Krieziu,Arbitro: Stadio Ferruccio Trabattoni
+19480101-NAP-PRO,1948-01-01,1948-1949,Altra Competizione,Napoli,Pro Sesto,2,0,Stadio del VomeroArbitro:,,"Soldani  5’ (rig.), R. Brighenti  69’",,Arbitro: Stadio del Vomero
+19490508-NAP-VIC,1949-05-08,1948-1949,Altra Competizione,Napoli,Vicenza,1,0,Stadio del VomeroArbitro:,,Manola  55’,,Arbitro: Stadio del Vomero
+19490515-PAR-NAP,1949-05-15,1948-1949,Altra Competizione,Parma,Napoli,1,0,Stadio Ennio TardiniArbitro:,,Bronzoni  71’,,Arbitro: Stadio Ennio Tardini
+19490529-NAP-EMP,1949-05-29,1948-1949,Altra Competizione,Napoli,Empoli,2,0,Stadio del VomeroArbitro:,,"Soldani  72’, R. Brighenti  79’",,Arbitro: Stadio del Vomero
+19490605-VER-NAP,1949-06-05,1948-1949,Altra Competizione,Verona,Napoli,3,1,Stadio Marcantonio BentegodiArbitro:,,"Fuin  6’, Massari  9’,  86’",3’ Suprina,Arbitro: Stadio Marcantonio Bentegodi
+19490612-COM-NAP,1949-06-12,1948-1949,Altra Competizione,Como,Napoli,1,0,Stadio Giuseppe SinigagliaArbitro:,,Soldani  27’ (aut.),,Arbitro: Stadio Giuseppe Sinigaglia
+19490619-NAP-ALE,1949-06-19,1948-1949,Altra Competizione,Napoli,Alessandria,0,0,Stadio del VomeroArbitro:,,,,Arbitro: Stadio del Vomero
+19490626-ARS-NAP,1949-06-26,1948-1949,Altra Competizione,Arsenaltaranto,Napoli,3,0,Campo Allievi Operai dell'ArsenaleArbitro:,,"Margiotta  39’,  47’, Petagna  43’",,Arbitro: Campo Allievi Operai dell'Arsenale
+19490703-NAP-BRE,1949-07-03,1948-1949,Altra Competizione,Napoli,Brescia,2,1,Stadio del VomeroArbitro:,,"Spartano  23’, La Paz  72’",84’ E. Bertoni,Arbitro: Stadio del Vomero

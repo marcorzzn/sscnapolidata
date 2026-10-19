@@ -1,0 +1,36 @@
+match_id,date,season,competition,home_raw_name,away_raw_name,home_goals,away_goals,stadium,attendance,home_scorers,away_scorers,notes
+19600925-LAN-NAP,1960-09-25,1960-1961,Serie A,Lanerossi Vicenza,Napoli,2,3,Stadio Romeo MentiArbitro:,,"Conti  44’, Pinti  55’","27’ Del Vecchio, 35’ Pivatelli, 50’ Di Giacomo",Arbitro: Stadio Romeo Menti
+19601002-NAP-TOR,1960-10-02,1960-1961,Serie A,Napoli,Torino,1,1,Stadio San PaoloArbitro:,,Del Vecchio  10’,60’ Cella,Arbitro: Stadio San Paolo
+19601009-LAZ-NAP,1960-10-09,1960-1961,Serie A,Lazio,Napoli,1,1,Stadio OlimpicoArbitro:,,Rozzoni  84’,87’ Tacchi,Arbitro: Stadio Olimpico
+19601016-BOL-NAP,1960-10-16,1960-1961,Serie A,Bologna,Napoli,0,2,Stadio Renato Dall'AraArbitro:,,,"72’ Tacchi, 79’ Gratton",Arbitro: Stadio Renato Dall'Ara
+19601023-NAP-ROM,1960-10-23,1960-1961,Serie A,Napoli,Roma,3,2,Stadio San PaoloArbitro:,,"Di Giacomo  11’, Del Vecchio  38’, Pivatelli  75’","4’ Lojacono, 18’ Manfredini",Arbitro: Stadio San Paolo
+19601106-SPA-NAP,1960-11-06,1960-1961,Serie A,SPAL,Napoli,3,2,Stadio ComunaleArbitro:,,"Taccola  12’,  80’, Massei  30’","9’ (aut.) Catalani, 26’ Di Giacomo",Arbitro: Stadio Comunale
+19601113-NAP-FIO,1960-11-13,1960-1961,Serie A,Napoli,Fiorentina,1,0,Stadio San PaoloArbitro:,,Di Giacomo  5’,,Arbitro: Stadio San Paolo
+19601120-SAM-NAP,1960-11-20,1960-1961,Serie A,Sampdoria,Napoli,0,0,Stadio Luigi FerrarisArbitro:,,,,Arbitro: Stadio Luigi Ferraris
+19601127-NAP-MIL,1960-11-27,1960-1961,Serie A,Napoli,Milan,1,2,Stadio San PaoloArbitro:,,Tacchi  89’,"24’ Vernazza, 27’ Altafini",Arbitro: Stadio San Paolo
+19601204-LEC-NAP,1960-12-04,1960-1961,Serie A,Lecco,Napoli,1,0,Stadio Mario RigamontiArbitro:,,Savioni  48’,,Arbitro: Stadio Mario Rigamonti
+19601218-NAP-BAR,1960-12-18,1960-1961,Serie A,Napoli,Bari,1,0,Stadio San PaoloArbitro:,,Greco  89’,,Arbitro: Stadio San Paolo
+19601225-NAP-ATA,1960-12-25,1960-1961,Serie A,Napoli,Atalanta,0,0,Stadio San PaoloArbitro:,,,,Arbitro: Stadio San Paolo
+19600101-UDI-NAP,1960-01-01,1960-1961,Serie A,Udinese,Napoli,1,1,Stadio MorettiArbitro:,,Mialich  48’ (aut.),19’ Barbato,Arbitro: Stadio Moretti
+19610108-NAP-CAT,1961-01-08,1960-1961,Serie A,Napoli,Catania,0,1,Stadio San PaoloArbitro:,,,13’ Morelli,Arbitro: Stadio San Paolo
+19610115-JUV-NAP,1961-01-15,1960-1961,Serie A,Juventus,Napoli,2,2,Stadio ComunaleArbitro:,,"Mora  9’ (rig.), Charles  63’","16’ Postiglione, 76’ Tacchi",Arbitro: Stadio Comunale
+19610122-NAP-INT,1961-01-22,1960-1961,Serie A,Napoli,Inter,0,0,Stadio San PaoloArbitro:,,,,Arbitro: Stadio San Paolo
+19610129-PAD-NAP,1961-01-29,1960-1961,Serie A,Padova,Napoli,2,0,Stadio Silvio AppianiArbitro:,,"Crippa  74’, Rosa  88’",,Arbitro: Stadio Silvio Appiani
+19610205-NAP-LAN,1961-02-05,1960-1961,Serie A,Napoli,Lanerossi Vicenza,0,0,Stadio San PaoloArbitro:,,,,Arbitro: Stadio San Paolo
+19610212-TOR-NAP,1961-02-12,1960-1961,Serie A,Torino,Napoli,1,0,Stadio FiladelfiaArbitro:,,Traspedini  51’,,Arbitro: Stadio Filadelfia
+19610219-NAP-LAZ,1961-02-19,1960-1961,Serie A,Napoli,Lazio,2,5,Stadio San PaoloArbitro:,,"Del Vecchio  55’, Maioli  68’","11’ (rig.) Carradori, 23’ Carosi, 32’,  52’ Rozzoni, 74’ Fumagalli",Arbitro: Stadio San Paolo
+19610226-NAP-BOL,1961-02-26,1960-1961,Serie A,Napoli,Bologna,1,2,Stadio San PaoloArbitro:,,Gratton  53’,"23’ Perani, 72’ Campana",Arbitro: Stadio San Paolo
+19610305-ROM-NAP,1961-03-05,1960-1961,Serie A,Roma,Napoli,2,0,Stadio OlimpicoArbitro:,,"Lojacono  48’, Pestrin  79’",,Arbitro: Stadio Olimpico
+19610312-NAP-SPA,1961-03-12,1960-1961,Serie A,Napoli,SPAL,0,2,Stadio San PaoloArbitro:,,,"60’ Massei, 71’ Carpanesi",Arbitro: Stadio San Paolo
+19610319-FIO-NAP,1961-03-19,1960-1961,Serie A,Fiorentina,Napoli,0,0,Stadio ComunaleArbitro:,,,,Arbitro: Stadio Comunale
+19610326-NAP-SAM,1961-03-26,1960-1961,Serie A,Napoli,Sampdoria,1,0,Stadio San PaoloArbitro:,,Pivatelli  14’ (rig.),,Arbitro: Stadio San Paolo
+19610402-MIL-NAP,1961-04-02,1960-1961,Serie A,Milan,Napoli,2,1,Stadio San SiroArbitro:,,"Vernazza  16’, David  32’ (rig.)",68’ (aut.) Trapattoni,Arbitro: Stadio San Siro
+19610409-NAP-LEC,1961-04-09,1960-1961,Serie A,Napoli,Lecco,3,1,Stadio San PaoloArbitro:,,"Tacchi  41’, Di Mauro  57’, Di Giacomo  77’",56’ Gotti,Arbitro: Stadio San Paolo
+19610416-BAR-NAP,1961-04-16,1960-1961,Serie A,Bari,Napoli,1,0,Stadio della VittoriaArbitro:,,Catalano  43’,,Arbitro: Stadio della Vittoria
+19610430-ATA-NAP,1961-04-30,1960-1961,Serie A,Atalanta,Napoli,1,1,Stadio ComunaleArbitro:,,Longoni  29’,38’ Barbato,Arbitro: Stadio Comunale
+19610507-NAP-UDI,1961-05-07,1960-1961,Serie A,Napoli,Udinese,2,2,Stadio San PaoloArbitro:,,"Di Giacomo  37’, Mistone  55’","21’,  44’ Bettini",Arbitro: Stadio San Paolo
+19610514-CAT-NAP,1961-05-14,1960-1961,Serie A,Catania,Napoli,1,0,Stadio CibaliArbitro:,,Prenna  41’,,Arbitro: Stadio Cibali
+19610521-NAP-JUV,1961-05-21,1960-1961,Serie A,Napoli,Juventus,0,4,Stadio San PaoloArbitro:,,,"11’,  45’,  47’ Sivori, 32’ Boniperti",Arbitro: Stadio San Paolo
+19610530-INT-NAP,1961-05-30,1960-1961,Serie A,Inter,Napoli,3,0,Stadio San SiroArbitro:,,"Facchetti  44’, Corso  69’, Bolchi  88’",,Arbitro: Stadio San Siro
+19610604-NAP-PAD,1961-06-04,1960-1961,Serie A,Napoli,Padova,1,2,Stadio San PaoloArbitro:,,Di Mauro  86’,"36’ Crippa, 81’ Bacci",Arbitro: Stadio San Paolo
+19600918-NAP-ROM,1960-09-18,1960-1961,Coppa Italia,Napoli,Roma,1,2,Stadio San PaoloArbitro:,,Tacchi  36’,"37’ (aut.) Posio, 93’ Lojacono",Arbitro: Stadio San Paolo

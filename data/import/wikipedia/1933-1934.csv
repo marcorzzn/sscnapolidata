@@ -1,0 +1,35 @@
+match_id,date,season,competition,home_raw_name,away_raw_name,home_goals,away_goals,stadium,attendance,home_scorers,away_scorers,notes
+19330910-TRI-NAP,1933-09-10,1933-1934,Serie A,Triestina,Napoli,4,1,Stadio del LittorioArbitro:,,"Rocco  16’,  30’, Palumbo  37’,  66’",81’ Vojak,Arbitro: Stadio del Littorio
+19330917-NAP-GEN,1933-09-17,1933-1934,Serie A,Napoli,Genova 1893,0,0,Stadio Giorgio AscarelliArbitro:,,,,Arbitro: Stadio Giorgio Ascarelli
+19330924-AMB-NAP,1933-09-24,1933-1934,Serie A,Ambrosiana-Inter,Napoli,2,1,Arena CivicaArbitro:,,"Meazza  8’,  11’",19’ Vojak,Arbitro: Arena Civica
+19331001-NAP-LAZ,1933-10-01,1933-1934,Serie A,Napoli,Lazio,2,1,Stadio XXVIII OttobreArbitro:,,"Sallustro  23’, Vojak  40’",85’ Pastore,Arbitro: Stadio XXVIII Ottobre
+19331008-BOL-NAP,1933-10-08,1933-1934,Serie A,Bologna,Napoli,3,0,Stadio LittorialeArbitro:,,"Reguzzoni  40’, Maini  47’, Foglia  69’",,Arbitro: Stadio Littoriale
+19331015-NAP-LIV,1933-10-15,1933-1934,Serie A,Napoli,Livorno,0,0,Stadio XXVIII OttobreArbitro:,,,,Arbitro: Stadio XXVIII Ottobre
+19331029-BRE-NAP,1933-10-29,1933-1934,Serie A,Brescia,Napoli,1,1,Stadium di viale PiaveArbitro:,,Dusi  23’,40’ Sallustro,Arbitro: Stadium di viale Piave
+19330101-NAP-JUV,1933-01-01,1933-1934,Serie A,Napoli,Juventus,2,0,Stadio XXVIII OttobreArbitro:,,"Vojak  26’ (rig.), Buscaglia  51’",,Arbitro: Stadio XXVIII Ottobre
+19331105-NAP-PAL,1933-11-05,1933-1934,Serie A,Napoli,Palermo,3,0,Stadio XXVIII OttobreArbitro:,,"P. Innocenti  38’, Vojak  75’, G. Rossetti  86’",,Arbitro: Stadio XXVIII Ottobre
+19331112-PAD-NAP,1933-11-12,1933-1934,Serie A,Padova,Napoli,3,1,Stadio Silvio AppianiArbitro:,,"Spivach  19’,  20’, F. Monti  71’",44’ Sallustro,Arbitro: Stadio Silvio Appiani
+19331119-NAP-ROM,1933-11-19,1933-1934,Serie A,Napoli,Roma,1,2,Stadio XXVIII OttobreArbitro:,,Colombari  66’,"8’ (aut.) Vincenzi, 61’ Guaita",Arbitro: Stadio XXVIII Ottobre
+19331126-PRO-NAP,1933-11-26,1933-1934,Serie A,Pro Vercelli,Napoli,0,0,Stadio Leonida RobbianoArbitro:,,,,Arbitro: Stadio Leonida Robbiano
+19331210-NAP-ALE,1933-12-10,1933-1934,Serie A,Napoli,Alessandria,2,1,stadio XXVIII OttobreArbitro:,,"G. Rossetti  25’, Vojak  72’ (rig.)",4’ Cattaneo,Arbitro: stadio XXVIII Ottobre
+19331217-TOR-NAP,1933-12-17,1933-1934,Serie A,Torino,Napoli,0,0,Stadio FiladelfiaArbitro:,,,,Arbitro: Stadio Filadelfia
+19331224-NAP-MIL,1933-12-24,1933-1934,Serie A,Napoli,Milan,1,0,Stadio XXVIII OttobreArbitro:,,G. Rossetti  72’,,Arbitro: Stadio XXVIII Ottobre
+19330101-NAP-CAS,1933-01-01,1933-1934,Serie A,Napoli,Casale,2,1,Stadio XXVIII OttobreArbitro:,,"Vojak  9’,  81’",58’ Demarchi,Arbitro: Stadio XXVIII Ottobre
+19340107-FIO-NAP,1934-01-07,1933-1934,Serie A,Fiorentina,Napoli,0,1,Stadio Giovanni BertaArbitro:,,,58’ G. Rossetti,Arbitro: Stadio Giovanni Berta
+19340114-NAP-TRI,1934-01-14,1933-1934,Serie A,Napoli,Triestina,2,0,Stadio XXVIII OttobreArbitro:,,"Vojak  10’, Sallustro  37’",,Arbitro: Stadio XXVIII Ottobre
+19340121-GEN-NAP,1934-01-21,1933-1934,Serie A,Genova 1893,Napoli,1,1,Stadio Luigi FerrarisArbitro:,,Godigna  82’,25’ P. Ferraris,Arbitro: Stadio Luigi Ferraris
+19340128-NAP-AMB,1934-01-28,1933-1934,Serie A,Napoli,Ambrosiana-Inter,2,1,Stadio XXVIII OttobreArbitro:,,"Vojak  1’,  69’",78’ G. Viani,Arbitro: Stadio XXVIII Ottobre
+19340204-LAZ-NAP,1934-02-04,1933-1934,Serie A,Lazio,Napoli,0,2,Stadio Nazionale del PNFArbitro:,,,"32’ U. Visentin, 70’ P. Ferraris",Arbitro: Stadio Nazionale del PNF
+19340218-NAP-BOL,1934-02-18,1933-1934,Serie A,Napoli,Bologna,1,0,Stadio XXVIII OttobreArbitro:,,Vojak  73’ (rig.),,Arbitro: Stadio XXVIII Ottobre
+19340225-LIV-NAP,1934-02-25,1933-1934,Serie A,Livorno,Napoli,0,1,Stadio Edda Ciano MussoliniArbitro:,,,19’ Sallustro,Arbitro: Stadio Edda Ciano Mussolini
+19340304-NAP-BRE,1934-03-04,1933-1934,Serie A,Napoli,Brescia,1,0,Stadio XXVIII OttobreArbitro:,,Vojak  73’,,Arbitro: Stadio XXVIII Ottobre
+19340311-JUV-NAP,1934-03-11,1933-1934,Serie A,Juventus,Napoli,2,0,Stadio Benito MussoliniArbitro:,,"L. Monti  19’ (rig.), F. Borel  82’",,Arbitro: Stadio Benito Mussolini
+19340318-PAL-NAP,1934-03-18,1933-1934,Serie A,Palermo,Napoli,1,2,Stadio del LittorioArbitro:,,A. Borel  25’,"34’,  70’ Vojak",Arbitro: Stadio del Littorio
+19340401-NAP-PAD,1934-04-01,1933-1934,Serie A,Napoli,Padova,1,1,Stadio XXVIII OttobreArbitro:,,Buscaglia  20’,69’ A. Busini,Arbitro: Stadio XXVIII Ottobre
+19340408-ROM-NAP,1934-04-08,1933-1934,Serie A,Roma,Napoli,1,2,Campo TestaccioArbitro:,,Scopelli  5’,"28’ Vojak, 40’ G. Rossetti",Arbitro: Campo Testaccio
+19340415-NAP-PRO,1934-04-15,1933-1934,Serie A,Napoli,Pro Vercelli,1,0,Stadio XXVIII OttobreArbitro:,,Vojak  3’,,Arbitro: Stadio XXVIII Ottobre
+19340421-ALE-NAP,1934-04-21,1933-1934,Serie A,Alessandria,Napoli,1,0,Stadio del LittorioArbitro:,,Cattaneo  30’,,Arbitro: Stadio del Littorio
+19340329-NAP-TOR,1934-03-29,1933-1934,Serie A,Napoli,Torino,5,2,Stadio XXVIII OttobreArbitro:,,"V. Gravisi  33’, Vojak  50’,  89’, U. Visentin  55’, G. Rossetti  65’","71’ (rig.) Silano, 81’ Zacconi",Arbitro: Stadio XXVIII Ottobre
+19340429-MIL-NAP,1934-04-29,1933-1934,Serie A,Milan,Napoli,0,2,Stadio San SiroArbitro:,,G. Moretti  86’,,Arbitro: Stadio San Siro
+19340412-CAS-NAP,1934-04-12,1933-1934,Serie A,Casale,Napoli,1,4,Stadio Natale PalliArbitro:,,Schiavetta  48’,"55’ P. Ferraris, 70’,  75’ Vojak, 86’ V. Gravisi",Arbitro: Stadio Natale Palli
+19340426-NAP-FIO,1934-04-26,1933-1934,Serie A,Napoli,Fiorentina,1,1,Stadio XXVIII OttobreArbitro:,,G. Rossetti  5’,62’ Prendato,Arbitro: Stadio XXVIII Ottobre

@@ -1,0 +1,37 @@
+match_id,date,season,competition,home_raw_name,away_raw_name,home_goals,away_goals,stadium,attendance,home_scorers,away_scorers,notes
+19580921-GEN-NAP,1958-09-21,1958-1959,Serie A,Genoa,Napoli,3,3,Stadio Luigi FerrarisArbitro:,,"Maccacaro  24’, Abbadie  25’,  76’","23’ Bertucco, 56’ Novelli, 68’ Di Giacomo",Arbitro: Stadio Luigi Ferraris
+19580928-NAP-MIL,1958-09-28,1958-1959,Serie A,Napoli,Milan,0,1,Stadio del VomeroArbitro:,,,5’ Danova,Arbitro: Stadio del Vomero
+19581005-NAP-SAM,1958-10-05,1958-1959,Serie A,Napoli,Sampdoria,3,2,Stadio del VomeroArbitro:,,"Del Vecchio  23’, Pesaola  54’, Di Giacomo  63’","49’ Cucchiaroni, 85’ Milani",Arbitro: Stadio del Vomero
+19581012-JUV-NAP,1958-10-12,1958-1959,Serie A,Juventus,Napoli,2,0,Stadio OlimpicoArbitro:,,"Nicolè  5’, Sivori  47’",,Arbitro: Stadio Olimpico (Torino)
+19581019-NAP-LRV,1958-10-19,1958-1959,Serie A,Napoli,L.R. Vicenza,1,0,Stadio del VomeroArbitro:,,Di Giacomo  90’,,Arbitro: Stadio del Vomero
+19581026-LAZ-NAP,1958-10-26,1958-1959,Serie A,Lazio,Napoli,0,0,Stadio OlimpicoArbitro:,,,,Arbitro: Stadio Olimpico
+19581102-NAP-PAD,1958-11-02,1958-1959,Serie A,Napoli,Padova,2,1,Stadio del VomeroArbitro:,,"Beltrandi  57’, Vinicio  74’",80’ Mariani,Arbitro: Stadio del Vomero
+19581116-NAP-ROM,1958-11-16,1958-1959,Serie A,Napoli,Roma,3,0,Stadio del VomeroArbitro:,,"Vinicio  40’, Del Vecchio  51’,  89’",,Arbitro: Stadio del Vomero
+19581123-TAL-NAP,1958-11-23,1958-1959,Serie A,Talmone Torino,Napoli,1,2,Stadio FiladelfiaArbitro:,,Virgili  17’,"2’ Vinicio, 46’ Del Vecchio",Arbitro: Stadio Filadelfia
+19581130-NAP-SPA,1958-11-30,1958-1959,Serie A,Napoli,SPAL,0,0,Stadio del VomeroArbitro:,,,,Arbitro: Stadio del Vomero
+19581207-TRI-NAP,1958-12-07,1958-1959,Serie A,Triestina,Napoli,0,0,Stadio Giuseppe GrezarArbitro:,,,,Arbitro: Stadio Giuseppe Grezar
+19581221-NAP-ALE,1958-12-21,1958-1959,Serie A,Napoli,Alessandria,0,0,Stadio del VomeroArbitro:,,,,Arbitro: Stadio del Vomero
+19581228-BOL-NAP,1958-12-28,1958-1959,Serie A,Bologna,Napoli,1,1,Stadio Renato Dall'AraArbitro:,,Maschio  30’,10’ Del Vecchio,Arbitro: Stadio Renato Dall'Ara
+19590104-INT-NAP,1959-01-04,1958-1959,Serie A,Inter,Napoli,1,1,Stadio San SiroArbitro:,,Angelillo  78’,80’ Vinicio,Arbitro: Stadio San Siro
+19590111-NAP-UDI,1959-01-11,1958-1959,Serie A,Napoli,Udinese,1,1,Stadio del VomeroArbitro:,,Posio  76’,8’ Bettini,Arbitro: Stadio del Vomero
+19590118-NAP-BAR,1959-01-18,1958-1959,Serie A,Napoli,Bari,1,2,Stadio del VomeroArbitro:,,Del Vecchio  88’,"29’ (rig.) Mazzoni, 40’ Catalano",Arbitro: Stadio del Vomero
+19590125-FIO-NAP,1959-01-25,1958-1959,Serie A,Fiorentina,Napoli,4,1,Stadio ComunaleArbitro:,,"Petris  6’, Hamrin  44’,  79’, Gratton  68’",15’ Vinicio,Arbitro: Stadio Comunale
+19580101-NAP-GEN,1958-01-01,1958-1959,Serie A,Napoli,Genoa,2,2,Stadio del VomeroArbitro:,,"Del Vecchio  24’, Bruno  65’ (aut.)","19’ Frignani, 43’ Barison",Arbitro: Stadio del Vomero
+19590208-MIL-NAP,1959-02-08,1958-1959,Serie A,Milan,Napoli,6,1,Stadio San SiroArbitro:,,"Grillo  9’,  49’, Altafini  12’,  19’, Danova  53’Bean  62’",58’ (aut.) Liedholm,Arbitro: Stadio San Siro
+19590215-SAM-NAP,1959-02-15,1958-1959,Serie A,Sampdoria,Napoli,0,0,Stadio Luigi FerrarisArbitro:,,,,Arbitro: Stadio Luigi Ferraris
+19590222-NAP-JUV,1959-02-22,1958-1959,Serie A,Napoli,Juventus,0,0,Stadio del VomeroArbitro:,,,,Arbitro: Stadio del Vomero
+19590302-LRV-NAP,1959-03-02,1958-1959,Serie A,L.R. Vicenza,Napoli,2,3,Stadio Romeo MentiArbitro:,,"Savoini  60’, Cappellaro  66’","22’,  72’ Di Giacomo, 31’ Del Vecchio",Arbitro: Stadio Romeo Menti
+19590315-NAP-LAZ,1959-03-15,1958-1959,Serie A,Napoli,Lazio,1,1,Stadio del VomeroArbitro:,,Di Giacomo  52’,14’ Tozzi,Arbitro: Stadio del Vomero
+19590322-PAD-NAP,1959-03-22,1958-1959,Serie A,Padova,Napoli,0,0,Stadio Silvio AppianiArbitro:,,,,Arbitro: Stadio Silvio Appiani
+19590329-ROM-NAP,1959-03-29,1958-1959,Serie A,Roma,Napoli,8,0,Stadio OlimpicoArbitro:,,"Lojodice  6’, Pestrin  8’,  75’, da Costa  12’,  22’,  62’, Selmosson  74’,  88’",,Arbitro: Stadio Olimpico
+19590405-NAP-TOR,1959-04-05,1958-1959,Serie A,Napoli,Torino,2,2,Stadio del VomeroArbitro:,,"Beltrandi  18’, Vitali  67’","30’,  49’ Crippa",Arbitro: Stadio del Vomero
+19590412-SPA-NAP,1959-04-12,1958-1959,Serie A,SPAL,Napoli,2,1,Stadio ComunaleArbitro:,,"Morbello  15’, Sorio  86’",7’ Di Giacomo,Arbitro: Stadio Comunale
+19590419-NAP-TRI,1959-04-19,1958-1959,Serie A,Napoli,Triestina,1,0,Stadio del VomeroArbitro:,,Del Vecchio  53’,,Arbitro: Stadio del Vomero
+19590426-ALE-NAP,1959-04-26,1958-1959,Serie A,Alessandria,Napoli,2,1,Stadio Giuseppe MoccagattaArbitro:,,"Pistorello  26’, Tacchi  56’ (rig.)",82’ Del Vecchio,Arbitro: Stadio Giuseppe Moccagatta
+19590517-NAP-BOL,1959-05-17,1958-1959,Serie A,Napoli,Bologna,4,2,Stadio del VomeroArbitro:,,"Vinicio  4’ (rig.), Vitali  32’, Del Vecchio  44’, Di Giacomo  69’","17’ Bodi, 86’ Maschio",Arbitro: Stadio del Vomero
+19590524-NAP-INT,1959-05-24,1958-1959,Serie A,Napoli,Inter,1,0,Stadio del VomeroArbitro:,,Del Vecchio  76’,,Arbitro: Stadio del Vomero
+19590528-UDI-NAP,1959-05-28,1958-1959,Serie A,Udinese,Napoli,1,1,Stadio MorettiArbitro:,,Manente  61’ (rig.),69’ Del Vecchio,Arbitro: Stadio Moretti
+19590602-BAR-NAP,1959-06-02,1958-1959,Serie A,Bari,Napoli,0,0,Stadio della VittoriaArbitro:,,,,Arbitro: Stadio della Vittoria
+19590607-NAP-FIO,1959-06-07,1958-1959,Serie A,Napoli,Fiorentina,2,3,Stadio del VomeroArbitro:,,"Vinicio  70’, Gasparini  82’","23’ Morosi, 43’ Petris, 54’ Greatti",Arbitro: Stadio del Vomero
+19580914-NAP-MES,1958-09-14,1958-1959,Coppa Italia,Napoli,Messina,5,0,Stadio del VeranoArbitro:,,"Di Giacomo  32’,  70’, Betello  57’,  74’, Bertucco  67’",,Arbitro: Stadio del Verano
+19581118-INT-NAP,1958-11-18,1958-1959,Coppa Italia,Inter,Napoli,3,2,Stadio San SiroArbitro:,,"Firmani  17’,  42’, Lindskog  77’","46’,  57’ Del Vecchio",Arbitro: Stadio San Siro

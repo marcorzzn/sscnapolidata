@@ -1,0 +1,47 @@
+match_id,date,season,competition,home_raw_name,away_raw_name,home_goals,away_goals,stadium,attendance,home_scorers,away_scorers,notes
+19940904-NAP-REG,1994-09-04,1994-1995,Serie A,Napoli,Reggiana,1,0,Stadio San PaoloArbitro:,37 401,B. Carbone  89’,,Arbitro: Stadio San Paolo (37 401 spett.)
+19940911-CRE-NAP,1994-09-11,1994-1995,Serie A,Cremonese,Napoli,2,0,Stadio Giovanni ZiniArbitro:,9 705,"Florijančič  42’,  89’",,Arbitro: Stadio Giovanni Zini (9 705 spett.)
+19940918-NAP-JUV,1994-09-18,1994-1995,Serie A,Napoli,Juventus,0,2,Stadio San PaoloArbitro:,65 060,,"32’ Ravanelli, 72’ Del Piero",Arbitro: Stadio San Paolo (65 060 spett.)
+19940925-GEN-NAP,1994-09-25,1994-1995,Serie A,Genoa,Napoli,3,3,Stadio Luigi FerrarisArbitro:,21 162,"Nappi  8’, Bortolazzi  43’, Cannavaro  59’ (aut.)","22’ Buso, 31’ Policano, 83’ André Cruz",Arbitro: Stadio Luigi Ferraris (21 162 spett.)
+19941002-NAP-PAD,1994-10-02,1994-1995,Serie A,Napoli,Padova,3,3,Stadio San PaoloArbitro:,29 664,"Rincón  52’,  84’ (rig.), Agostini  55’","66’ (rig.) Longhi, 85’,  86’ Maniero",Arbitro: Stadio San Paolo (29 664 spett.)
+19941016-LAZ-NAP,1994-10-16,1994-1995,Serie A,Lazio,Napoli,5,1,Stadio OlimpicoArbitro:,47 983,"Bokšić  3’, Winter  20’,  42’, Casiraghi  36’, Negro  38’",33’ Pecchia,Arbitro: Stadio Olimpico (47 983 spett.)
+19941023-NAP-BAR,1994-10-23,1994-1995,Serie A,Napoli,Bari,3,0,Stadio San PaoloArbitro:,33 934,"Agostini  43’,  75’, Carbone  90’ (rig.)",,Arbitro: Stadio San Paolo (33 934 spett.)
+19941030-SAM-NAP,1994-10-30,1994-1995,Serie A,Sampdoria,Napoli,0,0,Stadio Luigi FerrarisArbitro:,26 892,,,Arbitro: Stadio Luigi Ferraris (26 892 spett.)
+19941106-ROM-NAP,1994-11-06,1994-1995,Serie A,Roma,Napoli,1,1,Stadio OlimpicoArbitro:,57 662,Moriero  70’,38’ Boghossian,Arbitro: Stadio Olimpico (57 662 spett.)
+19941120-NAP-FIO,1994-11-20,1994-1995,Serie A,Napoli,Fiorentina,2,5,Stadio San PaoloArbitro:,51 570,"Agostini  56’,  59’","15’ (aut.) André Cruz, 73’ (aut.) Cannavaro, 81’ Cois, 84’,  90’ (rig.) Batistuta",Arbitro: Stadio San Paolo (51 570 spett.)
+19941127-FOG-NAP,1994-11-27,1994-1995,Serie A,Foggia,Napoli,1,1,Stadio Pino ZaccheriaArbitro:,14 069,Mandelli  31’,58’ (aut.) Bianchini,Arbitro: Stadio Pino Zaccheria (14 069 spett.)
+19941204-NAP-TOR,1994-12-04,1994-1995,Serie A,Napoli,Torino,1,1,Stadio San PaoloArbitro:,30 546,B. Carbone  51’,43’ Angloma,Arbitro: Stadio San Paolo (30 546 spett.)
+19941211-INT-NAP,1994-12-11,1994-1995,Serie A,Inter,Napoli,0,2,Stadio Giuseppe MeazzaArbitro:,33 026,,"29’ (aut.) Jonk, 67’ André Cruz",Arbitro: Stadio Giuseppe Meazza (33 026 spett.)
+19941218-NAP-BRE,1994-12-18,1994-1995,Serie A,Napoli,Brescia,1,1,Stadio San PaoloArbitro:,31 889,André Cruz  78’,22’ Corini,Arbitro: Stadio San Paolo (31 889 spett.)
+19950108-MIL-NAP,1995-01-08,1994-1995,Serie A,Milan,Napoli,1,1,Stadio Giuseppe MeazzaArbitro:,54 176,Simone  73’,87’ Cannavaro,Arbitro: Stadio Giuseppe Meazza (54 176 spett.)
+19950115-NAP-CAG,1995-01-15,1994-1995,Serie A,Napoli,Cagliari,1,1,Stadio San PaoloArbitro:,29 400,André Cruz  23’,32’ Muzzi,Arbitro: Stadio San Paolo (29 400 spett.)
+19950122-PAR-NAP,1995-01-22,1994-1995,Serie A,Parma,Napoli,2,0,Stadio Ennio TardiniArbitro:,21 436,"Asprilla  4’, Zola  50’ (rig.)",,Arbitro: Stadio Ennio Tardini (21 436 spett.)
+19950129-REG-NAP,1995-01-29,1994-1995,Serie A,Reggiana,Napoli,1,2,Stadio MirabelloArbitro:,13 183,Zanutta  90’,"38’ Rincón, 74’ André Cruz",Arbitro: Stadio Mirabello (13 183 spett.)
+19950212-NAP-CRE,1995-02-12,1994-1995,Serie A,Napoli,Cremonese,1,0,Stadio San PaoloArbitro:,33 485,Rincón  57’,,Arbitro: Stadio San Paolo (33 485 spett.)
+19950219-JUV-NAP,1995-02-19,1994-1995,Serie A,Juventus,Napoli,1,0,Stadio delle AlpiArbitro:,44 509,Ravanelli  78’,,Arbitro: Stadio delle Alpi (44 509 spett.)
+19950226-NAP-GEN,1995-02-26,1994-1995,Serie A,Napoli,Genoa,1,0,Stadio San PaoloArbitro:,29 436,Rincón  36’,,Arbitro: Stadio San Paolo (29 436 spett.)
+19950305-PAD-NAP,1995-03-05,1994-1995,Serie A,Padova,Napoli,2,0,Stadio EuganeoArbitro:,14 526,"Franceschetti  62’, Longhi  66’ (rig.)",,Arbitro: Stadio Euganeo (14 526 spett.)
+19950312-NAP-LAZ,1995-03-12,1994-1995,Serie A,Napoli,Lazio,3,2,Stadio San PaoloArbitro:,32 320,"Rincón  49’,  56’, Buso  87’","20’,  40’ Casiraghi",Arbitro: Stadio San Paolo (32 320 spett.)
+19950319-BAR-NAP,1995-03-19,1994-1995,Serie A,Bari,Napoli,1,1,Stadio San NicolaArbitro:,18 955,Tovalieri  5’,28’ (aut.) Fontana,Arbitro: Stadio San Nicola (18 955 spett.)
+19950402-NAP-SAM,1995-04-02,1994-1995,Serie A,Napoli,Sampdoria,2,0,Stadio San PaoloArbitro:,34 482,"Carbone  32’, Agostini  43’",,Arbitro: Stadio San Paolo (34 482 spett.)
+19950409-NAP-ROM,1995-04-09,1994-1995,Serie A,Napoli,Roma,0,0,Stadio San PaoloArbitro:,50 013,,,Arbitro: Stadio San Paolo (50 013 spett.)
+19950415-FIO-NAP,1995-04-15,1994-1995,Serie A,Fiorentina,Napoli,4,0,Stadio Artemio FranchiArbitro:,33 616,"Sottil  17’, Márcio Santos  47’, Batistuta  55’, Cois  72’",,Arbitro: Stadio Artemio Franchi (33 616 spett.)
+19950423-NAP-FOG,1995-04-23,1994-1995,Serie A,Napoli,Foggia,2,1,Stadio San PaoloArbitro:,28 271,"André Cruz  23’, De Vincenzo  73’ (aut.)",42’ Biagioni,Arbitro: Stadio San Paolo (28 271 spett.)
+19950430-TOR-NAP,1995-04-30,1994-1995,Serie A,Torino,Napoli,1,1,Stadio delle AlpiArbitro:,19 248,Rizzitelli  90’,31’ Buso,Arbitro: Stadio delle Alpi (19 248 spett.)
+19950507-NAP-INT,1995-05-07,1994-1995,Serie A,Napoli,Inter,1,3,Stadio San PaoloArbitro:,37 869,André Cruz  33’,"11’ Orlandini, 65’ Berti, 84’ Bergkamp",Arbitro: Stadio San Paolo (37 869 spett.)
+19950514-BRE-NAP,1995-05-14,1994-1995,Serie A,Brescia,Napoli,1,2,Stadio Mario RigamontiArbitro:,7 115,Gallo  82’,"38’ Imbriani, 49’ Agostini",Arbitro: Stadio Mario Rigamonti (7 115 spett.)
+19950518-NAP-MIL,1995-05-18,1994-1995,Serie A,Napoli,Milan,1,0,Stadio San PaoloArbitro:,33 000,Agostini  45’,,Arbitro: Stadio San Paolo (33 000 spett.)
+19950528-CAG-NAP,1995-05-28,1994-1995,Serie A,Cagliari,Napoli,0,1,Stadio Sant'EliaArbitro:,24 879,,16’ Pecchia,Arbitro: Stadio Sant'Elia (24 879 spett.)
+19950604-NAP-PAR,1995-06-04,1994-1995,Serie A,Napoli,Parma,1,0,Stadio San PaoloArbitro:,48 515,Agostini  24’ (rig.),,Arbitro: Stadio San Paolo (48 515 spett.)
+19940831-NAP-FID,1994-08-31,1994-1995,Coppa Italia,Napoli,Fidelis Andria,3,2,Stadio San PaoloArbitro:,,"Pari  32’, Giampietro  52’ (aut.), Pecchia  63’","80’,  84’ (rig.) Cappellacci",Arbitro: Stadio San Paolo
+19940921-FID-NAP,1994-09-21,1994-1995,Coppa Italia,Fidelis Andria,Napoli,1,1,Stadio Degli UliviArbitro:,,Massara  4’ (rig.),80’ (rig.) B. Carbone,Arbitro: Stadio Degli Ulivi
+19941011-NAP-CRE,1994-10-11,1994-1995,Coppa Italia,Napoli,Cremonese,3,0,Stadio San PaoloArbitro:,,"B. Carbone  18’,  63’ (rig.), Agostini  44’",,Arbitro: Stadio San Paolo
+19941026-CRE-NAP,1994-10-26,1994-1995,Coppa Italia,Cremonese,Napoli,0,1,Stadio Giovanni ZiniArbitro:,,,88’ Agostini,Arbitro: Stadio Giovanni Zini
+19941129-LAZ-NAP,1994-11-29,1994-1995,Coppa Italia,Lazio,Napoli,1,0,Stadio OlimpicoArbitro:,,Winter  29’,,Arbitro: Stadio Olimpico
+19941214-NAP-LAZ,1994-12-14,1994-1995,Coppa Italia,Napoli,Lazio,1,2,Stadio San PaoloArbitro:,,Lerda  42’,"50’ Negro, 89’ Signori",Arbitro: Stadio San Paolo
+19940913-NAP-SKO,1994-09-13,1994-1995,Coppa UEFA,Napoli,Skonto,2,0,Stadio San PaoloArbitro:,,"B. Carbone  30’ (rig.),  49’",,Arbitro: Stadio San Paolo
+19940927-SKO-NAP,1994-09-27,1994-1995,Coppa UEFA,Skonto,Napoli,0,1,Daugava StadiumArbitro:,,,31’ Buso,Arbitro: Daugava Stadium
+19941018-BOA-NAP,1994-10-18,1994-1995,Coppa UEFA,Boavista,Napoli,1,1,Estádio do BessaArbitro:,,Sánchez  26’,58’ B. Carbone,Arbitro: Estádio do Bessa
+19940101-NAP-BOA,1994-01-01,1994-1995,Coppa UEFA,Napoli,Boavista,2,1,Stadio San PaoloArbitro:,,"Agostini  19’,  35’",76’ Luciano,Arbitro: Stadio San Paolo
+19941124-EIN-NAP,1994-11-24,1994-1995,Coppa UEFA,Eintracht Francoforte,Napoli,1,0,WaldstadionArbitro:,,Buso  55’ (aut.),,Arbitro: Waldstadion
+19941207-NAP-EIN,1994-12-07,1994-1995,Coppa UEFA,Napoli,Eintracht Francoforte,0,1,Stadio San PaoloArbitro:,,,54’ Falkenmayer,Arbitro: Stadio San Paolo

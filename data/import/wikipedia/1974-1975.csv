@@ -1,0 +1,48 @@
+match_id,date,season,competition,home_raw_name,away_raw_name,home_goals,away_goals,stadium,attendance,home_scorers,away_scorers,notes
+19741006-NAP-ASC,1974-10-06,1974-1975,Serie A,Napoli,Ascoli,3,1,Stadio San PaoloArbitro:,,"Braglia  5’,  68’,  89’",80’ Campanini,Arbitro: Stadio San Paolo
+19741013-ROM-NAP,1974-10-13,1974-1975,Serie A,Roma,Napoli,0,0,Stadio OlimpicoArbitro:,,,,Arbitro: Stadio Olimpico
+19741020-NAP-LAN,1974-10-20,1974-1975,Serie A,Napoli,Lanerossi Vicenza,2,0,Stadio San PaoloArbitro:,,"Massa  16’, Ferrante  30’ (aut.)",,Arbitro: Stadio San Paolo
+19741027-SAM-NAP,1974-10-27,1974-1975,Serie A,Sampdoria,Napoli,1,1,Stadio Luigi FerrarisArbitro:,,Maraschi  5’,74’ Rampanti,Arbitro: Stadio Luigi Ferraris
+19741103-FIO-NAP,1974-11-03,1974-1975,Serie A,Fiorentina,Napoli,1,1,Stadio ComunaleArbitro:,,Burgnich  22’ (aut.),68’ (rig.) Clerici,Arbitro: Stadio Comunale
+19741110-NAP-LAZ,1974-11-10,1974-1975,Serie A,Napoli,Lazio,1,1,Stadio San PaoloArbitro:,,La Palma  21’,77’ Garlaschelli,Arbitro: Stadio San Paolo
+19741124-CES-NAP,1974-11-24,1974-1975,Serie A,Cesena,Napoli,0,0,Stadio La FioritaArbitro:,,,,Arbitro: Stadio La Fiorita
+19740101-NAP-CAG,1974-01-01,1974-1975,Serie A,Napoli,Cagliari,5,0,Stadio San PaoloArbitro:,,"Braglia  5’,  17’, Juliano  6’, Clerici  47’ (rig.),  75’",,Arbitro: Stadio San Paolo
+19741208-MIL-NAP,1974-12-08,1974-1975,Serie A,Milan,Napoli,0,0,Stadio San SiroArbitro:,,,,Arbitro: Stadio San Siro
+19741215-NAP-JUV,1974-12-15,1974-1975,Serie A,Napoli,Juventus,2,6,Stadio San PaoloArbitro:,,"Clerici  62’,  73’","27’ Altafini, 37’ (rig.),  41’ Damiani, 51’ Bettega, 70’ Causio, 84’ Viola",Arbitro: Stadio San Paolo
+19741222-TER-NAP,1974-12-22,1974-1975,Serie A,Ternana,Napoli,0,0,Stadio Libero LiberatiArbitro:,,,,Arbitro: Stadio Libero Liberati
+19750105-INT-NAP,1975-01-05,1974-1975,Serie A,Inter,Napoli,0,0,Stadio San SiroArbitro:,,,,Arbitro: Stadio San Siro
+19750112-NAP-TOR,1975-01-12,1974-1975,Serie A,Napoli,Torino,1,0,Stadio OlimpicoArbitro:,,Massa  63’,,Arbitro: Stadio Olimpico
+19750119-BOL-NAP,1975-01-19,1974-1975,Serie A,Bologna,Napoli,1,0,Stadio ComunaleArbitro:,,G. Savoldi  65’ (rig.),,Arbitro: Stadio Comunale
+19750126-NAP-VAR,1975-01-26,1974-1975,Serie A,Napoli,Varese,3,0,Stadio OlimpicoArbitro:,,"Esposito  2’, Braglia  44’, Clerici  77’",,Arbitro: Stadio Olimpico
+19750202-ASC-NAP,1975-02-02,1974-1975,Serie A,Ascoli,Napoli,1,1,Stadio Cino e Lillo Del DucaArbitro:,,Silva  11’,62’ Massa,Arbitro: Stadio Cino e Lillo Del Duca
+19750209-NAP-ROM,1975-02-09,1974-1975,Serie A,Napoli,Roma,2,0,Stadio San PaoloArbitro:,,"Rampanti  12’, Braglia  69’",,Arbitro: Stadio San Paolo
+19750216-LAN-NAP,1975-02-16,1974-1975,Serie A,Lanerossi Vicenza,Napoli,2,2,Stadio Romeo MentiArbitro:,,"Vitali  21’, Sormani  44’","38’ Juliano, 60’ Massa",Arbitro: Stadio Romeo Menti
+19750223-NAP-SAM,1975-02-23,1974-1975,Serie A,Napoli,Sampdoria,2,0,Stadio San PaoloArbitro:,,"Massa  15’, Bruscolotti  37’",,Arbitro: Stadio San Paolo
+19750302-NAP-FIO,1975-03-02,1974-1975,Serie A,Napoli,Fiorentina,1,0,Stadio San PaoloArbitro:,,Clerici  35’,,Arbitro: Stadio San Paolo
+19750309-LAZ-NAP,1975-03-09,1974-1975,Serie A,Lazio,Napoli,1,1,Stadio OlimpicoArbitro:,,Chinaglia  85’ (rig.),53’ Braglia,Arbitro: Stadio Olimpico
+19750316-NAP-CES,1975-03-16,1974-1975,Serie A,Napoli,Cesena,4,0,Stadio San PaoloArbitro:,,"Clerici  3’,  22’, Bruscolotti  36’, Orlandini  87’",,Arbitro: Stadio San Paolo
+19750323-CAG-NAP,1975-03-23,1974-1975,Serie A,Cagliari,Napoli,1,1,Stadio Sant'EliaArbitro:,,Bianchi  63’,52’ (aut.) Mancin,Arbitro: Stadio Sant'Elia
+19750330-NAP-MIL,1975-03-30,1974-1975,Serie A,Napoli,Milan,2,0,Stadio San PaoloArbitro:,,"Clerici  71’ (rig.), Turone  77’ (aut.)",,Arbitro: Stadio San Paolo
+19750406-JUV-NAP,1975-04-06,1974-1975,Serie A,Juventus,Napoli,2,1,Stadio ComunaleArbitro:,,"Causio  19’, Altafini  88’",59’ Juliano,Arbitro: Stadio Comunale
+19750413-NAP-TER,1975-04-13,1974-1975,Serie A,Napoli,Ternana,7,1,Stadio San PaoloArbitro:,,"La Palma  4’, Massa  17’,  73’, Esposito  25’, Clerici  40’, Braglia  46’,  87’",75’ F. Donati,Arbitro: Stadio San Paolo
+19750427-NAP-INT,1975-04-27,1974-1975,Serie A,Napoli,Inter,3,2,Stadio San PaoloArbitro:,,"Clerici  18’,  57’, Braglia  67’","63’ G. Mariani, 74’ Boninsegna",Arbitro: Stadio San Paolo
+19750504-TOR-NAP,1975-05-04,1974-1975,Serie A,Torino,Napoli,1,1,Stadio ComunaleArbitro:,,P. Pulici  49’,64’ Braglia,Arbitro: Stadio Comunale
+19750511-NAP-BOL,1975-05-11,1974-1975,Serie A,Napoli,Bologna,1,0,Stadio San PaoloArbitro:,,Clerici  12’,,Arbitro: Stadio San Paolo
+19750518-VAR-NAP,1975-05-18,1974-1975,Serie A,Varese,Napoli,0,2,Stadio Franco OssolaArbitro:,,,"34’,  70’ Massa",Arbitro: Stadio Franco Ossola
+19740828-NAP-SAM,1974-08-28,1974-1975,Coppa Italia,Napoli,Sampdoria,3,0,Stadio San PaoloArbitro:,,"Pogliana  63’, Braglia  75’, Massa  80’",,Arbitro: Stadio San Paolo
+19740101-VER-NAP,1974-01-01,1974-1975,Coppa Italia,Verona,Napoli,1,2,Stadio Marcantonio BentegodiArbitro:,,N. Favaro  16’ (aut.),"27’ (rig.) Esposito, 85’ Braglia",Arbitro: Stadio Marcantonio Bentegodi
+19740908-SPA-NAP,1974-09-08,1974-1975,Coppa Italia,SPAL,Napoli,1,2,Stadio Paolo MazzaArbitro:,,Pelliccia  19’,"39’,  41’ Orlandini",Arbitro: Stadio Paolo Mazza
+19740915-UNK-UNK,1974-09-15,1974-1975,Coppa Italia,,,,,,,,,
+19740925-NAP-CAT,1974-09-25,1974-1975,Coppa Italia,Napoli,Catanzaro,1,0,Stadio San PaoloArbitro:,,Clerici  24’ (rig.),,Arbitro: Stadio San Paolo
+19750522-NAP-FIO,1975-05-22,1974-1975,Coppa Italia,Napoli,Fiorentina,1,0,Stadio San PaoloArbitro:,,Burgnich  47’,,Arbitro: Stadio San Paolo
+19750529-ROM-NAP,1975-05-29,1974-1975,Coppa Italia,Roma,Napoli,0,0,Stadio OlimpicoArbitro:,,,,Arbitro: Stadio Olimpico
+19750612-TOR-NAP,1975-06-12,1974-1975,Coppa Italia,Torino,Napoli,2,1,Stadio ComunaleArbitro:,,"Quadri  7’, C. Sala  40’",18’ Massa,Arbitro: Stadio Comunale
+19750615-FIO-NAP,1975-06-15,1974-1975,Coppa Italia,Fiorentina,Napoli,3,1,Stadio Artemio FranchiArbitro:,,"Casarsa  40’ (rig.), Caso  69’, Desolati  81’",51’ Braglia,Arbitro: Stadio Artemio Franchi
+19750619-NAP-ROM,1975-06-19,1974-1975,Coppa Italia,Napoli,Roma,0,2,Stadio San PaoloArbitro:,,,"28’,  78’ Prati",Arbitro: Stadio San Paolo
+19750622-NAP-TOR,1975-06-22,1974-1975,Coppa Italia,Napoli,Torino,1,0,Stadio San PaoloArbitro:,,Ferradini  60’,,Arbitro: Stadio San Paolo
+19740917-NAP-VID,1974-09-17,1974-1975,Coppa UEFA,Napoli,Videoton,2,0,Stadio San PaoloArbitro:,,"Massa  46’, Pogliana  72’",,Arbitro: Stadio San Paolo
+19740101-VID-NAP,1974-01-01,1974-1975,Coppa UEFA,Videoton,Napoli,1,1,Stadion SóstóiArbitro:,,Wollek  9’,18’ Braglia,Arbitro: Stadion Sóstói
+19741022-NAP-POR,1974-10-22,1974-1975,Coppa UEFA,Napoli,Porto,1,0,Stadio San PaoloArbitro:,,Orlandini  51’,,Arbitro: Stadio San Paolo
+19741105-POR-NAP,1974-11-05,1974-1975,Coppa UEFA,Porto,Napoli,0,1,Estádio das AntasArbitro:,,,77’ Clerici,Arbitro: Estádio das Antas
+19741126-NAP-BAN,1974-11-26,1974-1975,Coppa UEFA,Napoli,Baník Ostrava OKD,0,2,Stadio San PaoloArbitro:,,,"81’ Albrecht, 83’ Kolecko",Arbitro: Stadio San Paolo
+19741210-BAN-NAP,1974-12-10,1974-1975,Coppa UEFA,Baník Ostrava OKD,Napoli,1,1,Stadio BazalyArbitro:,,Slany  81’,40’ Ferradini,Arbitro: Stadio Bazaly

@@ -1,0 +1,41 @@
+match_id,date,season,competition,home_raw_name,away_raw_name,home_goals,away_goals,stadium,attendance,home_scorers,away_scorers,notes
+19780101-NAP-ASC,1978-01-01,1978-1979,Serie A,Napoli,Ascoli,2,1,Stadio San PaoloArbitro:,,"Pellegrini  20’, Savoldi  89’",8’ Ambu,Arbitro: Stadio San Paolo
+19781008-FIO-NAP,1978-10-08,1978-1979,Serie A,Fiorentina,Napoli,2,1,Stadio ComunaleArbitro:,,"Di Gennaro  32’,  86’",14’ Savoldi,Arbitro: Stadio Comunale
+19781015-NAP-ROM,1978-10-15,1978-1979,Serie A,Napoli,Roma,1,0,Stadio San PaoloArbitro:,,Pellegrini  67’,,Arbitro: Stadio San Paolo
+19781022-LAN-NAP,1978-10-22,1978-1979,Serie A,Lanerossi Vicenza,Napoli,0,0,Stadio Romeo MentiArbitro:,,,,Arbitro: Stadio Romeo Menti
+19781029-NAP-ATA,1978-10-29,1978-1979,Serie A,Napoli,Atalanta,2,0,Stadio San PaoloArbitro:,,"Pellegrini  44’, Savoldi  76’",,Arbitro: Stadio San Paolo
+19781105-INT-NAP,1978-11-05,1978-1979,Serie A,Inter,Napoli,2,0,Stadio San SiroArbitro:,,"Oriali  80’, Altobelli  88’ (rig.)",,Arbitro: Stadio San Siro
+19781112-NAP-JUV,1978-11-12,1978-1979,Serie A,Napoli,Juventus,0,0,Stadio San PaoloArbitro:,,,,Arbitro: Stadio San Paolo
+19781119-AVE-NAP,1978-11-19,1978-1979,Serie A,Avellino,Napoli,1,1,Stadio PartenioArbitro:,,De Ponti  36’,72’ Savoldi,Arbitro: Stadio Partenio
+19781126-NAP-MIL,1978-11-26,1978-1979,Serie A,Napoli,Milan,1,1,Stadio San PaoloArbitro:,,Savoldi  4’,57’ De Vecchi,Arbitro: Stadio San Paolo
+19781203-TOR-NAP,1978-12-03,1978-1979,Serie A,Torino,Napoli,0,0,Stadio ComunaleArbitro:,,,,Arbitro: Stadio Comunale
+19781210-NAP-PER,1978-12-10,1978-1979,Serie A,Napoli,Perugia,1,1,Stadio San PaoloArbitro:,,Majo  55’,62’ Speggiorin,Arbitro: Stadio San Paolo
+19781217-BOL-NAP,1978-12-17,1978-1979,Serie A,Bologna,Napoli,1,1,Stadio ComunaleArbitro:,,Bordon  48’,68’ Savoldi,Arbitro: Stadio Comunale
+19790107-NAP-LAZ,1979-01-07,1978-1979,Serie A,Napoli,Lazio,0,2,Stadio San PaoloArbitro:,,Savoldi  17’,13’ Nicoli,Arbitro: Stadio San Paolo
+19790114-CAT-NAP,1979-01-14,1978-1979,Serie A,Catanzaro,Napoli,0,0,Stadio MilitareArbitro:,,,,Arbitro: Stadio Militare
+19790121-NAP-VER,1979-01-21,1978-1979,Serie A,Napoli,Verona,1,0,Stadio AdriaticoArbitro:,,Savoldi  73’ (rig.),,Arbitro: Stadio Adriatico
+19790128-ASC-NAP,1979-01-28,1978-1979,Serie A,Ascoli,Napoli,0,0,Stadio Cino e Lillo Del DucaArbitro:,,,,Arbitro: Stadio Cino e Lillo Del Duca
+19790204-NAP-FIO,1979-02-04,1978-1979,Serie A,Napoli,Fiorentina,0,0,Stadio San PaoloArbitro:,,,,Arbitro: Stadio San Paolo
+19790211-ROM-NAP,1979-02-11,1978-1979,Serie A,Roma,Napoli,0,0,Stadio OlimpicoArbitro:,,,,Arbitro: Stadio Olimpico
+19790218-NAP-LAN,1979-02-18,1978-1979,Serie A,Napoli,Lanerossi Vicenza,2,2,Stadio San PaoloArbitro:,,"Bruscolotti  32’, Pin  72’","59’ Rossi, 85’ Prestanti",Arbitro: Stadio San Paolo
+19790304-ATA-NAP,1979-03-04,1978-1979,Serie A,Atalanta,Napoli,2,1,Stadio ComunaleArbitro:,,"Scala  70’ (rig.), Pircher  87’",90’ Capone,Arbitro: Stadio Comunale
+19790311-NAP-INT,1979-03-11,1978-1979,Serie A,Napoli,Inter,0,0,Stadio San PaoloArbitro:,,,,Arbitro: Stadio San Paolo
+19790318-JUV-NAP,1979-03-18,1978-1979,Serie A,Juventus,Napoli,1,0,Stadio ComunaleArbitro:,,Tardelli  49’,,Arbitro: Stadio Comunale
+19790325-NAP-AVE,1979-03-25,1978-1979,Serie A,Napoli,Avellino,3,0,Stadio San PaoloArbitro:,,"Savoldi  14’,  76’, Valente  63’",,Arbitro: Stadio San Paolo
+19780101-MIL-NAP,1978-01-01,1978-1979,Serie A,Milan,Napoli,0,1,Stadio San SiroArbitro:,,,40’ Majo,Arbitro: Stadio San Siro
+19790408-NAP-TOR,1979-04-08,1978-1979,Serie A,Napoli,Torino,0,1,Stadio San PaoloArbitro:,,,44’ Iorio,Arbitro: Stadio San Paolo
+19790414-PER-NAP,1979-04-14,1978-1979,Serie A,Perugia,Napoli,2,0,Stadio Renato CuriArbitro:,,"Speggiorin  15’, Dal Fiume  64’",,Arbitro: Stadio Renato Curi
+19790422-NAP-BOL,1979-04-22,1978-1979,Serie A,Napoli,Bologna,2,1,Stadio San PaoloArbitro:,,"Pellegrini  8’, Vinazzani  56’",15’ Vincenzi,Arbitro: Stadio San Paolo
+19790429-LAZ-NAP,1979-04-29,1978-1979,Serie A,Lazio,Napoli,1,2,Stadio OlimpicoArbitro:,,Giordano  22’,"15’ Caso, 88’ Pellegrini",Arbitro: Stadio Olimpico
+19790506-NAP-CAT,1979-05-06,1978-1979,Serie A,Napoli,Catanzaro,1,0,Stadio San PaoloArbitro:,,Nicolini  65’ (aut.),,Arbitro: Stadio San Paolo
+19790513-VER-NAP,1979-05-13,1978-1979,Serie A,Verona,Napoli,0,0,Stadio Marcantonio BentegodiArbitro:,,,,Arbitro: Stadio Marcantonio Bentegodi
+19780827-NAP-SAM,1978-08-27,1978-1979,Coppa Italia,Napoli,Sampdoria,1,1,Stadio San PaoloArbitro:,,Pellegrini  10’,39’ (rig.) Bresciani,Arbitro: Stadio San Paolo
+19780830-RIM-NAP,1978-08-30,1978-1979,Coppa Italia,Rimini,Napoli,1,2,Stadio Romeo NeriArbitro:,,Ferrara  60’,"35’,  38’ Pellegrini",Arbitro: Stadio Romeo Neri
+19780910-NAP-ATA,1978-09-10,1978-1979,Coppa Italia,Napoli,Atalanta,0,0,Stadio San PaoloArbitro:,,,,Arbitro: Stadio San Paolo
+19780917-GEN-NAP,1978-09-17,1978-1979,Coppa Italia,Genoa,Napoli,0,1,Stadio Luigi FerrarisArbitro:,,,66’ Valente,Arbitro: Stadio Luigi Ferraris
+19790425-NAP-PER,1979-04-25,1978-1979,Coppa Italia,Napoli,Perugia,2,1,Stadio San PaoloArbitro:,,"Tesser  81’, Filippi  88’",54’ Dal Fiume,Arbitro: Stadio San Paolo
+19790509-PER-NAP,1979-05-09,1978-1979,Coppa Italia,Perugia,Napoli,0,0,Stadio Renato CuriArbitro:,,,,Arbitro: Stadio Renato Curi
+19790523-PAL-NAP,1979-05-23,1978-1979,Coppa Italia,Palermo,Napoli,0,0,La FavoritaArbitro:,,,,Arbitro: La Favorita
+19790606-NAP-PAL,1979-06-06,1978-1979,Coppa Italia,Napoli,Palermo,1,2,Stadio San PaoloArbitro:,,Savoldi  43’,"10’,  61’ Citterio",Arbitro: Stadio San Paolo
+19780913-DIN-NAP,1978-09-13,1978-1979,Coppa UEFA,Dinamo Tbilisi,Napoli,2,0,Stadio DinamoArbitro:,,"Kipiani  39’, Shengelia  49’",,Arbitro: Stadio Dinamo
+19780927-NAP-DIN,1978-09-27,1978-1979,Coppa UEFA,Napoli,Dinamo Tbilisi,1,1,Stadio San PaoloArbitro:,,Savoldi  79’ (rig.),64’ Daraselija,Arbitro: Stadio San Paolo

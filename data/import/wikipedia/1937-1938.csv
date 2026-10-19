@@ -1,0 +1,34 @@
+match_id,date,season,competition,home_raw_name,away_raw_name,home_goals,away_goals,stadium,attendance,home_scorers,away_scorers,notes
+19370912-BOL-NAP,1937-09-12,1937-1938,Serie A,Bologna,Napoli,3,2,Stadio LittorialeArbitro:,,"Sansone  25’, Maini  28’,  41’","36’ Prato, 89’ Glovi",Arbitro: Stadio Littoriale
+19370919-NAP-TRI,1937-09-19,1937-1938,Serie A,Napoli,Triestina,3,0,Stadio PartenopeoArbitro:,,"Mian  33’,  42’, Gerbi  47’",,Arbitro: Stadio Partenopeo
+19370926-ROM-NAP,1937-09-26,1937-1938,Serie A,Roma,Napoli,2,1,Campo TestaccioArbitro:,,"Michelini  49’, Mascheroni  89’",69’ Gerbi,Arbitro: Campo Testaccio
+19371003-NAP-MIL,1937-10-03,1937-1938,Serie A,Napoli,Milan,1,1,Stadio PartenopeoArbitro:,,Mian  48’,71’ Capra,Arbitro: Stadio Partenopeo
+19371010-JUV-NAP,1937-10-10,1937-1938,Serie A,Juventus,Napoli,2,1,Stadio Municipale Benito MussoliniArbitro:,,"F. Borel  40’,  90+4’ (rig.)",44’ Prato,Arbitro: Stadio Municipale Benito Mussolini
+19371017-NAP-FIO,1937-10-17,1937-1938,Serie A,Napoli,Fiorentina,3,0,Stadio PartenopeoArbitro:,,"Nicolosi  23’, Mian  56’, Biagi  71’",,Arbitro: Stadio Partenopeo
+19371024-AMB-NAP,1937-10-24,1937-1938,Serie A,Ambrosiana-Inter,Napoli,2,1,Arena CivicaArbitro:,,"Meazza  30’, Castello  75’ (aut.)",34’ Nicolosi,Arbitro: Arena Civica
+19371107-LIV-NAP,1937-11-07,1937-1938,Serie A,Livorno,Napoli,1,0,Stadio Edda Ciano MussoliniArbitro:,,Pomponi  54’ (rig.),,Arbitro: Stadio Edda Ciano Mussolini
+19371114-NAP-GEN,1937-11-14,1937-1938,Serie A,Napoli,Genova 1893,2,2,Stadio PartenopeoArbitro:,,"Glovi  21’, Rocco  40’","7’ Servetti, 33’ Scarabello",Arbitro: Stadio Partenopeo
+19371121-ATA-NAP,1937-11-21,1937-1938,Serie A,Atalanta,Napoli,2,0,Stadio Mario BrumanaArbitro:,,"Bonomi  46’,  59’ (rig.)",,Arbitro: Stadio Mario Brumana
+19371128-NAP-LAZ,1937-11-28,1937-1938,Serie A,Napoli,Lazio,1,0,Stadio PartenopeoArbitro:,,Venditto  71’,,Arbitro: Stadio Partenopeo
+19371212-LUC-NAP,1937-12-12,1937-1938,Serie A,Lucchese,Napoli,2,2,Stadio Porta ElisaArbitro:,,"Cappellini  27’, Andreoli  67’","14’ Mian, 32’ Venditto",Arbitro: Stadio Porta Elisa
+19371219-NAP-LIG,1937-12-19,1937-1938,Serie A,Napoli,Liguria,3,2,Stadio PartenopeoArbitro:,,"Gerbi  35’,  47’, Glovi  88’","46’ (aut.) C. Buscaglia, 90’ Bollano",Arbitro: Stadio Partenopeo
+19380102-BAR-NAP,1938-01-02,1937-1938,Serie A,Bari,Napoli,3,1,Stadio della VittoriaArbitro:,,"Duè  20’,  82’, Cason  61’",55’ Gerbi,Arbitro: Stadio della Vittoria
+19380109-NAP-TOR,1938-01-09,1937-1938,Serie A,Napoli,Torino,1,1,Stadio PartenopeoArbitro:,,Gerbi  24’,76’ Gallea,Arbitro: Stadio Partenopeo
+19380116-NAP-BOL,1938-01-16,1937-1938,Serie A,Napoli,Bologna,1,1,Stadio PartenopeoArbitro:,,Mian  80’,14’ Maini,Arbitro: Stadio Partenopeo
+19380123-TRI-NAP,1938-01-23,1937-1938,Serie A,Triestina,Napoli,3,0,Stadio del LittorioArbitro:,,"Chizzo  9’, Pasinati  66’,  85’",,Arbitro: Stadio del Littorio
+19380130-NAP-ROM,1938-01-30,1937-1938,Serie A,Napoli,Roma,2,2,Stadio PartenopeoArbitro:,,"Frisoni  67’ (aut.), Venditto  73’","9’ Borsetti, 47’ Mascheroni",Arbitro: Stadio Partenopeo
+19380206-MIL-NAP,1938-02-06,1937-1938,Serie A,Milano,Napoli,3,1,Stadio San SiroArbitro:,,"Boffi  39’,  59’, Arnoni  54’ (rig.)",69’ (rig.) C. Buscaglia,Arbitro: Stadio San Siro
+19380213-NAP-JUV,1938-02-13,1937-1938,Serie A,Napoli,Juventus,1,1,Stadio PartenopeoArbitro:,,Prato  55’,35’ Gabetto,Arbitro: Stadio Partenopeo
+19380220-FIO-NAP,1938-02-20,1937-1938,Serie A,Fiorentina,Napoli,1,3,Stadio Giovanni BertaArbitro:,,Comini  5’,"29’ Mian, 83’ Prato, 87’ Venditto",Arbitro: Stadio Giovanni Berta
+19380227-NAP-AMB,1938-02-27,1937-1938,Serie A,Napoli,Ambrosiana-Inter,1,1,Stadio PartenopeoArbitro:,,C. Buscaglia  75’ (rig.),72’ Meazza,Arbitro: Stadio Partenopeo
+19380306-NAP-LIV,1938-03-06,1937-1938,Serie A,Napoli,Livorno,1,1,Stadio PartenopeoArbitro:,,Neri  15’,55’ Venditto,Arbitro: Stadio Partenopeo
+19380313-GEN-NAP,1938-03-13,1937-1938,Serie A,Genova 1893,Napoli,2,1,Stadio Luigi FerrarisArbitro:,,"P. Arcari  13’ (rig.), Barsanti  23’",22’ Biagi,Arbitro: Stadio Luigi Ferraris
+19380320-NAP-ATA,1938-03-20,1937-1938,Serie A,Napoli,Atalanta,1,0,Stadio PartenopeoArbitro:,,Gerbi  25’,,Arbitro: Stadio Partenopeo
+19380327-LAZ-NAP,1938-03-27,1937-1938,Serie A,Lazio,Napoli,0,0,Stadio Nazionale del PNFArbitro:,,,,Arbitro: Stadio Nazionale del PNF
+19380403-NAP-LUC,1938-04-03,1937-1938,Serie A,Napoli,Lucchese,2,1,Stadio PartenopeoArbitro:,,"Venditto  50’, C. Buscaglia  66’ (rig.)",54’ Romagnoli,Arbitro: Stadio Partenopeo
+19380410-LIG-NAP,1938-04-10,1937-1938,Serie A,Liguria,Napoli,0,0,Stadio del LittorioArbitro:,,,,Arbitro: Stadio del Littorio
+19380417-NAP-BAR,1938-04-17,1937-1938,Serie A,Napoli,Bari,1,0,Stadio PartenopeoArbitro:,,Gerbi  55’,,Arbitro: Stadio Partenopeo
+19380424-TOR-NAP,1938-04-24,1937-1938,Serie A,Torino,Napoli,0,0,Stadio FiladelfiaArbitro:,,,,Arbitro: Stadio Filadelfia
+19371205-NAP-PAL,1937-12-05,1937-1938,Coppa Italia,Napoli,Palermo,2,0,Stadio PartenopeoArbitro:,,"Riccardi  13’, Prato  60’",,Arbitro: Stadio Partenopeo
+19371226-NAP-ROM,1937-12-26,1937-1938,Coppa Italia,Napoli,Roma,4,2,Stadio PartenopeoArbitro:,,"Rocco  18’, Mian  53’, Biagi  98’, C. Buscaglia  100’ (rig.)","1’ Borsetti, 50’ Michelini",Arbitro: Stadio Partenopeo (10.000 circa spett.)
+19380106-NAP-AMB,1938-01-06,1937-1938,Coppa Italia,Napoli,Ambrosiana-Inter,0,2,Stadio PartenopeoArbitro:,,,"11’ Meazza, 22’ Frossi",Arbitro: Stadio Partenopeo

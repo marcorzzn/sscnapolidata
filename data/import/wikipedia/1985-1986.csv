@@ -1,0 +1,36 @@
+match_id,date,season,competition,home_raw_name,away_raw_name,home_goals,away_goals,stadium,attendance,home_scorers,away_scorers,notes
+19850908-NAP-COM,1985-09-08,1985-1986,Serie A,Napoli,Como,2,1,Stadio San PaoloArbitro:,67 008,"Giordano  32’, D. Bertoni  43’",78’ (aut.) Marino,Arbitro: Stadio San Paolo (67 008 spett.)
+19850915-PIS-NAP,1985-09-15,1985-1986,Serie A,Pisa,Napoli,1,1,Stadio Arena GaribaldiArbitro:,24 571,Berggreen  33’,50’ Giordano,Arbitro: Stadio Arena Garibaldi (24 571 spett.)
+19850922-NAP-ATA,1985-09-22,1985-1986,Serie A,Napoli,Atalanta,1,0,Stadio San PaoloArbitro:,66 959,Renica  51’,,Arbitro: Stadio San Paolo (66 959 spett.)
+19850929-NAP-ROM,1985-09-29,1985-1986,Serie A,Napoli,Roma,1,1,Stadio San PaoloArbitro:,77 721,Maradona  52’ (rig.),37’ Tovalieri,Arbitro: Stadio San Paolo (77 721 spett.)
+19851006-LEC-NAP,1985-10-06,1985-1986,Serie A,Lecce,Napoli,0,0,Stadio Via del MareArbitro:,45 689,,,Arbitro: Stadio Via del Mare (45 689 spett.)
+19851013-FIO-NAP,1985-10-13,1985-1986,Serie A,Fiorentina,Napoli,0,0,Stadio ComunaleArbitro:,56 259,,,Arbitro: Stadio Comunale (56 259 spett.)
+19851020-NAP-VER,1985-10-20,1985-1986,Serie A,Napoli,Verona,5,0,Stadio San PaoloArbitro:,69 230,"Giordano  21’, Bagni  48’, Maradona  58’, D. Bertoni  83’, Pecci  85’",,Arbitro: Stadio San Paolo (69 230 spett.)
+19851027-TOR-NAP,1985-10-27,1985-1986,Serie A,Torino,Napoli,2,1,Stadio ComunaleArbitro:,39 899,"Sabato  45’, Comi  54’",87’ Maradona,Arbitro: Stadio Comunale (39 899 spett.)
+19851103-NAP-JUV,1985-11-03,1985-1986,Serie A,Napoli,Juventus,1,0,Stadio San PaoloArbitro:,81 041,Maradona  72’,,Arbitro: Stadio San Paolo (81 041 spett.)
+19851110-INT-NAP,1985-11-10,1985-1986,Serie A,Inter,Napoli,1,1,Stadio Giuseppe MeazzaArbitro:,68 917,Brady  73’ (rig.),49’ Maradona,Arbitro: Stadio Giuseppe Meazza (68 917 spett.)
+19851124-NAP-UDI,1985-11-24,1985-1986,Serie A,Napoli,Udinese,1,1,Stadio San PaoloArbitro:,68 239,Maradona  9’,79’ Galparoli,Arbitro: Stadio San Paolo (68 239 spett.)
+19850101-BAR-NAP,1985-01-01,1985-1986,Serie A,Bari,Napoli,1,2,Stadio della VittoriaArbitro:,31 054,Sola  3’,"12’,  59’ Giordano",Arbitro: Stadio della Vittoria (31 054 spett.)
+19851208-NAP-MIL,1985-12-08,1985-1986,Serie A,Napoli,Milan,2,0,Stadio San PaoloArbitro:,78 910,"Giordano  76’, Bagni  86’",,Arbitro: Stadio San Paolo (78 910 spett.)
+19851215-SAM-NAP,1985-12-15,1985-1986,Serie A,Sampdoria,Napoli,2,0,Stadio Luigi FerrarisArbitro:,41 671,"Lorenzo  14’, Mancini  41’",,Arbitro: Stadio Luigi Ferraris (41 671 spett.)
+19851222-NAP-AVE,1985-12-22,1985-1986,Serie A,Napoli,Avellino,1,0,Stadio San PaoloArbitro:,68 410,Giordano  59’,,Arbitro: Stadio San Paolo (68 410 spett.)
+19860105-COM-NAP,1986-01-05,1985-1986,Serie A,Como,Napoli,1,1,Stadio Giuseppe SinigagliaArbitro:,21 161,Renica  55’ (aut.),83’ (rig.) Maradona,Arbitro: Stadio Giuseppe Sinigaglia (21 161 spett.)
+19860112-NAP-PIS,1986-01-12,1985-1986,Serie A,Napoli,Pisa,0,1,Stadio San PaoloArbitro:,69 148,,39’ Berggreen,Arbitro: Stadio San Paolo (69 148 spett.)
+19860119-ATA-NAP,1986-01-19,1985-1986,Serie A,Atalanta,Napoli,0,0,Stadio ComunaleArbitro:,34 822,,,Arbitro: Stadio Comunale (34 822 spett.)
+19860126-ROM-NAP,1986-01-26,1985-1986,Serie A,Roma,Napoli,2,0,Stadio OlimpicoArbitro:,65 609,"Gerolin  42’, Boniek  61’",,Arbitro: Stadio Olimpico (65 609 spett.)
+19860209-NAP-LEC,1986-02-09,1985-1986,Serie A,Napoli,Lecce,1,0,Stadio San PaoloArbitro:,63 728,D. Bertoni  43’,,Arbitro: Stadio San Paolo (63 728 spett.)
+19860216-NAP-FIO,1986-02-16,1985-1986,Serie A,Napoli,Fiorentina,0,0,Stadio San PaoloArbitro:,66 074,,,Arbitro: Stadio San Paolo (66 074 spett.)
+19860223-VER-NAP,1986-02-23,1985-1986,Serie A,Verona,Napoli,2,2,Stadio Marcantonio BentegodiArbitro:,30 838,"Sacchetti  28’, Galderisi  53’ (rig.)","55’ (rig.),  80’ Maradona",Arbitro: Stadio Marcantonio Bentegodi (30 838 spett.)
+19860302-NAP-TOR,1986-03-02,1985-1986,Serie A,Napoli,Torino,3,1,Stadio San PaoloArbitro:,66 425,"G. Ferri  15’ (aut.), Caffarelli  16’, Bagni  50’",14’ P. Mariani,Arbitro: Stadio San Paolo (66 425 spett.)
+19860309-JUV-NAP,1986-03-09,1985-1986,Serie A,Juventus,Napoli,1,1,Stadio ComunaleArbitro:,55 153,Brio  49’,34’ (aut.) Favero,Arbitro: Stadio Comunale (55 153 spett.)
+19860316-NAP-INT,1986-03-16,1985-1986,Serie A,Napoli,Inter,1,0,Stadio San PaoloArbitro:,80 355,Maradona  71’ (rig.),,Arbitro: Stadio San Paolo (80 355 spett.)
+19860323-UDI-NAP,1986-03-23,1985-1986,Serie A,Udinese,Napoli,2,0,Stadio FriuliArbitro:,37 040,"A. Carnevale  20’,  61’",,Arbitro: Stadio Friuli (37 040 spett.)
+19860406-NAP-BAR,1986-04-06,1985-1986,Serie A,Napoli,Bari,1,0,Stadio San PaoloArbitro:,66 957,Renica  50’,,Arbitro: Stadio San Paolo (66 957 spett.)
+19860413-MIL-NAP,1986-04-13,1985-1986,Serie A,Milan,Napoli,1,2,Stadio Giuseppe MeazzaArbitro:,64 549,Di Bartolomei  59’,"12’ Giordano, 23’ Maradona",Arbitro: Stadio Giuseppe Meazza (64 549 spett.)
+19860420-NAP-SAM,1986-04-20,1985-1986,Serie A,Napoli,Sampdoria,3,0,Stadio San PaoloArbitro:,66 850,"Giordano  28’, Bagni  40’, Celestini  85’",,Arbitro: Stadio San Paolo (66 850 spett.)
+19860427-AVE-NAP,1986-04-27,1985-1986,Serie A,Avellino,Napoli,0,1,Stadio PartenioArbitro:,43 742,,52’ Giordano,Arbitro: Stadio Partenio (43 742 spett.)
+19850821-NAP-PES,1985-08-21,1985-1986,Coppa Italia,Napoli,Pescara,0,0,Stadio San PaoloArbitro:,,,,Arbitro: Stadio San Paolo
+19850825-LAN-NAP,1985-08-25,1985-1986,Coppa Italia,Lanerossi Vicenza,Napoli,1,0,Stadio Romeo MentiArbitro:,,Filippi  30’,,Arbitro: Stadio Romeo Menti
+19850828-PAD-NAP,1985-08-28,1985-1986,Coppa Italia,Padova,Napoli,0,0,Stadio Silvio AppianiArbitro:,,,,Arbitro: Stadio Silvio Appiani
+19850101-NAP-SAL,1985-01-01,1985-1986,Coppa Italia,Napoli,Salernitana,3,1,Stadio San PaoloArbitro:,,"Maradona  5’,  35’ (rig.), Manzo  77’ (aut.)",25’ (rig.) Billia,Arbitro: Stadio San Paolo
+19850904-NAP-LEC,1985-09-04,1985-1986,Coppa Italia,Napoli,Lecce,2,0,Stadio San PaoloArbitro:,,"Giordano  23’, Bagni  85’",,Arbitro: Stadio San Paolo

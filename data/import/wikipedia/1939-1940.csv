@@ -1,0 +1,33 @@
+match_id,date,season,competition,home_raw_name,away_raw_name,home_goals,away_goals,stadium,attendance,home_scorers,away_scorers,notes
+19390917-BAR-NAP,1939-09-17,1939-1940,Serie A,Bari,Napoli,1,0,Stadio della VittoriaArbitro:,,Cappellini  75’,,Arbitro: Stadio della Vittoria
+19390924-NAP-LIG,1939-09-24,1939-1940,Serie A,Napoli,Liguria,3,2,Stadio PartenopeoArbitro:,,"Biagi  28’, Quario  39’, Rosellini  54’","18’ Spadavecchia, 79’ Peretti",Arbitro: Stadio Partenopeo
+19391001-AMB-NAP,1939-10-01,1939-1940,Serie A,Ambrosiana-Inter,Napoli,4,0,Arena CivicaArbitro:,,"P. Ferraris  15’, Guarnieri  30’,  75’, Locatelli  81’",,Arbitro: Arena Civica
+19391008-NAP-ROM,1939-10-08,1939-1940,Serie A,Napoli,Roma,0,1,Stadio PartenopeoArbitro:,,,64’ Subinaghi,Arbitro: Stadio Partenopeo
+19391015-TRI-NAP,1939-10-15,1939-1940,Serie A,Triestina,Napoli,2,0,Stadio del LittorioArbitro:,,"Trevisan  46’, Costa  87’",,Arbitro: Stadio del Littorio
+19391022-NAP-MOD,1939-10-22,1939-1940,Serie A,Napoli,Modena,1,0,Stadio PartenopeoArbitro:,,Mian  50’,,Arbitro: Stadio Partenopeo
+19391029-TOR-NAP,1939-10-29,1939-1940,Serie A,Torino,Napoli,1,0,Stadio FiladelfiaArbitro:,,Allasio  39’,,Arbitro: Stadio Filadelfia
+19391105-NAP-FIO,1939-11-05,1939-1940,Serie A,Napoli,Fiorentina,2,1,Stadio PartenopeoArbitro:,,"Quario  43’, Rosellini  48’",12’ Frigo,Arbitro: Stadio Partenopeo
+19391119-GEN-NAP,1939-11-19,1939-1940,Serie A,Genova 1893,Napoli,2,0,Stadio Luigi FerrarisArbitro:,,"Gabardo  26’, Neri  73’",,Arbitro: Stadio Luigi Ferraris
+19391203-NAP-MIL,1939-12-03,1939-1940,Serie A,Napoli,Milano,1,4,Stadio PartenopeoArbitro:,,Quario  50’,"34’ Chizzo, 84’,  89’ Remondini, 86’ Boffi",Arbitro: Stadio Partenopeo
+19391210-LAZ-NAP,1939-12-10,1939-1940,Serie A,Lazio,Napoli,2,0,Stadio Nazionale del PNFArbitro:,,"Piola  12’,  88’",,Arbitro: Stadio Nazionale del PNF
+19391217-NAP-NOV,1939-12-17,1939-1940,Serie A,Napoli,Novara,2,1,Stadio PartenopeoArbitro:,,"Quario  47’, Prato  82’",Romano  65’,Arbitro: Stadio Partenopeo
+19391231-BOL-NAP,1939-12-31,1939-1940,Serie A,Bologna,Napoli,1,1,Stadio LittorialeArbitro:,,Cassano  22’ (aut.),7’ Venditto,Arbitro: Stadio Littoriale
+19400107-NAP-JUV,1940-01-07,1939-1940,Serie A,Napoli,Juventus,0,0,Stadio PartenopeoArbitro:,,,,Arbitro: Stadio Partenopeo
+19400114-VEN-NAP,1940-01-14,1939-1940,Serie A,Venezia,Napoli,2,0,Stadio Pier Luigi PenzoArbitro:,,"Alberti  10’ (rig.), Pernigo  57’",,Arbitro: Stadio Pier Luigi Penzo
+19400121-NAP-BAR,1940-01-21,1939-1940,Serie A,Napoli,Bari,1,1,Stadio PartenopeoArbitro:,,Rosellini  36’,40’ Dugini,Arbitro: Stadio Partenopeo
+19400128-LIG-NAP,1940-01-28,1939-1940,Serie A,Liguria,Napoli,2,0,Stadio del LittorioArbitro:,,"Bollano  69’,  76’",,Arbitro: Stadio del Littorio
+19400204-NAP-AMB,1940-02-04,1939-1940,Serie A,Napoli,Ambrosiana-Inter,0,1,Stadio PartenopeoArbitro:,,,78’ Guarnieri,Arbitro: Stadio Partenopeo
+19400211-ROM-NAP,1940-02-11,1939-1940,Serie A,Roma,Napoli,1,0,Campo TestaccioArbitro:,,Pantò  43’,,Arbitro: Campo Testaccio
+19400218-NAP-TRI,1940-02-18,1939-1940,Serie A,Napoli,Triestina,3,1,Stadio PartenopeoArbitro:,,"Rosellini  22’,  64’ (rig.), Venditto  71’",60’ Valcareggi,Arbitro: Stadio Partenopeo
+19400225-MOD-NAP,1940-02-25,1939-1940,Serie A,Modena,Napoli,0,0,Stadio Cesare MarzariArbitro:,,,,Arbitro: Stadio Cesare Marzari
+19400310-NAP-TOR,1940-03-10,1939-1940,Serie A,Napoli,Torino,3,1,Stadio PartenopeoArbitro:,,"Quario  7’, Romagnoli  60’, Biagi  76’",47’ Gallea,Arbitro: Stadio Partenopeo
+19400317-FIO-NAP,1940-03-17,1939-1940,Serie A,Fiorentina,Napoli,2,0,Stadio Giovanni BertaArbitro:,,"Celoria  51’, Boldi  88’",,Arbitro: Stadio Giovanni Berta
+19400324-NAP-GEN,1940-03-24,1939-1940,Serie A,Napoli,Genova 1893,3,1,Stadio PartenopeoArbitro:,,"Quario  57’,  86’, Venditto  88’",65’ Conti,Arbitro: Stadio Partenopeo
+19400331-MIL-NAP,1940-03-31,1939-1940,Serie A,Milano,Napoli,3,0,Stadio San SiroArbitro:,,"Ez. Loik  56’, P. Buscaglia  65’,  71’",,Arbitro: Stadio San Siro
+19400421-NAP-LAZ,1940-04-21,1939-1940,Serie A,Napoli,Lazio,1,1,Stadio PartenopeoArbitro:,,Quario  61’,88’ Barrera,Arbitro: Stadio Partenopeo
+19400512-NOV-NAP,1940-05-12,1939-1940,Serie A,Novara,Napoli,0,1,Stadio del LittorioArbitro:,,,18’ Biagi,Arbitro: Stadio del Littorio
+19400519-NAP-BOL,1940-05-19,1939-1940,Serie A,Napoli,Bologna,1,1,Stadio PartenopeoArbitro:,,Biagi  36’,12’ Andreolo,Arbitro: Stadio Partenopeo
+19400526-JUV-NAP,1940-05-26,1939-1940,Serie A,Juventus,Napoli,2,1,Stadio Municipale Benito MussoliniArbitro:,,"Bellini  27’, Tomasi  82’",31’ Romagnoli,Arbitro: Stadio Municipale Benito Mussolini
+19400602-NAP-VEN,1940-06-02,1939-1940,Serie A,Napoli,Venezia,2,0,Stadio PartenopeoArbitro:,,"Romagnoli  72’, Quario  87’",,Arbitro: Stadio Partenopeo
+19391224-SAV-NAP,1939-12-24,1939-1940,Coppa Italia,Savoia,Napoli,1,3,Campo FormisanoArbitro:,6 000,Scavazza  77’ (rig.),"10’,  70’ Quario, 11’ Venditto",Arbitro: Campo Formisano (6 000 spett.)
+19400407-NAP-GEN,1940-04-07,1939-1940,Coppa Italia,Napoli,Genova 1893,0,1,Stadio PartenopeoArbitro:,6 000,,65’ Gabardo,Arbitro: Stadio Partenopeo (6 000 spett.)

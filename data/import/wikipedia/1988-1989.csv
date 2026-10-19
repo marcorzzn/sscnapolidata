@@ -1,0 +1,61 @@
+match_id,date,season,competition,home_raw_name,away_raw_name,home_goals,away_goals,stadium,attendance,home_scorers,away_scorers,notes
+19881009-NAP-ATA,1988-10-09,1988-1989,Serie A,Napoli,Atalanta,1,0,Stadio San PaoloArbitro:,58 685,Giacchetta  90’,,Arbitro: Stadio San Paolo (58 685 spett.)
+19881016-LEC-NAP,1988-10-16,1988-1989,Serie A,Lecce,Napoli,1,0,Stadio Via del MareArbitro:,35 947,Baroni  10’,,Arbitro: Stadio Via del Mare (35 947 spett.)
+19881023-NAP-PES,1988-10-23,1988-1989,Serie A,Napoli,Pescara,8,2,Stadio San PaoloArbitro:,57 824,"Careca  3’,  60’, Carnevale  7’,  51’,  53’, Maradona  36’,  84’, Alemão  39’","59’ (rig.) Gasperini, 65’ (rig.) Edmar",Arbitro: Stadio San Paolo (57 824 spett.)
+19881030-CES-NAP,1988-10-30,1988-1989,Serie A,Cesena,Napoli,0,1,Stadio Dino ManuzziArbitro:,19 024,,15’ Carnevale,Arbitro: Stadio Dino Manuzzi (19 024 spett.)
+19881106-NAP-LAZ,1988-11-06,1988-1989,Serie A,Napoli,Lazio,1,1,Stadio San PaoloArbitro:,60 523,Carnevale  28’,66’ Rizzolo,Arbitro: Stadio San Paolo (60 523 spett.)
+19881120-JUV-NAP,1988-11-20,1988-1989,Serie A,Juventus,Napoli,3,5,Stadio ComunaleArbitro:,42 702,"Galia  48’, Zavarov  55’, De Agostini  77’ (rig.)","3’ Carnevale, 30’,  44’,  58’ Careca, 85’ (rig.) Renica",Arbitro: Stadio Comunale (42 702 spett.)
+19881127-NAP-MIL,1988-11-27,1988-1989,Serie A,Napoli,Milan,4,1,Stadio San PaoloArbitro:,82 587,"Maradona  42’, Careca  45’,  78’, Francini  48’",65’ (rig.) Virdis,Arbitro: Stadio San Paolo (82 587 spett.)
+19881204-NAP-FIO,1988-12-04,1988-1989,Serie A,Napoli,Fiorentina,2,0,Stadio San PaoloArbitro:,61 160,"Maradona  30’ (rig.), Careca  76’",,Arbitro: Stadio San Paolo (61 160 spett.)
+19881211-VER-NAP,1988-12-11,1988-1989,Serie A,Verona,Napoli,0,1,Stadio Marcantonio BentegodiArbitro:,28 563,,53’ Crippa,Arbitro: Stadio Marcantonio Bentegodi (28 563 spett.)
+19881218-NAP-BOL,1988-12-18,1988-1989,Serie A,Napoli,Bologna,3,1,Stadio San PaoloArbitro:,59 375,"Careca  26’, Maradona  53’,  75’",79’ (rig.) Demol,Arbitro: Stadio San Paolo (59 375 spett.)
+19881231-ROM-NAP,1988-12-31,1988-1989,Serie A,Roma,Napoli,1,0,Stadio OlimpicoArbitro:,39 288,Völler  87’,,Arbitro: Stadio Olimpico (39 288 spett.)
+19890108-TOR-NAP,1989-01-08,1988-1989,Serie A,Torino,Napoli,0,1,Stadio ComunaleArbitro:,32 303,,30’ Careca,Arbitro: Stadio Comunale (32 303 spett.)
+19890115-NAP-INT,1989-01-15,1988-1989,Serie A,Napoli,Inter,0,0,Stadio San PaoloArbitro:,82 989,,,Arbitro: Stadio San Paolo (82 989 spett.)
+19890122-SAM-NAP,1989-01-22,1988-1989,Serie A,Sampdoria,Napoli,0,0,Stadio Luigi FerrarisArbitro:,55 255,,,Arbitro: Stadio Luigi Ferraris (55 255 spett.)
+19890129-NAP-ASC,1989-01-29,1988-1989,Serie A,Napoli,Ascoli,4,1,Stadio San PaoloArbitro:,59 397,"Careca  1’, Maradona  34’,  77’, Crippa  81’",9’ Cvetkovic,Arbitro: Stadio San Paolo (59 397 spett.)
+19890205-PIS-NAP,1989-02-05,1988-1989,Serie A,Pisa,Napoli,0,1,Stadio Arena GaribaldiArbitro:,21 814,,32’ Carnevale,Arbitro: Stadio Arena Garibaldi (21 814 spett.)
+19890212-NAP-COM,1989-02-12,1988-1989,Serie A,Napoli,Como,3,2,Stadio San PaoloArbitro:,59 528,"Careca  11’, Neri  63’, Carnevale  82’","33’ Corneliusson, 43’ Simone",Arbitro: Stadio San Paolo (59 528 spett.)
+19890219-ATA-NAP,1989-02-19,1988-1989,Serie A,Atalanta,Napoli,1,1,Stadio ComunaleArbitro:,32 210,Nicolini  60’ (rig.),40’ Maradona,Arbitro: Stadio Comunale (32 210 spett.)
+19890226-NAP-LEC,1989-02-26,1988-1989,Serie A,Napoli,Lecce,4,0,Stadio San PaoloArbitro:,58 105,"Carnevale  3’,  47’, De Napoli  21’, Alemão  66’",,Arbitro: Stadio San Paolo (58 105 spett.)
+19890305-PES-NAP,1989-03-05,1988-1989,Serie A,Pescara,Napoli,0,0,Stadio AdriaticoArbitro:,26 475,,,Arbitro: Stadio Adriatico (26 475 spett.)
+19890312-NAP-CES,1989-03-12,1988-1989,Serie A,Napoli,Cesena,1,0,Stadio San PaoloArbitro:,59 489,Chiti  80’ (aut.),,Arbitro: Stadio San Paolo (59 489 spett.)
+19890319-LAZ-NAP,1989-03-19,1988-1989,Serie A,Lazio,Napoli,1,1,Stadio OlimpicoArbitro:,37 348,Ruben Sosa  31’,19’ Neri,Arbitro: Stadio Olimpico (37 348 spett.)
+19890402-NAP-JUV,1989-04-02,1988-1989,Serie A,Napoli,Juventus,2,4,Stadio San PaoloArbitro:,64 091,"De Napoli  5’, Careca  49’","8’ Napoli, 31’,  61’ Buso, 90’ (rig.) Magrin",Arbitro: Stadio San Paolo (64 091 spett.)
+19890409-MIL-NAP,1989-04-09,1988-1989,Serie A,Milan,Napoli,0,0,Stadio Giuseppe MeazzaArbitro:,73 057,,,Arbitro: Stadio Giuseppe Meazza (73 057 spett.)
+19890416-FIO-NAP,1989-04-16,1988-1989,Serie A,Fiorentina,Napoli,1,3,Stadio ComunaleArbitro:,30 710,Pellegrini  45’,"25’ Careca, 53’,  70’ Carnevale",Arbitro: Stadio Comunale (30 710 spett.)
+19890430-NAP-VER,1989-04-30,1988-1989,Serie A,Napoli,Verona,1,0,Stadio San PaoloArbitro:,55 572,Alemão  19’,,Arbitro: Stadio San Paolo (55 572 spett.)
+19890507-BOL-NAP,1989-05-07,1988-1989,Serie A,Bologna,Napoli,1,1,Stadio Renato Dall'AraArbitro:,28 211,Lorenzo  22’,25’ Careca,Arbitro: Stadio Renato Dall'Ara (28 211 spett.)
+19890514-NAP-ROM,1989-05-14,1988-1989,Serie A,Napoli,Roma,1,1,Stadio San PaoloArbitro:,57 473,Careca  58’,74’ Völler,Arbitro: Stadio San Paolo (57 473 spett.)
+19890521-NAP-TOR,1989-05-21,1988-1989,Serie A,Napoli,Torino,4,1,Stadio San PaoloArbitro:,59 952,"Carnevale  3’, Romano  22’, Careca  40’,  48’ (rig.)",52’ (rig.) Cravero,Arbitro: Stadio San Paolo (59 952 spett.)
+19890528-INT-NAP,1989-05-28,1988-1989,Serie A,Inter,Napoli,2,1,Stadio Giuseppe MeazzaArbitro:,69 869,"Fusi  49’ (aut.), Matthaus  83’",36’ Careca,Arbitro: Stadio Giuseppe Meazza (69 869 spett.)
+19890604-NAP-SAM,1989-06-04,1988-1989,Serie A,Napoli,Sampdoria,1,1,Stadio San PaoloArbitro:,55 255,Carannante  40’,75’ Cerezo,Arbitro: Stadio San Paolo (55 255 spett.)
+19890611-ASC-NAP,1989-06-11,1988-1989,Serie A,Ascoli,Napoli,2,0,Stadio Cino e Lillo Del DucaArbitro:,13 357,"Cvetkovic  17’, Giordano  24’ (rig.)",,Arbitro: Stadio Cino e Lillo Del Duca (13 357 spett.)
+19890618-NAP-PIS,1989-06-18,1988-1989,Serie A,Napoli,Pisa,0,0,Stadio San PaoloArbitro:,54 807,,,Arbitro: Stadio San Paolo (54 807 spett.)
+19890625-COM-NAP,1989-06-25,1988-1989,Serie A,Como,Napoli,0,1,Stadio Giuseppe SinigagliaArbitro:,4 839,,36’ (rig.) Renica,Arbitro: Stadio Giuseppe Sinigaglia (4 839 spett.)
+19880821-SPE-NAP,1988-08-21,1988-1989,Coppa Italia,Spezia,Napoli,1,3,Stadio ArdenzaArbitro:,7 800,Ceccaroni  76’ (rig.),"73’ Francini, 80’,  83’ Carnevale",Arbitro: Stadio Ardenza (7 800 spett.)
+19880824-BAR-NAP,1988-08-24,1988-1989,Coppa Italia,Bari,Napoli,2,0,Stadio della VittoriaArbitro:,19 450,"Armenise  29’, Maiellaro  84’",,Arbitro: Stadio della Vittoria (19 450 spett.)
+19880828-SAM-NAP,1988-08-28,1988-1989,Coppa Italia,Sambenedettese,Napoli,0,2,Stadio Riviera delle PalmeArbitro:,13 455,,"25’ (aut.) Salvioni, 68’ Romano",Arbitro: Stadio Riviera delle Palme (13 455 spett.)
+19880830-NAP-BAR,1988-08-30,1988-1989,Coppa Italia,Napoli,Barletta,3,0,Stadio PartenioArbitro:,34 560,"Renica  37’, Alemão  45’, Maradona  73’",,Arbitro: Stadio Partenio (34 560 spett.)
+19880101-NAP-BOL,1988-01-01,1988-1989,Coppa Italia,Napoli,Bologna,1,0,Stadio San PaoloArbitro:,44 459,Maradona  81’,,Arbitro: Stadio San Paolo (44 459 spett.)
+19880914-LEC-NAP,1988-09-14,1988-1989,Coppa Italia,Lecce,Napoli,1,1,Stadio Via del MareArbitro:,14 400,Paciocco  29’,42’ Maradona,Arbitro: Stadio Via del Mare (14 400 spett.)
+19880101-NAP-CES,1988-01-01,1988-1989,Coppa Italia,Napoli,Cesena,2,0,Stadio San PaoloArbitro:,49 890,"Carannante  28’, Maradona  58’",,Arbitro: Stadio San Paolo (49 890 spett.)
+19880928-MOD-NAP,1988-09-28,1988-1989,Coppa Italia,Modena,Napoli,0,4,Stadio Alberto BragliaArbitro:,18 903,,"29’ (rig.),  66’ Maradona, 37’ Careca, 73’ Carannante",Arbitro: Stadio Alberto Braglia (18 903 spett.)
+19890104-NAP-ASC,1989-01-04,1988-1989,Coppa Italia,Napoli,Ascoli,3,0,Stadio San PaoloArbitro:,45 560,"Corradini  50’, Neri  52’, Careca  71’",,Arbitro: Stadio San Paolo (45 560 spett.)
+19890125-ASC-NAP,1989-01-25,1988-1989,Coppa Italia,Ascoli,Napoli,3,1,Stadio Cino e Lillo Del DucaArbitro:,15 500,"Giordano  7’ (rig.),  42’, Gori  47’",20’ Carnevale,Arbitro: Stadio Cino e Lillo Del Duca (15 500 spett.)
+19880101-PIS-NAP,1988-01-01,1988-1989,Coppa Italia,Pisa,Napoli,0,2,Stadio Arena GaribaldiArbitro:,19 394,,"35’ Carnevale, 69’ Maradona",Arbitro: Stadio Arena Garibaldi (19 394 spett.)
+19890208-NAP-PIS,1989-02-08,1988-1989,Coppa Italia,Napoli,Pisa,1,0,Stadio San PaoloArbitro:,60 200,Romano  13’,,Arbitro: Stadio San Paolo (60 200 spett.)
+19890607-NAP-SAM,1989-06-07,1988-1989,Coppa Italia,Napoli,Sampdoria,1,0,Stadio San PaoloArbitro:,70 309,Renica  55’,,Arbitro: Stadio San Paolo (70 309 spett.)
+19890628-SAM-NAP,1989-06-28,1988-1989,Coppa Italia,Sampdoria,Napoli,4,0,Stadio Giovanni ZiniArbitro:,34 409,"Vialli  32’, Cerezo  38’, Vierchowod  47’, Mancini  59’ (rig.)",,Arbitro: Stadio Giovanni Zini (34 409 spett.)
+19880907-NAP-PAO,1988-09-07,1988-1989,Coppa UEFA,Napoli,PAOK,1,0,Stadio San PaoloArbitro:,,Maradona  55’ (rig.),,Arbitro: Stadio San Paolo
+19881006-PAO-NAP,1988-10-06,1988-1989,Coppa UEFA,PAOK,Napoli,1,1,Stadio ToumbaArbitro:,,Skartados  61’,17’ Careca,Arbitro: Stadio Toumba
+19881026-LOK-NAP,1988-10-26,1988-1989,Coppa UEFA,Lokomotive Lipsia,Napoli,1,1,ZentralstadionArbitro:,,Zimmerling  67’,72’ Francini,Arbitro: Zentralstadion
+19881109-NAP-LOK,1988-11-09,1988-1989,Coppa UEFA,Napoli,Lokomotive Lipsia,2,0,Stadio San PaoloArbitro:,,"Francini  2’, Scholz (aut.)  54’",,Arbitro: Stadio San Paolo
+19881123-BOR-NAP,1988-11-23,1988-1989,Coppa UEFA,Bordeaux,Napoli,0,1,Stadio Jacques Chaban-DelmasArbitro:,,,5’ Carnevale,Arbitro: Stadio Jacques Chaban-Delmas
+19881207-NAP-BOR,1988-12-07,1988-1989,Coppa UEFA,Napoli,Bordeaux,0,0,Stadio San PaoloArbitro:,,,,Arbitro: Stadio San Paolo
+19880101-JUV-NAP,1988-01-01,1988-1989,Coppa UEFA,Juventus,Napoli,2,0,Stadio OlimpicoArbitro:,,"Bruno  5’, Corradini (aut.)  45’",,Arbitro: Stadio Olimpico
+19890315-NAP-JUV,1989-03-15,1988-1989,Coppa UEFA,Napoli,Juventus,3,0,Stadio San PaoloArbitro:,,"Maradona (rig.)  10’, Carnevale  45’, Renica  119’",,Arbitro: Stadio San Paolo
+19890405-NAP-BAY,1989-04-05,1988-1989,Coppa UEFA,Napoli,Bayern Monaco,2,0,Stadio San PaoloArbitro:,,"Careca  40’, Carnevale  59’",,Arbitro: Stadio San Paolo
+19890419-BAY-NAP,1989-04-19,1988-1989,Coppa UEFA,Bayern Monaco,Napoli,2,2,OlympiastadionArbitro:,,"Wohlfarth  63’, Reuter  81’","61’,  76’ Careca",Arbitro: Olympiastadion
+19890503-NAP-STO,1989-05-03,1988-1989,Coppa UEFA,Napoli,Stoccarda,2,1,San PaoloArbitro:,,"Maradona (rig.)  60’, Careca  87’",17’ Gaudino,Arbitro: San Paolo (76.824 ca. spett.)
+19890517-STO-NAP,1989-05-17,1988-1989,Coppa UEFA,Stoccarda,Napoli,3,3,NeckarstadionArbitro:,,"Klinsmann  27’, De Napoli  70’ (aut.), Schmäler  89’","18’ Alemão, 39’ Ferrara, 62’ Careca",Arbitro: Neckarstadion (67.000 ca. spett.)

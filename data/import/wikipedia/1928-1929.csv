@@ -1,0 +1,32 @@
+match_id,date,season,competition,home_raw_name,away_raw_name,home_goals,away_goals,stadium,attendance,home_scorers,away_scorers,notes
+19280930-NAP-VER,1928-09-30,1928-1929,Serie A,Napoli,Verona,3,0,Campo dell'IlvaArbitro:,,"Buscaglia  7’, Sallustro  42’, Pampaloni  88’",,Arbitro: Campo dell'Ilva
+19281007-PIS-NAP,1928-10-07,1928-1929,Serie A,Pistoiese,Napoli,0,1,Campo MonteolivetoArbitro:,,,17’ Pampaloni,Arbitro: Campo Monteoliveto
+19281022-BRE-NAP,1928-10-22,1928-1929,Serie A,Brescia,Napoli,2,0,Stadium di viale PiaveArbitro:,,"Cidri  42’, Giuliani  87’",,Arbitro: Stadium di viale Piave
+19281028-NAP-FIO,1928-10-28,1928-1929,Serie A,Napoli,Fiorentina,7,2,Campo dell'IlvaArbitro:,,"Ramello  30’,  56’, E. Ghisi  33’,  53’, Sallustro  37’,  39’,  61’","20’ Meucci, 49’ Bassi",Arbitro: Campo dell'Ilva
+19280101-BOL-NAP,1928-01-01,1928-1929,Serie A,Bologna,Napoli,5,1,Stadio del LittorialeArbitro:,,"Pitto  29’,  52’, A.Busini  54’,  55’,  83’",80’ Sallustro,Arbitro: Stadio del Littoriale
+19281104-NAP-CRE,1928-11-04,1928-1929,Serie A,Napoli,Cremonese,1,1,Campo dell'IlvaArbitro:,,Fenili  38’,53’ Prosperi II,Arbitro: Campo dell'Ilva
+19281118-VEN-NAP,1928-11-18,1928-1929,Serie A,Venezia,Napoli,2,2,Stadio Pierluigi PenzoArbitro:,,"Pantani  14’, Padovan  24’","79’ Cassese, 90’ Fenili",Arbitro: Stadio Pierluigi Penzo
+19281125-NAP-GEN,1928-11-25,1928-1929,Serie A,Napoli,Genova 1893,1,2,Campo dell'IlvaArbitro:,,Sallustro  27’,"7’ E. Bodini, 57’ Levratto",Arbitro: Campo dell'Ilva
+19281209-NAP-PRO,1928-12-09,1928-1929,Serie A,Napoli,Pro Vercelli,3,3,Campo dell'IlvaArbitro:,,"Pampaloni  2’, Sallustro  52’, Gariglio  78’","21’ (aut.) Pampaloni, 59’ L.Bajardi, 60’ Santagostino",Arbitro: Campo dell'Ilva
+19281216-REG-NAP,1928-12-16,1928-1929,Serie A,Reggiana,Napoli,8,2,Stadio comunale MirabelloArbitro:,,"Guizzardi  28’,  38’, Casanova  39’,  48’,  67’, Bertoli  75’, Bottazzi  84’ (rig.), Lombatti  89’","15’ Pampaloni, 35’ Sallustro",Arbitro: Stadio comunale Mirabello
+19281223-JUV-NAP,1928-12-23,1928-1929,Serie A,Juventus,Napoli,3,1,Stadio di Corso MarsigliaArbitro:,,"Vojak  17’, E.Borgo  27’,  51’",35’ Pampaloni,Arbitro: Stadio di Corso Marsiglia
+19290106-NAP-FIU,1929-01-06,1928-1929,Serie A,Napoli,Fiumana,2,1,Stadio Militare dell'ArenacciaArbitro:,,"Sallustro  13’, Gariglio  79’",40’ Froglia,Arbitro: Stadio Militare dell'Arenaccia
+19290113-BIE-NAP,1929-01-13,1928-1929,Serie A,Biellese,Napoli,3,2,Campo Sportivo RivettiArbitro:,,"G.Varalda  33’,  64’, Gaia  85’","55’ Pampaloni, 66’ Buscaglia",Arbitro: Campo Sportivo Rivetti
+19290120-AMB-NAP,1929-01-20,1928-1929,Serie A,Ambrosiana,Napoli,8,1,Campo Virgilio FossatiArbitro:,,"Meazza  4’,  27’,  50’, Rivolta  6’,  17’, Blasevich  23’, Visentin  62’, Conti  75’",88’ Pampaloni,Arbitro: Campo Virgilio Fossati
+19290127-NAP-LAZ,1929-01-27,1928-1929,Serie A,Napoli,Lazio,1,2,Campo dell'IlvaArbitro:,,Tiburzi  7’,"73’ Radice, 77’ (aut.) Ramello",Arbitro: Campo dell'Ilva
+19290203-VER-NAP,1929-02-03,1928-1929,Serie A,Verona,Napoli,0,0,Campo di Piazza CittadellaArbitro:,,,,Arbitro: Campo di Piazza Cittadella
+19290210-NAP-PIS,1929-02-10,1928-1929,Serie A,Napoli,Pistoiese,4,1,Stadio Militare dell'ArenacciaArbitro:,,"Buscaglia  5’,  46’,  61’, E. Ghisi  84’",51’ Gambino,Arbitro: Stadio Militare dell'Arenaccia
+19290217-NAP-BRE,1929-02-17,1928-1929,Serie A,Napoli,Brescia,4,0,Stadio Militare dell'ArenacciaArbitro:,,"Fenili  19’, Gariglio  65’, Buscaglia  69’, Sallustro  82’",,Arbitro: Stadio Militare dell'Arenaccia
+19290224-FIO-NAP,1929-02-24,1928-1929,Serie A,Fiorentina,Napoli,1,1,Stadio Velodromo LibertasArbitro:,,Bassi  63’,11’ Sallustro,Arbitro: Stadio Velodromo Libertas
+19290317-NAP-BOL,1929-03-17,1928-1929,Serie A,Napoli,Bologna,0,4,Campo dell'IlvaArbitro:,,,"10’,  58’ Della Valle, 84’ A.Busini, 86’ Muzzioli",Arbitro: Campo dell'Ilva
+19290331-CRE-NAP,1929-03-31,1928-1929,Serie A,Cremonese,Napoli,5,1,Stadio Giovanni ZiniArbitro:,,"Dalle Vedove  43’, Ranelli  61’,  83’, Moroni  62’, Dossena  73’",71’ G.Innocenti,Arbitro: Stadio Giovanni Zini
+19290414-NAP-VEN,1929-04-14,1928-1929,Serie A,Napoli,Venezia,4,1,Stadio Militare dell'ArenacciaArbitro:,,"Buscaglia  6’,  87’, Sallustro  24’,  75’",63’ Gorini,Arbitro: Stadio Militare dell'Arenaccia
+19290421-GEN-NAP,1929-04-21,1928-1929,Serie A,Genova 1893,Napoli,2,1,Stadio MarassiArbitro:,,"Catto  25’, Bodini  29’",63’ G.Innocenti,Arbitro: Stadio Marassi
+19290505-PRO-NAP,1929-05-05,1928-1929,Serie A,Pro Vercelli,Napoli,4,1,Campo piazza Conte di TorinoArbitro:,,"Casalino  25’,  85’, Zanello  32’ (rig.), Greppi  69’",77’ G.Innocenti,Arbitro: Campo piazza Conte di Torino
+19290512-NAP-REG,1929-05-12,1928-1929,Serie A,Napoli,Reggiana,6,2,Stadio Militare dell'ArenacciaArbitro:,,"Buscaglia  3’, Sallustro  9’,  33’,  43’,  54’,  85’","63’ Bertoli, 80’ Bezzecchi",Arbitro: Stadio Militare dell'Arenaccia
+19290519-NAP-JUV,1929-05-19,1928-1929,Serie A,Napoli,Juventus,1,0,Campo dell'IlvaArbitro:,,G.Innocenti  58’,,Arbitro: Campo dell'Ilva
+19290526-FIU-NAP,1929-05-26,1928-1929,Serie A,Fiumana,Napoli,1,1,Stadio Comunale del LittorioArbitro:,,Froglia  63’ (rig.),25’ G.Innocenti,Arbitro: Stadio Comunale del Littorio
+19290602-NAP-BIE,1929-06-02,1928-1929,Serie A,Napoli,Biellese,5,0,Stadio Militare dell'ArenacciaArbitro:,,"Roggia  11’, Buscaglia  17’,  61’, Sallustro  23’, Fenili  86’",,Arbitro: Stadio Militare dell'Arenaccia
+19290609-NAP-AMB,1929-06-09,1928-1929,Serie A,Napoli,Ambrosiana,4,1,Campo dell'IlvaArbitro:,,"Sallustro  3’,  9’, Buscaglia  16’, Gariglio  26’",77’ Serantoni,Arbitro: Campo dell'Ilva
+19290616-LAZ-NAP,1929-06-16,1928-1929,Serie A,Lazio,Napoli,0,0,Stadio della RondinellaArbitro:,,,,Arbitro: Stadio della Rondinella
+19290623-NAP-LAZ,1929-06-23,1928-1929,Serie A,Napoli,Lazio,2,2,Campo San SiroArbitro:,,"Sallustro  55’, G. Innocenti  69’","17’ Spivach, 80’ C. Cevenini",Arbitro: Campo San Siro

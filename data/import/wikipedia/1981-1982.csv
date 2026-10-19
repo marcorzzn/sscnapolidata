@@ -1,0 +1,40 @@
+match_id,date,season,competition,home_raw_name,away_raw_name,home_goals,away_goals,stadium,attendance,home_scorers,away_scorers,notes
+19810913-NAP-CAT,1981-09-13,1981-1982,Serie A,Napoli,Catanzaro,1,1,Stadio San PaoloArbitro:,64 225,Pellegrini  46’,87’ (rig.) Bivi,Arbitro: Stadio San Paolo (64 225 spett.)
+19810920-CAG-NAP,1981-09-20,1981-1982,Serie A,Cagliari,Napoli,1,1,Stadio Sant'EliaArbitro:,26 133,Selvaggi  70’,34’ Pellegrini,Arbitro: Stadio Sant'Elia (26 133 spett.)
+19810927-NAP-MIL,1981-09-27,1981-1982,Serie A,Napoli,Milan,0,1,Stadio San PaoloArbitro:,70 672,,58’ (aut.) Ferrario,Arbitro: Stadio San Paolo (70 672 spett.)
+19811004-ASC-NAP,1981-10-04,1981-1982,Serie A,Ascoli,Napoli,0,0,Stadio Cino e Lillo Del DucaArbitro:,16 922,,,Arbitro: Stadio Cino e Lillo Del Duca (16 922 spett.)
+19811011-NAP-COM,1981-10-11,1981-1982,Serie A,Napoli,Como,2,0,Stadio San PaoloArbitro:,44 767,"Pellegrini  10’, Citterio  50’",,Arbitro: Stadio San Paolo (44 767 spett.)
+19811025-CES-NAP,1981-10-25,1981-1982,Serie A,Cesena,Napoli,1,3,Stadio La FioritaArbitro:,19 701,Palanca  36’ (aut.),"19’ Palanca, 83’ Musella, 88’ Damiani",Arbitro: Stadio La Fiorita (19 701 spett.)
+19810101-NAP-AVE,1981-01-01,1981-1982,Serie A,Napoli,Avellino,0,0,Stadio San PaoloArbitro:,59 364,,,Arbitro: Stadio San Paolo (59 364 spett.)
+19811108-TOR-NAP,1981-11-08,1981-1982,Serie A,Torino,Napoli,0,0,Stadio ComunaleArbitro:,24 193,,,Arbitro: Stadio Comunale (24 193 spett.)
+19811122-NAP-UDI,1981-11-22,1981-1982,Serie A,Napoli,Udinese,0,0,Stadio San PaoloArbitro:,49 034,,,Arbitro: Stadio San Paolo (49 034 spett.)
+19811129-BOL-NAP,1981-11-29,1981-1982,Serie A,Bologna,Napoli,2,2,Stadio ComunaleArbitro:,22 777,"Benedetti  5’,  22’","10’ Damiani, 59’ Bruscolotti",Arbitro: Stadio Comunale (22 777 spett.)
+19811213-NAP-INT,1981-12-13,1981-1982,Serie A,Napoli,Inter,2,0,Stadio San PaoloArbitro:,67 869,"Musella  33’, Pellegrini  39’",,Arbitro: Stadio San Paolo (67 869 spett.)
+19811220-FIO-NAP,1981-12-20,1981-1982,Serie A,Fiorentina,Napoli,2,1,Stadio ComunaleArbitro:,45 815,"Graziani  32’, Bertoni  76’",33’ Pellegrini,Arbitro: Stadio Comunale (45 815 spett.)
+19820103-NAP-ROM,1982-01-03,1981-1982,Serie A,Napoli,Roma,1,0,Stadio San PaoloArbitro:,72 273,Citterio  79’,,Arbitro: Stadio San Paolo (72 273 spett.)
+19820110-NAP-JUV,1982-01-10,1981-1982,Serie A,Napoli,Juventus,0,0,Stadio San PaoloArbitro:,81 531,,,Arbitro: Stadio San Paolo (81 531 spett.)
+19820117-GEN-NAP,1982-01-17,1981-1982,Serie A,Genoa,Napoli,2,0,Stadio Luigi FerrarisArbitro:,34 157,"Russo  14’, Briaschi  77’",,Arbitro: Stadio Luigi Ferraris (34 157 spett.)
+19820124-CAT-NAP,1982-01-24,1981-1982,Serie A,Catanzaro,Napoli,0,1,Stadio MilitareArbitro:,15 922,,10’ (aut.) Santarini,Arbitro: Stadio Militare (15 922 spett.)
+19820131-NAP-CAG,1982-01-31,1981-1982,Serie A,Napoli,Cagliari,1,0,Stadio San PaoloArbitro:,50 090,Guidetti  30’ (rig.),,Arbitro: Stadio San Paolo (50 090 spett.)
+19820207-MIL-NAP,1982-02-07,1981-1982,Serie A,Milan,Napoli,1,1,Stadio Giuseppe MeazzaArbitro:,49 968,Antonelli  2’,29’ (rig.) Guidetti,Arbitro: Stadio Giuseppe Meazza (49 968 spett.)
+19820214-NAP-ASC,1982-02-14,1981-1982,Serie A,Napoli,Ascoli,0,0,Stadio San PaoloArbitro:,44 636,,,Arbitro: Stadio San Paolo (44 636 spett.)
+19820228-COM-NAP,1982-02-28,1981-1982,Serie A,Como,Napoli,0,4,Stadio Giuseppe SinigagliaArbitro:,11 815,,"17’ Marino, 33’,  59’,  88’ Pellegrini",Arbitro: Stadio Giuseppe Sinigaglia (11 815 spett.)
+19820307-NAP-CES,1982-03-07,1981-1982,Serie A,Napoli,Cesena,2,2,Stadio San PaoloArbitro:,49 312,"Pellegrini  20’,  47’","11’ Garlini, 13’ Schachner",Arbitro: Stadio San Paolo (49 312 spett.)
+19820314-AVE-NAP,1982-03-14,1981-1982,Serie A,Avellino,Napoli,3,0,Stadio PartenioArbitro:,29 633,"Giovannelli  5’, Juary  44’,  49’",,Arbitro: Stadio Partenio (29 633 spett.)
+19820321-NAP-TOR,1982-03-21,1981-1982,Serie A,Napoli,Torino,2,0,Stadio San PaoloArbitro:,46 085,"Criscimanni  3’, Pellegrini  43’",,Arbitro: Stadio San Paolo (46 085 spett.)
+19820328-UDI-NAP,1982-03-28,1981-1982,Serie A,Udinese,Napoli,0,1,Stadio FriuliArbitro:,36 423,,18’ Damiani,Arbitro: Stadio Friuli (36 423 spett.)
+19820404-NAP-BOL,1982-04-04,1981-1982,Serie A,Napoli,Bologna,2,0,Stadio San PaoloArbitro:,51 091,"Bruscolotti  44’, Fabbri  52’ (aut.)",,Arbitro: Stadio San Paolo (51 091 spett.)
+19820418-INT-NAP,1982-04-18,1981-1982,Serie A,Inter,Napoli,1,1,Stadio Giuseppe MeazzaArbitro:,44 006,Altobelli  6’,39’ (rig.) Guidetti,Arbitro: Stadio Giuseppe Meazza (44 006 spett.)
+19820425-NAP-FIO,1982-04-25,1981-1982,Serie A,Napoli,Fiorentina,0,1,Stadio San PaoloArbitro:,67 262,,82’ Antognoni,Arbitro: Stadio San Paolo (67 262 spett.)
+19820502-ROM-NAP,1982-05-02,1981-1982,Serie A,Roma,Napoli,1,1,Stadio OlimpicoArbitro:,56 454,Pruzzo  54’ (rig.),33’ (rig.) Guidetti,Arbitro: Stadio Olimpico (56 454 spett.)
+19820509-JUV-NAP,1982-05-09,1981-1982,Serie A,Juventus,Napoli,0,0,Stadio ComunaleArbitro:,65 112,,,Arbitro: Stadio Comunale (65 112 spett.)
+19820516-NAP-GEN,1982-05-16,1981-1982,Serie A,Napoli,Genoa,2,2,Stadio San PaoloArbitro:,51 524,"Criscimanni  56’, Musella  62’","3’ Briaschi, 85’ Faccenda",Arbitro: Stadio San Paolo (51 524 spett.)
+19810823-BAR-NAP,1981-08-23,1981-1982,Coppa Italia,Bari,Napoli,0,0,Stadio della VittoriaArbitro:,,,,Arbitro: Stadio della Vittoria
+19810826-UNK-UNK,1981-08-26,1981-1982,Coppa Italia,,,,,,,,,
+19810830-NAP-CRE,1981-08-30,1981-1982,Coppa Italia,Napoli,Cremonese,1,0,Stadio San PaoloArbitro:,,Pellegrini  31’,,Arbitro: Stadio San Paolo
+19810902-AVE-NAP,1981-09-02,1981-1982,Coppa Italia,Avellino,Napoli,0,0,Stadio PartenioArbitro:,,,,Arbitro: Stadio Partenio
+19810906-NAP-ASC,1981-09-06,1981-1982,Coppa Italia,Napoli,Ascoli,2,0,Stadio San PaoloArbitro:,,"Musella  54’,  58’",,Arbitro: Stadio San Paolo
+19811115-CAT-NAP,1981-11-15,1981-1982,Coppa Italia,Catanzaro,Napoli,0,1,Stadio MilitareArbitro:,,,45’ Pellegrini,Arbitro: Stadio Militare
+19811223-NAP-CAT,1981-12-23,1981-1982,Coppa Italia,Napoli,Catanzaro,1,2,Stadio San PaoloArbitro:,,Vinazzani  75’,"66’ Năstase, 74’ Santarini",Arbitro: Stadio San Paolo
+19810916-NAP-RAD,1981-09-16,1981-1982,Coppa UEFA,Napoli,Radnički Niš,2,2,Stadio San PaoloArbitro:,,"Damiani  68’, Musella  81’","72’ Stojiljković, 79’ Aleksić",Arbitro: Stadio San Paolo
+19810930-RAD-NAP,1981-09-30,1981-1982,Coppa UEFA,Radnički Niš,Napoli,0,0,Stadion ČairArbitro:,,,,Arbitro: Stadion Čair

@@ -1,0 +1,35 @@
+match_id,date,season,competition,home_raw_name,away_raw_name,home_goals,away_goals,stadium,attendance,home_scorers,away_scorers,notes
+19291006-JUV-NAP,1929-10-06,1929-1930,Serie A,Juventus,Napoli,3,2,Campo JuventusArbitro:,,"Zoccola  10’ (aut.), Cevenini  65’, Munerati  86’","42’,  53’ Mihalich",Arbitro: Campo Juventus
+19291013-NAP-BRE,1929-10-13,1929-1930,Serie A,Napoli,Brescia,1,1,Stadio XXVIII ottobreArbitro:,,Buscaglia  65’ (rig.),55’ Prosperi,Arbitro: Stadio XXVIII ottobre
+19291020-NAP-MIL,1929-10-20,1929-1930,Serie A,Napoli,Milan,2,1,Stadio Militare dell'ArenacciaArbitro:,,"Buscaglia  75’, Sallustro  85’",32’ Santagostino,Arbitro: Stadio Militare dell'Arenaccia
+19291027-BOL-NAP,1929-10-27,1929-1930,Serie A,Bologna,Napoli,3,1,Stadio LittorialeArbitro:,,"Pilati  53’, Maini  70’, Schiavio  86’",87’ Buscaglia,Arbitro: Stadio Littoriale
+19291103-NAP-LIV,1929-11-03,1929-1930,Serie A,Napoli,Livorno,1,1,Stadio Militare dell'ArenacciaArbitro:,,Sallustro  29’,63’ Magnozzi,Arbitro: Stadio Militare dell'Arenaccia
+19291110-ROM-NAP,1929-11-10,1929-1930,Serie A,Roma,Napoli,2,2,Campo TestaccioArbitro:,,"Chini Ludueña  6’, Volk  62’","35’,  41’ Vojak",Arbitro: Campo Testaccio
+19291117-NAP-TOR,1929-11-17,1929-1930,Serie A,Napoli,Torino,2,0,Stadio XXVIII ottobreArbitro:,,"Sallustro  52’, Buscaglia  57’",,Arbitro: Stadio XXVIII ottobre
+19291124-MOD-NAP,1929-11-24,1929-1930,Serie A,Modena,Napoli,0,5,Campo di Viale FontanelliArbitro:,,,"14’,  41’ Mihalich, 58’,  61’ Vojak, 74’ Sallustro",Arbitro: Campo di Viale Fontanelli
+19291208-NAP-CRE,1929-12-08,1929-1930,Serie A,Napoli,Cremonese,3,0,Stadio XXVIII ottobreArbitro:,,"Buscaglia  61’ (rig.), Mihalich  80’, Vojak  85’",,Arbitro: Stadio XXVIII ottobre
+19291215-PRO-NAP,1929-12-15,1929-1930,Serie A,Pro Patria,Napoli,3,2,Stadio ComunaleArbitro:,,"Leone  38’, Rossi  85’, Reguzzoni  87’","20’ Mihalich, 67’ Sallustro",Arbitro: Stadio Comunale
+19291222-NAP-PRO,1929-12-22,1929-1930,Serie A,Napoli,Pro Vercelli,1,1,Stadio XXVIII ottobreArbitro:,,Mihalich  30’,5’ Seccatore,Arbitro: Stadio XXVIII ottobre
+19300105-AMB-NAP,1930-01-05,1929-1930,Serie A,Ambrosiana,Napoli,2,1,Campo Virgilio FossatiArbitro:,,"Blasevich  23’,  47’",90’ Vojak,Arbitro: Campo Virgilio Fossati
+19300112-NAP-GEN,1930-01-12,1929-1930,Serie A,Napoli,Genova 1893,1,2,Stadio Militare dell'ArenacciaArbitro:,,Ghisi  47’,"11’ Puerari, 54’ Banchero",Arbitro: Stadio Militare dell'Arenaccia
+19300119-LAZ-NAP,1930-01-19,1929-1930,Serie A,Lazio,Napoli,0,2,Stadio della RondinellaArbitro:,,,"5’ Mihalich, 10’ Sallustro",Arbitro: Stadio della Rondinella
+19300319-ALE-NAP,1930-03-19,1929-1930,Serie A,Alessandria,Napoli,2,1,Campo del LittorioArbitro:,,"Vincenzi  35’ (aut.), Avalle  46’",15’ Sallustro,Arbitro: Campo del Littorio
+19300202-NAP-PAD,1930-02-02,1929-1930,Serie A,Napoli,Padova,1,0,Stadio XXVIII ottobreArbitro:,,Vojak  85’,,Arbitro: Stadio XXVIII ottobre
+19300216-NAP-TRI,1930-02-16,1929-1930,Serie A,Napoli,Triestina,4,1,Stadio Vesuvio [8]Arbitro:,,"Vojak  18’ (rig.),  44’, Fenili  64’, Sallustro  88’",82’ Vollono,Arbitro: Stadio Vesuvio [8]
+19300223-NAP-JUV,1930-02-23,1929-1930,Serie A,Napoli,Juventus,2,2,Stadio VesuvioArbitro:,,"Buscaglia  60’,  64’","3’ Munerati, 15’ Orsi",Arbitro: Stadio Vesuvio
+19300309-BRE-NAP,1930-03-09,1929-1930,Serie A,Brescia,Napoli,2,1,Stadium di Viale PiaveArbitro:,,"Giuliani  29’, Frisoni  70’",85’ Vojak,Arbitro: Stadium di Viale Piave
+19300316-MIL-NAP,1930-03-16,1929-1930,Serie A,Milan,Napoli,2,2,Stadio San SiroArbitro:,,"Torriani  21’, Santagostino  31’","43’,  79’ Vojak",Arbitro: Stadio San Siro
+19300323-NAP-BOL,1930-03-23,1929-1930,Serie A,Napoli,Bologna,2,1,Stadio Giorgio AscarelliArbitro:,,"Buscaglia  35’, Zoccola  89’",75’ Della Valle,Arbitro: Stadio Giorgio Ascarelli
+19300330-LIV-NAP,1930-03-30,1929-1930,Serie A,Livorno,Napoli,3,0,Campo di Villa ChayesArbitro:,,"Corsetti  17’, Alberti  26’, Magnozzi  54’",,Arbitro: Campo di Villa Chayes
+19300413-NAP-ROM,1930-04-13,1929-1930,Serie A,Napoli,Roma,1,1,Stadio Giorgio AscarelliArbitro:,,Vojak  33’,15’ Bernardini,Arbitro: Stadio Giorgio Ascarelli
+19300420-TOR-NAP,1930-04-20,1929-1930,Serie A,Torino,Napoli,1,0,Stadio FiladelfiaArbitro:,,Silano  85’,,Arbitro: Stadio Filadelfia
+19300427-NAP-MOD,1930-04-27,1929-1930,Serie A,Napoli,Modena,2,1,Stadio Giorgio AscarelliArbitro:,,"Sallustro  13’, Vojak  37’",62’ Piccaluga,Arbitro: Stadio Giorgio Ascarelli
+19300504-CRE-NAP,1930-05-04,1929-1930,Serie A,Cremonese,Napoli,0,0,Stadio Giovanni ZiniArbitro:,,,,Arbitro: Stadio Giovanni Zini
+19300518-NAP-PRO,1930-05-18,1929-1930,Serie A,Napoli,Pro Patria,4,2,Stadio Giorgio AscarelliArbitro:,,"Sallustro  16’, Vojak  23’, Mihalich  65’, Borsani  89’ (aut.)","18’ Rossi, 62’ Reguzzoni",Arbitro: Stadio Giorgio Ascarelli
+19300525-PRO-NAP,1930-05-25,1929-1930,Serie A,Pro Vercelli,Napoli,4,0,Campo piazza Conte di TorinoArbitro:,,"Casalino  21’, Gatti  23’,  57’, Bajardi  25’",,Arbitro: Campo piazza Conte di Torino
+19300529-NAP-AMB,1930-05-29,1929-1930,Serie A,Napoli,Ambrosiana,3,1,Stadio Giorgio AscarelliArbitro:,,"Perani  44’, Sallustro  58’,  89’",72’ Serantoni,Arbitro: Stadio Giorgio Ascarelli
+19290101-GEN-NAP,1929-01-01,1929-1930,Serie A,Genova 1893,Napoli,2,2,Campo di Via del PianoArbitro:,,"Banchero  43’, Puerari  46’","66’ Vojak, 81’ Roggia",Arbitro: Campo di Via del Piano
+19300408-NAP-LAZ,1930-04-08,1929-1930,Serie A,Napoli,Lazio,3,0,Stadio Giorgio AscarelliArbitro:,,"Buscaglia  70’ (rig.),  76’, Mihalich  82’",,Arbitro: Stadio Giorgio Ascarelli
+19300615-NAP-ALE,1930-06-15,1929-1930,Serie A,Napoli,Alessandria,3,1,Stadio Giorgio AscarelliArbitro:,,"Ghisi  34’, Sallustro  84’, Vojak  86’",37’ Scagliotti,Arbitro: Stadio Giorgio Ascarelli
+19300629-PAD-NAP,1930-06-29,1929-1930,Serie A,Padova,Napoli,3,0,Stadio Silvio AppianiArbitro:,,"Bergamini  49’,  77’, Lamon  81’",,Arbitro: Stadio Silvio Appiani
+19300706-TRI-NAP,1930-07-06,1929-1930,Serie A,Triestina,Napoli,3,4,Stadio MontebelloArbitro:,,"De Manzano  9’, Palumbo  15’, Castellani  90’","19’,  53’,  65’ Vojak, 89’ Perani",Arbitro: Stadio Montebello

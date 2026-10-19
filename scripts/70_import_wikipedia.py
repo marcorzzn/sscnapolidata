@@ -1,4 +1,4 @@
-﻿import os
+import os
 import sys
 import re
 import csv
@@ -10,7 +10,7 @@ from bs4 import BeautifulSoup
 from datetime import datetime
 
 # Aggiungo la root path per poter importare
-BASE_DIR = 'C:\\Users\\marco\\sscnapolidata-remoto'
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.append(BASE_DIR)
 try:
     # Use importlib to avoid syntax error on number in module name

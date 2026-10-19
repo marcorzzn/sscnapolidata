@@ -1,0 +1,35 @@
+match_id,date,season,competition,home_raw_name,away_raw_name,home_goals,away_goals,stadium,attendance,home_scorers,away_scorers,notes
+19320918-NAP-LAZ,1932-09-18,1932-1933,Serie A,Napoli,Lazio,3,1,Stadio Giorgio AscarelliArbitro:,,"A. Vojak  3’ (rig.), A. Sallustro  48’,  50’",65’ J. Fantoni,Arbitro: Stadio Giorgio Ascarelli
+19320925-TRI-NAP,1932-09-25,1932-1933,Serie A,Triestina,Napoli,2,2,Stadio del LittorioArbitro:,,"Rosa  27’,  42’","30’ A. Sallustro, 59’ V. Gravisi",Arbitro: Stadio del Littorio
+19321002-NAP-JUV,1932-10-02,1932-1933,Serie A,Napoli,Juventus,1,0,Stadio Giorgio AscarelliArbitro:,,A. Sallustro  53’,,Arbitro: Stadio Giorgio Ascarelli
+19321009-MIL-NAP,1932-10-09,1932-1933,Serie A,Milan,Napoli,0,3,Stadio San SiroArbitro:,,,"15’ Benatti, 47’ (rig.) A. Vojak, 89’ A. Sallustro",Arbitro: Stadio San Siro
+19321016-NAP-CAS,1932-10-16,1932-1933,Serie A,Napoli,Casale,4,0,Stadio Giorgio AscarelliArbitro:,,"V. Gravisi  4’, A. Sallustro  68’,  84’, Innocenti  82’",,Arbitro: Stadio Giorgio Ascarelli
+19321023-PAD-NAP,1932-10-23,1932-1933,Serie A,Padova,Napoli,2,2,Stadio Silvio AppianiArbitro:,,"Spivach  19’, Bergamini  85’","49’,  70’ A. Vojak",Arbitro: Stadio Silvio Appiani
+19321106-NAP-FIO,1932-11-06,1932-1933,Serie A,Napoli,Fiorentina,2,1,Stadio Giorgio AscarelliArbitro:,,"A. Vojak  48’, Benatti  75’",21’ Sarni,Arbitro: Stadio Giorgio Ascarelli
+19321113-BAR-NAP,1932-11-13,1932-1933,Serie A,Bari,Napoli,2,4,Campo degli SportsArbitro:,,"Giuliani  26’,  82’","31’ (rig.),  67’ (rig.) A. Vojak, 56’ A. Sallustro, 66’ V. Gravisi",Arbitro: Campo degli Sports
+19321120-NAP-TOR,1932-11-20,1932-1933,Serie A,Napoli,Torino,1,1,Stadio Giorgio AscarelliArbitro:,,A. Sallustro  48’,79’ Silano,Arbitro: Stadio Giorgio Ascarelli
+19321204-BOL-NAP,1932-12-04,1932-1933,Serie A,Bologna,Napoli,3,1,Stadio LittorialeArbitro:,,"Reguzzoni  34’, Maini  62’, Schiavio  64’",19’ V. Gravisi,Arbitro: Stadio Littoriale
+19321211-NAP-PRO,1932-12-11,1932-1933,Serie A,Napoli,Pro Patria,2,1,Stadio Giorgio AscarelliArbitro:,,"A. Sallustro  52’, A. Vojak  72’ (rig.)",1’ Masera,Arbitro: Stadio Giorgio Ascarelli
+19321218-NAP-ROM,1932-12-18,1932-1933,Serie A,Napoli,Roma,1,2,Stadio Giorgio AscarelliArbitro:,,A. Vojak  47’,"46’ Eusebio, 67’ Volk",Arbitro: Stadio Giorgio Ascarelli
+19330108-GEN-NAP,1933-01-08,1932-1933,Serie A,Genova 1893,Napoli,2,2,Stadio Luigi FerrarisArbitro:,,"Stabile  16’,  70’","2’ (aut.) Gilardoni, 60’ A. Sallustro",Arbitro: Stadio Luigi Ferraris
+19330125-ALE-NAP,1933-01-25,1932-1933,Serie A,Alessandria,Napoli,3,2,Stadio del LittorioArbitro:,,"Scagliotti  5’, Marchina  20’,  35’","81’ (aut.) Lombardo, 89’ Ranelli",Arbitro: Stadio del Littorio
+19330122-NAP-PRO,1933-01-22,1932-1933,Serie A,Napoli,Pro Vercelli,3,0,Stadio Giorgio AscarelliArbitro:,,"Benatti  16’, Ferraris  70’, A. Sallustro  80’",,Arbitro: Stadio Giorgio Ascarelli
+19330129-PAL-NAP,1933-01-29,1932-1933,Serie A,Palermo,Napoli,1,0,Stadio del LittorioArbitro:,,G. Chiecchi  87’,,Arbitro: Stadio del Littorio
+19330205-NAP-AMB,1933-02-05,1932-1933,Serie A,Napoli,Ambrosiana-Inter,3,0,Stadio Giorgio AscarelliArbitro:,,"Ranelli  23’, A. Vojak  35’,  44’",,Arbitro: Stadio Giorgio Ascarelli
+19330219-LAZ-NAP,1933-02-19,1932-1933,Serie A,Lazio,Napoli,0,1,Stadio Nazionale del PNFArbitro:,,,51’ A. Vojak,Arbitro: Stadio Nazionale del PNF
+19330226-NAP-TRI,1933-02-26,1932-1933,Serie A,Napoli,Triestina,2,0,Stadio Giorgio AscarelliArbitro:,,"Ranelli  18’, A. Sallustro  77’",,Arbitro: Stadio Giorgio Ascarelli
+19330305-JUV-NAP,1933-03-05,1932-1933,Serie A,Juventus,Napoli,3,0,Campo JuventusArbitro:,,"F. Borel  15’,  57’, Sernagiotto  15’",,Arbitro: Campo Juventus
+19330312-NAP-MIL,1933-03-12,1932-1933,Serie A,Napoli,Milan,0,1,Stadio Giorgio AscarelliArbitro:,,,59’ (rig.) Moretti,Arbitro: Stadio Giorgio Ascarelli
+19330319-CAS-NAP,1933-03-19,1932-1933,Serie A,Casale,Napoli,1,0,Stadio Natale PalliArbitro:,,Chiappo  8’,,Arbitro: Stadio Natale Palli
+19330326-NAP-PAD,1933-03-26,1932-1933,Serie A,Napoli,Padova,1,1,Stadio Giorgio AscarelliArbitro:,,A. Vojak  15’,72’ Corsi,Arbitro: Stadio Giorgio Ascarelli
+19330409-FIO-NAP,1933-04-09,1932-1933,Serie A,Fiorentina,Napoli,1,0,Stadio Giovanni BertaArbitro:,,Galluzzi  17’,,Arbitro: Stadio Giovanni Berta
+19330417-NAP-BAR,1933-04-17,1932-1933,Serie A,Napoli,Bari,2,0,Stadio Giorgio AscarelliArbitro:,,"A. Vojak  36’ (rig.), Ranelli  83’",,Arbitro: Stadio Giorgio Ascarelli
+19330423-TOR-NAP,1933-04-23,1932-1933,Serie A,Torino,Napoli,0,1,Stadio FiladelfiaArbitro:,,,49’ A. Sallustro,Arbitro: Stadio Filadelfia
+19330430-NAP-BOL,1933-04-30,1932-1933,Serie A,Napoli,Bologna,2,1,Stadio Giorgio AscarelliArbitro:,,"A. Sallustro  44’, Ferraris  55’",80’ Reguzzoni,Arbitro: Stadio Giorgio Ascarelli
+19330521-PRO-NAP,1933-05-21,1932-1933,Serie A,Pro Patria,Napoli,2,0,Stadio ComunaleArbitro:,,"Azzimonti  22’,  34’",,Arbitro: Stadio Comunale
+19330525-ROM-NAP,1933-05-25,1932-1933,Serie A,Roma,Napoli,1,1,Campo TestaccioArbitro:,,Fasanelli  65’,43’ V. Gravisi,Arbitro: Campo Testaccio
+19330528-NAP-GEN,1933-05-28,1932-1933,Serie A,Napoli,Genova 1893,3,0,Stadio Giorgio AscarelliArbitro:,,"A. Sallustro  44’,  82’, Ferraris  80’",,Arbitro: Stadio Giorgio Ascarelli
+19330604-NAP-ALE,1933-06-04,1932-1933,Serie A,Napoli,Alessandria,4,1,Stadio Giorgio AscarelliArbitro:,,"A. Sallustro  59’, Lombardo  60’ (aut.), A. Vojak  63’,  69’ (rig.)",15’ Riccardi,Arbitro: Stadio Giorgio Ascarelli
+19330611-PRO-NAP,1933-06-11,1932-1933,Serie A,Pro Vercelli,Napoli,2,1,Stadio Leonida RobbianoArbitro:,,"Cerutti  19’,  41’",15’ A. Vojak,Arbitro: Stadio Leonida Robbiano
+19330618-NAP-PAL,1933-06-18,1932-1933,Serie A,Napoli,Palermo,5,0,Stadio Giorgio AscarelliArbitro:,,"A. Vojak  25’,  53’,  71’, V. Gravisi  35’,  42’",,Arbitro: Stadio Giorgio Ascarelli
+19330629-AMB-NAP,1933-06-29,1932-1933,Serie A,Ambrosiana-Inter,Napoli,3,5,Arena CivicaArbitro:,,"Mihalich  40’, R. Frione  68’, Turchi  79’","5’,  49’ A. Vojak, 51’ Sallustro, 62’ V. Gravisi, 86’ Ferraris",Arbitro: Arena Civica

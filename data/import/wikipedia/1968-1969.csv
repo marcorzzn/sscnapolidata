@@ -1,0 +1,40 @@
+match_id,date,season,competition,home_raw_name,away_raw_name,home_goals,away_goals,stadium,attendance,home_scorers,away_scorers,notes
+19680929-NAP-VER,1968-09-29,1968-1969,Serie A,Napoli,Verona,1,1,Stadio San PaoloArbitro:,,Petrelli  87’ (aut.),55’ Vanello,Arbitro: Stadio San Paolo
+19681006-INT-NAP,1968-10-06,1968-1969,Serie A,Inter,Napoli,1,1,Stadio San SiroArbitro:,,Domenghini  29’,45’ (aut.) Facchetti,Arbitro: Stadio San Siro
+19681013-NAP-SAM,1968-10-13,1968-1969,Serie A,Napoli,Sampdoria,0,3,Stadio San PaoloArbitro:,,,"12’ Francesconi, 52’ Frustalupi, 89’ Vieri",Arbitro: Stadio San Paolo
+19681027-NAP-ROM,1968-10-27,1968-1969,Serie A,Napoli,Roma,0,0,Stadio San PaoloArbitro:,,,,Arbitro: Stadio San Paolo
+19681103-TOR-NAP,1968-11-03,1968-1969,Serie A,Torino,Napoli,0,0,Stadio ComunaleArbitro:,,,,Arbitro: Stadio Comunale
+19681110-BOL-NAP,1968-11-10,1968-1969,Serie A,Bologna,Napoli,2,1,Stadio ComunaleArbitro:,,"Mujesan  55’, Turra  63’",41’ Nielsen,Arbitro: Stadio Comunale
+19681117-NAP-PAL,1968-11-17,1968-1969,Serie A,Napoli,Palermo,1,0,Stadio San PaoloArbitro:,,Sivori  13’,,Arbitro: Stadio San Paolo
+19681124-LAN-NAP,1968-11-24,1968-1969,Serie A,Lanerossi Vicenza,Napoli,2,0,Stadio Romeo MentiArbitro:,,"Gallina  11’, Tumburus  60’",,Arbitro: Stadio Romeo Menti
+19680101-NAP-JUV,1968-01-01,1968-1969,Serie A,Napoli,Juventus,2,1,San PaoloArbitro:,,"Montefusco  15’,  37’",13’ Anastasi,Arbitro: San Paolo
+19681208-FIO-NAP,1968-12-08,1968-1969,Serie A,Fiorentina,Napoli,2,1,Stadio ComunaleArbitro:,,"Amarildo  67’, Rizzo  71’",19’ Cané,Arbitro: Stadio Comunale
+19681215-NAP-VAR,1968-12-15,1968-1969,Serie A,Napoli,Varese,1,1,Stadio San PaoloArbitro:,,Juliano  27’,7’ Sogliano,Arbitro: Stadio San Paolo
+19681222-NAP-ATA,1968-12-22,1968-1969,Serie A,Napoli,Atalanta,2,0,Stadio San PaoloArbitro:,,"Altafini  14’, Cané  63’",,Arbitro: Stadio San Paolo
+19690112-CAG-NAP,1969-01-12,1968-1969,Serie A,Cagliari,Napoli,0,0,Stadio AmsicoraArbitro:,,,,Arbitro: Stadio Amsicora
+19690119-NAP-MIL,1969-01-19,1968-1969,Serie A,Napoli,Milan,0,0,Stadio San PaoloArbitro:,,,,Arbitro: Stadio San Paolo
+19690126-PIS-NAP,1969-01-26,1968-1969,Serie A,Pisa,Napoli,1,0,Stadio Arena GaribaldiArbitro:,,Cosma  53’,,Arbitro: Stadio Arena Garibaldi
+19690202-VER-NAP,1969-02-02,1968-1969,Serie A,Verona,Napoli,1,0,Stadio Marcantonio BentegodiArbitro:,,Maddè  27’,,Arbitro: Stadio Marcantonio Bentegodi
+19690209-NAP-INT,1969-02-09,1968-1969,Serie A,Napoli,Inter,3,1,Stadio San PaoloArbitro:,,"Cané  40’, Montefusco  43’, Cané  49’",62’ Bertini,Arbitro: Stadio San Paolo
+19690216-SAM-NAP,1969-02-16,1968-1969,Serie A,Sampdoria,Napoli,0,2,Stadio Luigi FerrarisArbitro:,,,"43’ Altafini, 89’ Barison",Arbitro: Stadio Luigi Ferraris
+19690223-ROM-NAP,1969-02-23,1968-1969,Serie A,Roma,Napoli,0,0,Stadio OlimpicoArbitro:,,,,Arbitro: Stadio Olimpico
+19690302-NAP-TOR,1969-03-02,1968-1969,Serie A,Napoli,Torino,0,0,Stadio San PaoloArbitro:,,,,Arbitro: Stadio San Paolo
+19690309-NAP-BOL,1969-03-09,1968-1969,Serie A,Napoli,Bologna,1,1,Stadio San PaoloArbitro:,,Altafini 48,12’ Mujesan,Arbitro: Stadio San Paolo
+19690316-PAL-NAP,1969-03-16,1968-1969,Serie A,Palermo,Napoli,0,2,Stadio La FavoritaArbitro:,,Troja  30’  50’,"19’ Barison, 60’ (rig.) Altafini, 77’ Micelli",Arbitro: Stadio La Favorita
+19690323-NAP-LAN,1969-03-23,1968-1969,Serie A,Napoli,Lanerossi Vicenza,1,0,Stadio San PaoloArbitro:,,Altafini  70’,,Arbitro: Stadio San Paolo
+19690406-JUV-NAP,1969-04-06,1968-1969,Serie A,Juventus,Napoli,2,0,Stadio ComunaleArbitro:,,"Haller  3’, Bonci  54’",,Arbitro: Stadio Comunale
+19690413-NAP-FIO,1969-04-13,1968-1969,Serie A,Napoli,Fiorentina,1,3,Stadio San PaoloArbitro:,,Cané  69’,"37’,  40’ Rizzo, 54’ Maraschi",Arbitro: Stadio San Paolo
+19690420-VAR-NAP,1969-04-20,1968-1969,Serie A,Varese,Napoli,1,2,Stadio Franco OssolaArbitro:,,Leonardi  71’,"15’ Barison, 74’ Sala",Arbitro: Stadio Franco Ossola
+19690427-ATA-NAP,1969-04-27,1968-1969,Serie A,Atalanta,Napoli,0,0,Stadio ComunaleArbitro:,,,,Arbitro: Stadio Comunale
+19690504-NAP-CAG,1969-05-04,1968-1969,Serie A,Napoli,Cagliari,2,1,Stadio San PaoloArbitro:,,"Nielsen  28’, Cané  32’",85’ Riva,Arbitro: Stadio San Paolo
+19690511-MIL-NAP,1969-05-11,1968-1969,Serie A,Milan,Napoli,0,0,Stadio San SiroArbitro:,,,,Arbitro: Stadio San Siro
+19690518-NAP-PIS,1969-05-18,1968-1969,Serie A,Napoli,Pisa,2,1,Stadio San PaoloArbitro:,,"Sala  42’, Altafini  55’ (rig.)",45’ (rig.) Mascalaito,Arbitro: Stadio San Paolo
+19680908-NAP-CAT,1968-09-08,1968-1969,Coppa Italia,Napoli,Catania,5,2,Stadio San PaoloArbitro:,,"Nielsen  24’,  57’, Strucchi  50’ (aut.), Altafini  74’,  84’","33’ Cavazzoni, 36’ Volpato",Arbitro: Stadio San Paolo
+19680915-CAT-NAP,1968-09-15,1968-1969,Coppa Italia,Catanzaro,Napoli,0,1,Stadio ComunaleArbitro:,,,38’ Salvi,Arbitro: Stadio Comunale
+19680922-NAP-PAL,1968-09-22,1968-1969,Coppa Italia,Napoli,Palermo,0,1,Stadio San PaoloArbitro:,,,55’ Troja,Arbitro: Stadio San Paolo
+19690319-FOG-NAP,1969-03-19,1968-1969,Coppa Italia,Foggia,Napoli,2,1,Stadio Pino ZaccheriaArbitro:,,"Fumagalli  51’, Nocera  76’",48’ Abbondanza,Arbitro: Stadio Pino Zaccheria
+19690403-NAP-FOG,1969-04-03,1968-1969,Coppa Italia,Napoli,Foggia,0,2,Stadio San PaoloArbitro:,,,"58’,  89’ Nuti",Arbitro: Stadio San Paolo
+19680911-NAP-GRA,1968-09-11,1968-1969,Coppa UEFA,Napoli,Grasshopper,3,1,Stadio San PaoloArbitro:,,"Altafini  6’, Salvi  12’,  33’",78’ Ruegg,Arbitro: Stadio San Paolo
+19681023-GRA-NAP,1968-10-23,1968-1969,Coppa UEFA,Grasshopper,Napoli,1,0,LetzigrundArbitro:,,Grahn  58’,,Arbitro: Letzigrund
+19681113-LEE-NAP,1968-11-13,1968-1969,Coppa UEFA,Leeds Utd,Napoli,2,0,Elland RoadArbitro:,,"Charlton  23’,  25’",,Arbitro: Elland Road
+19681127-NAP-LEE,1968-11-27,1968-1969,Coppa UEFA,Napoli,Leeds Utd,2,0,Stadio San PaoloArbitro:,,"Sala  14’, Juliano  83’ (rig.)",,Arbitro: Stadio San Paolo

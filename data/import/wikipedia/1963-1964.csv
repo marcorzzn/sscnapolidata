@@ -1,0 +1,41 @@
+match_id,date,season,competition,home_raw_name,away_raw_name,home_goals,away_goals,stadium,attendance,home_scorers,away_scorers,notes
+19630915-SIM-NAP,1963-09-15,1963-1964,Serie A,Simmenthal-Monza,Napoli,1,1,Stadio Città di MonzaArbitro:,,Lojodice  21’,5’ Gilardoni,Arbitro: Stadio Città di Monza
+19630922-NAP-PRA,1963-09-22,1963-1964,Serie A,Napoli,Prato,3,0,Stadio San PaoloArbitro:,,"Ronzon  53’, Cané  64’, Bolzoni  77’",,Arbitro: Stadio San Paolo
+19630929-CAG-NAP,1963-09-29,1963-1964,Serie A,Cagliari,Napoli,2,2,Stadio AmsicoraArbitro:,,"Riva  7’,  74’","66’,  68’ Gilardoni",Arbitro: Stadio Amsicora
+19631006-NAP-VER,1963-10-06,1963-1964,Serie A,Napoli,Verona,1,1,Stadio San PaoloArbitro:,,Cané  55’,57’ Calloni,Arbitro: Stadio San Paolo
+19631013-POT-NAP,1963-10-13,1963-1964,Serie A,Potenza,Napoli,0,1,Stadio Alfredo VivianiArbitro:,,,48’ Rosa,Arbitro: Stadio Alfredo Viviani
+19631027-NAP-PAR,1963-10-27,1963-1964,Serie A,Napoli,Parma,2,0,Stadio San PaoloArbitro:,,"Gilardoni  44’,  62’",,Arbitro: Stadio San Paolo
+19631103-NAP-LEC,1963-11-03,1963-1964,Serie A,Napoli,Lecco,0,0,Stadio San PaoloArbitro:,,,,Arbitro: Stadio San Paolo
+19631110-ALE-NAP,1963-11-10,1963-1964,Serie A,Alessandria,Napoli,1,2,Stadio Giuseppe MoccagattaArbitro:,,Soncini  77’,"10’ Fraschini, 19’ Gilardoni",Arbitro: Stadio Giuseppe Moccagatta
+19631117-NAP-UDI,1963-11-17,1963-1964,Serie A,Napoli,Udinese,3,1,Stadio San PaoloArbitro:,,"Bolzoni  2’,  62’, Gilardoni  44’",88’ (rig.) Sestili,Arbitro: Stadio San Paolo
+19631124-TRI-NAP,1963-11-24,1963-1964,Serie A,Triestina,Napoli,1,0,Stadio Giuseppe GrezarArbitro:,,Porro  12’,,Arbitro: Stadio Giuseppe Grezar
+19630101-NAP-COS,1963-01-01,1963-1964,Serie A,Napoli,Cosenza,2,0,Stadio San PaoloArbitro:,,"Cané  50’, Fraschini  66’",,Arbitro: Stadio San Paolo
+19631208-FOG-NAP,1963-12-08,1963-1964,Serie A,Foggia & Incedit,Napoli,1,0,Stadio Pino ZaccheriaArbitro:,,Nocera  75’,,Arbitro: Stadio Pino Zaccheria
+19631215-PAL-NAP,1963-12-15,1963-1964,Serie A,Palermo,Napoli,4,0,Stadio La FavoritaArbitro:,,"Postiglione  51’,  54’, Maestri  74’,  85’",,Arbitro: Stadio La Favorita
+19631222-NAP-VAR,1963-12-22,1963-1964,Serie A,Napoli,Varese,1,1,Stadio San PaoloArbitro:,,Prenna  5’,10’ Pasquina,Arbitro: Stadio San Paolo
+19631229-PRO-NAP,1963-12-29,1963-1964,Serie A,Pro Patria,Napoli,2,2,Stadio ComunaleArbitro:,,"Muzzio  3’,  5’","68’ Cané, 71’ Bolzoni",Arbitro: Stadio Comunale
+19640105-VEN-NAP,1964-01-05,1963-1964,Serie A,Venezia,Napoli,0,0,Stadio Pierluigi PenzoArbitro:,,,,Arbitro: Stadio Pierluigi Penzo
+19640112-NAP-CAT,1964-01-12,1963-1964,Serie A,Napoli,Catanzaro,1,0,Stadio San PaoloArbitro:,,Bolzoni  12’,,Arbitro: Stadio San Paolo
+19640119-NAP-BRE,1964-01-19,1963-1964,Serie A,Napoli,Brescia,1,4,Stadio San PaoloArbitro:,,Gatti  73’,"5’ Raffin, 9’,  79’ De Paoli, 87’ Pagani",Arbitro: Stadio San Paolo
+19640126-PAD-NAP,1964-01-26,1963-1964,Serie A,Padova,Napoli,2,1,Stadio Silvio AppianiArbitro:,,"Kolbl  26’, Cavicchia  87’",44’ Bolzoni,Arbitro: Stadio Silvio Appiani
+19640202-NAP-SIM,1964-02-02,1963-1964,Serie A,Napoli,Simmenthal-Monza,1,2,Stadio San PaoloArbitro:,,Ronzon  82’,"12’,  48’ Ferrero",Arbitro: Stadio San Paolo
+19640216-PRA-NAP,1964-02-16,1963-1964,Serie A,Prato,Napoli,0,0,Stadio LungobisenzioArbitro:,,,,Arbitro: Stadio Lungobisenzio
+19640223-NAP-CAG,1964-02-23,1963-1964,Serie A,Napoli,Cagliari,2,1,Stadio San PaoloArbitro:,,"Gilardoni  59’, Bolzoni  79’",56’ Greatti,Arbitro: Stadio San Paolo
+19630101-VER-NAP,1963-01-01,1963-1964,Serie A,Verona,Napoli,0,0,Stadio Marcantonio BentegodiArbitro:,,,,Arbitro: Stadio Marcantonio Bentegodi
+19640308-NAP-POT,1964-03-08,1963-1964,Serie A,Napoli,Potenza,1,2,Stadio San PaoloArbitro:,,Gilardoni  89’ (rig.),"36’ Carrera, 80’ Rosito",Arbitro: Stadio San Paolo
+19640315-PAR-NAP,1964-03-15,1963-1964,Serie A,Parma,Napoli,2,2,Stadio Ennio TardiniArbitro:,,"Cavallito  51’, Polli  84’","63’ Ronzon, 70’ Bolzoni",Arbitro: Stadio Ennio Tardini
+19640322-LEC-NAP,1964-03-22,1963-1964,Serie A,Lecco,Napoli,1,0,Stadio Mario RigamontiArbitro:,,Clerici  87’,,Arbitro: Stadio Mario Rigamonti
+19640329-NAP-ALE,1964-03-29,1963-1964,Serie A,Napoli,Alessandria,1,1,Stadio San PaoloArbitro:,,Cané  4’,75’ Vitali,Arbitro: Stadio San Paolo
+19640405-UDI-NAP,1964-04-05,1963-1964,Serie A,Udinese,Napoli,0,0,Stadio MorettiArbitro:,,,,Arbitro: Stadio Moretti
+19640412-NAP-TRI,1964-04-12,1963-1964,Serie A,Napoli,Triestina,1,0,Stadio San PaoloArbitro:,,Montefusco  70’,,Arbitro: Stadio San Paolo
+19640426-COS-NAP,1964-04-26,1963-1964,Serie A,Cosenza,Napoli,0,0,Stadio Emilio MorroneArbitro:,,,,Arbitro: Stadio Emilio Morrone
+19640503-NAP-FOG,1964-05-03,1963-1964,Serie A,Napoli,Foggia & Incedit,3,0,Stadio San PaoloArbitro:,,"Gilardoni  54’, Cané  61’, Fraschini  73’",,Arbitro: Stadio San Paolo
+19640510-NAP-PAL,1964-05-10,1963-1964,Serie A,Napoli,Palermo,0,0,Stadio San PaoloArbitro:,,,,Arbitro: Stadio San Paolo
+19640517-VAR-NAP,1964-05-17,1963-1964,Serie A,Varese,Napoli,1,0,Stadio Franco OssolaArbitro:,,Spelta  29’,,Arbitro: Stadio Franco Ossola
+19640524-NAP-PRO,1964-05-24,1963-1964,Serie A,Napoli,Pro Patria,3,1,Stadio San PaoloArbitro:,,"Juliano  3’, Cané  25’, Fraschini  30’",75’ Rondanini,Arbitro: Stadio San Paolo
+19640531-NAP-VEN,1964-05-31,1963-1964,Serie A,Napoli,Venezia,1,0,Stadio San PaoloArbitro:,,Cané  89’,,Arbitro: Stadio San Paolo
+19640607-CAT-NAP,1964-06-07,1963-1964,Serie A,Catanzaro,Napoli,1,0,Stadio MilitareArbitro:,,Vanini  27’,,Arbitro: Stadio Militare
+19640614-BRE-NAP,1964-06-14,1963-1964,Serie A,Brescia,Napoli,1,1,Stadio Mario RigamontiArbitro:,,Raffin  5’,10’ Cané,Arbitro: Stadio Mario Rigamonti
+19640621-NAP-PAD,1964-06-21,1963-1964,Serie A,Napoli,Padova,0,1,Stadio San PaoloArbitro:,,,3’ Pestrin,Arbitro: Stadio San Paolo
+19630909-BAR-NAP,1963-09-09,1963-1964,Coppa Italia,Bari,Napoli,0,1,Stadio OlimpicoArbitro:,,,77’ (rig.) Corelli,Arbitro: Stadio Olimpico
+19631113-ROM-NAP,1963-11-13,1963-1964,Coppa Italia,Roma,Napoli,5,0,Stadio OlimpicoArbitro:,,"Manfredini  4’,  30’,  76’, Orlando  24’,  46’",,Arbitro: Stadio Olimpico

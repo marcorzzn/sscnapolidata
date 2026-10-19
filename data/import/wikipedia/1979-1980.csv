@@ -1,0 +1,42 @@
+match_id,date,season,competition,home_raw_name,away_raw_name,home_goals,away_goals,stadium,attendance,home_scorers,away_scorers,notes
+19790916-ASC-NAP,1979-09-16,1979-1980,Serie A,Ascoli,Napoli,0,0,Stadio Cino e Lillo Del DucaArbitro:,23 272,,,Arbitro: Stadio Cino e Lillo Del Duca (23 272 spett.)
+19790923-NAP-CAG,1979-09-23,1979-1980,Serie A,Napoli,Cagliari,0,0,Stadio San PaoloArbitro:,58 221,,,Arbitro: Stadio San Paolo (58 221 spett.)
+19790930-FIO-NAP,1979-09-30,1979-1980,Serie A,Fiorentina,Napoli,0,0,Stadio ComunaleArbitro:,40 549,,,Arbitro: Stadio Comunale (40 549 spett.)
+19791007-NAP-ROM,1979-10-07,1979-1980,Serie A,Napoli,Roma,3,0,Stadio San PaoloArbitro:,61 033,"Lucido  4’, Damiani  6’,  69’",,Arbitro: Stadio San Paolo (61 033 spett.)
+19791014-INT-NAP,1979-10-14,1979-1980,Serie A,Inter,Napoli,1,0,Stadio San SiroArbitro:,43 081,Altobelli  61’,,Arbitro: Stadio San Siro (43 081 spett.)
+19791021-NAP-PER,1979-10-21,1979-1980,Serie A,Napoli,Perugia,1,1,Stadio San PaoloArbitro:,87 347,Damiani  82’ (rig.),71’ (rig.) Rossi,Arbitro: Stadio San Paolo (87 347 spett.)
+19791028-JUV-NAP,1979-10-28,1979-1980,Serie A,Juventus,Napoli,1,0,Stadio ComunaleArbitro:,24 750,Scirea  13’,,Arbitro: Stadio Comunale (24 750 spett.)
+19791104-NAP-AVE,1979-11-04,1979-1980,Serie A,Napoli,Avellino,0,1,Stadio San PaoloArbitro:,53 622,,77’ Valente,Arbitro: Stadio San Paolo (53 622 spett.)
+19791111-NAP-UDI,1979-11-11,1979-1980,Serie A,Napoli,Udinese,1,0,Stadio San PaoloArbitro:,43 932,Speggiorin,,Arbitro: Stadio San Paolo (43 932 spett.)
+19791125-MIL-NAP,1979-11-25,1979-1980,Serie A,Milan,Napoli,1,2,Stadio San SiroArbitro:,36 166,Ferrario  66’ (aut.),"65’ Filippi, 75’ Marino",Arbitro: Stadio San Siro (36 166 spett.)
+19791202-PES-NAP,1979-12-02,1979-1980,Serie A,Pescara,Napoli,1,0,Stadio AdriaticoArbitro:,20 050,Cinquetti  72’,,Arbitro: Stadio Adriatico (20 050 spett.)
+19791209-NAP-TOR,1979-12-09,1979-1980,Serie A,Napoli,Torino,1,0,Stadio San PaoloArbitro:,46 502,Capone  37’,,Arbitro: Stadio San Paolo (46 502 spett.)
+19791216-NAP-LAZ,1979-12-16,1979-1980,Serie A,Napoli,Lazio,0,0,Stadio San PaoloArbitro:,50 969,,,Arbitro: Stadio San Paolo (50 969 spett.)
+19791230-BOL-NAP,1979-12-30,1979-1980,Serie A,Bologna,Napoli,0,0,Stadio ComunaleArbitro:,23 124,,,Arbitro: Stadio Comunale (23 124 spett.)
+19800106-NAP-CAT,1980-01-06,1979-1980,Serie A,Napoli,Catanzaro,1,1,Stadio San PaoloArbitro:,44 857,Tesser  8’,47’ Nicolini,Arbitro: Stadio San Paolo (44 857 spett.)
+19800113-NAP-ASC,1980-01-13,1979-1980,Serie A,Napoli,Ascoli,1,0,Stadio San PaoloArbitro:,46 321,Tesser  90’ (rig.),,Arbitro: Stadio San Paolo (46 321 spett.)
+19800120-CAG-NAP,1980-01-20,1979-1980,Serie A,Cagliari,Napoli,1,0,Stadio Sant'EliaArbitro:,27 482,Brugnera  50’,,Arbitro: Stadio Sant'Elia (27 482 spett.)
+19800127-NAP-FIO,1980-01-27,1979-1980,Serie A,Napoli,Fiorentina,0,0,Stadio San PaoloArbitro:,47 056,,,Arbitro: Stadio San Paolo (47 056 spett.)
+19800203-ROM-NAP,1980-02-03,1979-1980,Serie A,Roma,Napoli,0,0,Stadio OlimpicoArbitro:,52 467,,,Arbitro: Stadio Olimpico (52 467 spett.)
+19800210-NAP-INT,1980-02-10,1979-1980,Serie A,Napoli,Inter,3,4,Stadio San PaoloArbitro:,77 612,"Pasinato  32’ (aut.), Improta  35’, Guidetti  81’","19’,  32’ Muraro, 57’ Altobelli, 71’ Baresi",Arbitro: Stadio San Paolo (77 612 spett.)
+19800224-PER-NAP,1980-02-24,1979-1980,Serie A,Perugia,Napoli,1,0,Stadio Renato CuriArbitro:,20 923,Casarsa  53’,,Arbitro: Stadio Renato Curi (20 923 spett.)
+19800302-NAP-JUV,1980-03-02,1979-1980,Serie A,Napoli,Juventus,0,0,Stadio San PaoloArbitro:,65 701,,,Arbitro: Stadio San Paolo (65 701 spett.)
+19800309-AVE-NAP,1980-03-09,1979-1980,Serie A,Avellino,Napoli,2,3,Stadio PartenioArbitro:,33 371,"De Ponti  42’,  51’ (rig.)","27’,  63’ Capone, 37’ Guidetti",Arbitro: Stadio Partenio (33 371 spett.)
+19800323-UDI-NAP,1980-03-23,1979-1980,Serie A,Udinese,Napoli,0,0,Stadio FriuliArbitro:,12 059,,,Arbitro: Stadio Friuli (12 059 spett.)
+19800330-NAP-MIL,1980-03-30,1979-1980,Serie A,Napoli,Milan,0,1,Stadio San PaoloArbitro:,48 910,,52’ Bigon,Arbitro: Stadio San Paolo (48 910 spett.)
+19800405-NAP-PES,1980-04-05,1979-1980,Serie A,Napoli,Pescara,2,0,Stadio San PaoloArbitro:,42 094,"Improta  51’, Guidetti  63’",,Arbitro: Stadio San Paolo (42 094 spett.)
+19800413-TOR-NAP,1980-04-13,1979-1980,Serie A,Torino,Napoli,0,0,Stadio ComunaleArbitro:,28 604,,,Arbitro: Stadio Comunale (28 604 spett.)
+19800427-LAZ-NAP,1980-04-27,1979-1980,Serie A,Lazio,Napoli,1,1,Stadio OlimpicoArbitro:,24 862,Garlaschelli  13’,39’ (rig.) Improta,Arbitro: Stadio Olimpico (24 862 spett.)
+19800504-NAP-BOL,1980-05-04,1979-1980,Serie A,Napoli,Bologna,1,1,Stadio San PaoloArbitro:,45 847,Damiani  70’,17’ Dossena,Arbitro: Stadio San Paolo (45 847 spett.)
+19800511-CAT-NAP,1980-05-11,1979-1980,Serie A,Catanzaro,Napoli,2,0,Stadio MilitareArbitro:,10 547,"Palanca  40’, Bresciani  46’",,Arbitro: Stadio Militare (10 547 spett.)
+19790822-CES-NAP,1979-08-22,1979-1980,Coppa Italia,Cesena,Napoli,1,3,Stadio La FioritaArbitro:,,Zandoli  35’,"28’ Ferrario, 81’,  85’ Damiani",Arbitro: Stadio La Fiorita
+19790826-UNK-UNK,1979-08-26,1979-1980,Coppa Italia,,,,,,,,,
+19790902-NAP-TAR,1979-09-02,1979-1980,Coppa Italia,Napoli,Taranto,2,0,Stadio San PaoloArbitro:,,"Speggiorin  32’, Damiani  78’ (rig.)",,Arbitro: Stadio San Paolo
+17940905-LAN-NAP,1794-09-05,1979-1980,Coppa Italia,Lanerossi Vicenza,Napoli,1,1,Stadio Romeo MentiArbitro:,,Zanone  27’,50’ Filippi,Arbitro: Stadio Romeo Menti
+19790909-NAP-CAG,1979-09-09,1979-1980,Coppa Italia,Napoli,Cagliari,2,2,Stadio San PaoloArbitro:,,"Damiani  27’, Lucido  82’","16’,  31’ Piras",Arbitro: Stadio San Paolo
+19791121-NAP-TER,1979-11-21,1979-1980,Coppa Italia,Napoli,Ternana,2,1,Stadio San PaoloArbitro:,,"Damiani  45’,  76’ (rig.)",61’ (aut.) Badiani,Arbitro: Stadio San Paolo
+19800116-TER-NAP,1980-01-16,1979-1980,Coppa Italia,Ternana,Napoli,1,0,Stadio Libero LiberatiArbitro:,,De Rosa  30’,,Arbitro: Stadio Libero Liberati
+19790919-NAP-OLY,1979-09-19,1979-1980,Coppa UEFA,Napoli,Olympiakos,2,0,Stadio San PaoloArbitro:,,"Damiani  26’ (rig.), Agostinelli  89’",,Arbitro: Stadio San Paolo
+19791004-OLY-NAP,1979-10-04,1979-1980,Coppa UEFA,Olympiakos,Napoli,1,0,Stadio KaraiskákisArbitro:,,Karavitis  33’,,Arbitro: Stadio Karaiskákis
+19791024-STA-NAP,1979-10-24,1979-1980,Coppa UEFA,Standard Liegi,Napoli,2,1,Stadio Maurice DufrasneArbitro:,,"Riedl  47’, Sigurvinsson  57’ (rig.)",29’ Capone,Arbitro: Stadio Maurice Dufrasne
+19791107-NAP-STA,1979-11-07,1979-1980,Coppa UEFA,Napoli,Standard Liegi,1,1,Stadio San PaoloArbitro:,,Damiani  79’,40’ Riedl,Arbitro: Stadio San Paolo

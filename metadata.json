@@ -1,0 +1,6 @@
+{
+  "name": "SSC Napoli Data",
+  "description": "Data Napoli, Napoli Analitica — Enciclopedia digitale, archivio storico verificato, mappe interattive e museo 3D dedicati alla SSC Napoli (@sscnapolidata).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

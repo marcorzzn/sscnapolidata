@@ -1,65 +1,108 @@
-# Data Napoli
+# SSC Napoli Data (@sscnapolidata)
 
-**Napoli Analitica** — analisi matematica, visuale e statistica di ogni partita del Napoli.
+**Data Napoli, Napoli Analitica** — Enciclopedia digitale, archivio storico verificato, audit trail reversibile, mappe interattive e visualizzatore 3D dedicati alla Società Sportiva Calcio Napoli.
 
-Sito statico pensato per GitHub Pages. Principio fondativo: **nessun dato è mai stimato,
-dedotto o inventato**. Dove una fonte non conferma un dettaglio, la pagina lo dichiara
-esplicitamente invece di ometterlo in silenzio o di indovinarlo.
+Pubblicato su GitHub Pages: [https://marcorzzn.github.io/sscnapolidata/](https://marcorzzn.github.io/sscnapolidata/)
 
-## Requisiti
-- Python 3.13 (`python3.13` nel PATH; il comando `python` potrebbe non esistere su questa macchina)
-- Node 20 LTS (per il sito Astro, in arrivo)
-- SQLite (incluso in Python)
+---
 
-## Struttura
+## ⚡ Principi Architetturali Fondamentali
+1. **Nessun dato inventato**: ogni dato fattuale o storico deriva da fonti verificate (Report Ufficiale Lega Serie A, RSSSF, OpenFootball, Almanacco Panini, Wikipedia IT CC BY-SA 4.0). Le assenze di dati sono dichiarate in modo trasparente (`nd`, `na`, `pending`).
+2. **Nessun dato perso (Audit Reversibile)**: ogni scrittura o modifica passa dalla CLI `dn.py`, che imposta il contesto di sessione (`attore`, `motivo`, `fonte_id`, `batch_id`) e attiva trigger per-column su `audit_log`. Ogni modifica è annullabile con `dn revert`.
+3. **Qualità su 2 assi**: `confidence` (alta, media, bassa) separata da `verificato` (0 o 1). Gli importer automatici non sovrascrivono mai record con `verificato = 1`; eventuali discrepanze vengono isolate in `conflitti_import`.
+4. **Git è la verità permanente**: `datanapoli.sqlite` resta in `.gitignore`, mentre `db/dump/` contiene il dump testuale deterministico ordinato per chiave primaria. Chiunque può ricreare il DB da zero con `python dn.py build-db`.
+5. **Brand Identity & Social Exporter**: icona con **N geometrica** su sfondo ciano `#01A0E8`, profilo a frequenza d'onda del Vesuvio e del Golfo, ed esportatore di schede social 1:2 con handle `@sscnapolidata`.
+
+---
+
+## 🚀 Quickstart
+
+### 1. Prerequisiti
+- **Python 3.12+** (stdlib standard: nessun ORM o tool esterno richiesto)
+- **Node.js 20+** (per l'applicazione web React + Vite + Three.js)
+
+### 2. Gestione Database con CLI `dn.py`
+```powershell
+# Esegui le migrazioni numerate su SQLite (con backup automatico)
+python dn.py migrate
+
+# Verifica le invarianti e la qualità del dato (FK, marcatori vs risultato, date)
+python dn.py check
+
+# Genera il dump testuale deterministico per Git
+python dn.py dump
+
+# Ricostruisci il database SQLite da zero (migrazioni + dump)
+python dn.py build-db
+
+# Esporta i dati JSON con mappa di copertura 'cov' per il sito web
+python dn.py export
+```
+
+### 3. Avvio Applicazione Web Locale
+```powershell
+# Installa le dipendenze frontend
+npm install --legacy-peer-deps
+
+# Avvia il server di sviluppo locale
+npm run dev
+
+# Genera la build di produzione statica
+npm run build
+```
+
+---
+
+## 🛠️ Comandi Principali CLI `dn.py`
+
+| Sottocomando | Descrizione |
+|---|---|
+| `dn fix <tabella> <id> <campo> <valore> --motivo "..." --fonte <id>` | Corregge un campo, traccia l'audit log e imposta `verificato=1`. |
+| `dn history [tabella] [id]` | Visualizza lo storico cronologico delle modifiche e dei vecchi/nuovi valori. |
+| `dn revert --audit-id <id>` | Annulla in modo reversibile una modifica ripristinando il vecchio valore. |
+| `dn revert --batch <batch_id>` | Annulla in blocco un intero lotto di modifiche correlate. |
+| `dn add-scorer --partita-id <id> --giocatore <nome> --minuto <m>` | Inserisce un marcatore collegando l'identità del giocatore. |
+| `dn import formazioni <file.csv> [--dry-run]` | Importa formazioni da CSV; protegge i record verificati e isola i nomi sconosciuti in quarantena. |
+| `dn merge persone <id_tenuto> <id_scartato>` | Fonde due entità duplicate, riassegna le FK e crea un record tombstone `fuso_in_id`. |
+| `dn check [--stagione <anno>]` | Controlla integrità referenziale, somme gol, date anomale e stati di copertura. |
+| `dn query ...` | Interroga statistiche su partite, squadre, stagioni e marcatori. |
+
+---
+
+## 📁 Struttura della Repository
 
 ```
 /
-├── index.html              home page — elenco partite
-├── assets/
-│   ├── style.css           design system: token colore, tipografia, tutti i componenti,
-│   │                       incluse le variabili del tema chiaro (`html[data-theme="light"]`)
-│   ├── app.js              motore tema chiaro/scuro + lingua IT/EN, e dizionario testi
-│   └── favicon.png         logo del profilo X (@sscnapolidata)
-├── partite/
-│   └── <slug-partita>.html una pagina per partita (es. fiorentina-napoli-2026-09-20.html)
-└── README.md
+├── dn.py                       # CLI unificata
+├── datanapoli/                 # Pacchetto Python core
+│   ├── db.py                   # Connessione, foreign keys ON, session scope, backup
+│   ├── migrate.py              # Runner migrazioni con PRAGMA user_version
+│   ├── audit.py                # Generatore trigger table_info, history, revert
+│   ├── dump.py                 # Dump testuale deterministico e build-db
+│   ├── export.py               # DB -> JSON con mappe cov (null preservation)
+│   ├── check.py                # Verifica invarianti
+│   └── importers/              # Importatori CSV validati e resistenti ai conflitti
+├── db/
+│   ├── datanapoli.sqlite       # Database SQLite (in .gitignore)
+│   ├── schema.sql              # DDL consolidato generato (solo lettura)
+│   ├── migrations/             # Migrazioni numerate SQL (001_baseline .. 014_audit)
+│   ├── dump/                   # Dump testuale deterministico per Git (fonti di verità)
+│   └── backups/                # Backup automatici pre-migrazione e pre-scrittura
+├── src/                        # Applicazione Web React 19 + TypeScript + Vite
+│   ├── components/             # BrandMark, InfographicExporter, Stadium3D, Museum, Audit
+│   ├── data/                   # Dataset certificato e mapping analitici
+│   └── App.tsx                 # Core UI con switch temi (Dark/Light) e lingue (IT/EN)
+├── public/                     # Asset statici, icone N geometrica, banner e loghi
+├── docs/                       # Documentazione tecnica approfondita
+│   ├── ARCHITECTURE.md         # Architettura, flusso dati, Git vs .gitignore
+│   ├── DATA_MODEL.md           # DDL, convenzioni date/stagioni, stati di copertura
+│   └── WORKFLOWS.md            # Ricette operative step-by-step
+└── CONTRIBUTING.md             # Guida e requisiti per i contributori
 ```
 
-## Aggiungere una nuova partita
+---
 
-1. Verificare i dati su almeno una fonte affidabile, in ordine di priorità: fonti ufficiali
-   (Lega Serie A, club) → database storici (RSSSF, FBref) → testate giornalistiche affidabili.
-2. Copiare la struttura di `partite/fiorentina-napoli-2026-09-20.html` in un nuovo file
-   `partite/<squadra1>-<squadra2>-<data>.html`, incluso lo script di bootstrap in `<head>`
-   e il tag `<script src="../assets/app.js" defer>` prima di `</body>`.
-3. Aggiungere una `.match-card` in `index.html` che punta alla nuova pagina.
-4. Ogni testo specifico della partita (riassunto, note sui gol, fonti...) va aggiunto come
-   coppia di chiavi `m<slug>_*` in **entrambi** i dizionari (`it` ed `en`) di `assets/app.js`,
-   con l'elemento HTML corrispondente marcato `data-i18n="m<slug>_chiave"`. Le label
-   d'interfaccia generiche (es. `first_half`, `key_moments_label`) sono già definite una
-   volta sola e si riusano automaticamente in ogni nuova pagina.
-5. Dove un dato (minuto, formazione, statistica) non è verificabile: dichiararlo
-   esplicitamente nella pagina stessa, mai stimarlo o ometterlo silenziosamente — vale
-   anche per la traduzione inglese: è una resa fedele dello stesso dato, mai un'occasione
-   per aggiungere dettagli non presenti nella fonte italiana.
-
-## Tema e lingua
-
-Ogni pagina applica tema (chiaro/scuro) e lingua (IT/EN) leggendoli da `localStorage`
-tramite un piccolo script inline in `<head>` (evita il flash del valore sbagliato), poi
-`assets/app.js` applica il dizionario testi e gestisce i click sui due pulsanti in
-`.brand-row`. Il colore di brand (`--cyan`) resta identico in entrambi i temi; cambiano
-solo sfondo, pannelli e testo.
-
-## Design system
-
-Colori, tipografia e ogni componente vivono in `assets/style.css`, condiviso da tutte le
-pagine — non duplicare CSS nelle singole pagine partita. Ogni elemento visivo deve
-rappresentare un dato reale e citabile: niente grafici o waveform puramente decorativi.
-
-## Stato del progetto
-
-Pilota architetturale: una sola partita verificata manualmente, come prova che schema dati
-e design system reggono su dati reali prima di costruire l'automazione (scraping +
-GitHub Actions) per le partite successive.
+## ⚖️ Conformità, Etica e Privacy
+- **Zero Profilazione**: nessun cookie, nessun tracker esterno, zero raccolta di dati personali.
+- **Licenze e Diritti**: citazione rigorosa di ogni fonte. Testi derivati da Wikipedia rilasciati sotto licenza **CC BY-SA 4.0**.
+- **Gestione del Danno**: qualsiasi errore di correzione può essere annullato istantaneamente tramite `dn revert`.

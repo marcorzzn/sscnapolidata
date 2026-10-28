@@ -44,3 +44,10 @@ db/*.sqlite-journal
 
 # Wikipedia cache HTML
 data/import/wikipedia/cache/
+
+# Node / Web App
+node_modules/
+dist/
+.tempmediaStorage/
+.env.local
+*.log

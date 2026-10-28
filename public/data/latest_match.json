@@ -1,0 +1,47 @@
+{
+  "id": "fiorentina-napoli-2026-09-20",
+  "partita_id": 133,
+  "match_id": "20260920-FIO-NAP",
+  "date": "2026-09-20",
+  "season": "2026-27",
+  "competizione": "Serie A",
+  "squadra_casa": "Fiorentina",
+  "squadra_trasferta": "Napoli",
+  "home_goals": 1,
+  "away_goals": 1,
+  "slug": "fiorentina-napoli-2026-09-20",
+  "stadio": "Artemio Franchi, Firenze",
+  "affluenza": null,
+  "latitudine": 43.7808,
+  "longitudine": 11.2825,
+  "id_stadio_avversario": 5,
+  "confidence": "media",
+  "verificato": false,
+  "scorers": [
+    {
+      "name": "Gilmour",
+      "team": "Napoli",
+      "minute": "1H",
+      "type": "gol"
+    },
+    {
+      "name": "Jimenez",
+      "team": "Fiorentina",
+      "minute": "2H",
+      "type": "gol"
+    }
+  ],
+  "formazioni": [],
+  "fonti": [],
+  "note": [],
+  "cov": {
+    "marcatori": "completo",
+    "arbitro": "pending",
+    "affluenza": "pending",
+    "stadio": "completo",
+    "formazioni": "pending",
+    "eventi": "pending",
+    "statistiche": "pending",
+    "xg": "pending"
+  }
+}

@@ -1,0 +1,52 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --bg-primary: #08090B;
+    --bg-secondary: #0E1116;
+    --bg-elevated: #141820;
+    --text-primary: #FFFFFF;
+    --text-secondary: #A0AAB8;
+    --text-muted: #647082;
+    --napoli-cyan: #01A0E8;
+    --napoli-cyan-dim: rgba(1, 160, 232, 0.35);
+    --napoli-cyan-subtle: rgba(1, 160, 232, 0.12);
+    --border-hairline: rgba(255, 255, 255, 0.09);
+  }
+
+  .theme-light {
+    --bg-primary: #F4F5F6;
+    --bg-secondary: #FFFFFF;
+    --bg-elevated: #EAECEF;
+    --text-primary: #08090B;
+    --text-secondary: #3B4351;
+    --text-muted: #687385;
+    --napoli-cyan: #0190D4;
+    --napoli-cyan-dim: rgba(1, 144, 212, 0.35);
+    --napoli-cyan-subtle: rgba(1, 144, 212, 0.10);
+    --border-hairline: rgba(8, 9, 11, 0.10);
+  }
+
+  body {
+    background-color: var(--bg-primary);
+    color: var(--text-primary);
+    font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    overflow-x: hidden;
+  }
+
+  h1, h2, h3, h4, .font-display {
+    font-family: 'Archivo', sans-serif;
+    letter-spacing: -0.02em;
+  }
+
+  .font-mono-tabular {
+    font-family: 'JetBrains Mono', monospace;
+    font-variant-numeric: tabular-nums;
+  }
+}
+
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}

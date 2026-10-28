@@ -1,0 +1,65 @@
+[
+  {
+    "id": 2,
+    "titolo": "'O surdato 'nnammurato",
+    "testo": "Oje vita, oje vita mia... oje core 'e chistu core... si' stata 'o primmo ammore... e 'o primmo e ll'ùrtemo saraje pe' me!",
+    "audio_url": "/audio/cori/o_surdato_nnammurato.mp3",
+    "anno": 1975,
+    "curva": "Curva A",
+    "note_origini": "Scritta nel 1915 dal poeta Aniello Califano e musicata da Enrico Cannio. Venne adottata come inno spontaneo della tifoseria azzurra nel 1975 dopo una storica vittoria per 1-0 a San Siro contro la capolista Juventus."
+  },
+  {
+    "id": 6,
+    "titolo": "Napoli sei la vita mia",
+    "testo": "Napoli, Napoli... Napoli sei la vita mia! In ogni stadio ovunque andrai, da solo non ti lasceremo mai!",
+    "audio_url": "/audio/cori/napoli_vita_mia.mp3",
+    "anno": 1985,
+    "curva": "Curva A",
+    "note_origini": "Uno dei cori più longevi e cantati nelle trasferte di tutta Italia ed Europa fin dagli albori del tifo organizzato."
+  },
+  {
+    "id": 5,
+    "titolo": "La capolista se ne va",
+    "testo": "E se ne va, la capolista se ne va... la capolista se ne va!",
+    "audio_url": "/audio/cori/capolista_se_ne_va.mp3",
+    "anno": 1987,
+    "curva": "Curva B",
+    "note_origini": "Il coro leggendario degli anni '80 intonato da tutto lo stadio San Paolo durante le fughe in vetta alla classifica degli scudetti del 1987 e del 1990."
+  },
+  {
+    "id": 7,
+    "titolo": "10 Maggio 1987",
+    "testo": "Oh Mamma Mamma Mamma... sai perché mi batte il corazón? Ho visto Maradona, ho visto Maradona! Eh, mammà, innamorato son!",
+    "audio_url": "/audio/cori/ho_visto_maradona.mp3",
+    "anno": 1987,
+    "curva": "Curva B",
+    "note_origini": "L'inno universale dedicato a Diego Armando Maradona, cantato in tutto il pianeta e inciso nella memoria collettiva della città di Napoli."
+  },
+  {
+    "id": 4,
+    "titolo": "Il Canto delle Curve (Tanto già lo so)",
+    "testo": "Tanto già lo so che l'anno prossimo gioco di sabato! Ma non fa niente, io sarò sempre con te, ovunque tu sarai io ti seguirò...",
+    "audio_url": "/audio/cori/tanto_gia_lo_so.mp3",
+    "anno": 1998,
+    "curva": "Curva B",
+    "note_origini": "Nato negli anni più bui della retrocessione e della Serie B a fine anni novanta, assurto a simbolo immortale di fedeltà assoluta e amore incondizionato per la maglia aldilà della categoria."
+  },
+  {
+    "id": 1,
+    "titolo": "Un giorno all'improvviso",
+    "testo": "Un giorno all'improvviso m'innamorai di te, il cuore mi batteva non chiedermi perché! Di tempo ne è passato ma sono ancora qua, ed oggi come allora difendo la città! Alè alè alè, alè alè alè...",
+    "audio_url": "/audio/cori/un_giorno_all_improvviso.mp3",
+    "anno": 2015,
+    "curva": "Curva B",
+    "note_origini": "Riadattamento del brano 'L'estate sta finendo' dei Righeira (1985). Divenuto celeberrimo nella stagione 2015-16 sotto la guida di Maurizio Sarri, cantato dai calciatori abbracciati sotto le due curve dopo ogni vittoria."
+  },
+  {
+    "id": 3,
+    "titolo": "Sarò con te",
+    "testo": "Sarò con te... e tu non devi mollare, abbiamo un sogno nel cuore: Napoli torna campione! E se ne va, la capolista se ne va!",
+    "audio_url": "/audio/cori/saro_con_te.mp3",
+    "anno": 2017,
+    "curva": "Curva B",
+    "note_origini": "Il coro manifesto dell'era contemporanea che ha scandito le stagioni del grande gioco e accompagnato la marcia trionfale verso il 3° Scudetto del 2023."
+  }
+]

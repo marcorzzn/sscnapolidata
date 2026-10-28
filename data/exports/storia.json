@@ -1,0 +1,177 @@
+{
+  "periodi_storici": [
+    {
+      "id": 1,
+      "nome": "I Pionieri e le Origini",
+      "anno_inizio": 1904,
+      "anno_fine": 1926,
+      "descrizione": "Dalle origini con il Naples Foot-Ball Club e l'Internazionale Napoli alla fusione nell'Internaples, preludio al calcio professionistico partenopeo.",
+      "colore_esadecimale": "#64748B",
+      "ordine": 1
+    },
+    {
+      "id": 2,
+      "nome": "L'Era Ascarelli e la Nascita del Ciuccio",
+      "anno_inizio": 1926,
+      "anno_fine": 1936,
+      "descrizione": "Fondazione dell'Associazione Calcio Napoli il 1 agosto 1926 con Giorgio Ascarelli, inaugurazione del primo stadio di proprietà (Vesuvio) ed era del bomber Attila Sallustro.",
+      "colore_esadecimale": "#0284C7",
+      "ordine": 2
+    },
+    {
+      "id": 3,
+      "nome": "Il Ventennio di Lauro e la Ricostruzione",
+      "anno_inizio": 1936,
+      "anno_fine": 1959,
+      "descrizione": "La presidenza di Achille Lauro, i grandi colpi di mercato (l'acquisto record mondiale di Hasse Jeppson per 105 milioni), il dopoguerra al Collana e la posa della prima pietra a Fuorigrotta.",
+      "colore_esadecimale": "#0EA5E9",
+      "ordine": 3
+    },
+    {
+      "id": 4,
+      "nome": "L'Apertura del San Paolo e la Prima Coppa Italia",
+      "anno_inizio": 1959,
+      "anno_fine": 1969,
+      "descrizione": "Inaugurazione dello Stadio San Paolo (1959), l'indimenticabile Coppa Italia del 1962 vinta in Serie B da Bruno Pesaola e il record di 69.000 abbonati con Sivori e Altafini.",
+      "colore_esadecimale": "#38BDF8",
+      "ordine": 4
+    },
+    {
+      "id": 5,
+      "nome": "Il Calcio Totale e la Prima Era Ferlaino",
+      "anno_inizio": 1969,
+      "anno_fine": 1984,
+      "descrizione": "L'avvento dell'ingegner Corrado Ferlaino, il calcio totale all'olandese di 'O Lione' Luis Vinicio, la Coppa Italia 1976, l'acquisto record di Giuseppe Savoldi e l'arrivo dell'olandese Ruud Krol.",
+      "colore_esadecimale": "#0284C7",
+      "ordine": 5
+    },
+    {
+      "id": 6,
+      "nome": "L'Epopea Maradoniana: La Gloria Eterna",
+      "anno_inizio": 1984,
+      "anno_fine": 1991,
+      "descrizione": "L'arrivo di Diego Armando Maradona il 5 luglio 1984. Un'epoca trionfale irripetibile: 2 Scudetti (1987 e 1990), 1 Coppa UEFA (1989), 1 Coppa Italia (1987) e 1 Supercoppa Italiana (1990).",
+      "colore_esadecimale": "#01A0E8",
+      "ordine": 6
+    },
+    {
+      "id": 7,
+      "nome": "La Crisi, la Resistenza e il Fallimento",
+      "anno_inizio": 1991,
+      "anno_fine": 2004,
+      "descrizione": "Dall'addio di Maradona alla Coppa Italia 1992, la cessione dei campioni, le retrocessioni dolorose, la finale di Coppa Italia 1997 fino al drammatico fallimento societario dell'estate 2004.",
+      "colore_esadecimale": "#94A3B8",
+      "ordine": 7
+    },
+    {
+      "id": 8,
+      "nome": "La Rinascita con De Laurentiis e il 3° Scudetto",
+      "anno_inizio": 2004,
+      "anno_fine": null,
+      "descrizione": "Aurelio De Laurentiis rileva il club in Serie C riportandolo in Serie A in tre stagioni. Le vittorie di tre Coppe Italia, una Supercoppa e la cavalcata trionfale del terzo Scudetto 2022-23 con Spalletti.",
+      "colore_esadecimale": "#0077B6",
+      "ordine": 8
+    }
+  ],
+  "presidenti": [
+    {
+      "id": 1,
+      "nome": "Giorgio Ascarelli",
+      "anno_inizio": 1926,
+      "anno_fine": 1927,
+      "foto_url": "/assets/aistudio/ascarelli.jpg",
+      "note": "Fondatore e primo presidente dell'Associazione Calcio Napoli il 1 agosto 1926. Industriale tessile e mecenate napoletano.",
+      "palmares": "Nascita del club e adozione del Ciuccio"
+    },
+    {
+      "id": 2,
+      "nome": "Nicola Sansone",
+      "anno_inizio": 1927,
+      "anno_fine": 1928,
+      "foto_url": "/assets/aistudio/sansone.jpg",
+      "note": "Presidente pro-tempore durante il periodo di transizione societaria.",
+      "palmares": "Transizione e consolidamento"
+    },
+    {
+      "id": 3,
+      "nome": "Giorgio Ascarelli",
+      "anno_inizio": 1928,
+      "anno_fine": 1930,
+      "foto_url": "/assets/aistudio/ascarelli.jpg",
+      "note": "Secondo mandato presidenziale. Fece edificare interamente a proprie spese lo Stadio Vesuvio prima della sua prematura scomparsa a soli 35 anni.",
+      "palmares": "Inaugurazione Stadio Vesuvio (1930)"
+    },
+    {
+      "id": 4,
+      "nome": "Achille Lauro",
+      "anno_inizio": 1936,
+      "anno_fine": 1940,
+      "foto_url": "/assets/aistudio/lauro.jpg",
+      "note": "Armatore ed editore. Riorganizzò la società e portò il Napoli ai vertici del calcio italiano con ingenti investimenti.",
+      "palmares": "Consolidamento Serie A"
+    },
+    {
+      "id": 5,
+      "nome": "Achille Lauro",
+      "anno_inizio": 1952,
+      "anno_fine": 1954,
+      "foto_url": "/assets/aistudio/lauro.jpg",
+      "note": "Secondo mandato presidenziale. Realizzò il clamoroso acquisto di Hasse Jeppson per il record mondiale di 105 milioni di lire e di Amedeo Amadei.",
+      "palmares": "Record d'ingaggio mondiale Jeppson"
+    },
+    {
+      "id": 6,
+      "nome": "Alfonso Cuomo",
+      "anno_inizio": 1954,
+      "anno_fine": 1963,
+      "foto_url": "/assets/aistudio/cuomo.jpg",
+      "note": "Inaugurò lo Stadio San Paolo a Fuorigrotta nel 1959 e conquistò la prima storica Coppa Italia del 1962 con Bruno Pesaola.",
+      "palmares": "1 Coppa Italia (1961-62)"
+    },
+    {
+      "id": 7,
+      "nome": "Roberto Fiore",
+      "anno_inizio": 1964,
+      "anno_fine": 1967,
+      "foto_url": "/assets/aistudio/fiore.jpg",
+      "note": "Portò a Napoli i campioni Omar Sivori e José Altafini, polverizzando ogni record con 69.000 abbonati al San Paolo.",
+      "palmares": "Record storico 69.000 abbonati"
+    },
+    {
+      "id": 8,
+      "nome": "Corrado Ferlaino",
+      "anno_inizio": 1969,
+      "anno_fine": 1971,
+      "foto_url": "/assets/aistudio/ferlaino.jpg",
+      "note": "Ingegnere e costruttore. Assume la guida del club il 18 gennaio 1969, aprendo l'era più vincente e duratura della storia.",
+      "palmares": "Coppa delle Alpi (1966)"
+    },
+    {
+      "id": 9,
+      "nome": "Corrado Ferlaino",
+      "anno_inizio": 1972,
+      "anno_fine": 1983,
+      "foto_url": "/assets/aistudio/ferlaino.jpg",
+      "note": "L'era di Luis Vinicio e del calcio totale, dell'acquisto miliardario di Beppe Savoldi, della Coppa Italia 1976 e dell'ingaggio del fuoriclasse olandese Ruud Krol.",
+      "palmares": "1 Coppa Italia (1975-76) - 1 Coppa Anglo-Italiana (1976)"
+    },
+    {
+      "id": 10,
+      "nome": "Corrado Ferlaino",
+      "anno_inizio": 1983,
+      "anno_fine": 1993,
+      "foto_url": "/assets/aistudio/ferlaino.jpg",
+      "note": "L'Epopea d'Oro. Il 30 giugno 1984 chiude a Barcellona l'acquisto del secolo: Diego Armando Maradona. Arrivano i primi trionfi assoluti in Italia e in Europa.",
+      "palmares": "2 Scudetti (1986-87, 1989-90) - 1 Coppa UEFA (1988-89) - 1 Coppa Italia (1986-87) - 1 Supercoppa Italiana (1990)"
+    },
+    {
+      "id": 11,
+      "nome": "Aurelio De Laurentiis",
+      "anno_inizio": 2004,
+      "anno_fine": null,
+      "foto_url": "/assets/aistudio/delaurentiis.jpg",
+      "note": "Rileva il titolo sportivo dopo il fallimento del 2004 riportando il club dalla Serie C alla Serie A in 3 stagioni e stabilmente nell'élite europea.",
+      "palmares": "1 Scudetto (2022-23) - 3 Coppe Italia (2011-12, 2013-14, 2019-20) - 1 Supercoppa Italiana (2014)"
+    }
+  ]
+}

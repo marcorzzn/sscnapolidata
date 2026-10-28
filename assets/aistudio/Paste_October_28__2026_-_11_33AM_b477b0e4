@@ -1,0 +1,2749 @@
+sscnapolidata
+The user wants a comprehensive document collecting all their ideas. Let me think about what they've expressed throughout this conversation. This is a long conversation about building DATA NAPOLI - an encyclopedic archive of Napoli football data.
+
+Let me organize all their ideas:
+
+Initial vision: Collect and organize encyclopedia-like, queryable information about Napoli football - historical, graphic, photographic, statistical data about thousands of Napoli matches and predecessor teams. Nothing should be lost. Copy-paste articles, every piece of information cataloged. Query chronologically, by photos and information.
+
+Database personal: Store every single information and photo, query it to create posts. Copy-paste any web page about Napoli, insert any photo/file.
+
+Wiki idea: Create a wiki of Neapolitan football, like LazioWiki.
+
+Data Napoli identity (from blueprint):
+
+Name: DATA NAPOLI
+
+Subtitle: Napoli Analitica
+
+Handle: @sscnapolidata
+
+Positioning: mathematical, visual, statistical analysis - no cronaca, no tifo, no emotional commentary
+
+Claim: "Ogni tanto potrei dare i numeri e basta"
+
+Reputation: "Questa cosa è assurda, ma è vera"
+
+Non-negotiable: zero invented data
+
+Visual identity:
+
+Circular blue logo with geometric "N"
+
+Banner: abstract urban landscape from waveform/audio spectrum
+
+Palette: deep black, electric cyan/light blue, cold white, deep blue-cyan
+
+Light theme: light blue background; dark theme: Napoli navy
+
+Graphic language: vertical columns, waveform, peaks, horizontal lines, oscillations - waveform never decorative
+
+Geometric, minimal, linear icons
+
+Italian 1920s graphics modernized (futurism, Italian Bauhaus, poster art)
+
+Max 2 sans-serif families
+
+Photos: not mandatory, data-first composition
+
+Site architecture:
+
+GitHub Pages
+
+IT/EN language switch
+
+Light/dark theme with persistence
+
+Mobile-first
+
+X.com feed embedding
+
+Sections: Home, Match archive, Match card, Analysis and graphics, About/Methodology
+
+Multiple filters for matches
+
+Match card template (detailed):
+
+Header with match identity
+
+Match Summary 2-4 objective lines
+
+Goal Timeline with huge minutes
+
+Vertical chronological Match Timeline
+
+Formations
+
+Substitutions
+
+Cards
+
+Statistics
+
+Match Flow (only from real events)
+
+Key Moments
+
+Final Data
+
+La Partita Eterna
+
+Footer with sources
+
+Pre-publication checklist (16 points)
+
+Vertical infographic 1:2 (2048x4096) for social:
+
+12 sections
+
+Black dominant, cyan signature, cold white
+
+Rule: better less info than one invented data
+
+Social content for X:
+
+Single post (≤280 chars): essential data, #NapoliAnalitica, source cited
+
+Thread (5-7 posts): hashtag only in first post
+
+1-2 hashtags max
+
+Pre-match: form, H2H, xG, PPDA, injuries
+
+Post-match: tabellino, advanced metrics, visualizations
+
+La Partita Eterna: cumulative historical aggregate Napoli vs opponent, clickable matches, corporate continuity management
+
+Geographic map of movements: for each season, map with lines from home stadium to away stadium, total km, neutral field management, exportable image for social. Key clarification: metaphorical journeys - all stadium-to-stadium trips
+
+Historical database 1926-today:
+
+Sources: RSSSF, Wikipedia, BDFutbol, FBref, openfootball, Understat, Sofascore, 10maggio87, Stadiapostcards
+
+Schema: teams, seasons, matches, events, match_stats, players, player_season_stats, contributions, sources
+
+Every record has source and confidence
+
+Conflicts tracked, never resolved arbitrarily
+
+NULL for unavailable data (never estimated)
+
+Technical stack:
+
+Data acquisition: soccerdata, ScraperFC, pysofascore, Playwright, BeautifulSoup, Tesseract
+
+Analysis: pandas, mplsoccer, networkx, matplotlib, moviepy
+
+Database: SQLite (locally, on Drive initially), then PostgreSQL (later abandoned)
+
+Orchestration: Google Colab, GitHub Actions, cron
+
+LLM: Writer + Verifier with LangGraph
+
+Hybrid pipeline: Colab for acquisition, SQLite as source of truth, export JSON for GitHub Pages
+
+Manual contribution system (human-in-the-loop): user loads screenshot/text, system processes with OCR/parsing, user reviews and confirms
+
+Curiosity agent: researcher, fact-checker, 10 search categories, anti-banal filter, source hierarchy, cross-check, classification categories
+
+LLM Writer + Verifier: dossier with unique keys, writer cites keys not numbers, verifier checks every citation, zero inventions by construction
+
+Advanced visualizations: Shot Map, Pass Network, Heatmap, xG Race, Match Momentum, animated videos
+
+Advanced metrics: xG, xGOT, xT, VAEP, Packing Rate, PPDA, xA, set-piece efficiency
+
+The Napoli identity question - CRITICAL CORRECTION:
+
+Napoli did NOT absorb scores and titles of Naples or Internaples and similar
+
+Distinction between legal inheritance and sporting inheritance
+
+1922 merger Naples+Internazionale Napoli → Internaples
+
+1926 Internaples → rename to Associazione Calcio Napoli
+
+Napoli is legal heir of Internaples but does NOT inherit sporting record
+
+Same for Roma vs Alba Roma, Fortitudo, Roman
+
+This required flag inherits_sporting_record
+
+Wiki-oriented project:
+
+Non più sito statico ma piattaforma collaborativa
+
+Options: Miraheze (free), VPS (5-10€/month)
+
+Two approaches: A) DB as truth, wiki as presentation; B) wiki as truth
+
+CC BY-SA 4.0 license
+
+LazioWiki as model (29,000 articles, 45,000 photos)
+
+No budget, starting from zero, community coming later
+
+Accumulate material from web in the meantime (Wikipedia pages, articles)
+
+Astro vs Docusaurus choice: Astro (not Docusaurus) for encyclopedia generated from data
+
+Data quality requirements:
+
+ND / pending / not applicable (three states of absence)
+
+Confidence levels (alta/media/bassa)
+
+Verification levels (da_verificare/verificato)
+
+Audit trail
+
+Reversibility
+
+Coverage tracking
+
+Backup, migrations, audit:
+
+VACUUM INTO for backups
+
+Numbered SQL migrations
+
+Audit log with triggers on key tables
+
+Coverage table with 4 states
+
+pubblicata flag for editorial control
+
+Long-term ideas (from AG's suggestions):
+
+"Storia & Cronaca" section
+
+"Le Case del Napoli" (stadiums, training centers, headquarters)
+
+"Cultura della Curva" (chants, choreographies, banners)
+
+The desire for "everything": "Qual è il modo garantito al 100 per cento per avere tutti i dati sul napoli?" - and the answer that it's impossible, only maximum verifiable coverage
+
+First idea about Virtual Try-On: explored technical possibility of offline virtual try-on (later abandoned as not relevant to Napoli project)
+
+Let me now write a comprehensive document. The user asked for "un documento esteso" (an extended document). I should write it well-organized, in Italian, covering all their ideas. This should be a reference document - probably something they can save as a file.
+
+I should be thorough but well-organized. Let me structure it:
+
+Visione e identità
+
+Principi non negoziabili
+
+Identità visiva
+
+Architettura del sito / piattaforma
+
+Template scheda partita
+
+Infografica 1:2
+
+Contenuti social
+
+La Partita Eterna
+
+Cartina degli spostamenti
+
+Database storico
+
+Identità delle squadre (la correzione cruciale)
+
+Sistema di ingestione
+
+Metriche e visualizzazioni
+
+LLM Writer + Verifier
+
+Agente curiosità
+
+Infrastruttura tecnica
+
+Data quality e manutenibilità
+
+Wiki orientation
+
+Astro come piattaforma
+
+Idee future / blueprint
+
+Cosa NON fare
+
+Roadmap
+
+I should write it as a proper document, not just a list. Let me do that.
+
+DATA NAPOLI — Raccolta completa delle idee
+Documento di riferimento. Aggiornato al 28 ottobre 2026. Raccoglie tutte le decisioni, le visioni, le specifiche tecniche e gli spunti emersi durante la progettazione del progetto. Non è un piano operativo: è la mappa di ciò che DATA NAPOLI vuole essere.
+
+1. Visione e identità
+1.1 Nome e posizionamento
+Nome del progetto: DATA NAPOLI
+
+Sottotitolo: Napoli Analitica (omaggio a Canta Napoli, Napoli Petrolifera di Carosone)
+
+Handle social: @sscnapolidata
+
+Posizionamento: account/pagina specializzata in analisi matematica, visuale e statistica delle partite del Napoli. Non cronaca, non tifo, non commento emotivo. Rigore analitico.
+
+Claim implicito: "Ogni tanto potrei dare i numeri e basta."
+
+Frase-reputazione: "Questa cosa è assurda, ma è vera." — mai "Questa cosa sembra assurda, quindi probabilmente è vera."
+
+1.2 Principio non negoziabile
+Zero dati inventati, stimati o dedotti. Dove un dato non è verificato da una fonte consultabile, va dichiarato esplicitamente come non disponibile. Ogni elemento visivo deve rappresentare un dato reale. Meglio una grafica con meno informazioni che una grafica con un solo dato inventato.
+
+1.3 Focus analitico
+Analisi matematica, visuale e statistica delle partite
+
+Tecniche avanguardistiche per cogliere dettagli non colti dai tifosi
+
+Attenzione e dettaglio reparto per reparto
+
+Ogni elemento visivo rappresenta un dato, mai decorazione fine a sé stessa
+
+2. Identità visiva
+2.1 Riferimenti primari
+Immagine profilo X: logo circolare azzurro con "N" geometrica, minimale, lineare, sottile
+
+Banner X: paesaggio urbano astratto costruito con waveform/audio spectrum
+
+2.2 Palette
+Nero profondo: colore strutturale dominante
+
+Cyan/azzurro elettrico: accento identitario (non blu Napoli standard)
+
+Bianco freddo: testo principale
+
+Blu-cyan più profondo: variante secondaria
+
+2.3 Modalità tema
+Modalità chiara: sfondo azzurro (coerente con profilo X)
+
+Modalità scura: blu navy Napoli
+
+2.4 Linguaggio grafico
+Sottili colonne verticali, waveform, picchi, linee orizzontali, oscillazioni
+
+Waveform mai decorativa: sempre funzionale (separatore, intensità temporale, timeline, sfondo leggero)
+
+Icone geometriche, minimali, lineari. No tridimensionale, no emoji, no cartoon
+
+Rettangoli puliti, moduli editoriali, linee sottili, angoli moderatamente arrotondati, badge, separatori, griglie rigorose
+
+No card pesanti con effetto UI generico
+
+2.5 Atmosfera
+DATA + CALCIO + TECNOLOGIA + EDITORIALE
+
+Mai SPORT + PUBBLICITÀ
+
+Deve sembrare prodotta da un account specializzato in analisi e numeri
+
+2.6 Grafica anni '20 italiana, resa moderna
+Elemento di alto livello grafico italiano degli anni '20 (futurismo, Bauhaus italiano, cartellonistica)
+
+Reso moderno, cucito professionalmente su pagina all'avanguardia
+
+Coerenza con immagine profilo e banner
+
+2.7 Tipografia
+Massimo 2 famiglie sans-serif moderne
+
+Headline: bold/extra bold
+
+Numeri: extra bold, molto grandi
+
+Dati: medium/regular
+
+Microtesto: compatto ma leggibile
+
+Mai font decorativi
+
+Font scelto: Space Grotesk
+
+2.8 Fotografie
+Non obbligatorie: la grafica funziona anche senza
+
+Se usate: solo giocatori coinvolti, divise corrette, contesto reale
+
+No AI-generated player likenesses che sembrano foto reali
+
+Preferire composizione DATA-FIRST
+
+3. Architettura del sito
+3.1 Repository e hosting
+URL: github.com/marcorzzn/sscnapolidata
+
+Hosting: GitHub Pages (branch main, cartella / root)
+
+URL pubblico: https://marcorzzn.github.io/sscnapolidata/
+
+3.2 Funzionalità trasversali
+Cambio lingua IT/EN su tutta la pagina
+
+Tema chiaro/scuro con persistenza
+
+Ottimizzazione mobile-first
+
+Embedding feed X.com del profilo @sscnapolidata
+
+Embedding di singoli tweet in schede partita
+
+PWA: manifest + service worker
+
+3.3 Sezioni del sito
+Home: presentazione progetto, ultime partite, link archivio
+
+Archivio partite: elenco filtrabile e ordinabile
+
+Scheda partita: template standard (vedi §4)
+
+Analisi e grafiche: serie storiche, infortuni, marcatori, H2H
+
+Chi siamo / Metodologia: spiegazione delle fonti e del principio zero-invenzioni
+
+3.4 Sistema di sorting e filtri
+Etichette multiple per ogni partita:
+
+Competizione (Serie A, Coppa Italia, Supercoppa, Champions, Europa League, Conference, Coppa delle Fiere, Coppa dei Campioni, amichevoli ufficiali)
+
+Stagione
+
+Avversario
+
+Risultato (V/P/S)
+
+Casa/trasferta/neutro
+
+Allenatore
+
+Formazione (modulo)
+
+Marcatori
+
+Stadio
+
+Città
+
+Competizione internazionale/nazionale
+
+Era storica
+
+4. Template scheda partita
+4.1 Header — identità della partita
+Competizione, giornata/fase, data, ora, stadio
+
+Squadra di casa e trasferta
+
+Risultato (elemento visivamente più importante)
+
+Risultato primo tempo
+
+Marcatori con minuto
+
+4.2 Match Summary
+2-4 righe oggettive, senza commenti arbitrari. Basato su fonti verificabili.
+
+4.3 Goal Timeline
+Per ogni gol: minuto (graficamente enorme), marcatore, squadra, assist (se ufficialmente attribuito), risultato parziale in quel momento. Accento cyan.
+
+4.4 Match Timeline
+Timeline verticale cronologica dal 1' alla fine: gol, cartellini, sostituzioni, eventi VAR verificati, altre occasioni documentate. Per ogni evento: minuto, icona, descrizione, giocatore, squadra.
+
+4.5 Formazioni
+XI titolare per entrambe le squadre
+
+Modulo solo se verificato
+
+Layout editoriale/data visualization, non schermata FIFA
+
+Linee sottili, nodi minimali
+
+4.6 Sostituzioni
+Per ogni cambio: minuto, out, in. Ordinamento cronologico rigoroso.
+
+4.7 Cartellini
+Gialli, rossi, secondi gialli. Minuto, giocatore, squadra. Colore solo come indicatore.
+
+4.8 Statistiche
+Solo metriche realmente disponibili: possesso, tiri, tiri in porta, tiri fuori, tiri bloccati, corner, falli, fuorigioco, parate, passaggi, precisione passaggi, grandi occasioni, xG. Visualizzazione editoriale: barre sottili, eleganti, minimali.
+
+4.9 Match Flow
+Visualizzazione dell'andamento basata esclusivamente sugli eventi reali. Mai inventare un "momentum". Se non esiste una serie verificata, costruire il flow solo con gli eventi documentati.
+
+4.10 Key Moments
+3-5 momenti significativi realmente documentati: minuto, tipo evento, giocatore, breve descrizione. Deve sembrare una piccola dashboard editoriale.
+
+4.11 Final Data
+Modulo conclusivo compatto: risultato, possesso, tiri, tiri in porta, corner, cartellini, xG (se disponibile).
+
+4.12 La Partita Eterna
+Concetto centrale: il punteggio e il risultato complessivo tra Napoli e l'avversario, sommando tutti i risultati sin dal primo incontro.
+
+Mostra l'aggregato storico cumulato: gol segnati/subiti, V/P/S da tutti i precedenti ufficiali
+
+Ogni singolo incontro è cliccabile e porta a data, competizione, risultato
+
+Gestione della continuità societaria: se nel 1926 è indicata una partita tra Napoli e Alba Roma, verificare se quel punteggio è stato assorbito dall'attuale Roma. In caso di dubbio, doppia lettura (con/senza), mai decisione silenziosa
+
+Costruita automaticamente dal database storico
+
+4.13 Footer
+DATA NAPOLI + @sscnapolidata
+
+Fonti (solo in fondo alla pagina, non sparse nelle sezioni)
+
+Nota metodologica: dati non disponibili non stimati
+
+4.14 Checklist pre-pubblicazione (16 punti)
+□ Risultato corretto
+□ Primo tempo corretto
+□ Marcatori corretti
+□ Minuti corretti
+□ Assist corretti (o dichiarati non attribuiti)
+□ Formazioni corrette
+□ Moduli corretti
+□ Sostituzioni corrette (o "n.d.")
+□ Cartellini corretti
+□ Statistiche coerenti
+□ Nessun numero contraddittorio
+□ Nessun dato inventato, stimato, dedotto
+□ Nessun nome inventato
+□ Nessun elemento sovrapposto
+□ Nessun testo tagliato
+□ Leggibilità smartphone verificata
+5. Infografica verticale 1:2 per social
+5.1 Specifiche tecniche
+Formato verticale 1:2
+
+Dimensione: 2048 × 4096 px
+
+Pensata per X.com, leggibile su smartphone
+
+Griglia verticale rigorosa, gerarchia immediata
+
+5.2 Struttura a 12 sezioni
+Header: competizione, giornata, data, stadio, squadre, risultato enorme, full time
+
+Match Summary: titolo editoriale + 2-4 righe oggettive
+
+Goal Timeline: minuti enormi, marcatori, assist, risultato progressivo
+
+Match Timeline: cronologia verticale completa
+
+Formazioni: struttura simmetrica, diagramma editoriale
+
+Sostituzioni: frecce geometriche, ordine cronologico
+
+Cartellini: pannello discipline minimale
+
+Statistiche: barre sottili, non tabella Excel
+
+Match Flow: waveform del brand come timeline
+
+Key Moments: 3-5 momenti documentati
+
+Final Data: modulo compatto conclusivo
+
+Footer: Data Napoli, @sscnapolidata, fonti, provider
+
+5.3 Regole grafiche
+Nero dominante
+
+Cyan/azzurro elettrico come firma
+
+Bianco freddo per testo principale
+
+Linee sottili, numeri grandi, microtesto tecnico
+
+Waveform sempre funzionale
+
+Forte contrasto
+
+Massimo 2 famiglie tipografiche
+
+5.4 Controllo finale
+Vedi checklist §4.14. Regola finale: meglio meno informazioni che un solo dato inventato.
+
+6. Contenuti social per X
+6.1 Tipi di pubblicazione
+Post singolo (≤280 caratteri account gratuito):
+
+Dati essenziali post-partita
+
+Sempre con hashtag #NapoliAnalitica
+
+Fonte citata in fondo
+
+Esempio:
+
+text
+Napoli 2-1 Roma
+
+📊 Possesso 58%-42%
+🎯 Tiri 17-13 | In porta 6-4
+📈 xG 2.4-1.1
+
+Fonte: @FBref, @Understat
+#NapoliAnalitica
+Thread (5-7 post ideale, max 10):
+
+Hashtag #NapoliAnalitica solo nel primo post
+
+Struttura tipica:
+
+Post 1: Hook + sintesi + hashtag
+
+Post 2: Contesto con dato
+
+Post 3: Visualizzazione (shot map, xG race)
+
+Post 4: Analisi reparto
+
+Post 5: Chiusura + CTA
+
+I post successivi ereditano il contesto dal primo
+
+6.2 Regole hashtag
+1-2 hashtag per post (mai 3+)
+
+Nei thread: solo primo post
+
+Nei post singoli: sempre presente #NapoliAnalitica
+
+6.3 Contenuti pre-partita
+Forma recente, H2H, classifica
+
+xG medio/partita, PPDA
+
+Infortuni e squalifiche
+
+Probabili formazioni (se da testate affidabili)
+
+6.4 Contenuti post-partita
+Tabellino essenziale
+
+Metriche avanzate (xG, xGOT, xT, VAEP, Packing Rate, PPDA)
+
+Visualizzazioni (shot map, pass network, heatmap, xG race)
+
+Analisi reparto per reparto
+
+7. La Partita Eterna — approfondimento
+7.1 Concetto
+Per ogni partita, sezione che mostra il risultato complessivo tra Napoli e avversario, sommando tutti i risultati dal primo incontro.
+
+7.2 Funzionamento
+Aggregato cumulato: gol Napoli, gol avversario, V/P/S
+
+Ogni singolo incontro cliccabile → data, competizione, risultato
+
+Calcolato automaticamente dal database storico
+
+7.3 Continuità societaria
+Verifica se entità storiche collegate all'attuale avversario sono state assorbite
+
+Esempio: Alba Roma (1926) → Roma attuale?
+
+Doppia lettura (con/senza) in caso di dubbio, mai decisione silenziosa
+
+Documentare la scelta metodologica
+
+8. Cartina geografica degli spostamenti
+8.1 Concetto
+Per ogni stagione, cartina geografica con puntine che mostrano tutti gli spostamenti del Napoli.
+
+8.2 Funzionamento
+Non è un tracker live
+
+Metaforicamente: ogni partita in trasferta aggiunge una linea retta tra lo stadio di casa (San Paolo/Maradona) e lo stadio dell'avversario
+
+La linea indica la distanza geografica tra i due stadi, non l'itinerario reale
+
+Somma finale dei km percorsi nella stagione
+
+Per partite in campo neutro: gestione separata
+
+8.3 Tecnologia
+Calcolo distanze in Python (formula di Haversine)
+
+Salvataggio distanza_km in partite o tabella dedicata
+
+Esportazione GeoJSON per stagione
+
+Visualizzazione con Leaflet (interattiva) e matplotlib (statica per social)
+
+8.4 Dati necessari
+Coordinate di ogni stadio (tabella stadi)
+
+Calendario completo della stagione
+
+Competizioni incluse (campionato + coppe + europee)
+
+8.5 Output per stagione
+Km totali percorsi
+
+Km medi per trasferta
+
+Trasferta più lunga
+
+Numero trasferte fuori dall'Italia
+
+Mappa con linee accumulate
+
+Confronto tra stagioni
+
+9. Database storico 1926-oggi
+9.1 Copertura per periodo
+Periodo	Fonte principale	Dati disponibili
+1926-1988	RSSSF, Wikipedia, BDFutbol	Risultati, classifiche, marcatori (essenziali)
+1988-oggi	FBref	Statistiche avanzate (con lacune)
+2013-oggi	openfootball/italy	Risultati in JSON
+2014-oggi	Understat	xG, xGOT, shot data
+2014-oggi	Sofascore	Statistiche partita, heatmap, momentum
+Tutto	10maggio87.it	Statistiche storiche (verificare ToS)
+Tutto	Stadiapostcards.com	Affluenza spettatori
+9.2 Sfide
+Copertura disomogenea: FBref solo dal 1988-89
+
+Formati variabili in RSSSF e Wikipedia
+
+Dati mancanti per il periodo remoto (mai stimare)
+
+Rate limiting: FBref 1 req/3 sec
+
+Transfermarkt: ToS vietano scraping massivo
+
+9.3 Schema database
+Tabelle principali:
+
+squadre (squadre)
+
+stagioni (stagioni)
+
+partite (partite)
+
+marcatori (gol)
+
+persone (giocatori, allenatori, arbitri)
+
+presenze_stagionali
+
+fonti (fonti con URL e affidabilità)
+
+documenti (materiale testuale)
+
+foto (materiale fotografico)
+
+risorse (harvest log del materiale trovato sul web)
+
+Campi chiave:
+
+Ogni record ha source e confidence
+
+Conflitti tra fonti tracciati, mai risolti arbitrariamente
+
+Campi NULL per dati non disponibili (mai stimati)
+
+Flag pubblicata per controllo editoriale
+
+9.4 Tabelle di supporto
+squadre_alias: varianti nomi
+
+squadre_relazioni: relazioni societarie
+
+squadre_id_esterni: ID di sistemi esterni
+
+stadi: coordinate geografiche
+
+competizioni: normalizzazione nomi
+
+copertura: stato dei dati per campo
+
+audit_log: tracciamento modifiche
+
+audit_ctx: contesto delle modifiche (batch, utente, motivo, fonte)
+
+nomi_da_risolvere: coda manuale
+
+risoluzione_nomi: audit delle risoluzioni
+
+schema_migrazioni: migrazioni applicate
+
+metriche: catalogo controllato di statistiche
+
+statistiche_partita: valori delle metriche per partita
+
+9.5 Livelli di confidenza e verifica
+confidence: alta / media / bassa (qualità della fonte)
+
+verifica: da_verificare / verificato (se qualcuno l'ha controllato)
+
+I due assi sono separati
+
+9.6 Stati di copertura
+completo: dato presente e verificato
+
+parziale: dato parzialmente presente
+
+nd: non disponibile (la fonte non lo riporta)
+
+na: non applicabile (es. xG prima del 2014)
+
+10. Identità delle squadre — la correzione cruciale
+10.1 Il problema
+Molte squadre italiane hanno cambiato nome o sono state oggetto di fusioni. Il Napoli non fa eccezione:
+
+1904: Naples Foot-Ball Club + US Internazionale Napoli
+
+1922: fusione → FBC Internaples
+
+1926: Internaples cambia denominazione → Associazione Calcio Napoli (poi SSC Napoli)
+
+10.2 La distinzione che hai posto
+"Il Napoli non ha assorbito punteggi e titoli di Naples o Internaples e simili."
+
+Questa frase è il fondamento del modello:
+
+Eredità legale: il Napoli è la continuazione legale dell'Internaples (cambio di nome, non fusione)
+
+Eredità sportiva: il Napoli non eredita palmarès, titoli, record o risultati sportivi delle entità precedenti
+
+Il palmarès del Napoli inizia a contare dal 1926
+
+Stesso principio per la Roma rispetto ad Alba Roma, Fortitudo, Roman
+
+10.3 Modello dati
+Due concetti separati:
+
+Concetto	Esempio	Modellazione
+Cambio di nome (stessa società)	Internaples → Napoli	Alias con periodo di validità, un solo club
+Successione societaria (società diverse)	Alba Roma → Roma	Due entità distinte + relazione con flag
+10.4 Flag inherits_sporting_record
+Su ogni relazione tra entità: inherits_legal (0/1) e inherits_sporting_record (0/1)
+
+Internaples → Napoli: inherits_legal=1, inherits_sporting_record=0
+
+Alba/Fortitudo/Roman → Roma: inherits_legal=1, inherits_sporting_record=0
+
+Naples/Internazionale Napoli → Internaples: inherits_legal=1, inherits_sporting_record=0 (la fusione del 1922 non trasferisce palmarès)
+
+Inter → Ambrosiana → Inter: inherits_legal=1, inherits_sporting_record=1 (stessa società, cambia solo nome)
+
+10.5 Politica editoriale documentata
+Nel db/README.md:
+
+Il Napoli è l'erede legale dell'Internaples (continuità societaria), ma non ne eredita il palmarès sportivo. Il conteggio di titoli, record e statistiche del Napoli parte dal 1926. Questa è una scelta editoriale, non un fatto: se un domani si decidesse diversamente, basta modificare il flag inherits_sporting_record nella relazione Internaples→Napoli, senza toccare i dati delle partite.
+
+11. Sistema di ingestione
+11.1 Modalità cartella-per-cartella (materiale curato)
+Utente carica file in inbox/ (screenshots, texts, structured)
+
+Sistema legge metadati (.meta.json o note.txt obbligatorio)
+
+Nessun OCR (decisione: le foto le raccogli tu, le didascalie le scrivi tu)
+
+Sistema produce bozza in processing/
+
+Utente rivede e corregge
+
+Sistema salva in database con tracciabilità
+
+11.2 Formato note.txt
+text
+Titolo: Scudetto 1986-87
+Fonte: 10maggio87.it
+URL: https://www.10maggio87.it/...
+Data raccolta: 2026-10-09
+Tipo: storia
+Data scatto: 1987-05-10
+Confidence: alta
+Collector: marco
+Note: annotazioni libere
+Foto 1: Maradona festeggia lo scudetto
+Foto maradona.jpg: didascalia alternativa per nome file
+11.3 Modalità bulk CSV
+Per migliaia di record da fonti strutturate (openfootball, Wikipedia, RSSSF):
+
+CSV in data/import/ con header standard
+
+Import idempotente
+
+Log dettagliato
+
+Quarantena per nomi non risolti
+
+11.4 Watcher
+Controlla inbox/ ogni 60 secondi
+
+Lancia ingest.py se trova cartelle
+
+Log in ingest/watcher.log
+
+11.5 Modalità scraping (dove permesso)
+soccerdata per FBref, Understat, Sofascore
+
+pysofascore per dati Sofascore
+
+Playwright per fonti non coperte da librerie
+
+Rate limiting e rispetto dei ToS
+
+User-Agent reale con contatto
+
+11.6 Struttura cartelle
+text
+DataNapoli/
+├── inbox/          materiale in attesa
+├── processing/     bozze in revisione
+├── archive/        materiale processato
+├── foto/           immagini finali
+├── data/
+│   ├── import/     CSV per bulk
+│   ├── exports/    JSON per sito
+│   └── backups/    backup database
+└── db/
+    ├── datanapoli.sqlite
+    ├── migrations/
+    └── backups/
+12. Metriche avanzate
+Metrica	Cosa misura	Fonte tipica
+xG (Expected Goals)	Probabilità che un tiro diventi gol	Understat, FBref
+xGOT (xG on Target)	Qualità del tiro nello specchio	Understat
+xT (Expected Threat)	Valore di ogni azione in base alla zona	The Analyst
+VAEP	Valore aggiunto di ogni azione	The Analyst
+Packing Rate	Quanti avversari saltati da un passaggio	The Analyst
+PPDA	Passaggi concessi per azione difensiva	FBref, Understat
+xA	Expected Assists	Understat
+Set-piece efficiency	xG da corner/punizioni	The Analyst
+13. Visualizzazioni avanzate
+Shot Map: posizione di ogni tiro, dimensione proporzionale all'xG
+
+Pass Network: nodi = giocatori nella posizione media on-the-ball, linee = passaggi riusciti, spessore = frequenza, animazione = crescita nel tempo
+
+Heatmap: zone di campo più frequentate
+
+xG Race: andamento cumulativo dell'xG minuto per minuto
+
+Match Momentum: solo se esiste serie dati verificata, mai inventare
+
+Video animati per social: pass network animate in stile "analisi di rete di passaggi grafica", esportabile come MP4
+
+Infografiche su serie storiche: confronto marcatori, infortuni per allenatore, qualsiasi query scelta dall'utente
+
+Pipeline Pass Network:
+
+Filtra passaggi completati fino al primo cambio
+
+Calcola posizione media nodi
+
+Archi = passaggi (soglia minima 4-5)
+
+Render con mplsoccer (tema dark)
+
+Animazione 8-16 frame → MP4 12-18s 1080×1080
+
+14. LLM Writer + Verifier
+14.1 Architettura
+Dossier: codice Python deterministico trasforma eventi grezzi in fatti con chiavi univoche (es. {stats.ppda}, {match.result}, {goals[0].minute})
+
+Writer (LLM): scrive il report citando le chiavi, non i numeri
+
+Verifier: controlla ogni citazione. Se l'LLM scrive un numero a mano o cita chiave inesistente, la bozza viene respinta
+
+14.2 Garanzia
+L'LLM non tocca mai i numeri. I numeri sono inseriti dal codice. Il verifier controlla che ogni numero sia supportato dai dati. Zero invenzioni per costruzione.
+
+14.3 Applicazioni
+Generazione automatica schede partita
+
+Generazione post singoli
+
+Generazione thread strutturati
+
+Generazione infografiche (compilazione template)
+
+Analisi tattica basata su dati strutturati (RAG)
+
+Report pre-partita
+
+14.4 Esempi di query
+"Come ha pressato il Napoli nel secondo tempo?"
+
+"Quali pattern di passaggio ricorrenti di Lobotka sotto pressione?"
+
+"Confronta efficacia offensiva di Kvaratskhelia e Politano nelle ultime 5 partite"
+
+15. Agente curiosità e aneddoti
+15.1 Ruolo
+Ricercatore statistico, storico del calcio e fact-checker specializzato nell'SSC Napoli. Cerca curiosità, statistiche, coincidenze, anomalie, fatti bizzarri.
+
+15.2 Regola assoluta
+Zero invenzioni. Se un dato non è verificabile con fonte attendibile, non si usa. Meglio 6 curiosità inattaccabili che 20 di cui una falsa.
+
+15.3 Categorie di ricerca
+Precedenti assurdi: serie particolari, risultati ricorrenti, punteggi rarissimi, intervalli enormi
+
+Coincidenze temporali: stessa data di anni precedenti, anniversari, ricorrenze
+
+Giocatori con legami insospettabili: doppi ex, allenatori comuni, debutti legati
+
+Statistiche "inutili ma vere": giorni tra eventi, età esatta, distanze temporali
+
+Record strani: record negativi, serie interrotte, digiuni, autoreti, rigori
+
+Stadio e geografia: distanze, trasferte particolari, stadi rari, denominazioni
+
+Allenatori: precedenti incrociati, esordi, ultimi match
+
+Arbitri: solo se designazione ufficiale già disponibile
+
+Maglie, numeri, colori: numeri di maglia, divise particolari, capitani
+
+"Ma è possibile?": fatti che sembrano incredibili ma sono veri
+
+15.4 Filtro anti-banale
+Evitare: possesso palla, tiri, xG, statistiche generiche, "il Napoli ha vinto X delle ultime Y".
+
+15.5 Gerarchia fonti
+Livello 1: fonti ufficiali (SSC Napoli, Lega Serie A, FIGC, UEFA, FIFA)
+
+Livello 2: database storici (RSSSF, FBref, Statbunker, WorldFootball, Transfermarkt)
+
+Livello 3: testate affidabili (Gazzetta, Corriere dello Sport, ANSA, BBC, Guardian)
+
+Livello 4: Wikipedia, forum, social (solo come piste, mai come prova unica)
+
+15.6 Controllo incrociato
+Per ogni dato sorprendente, cercare almeno due conferme indipendenti. Se due fonti riportano numeri diversi, non scegliere arbitrariamente: documentare la discrepanza o eliminare il dato.
+
+15.7 Formato output
+Titolo brevissimo
+
+Post X pronto da pubblicare (≤280 caratteri)
+
+Fatto (spiegazione precisa)
+
+Verifica (come è stato verificato)
+
+Fonti (link diretti, mai "fonte: internet")
+
+15.8 Classificazione
+Categorie descrittive: 🧠 Curiosità, 🌀 Assurdità statistica, 📅 Coincidenza storica, 👀 Particolare, 😭 Dolorosa, 😂 Da ridere, 🤯 Incredibile, 🏟️ Stadio, 👤 Giocatore, 🔙 Amarcord, ⚠️ Record negativo, 💙 Record positivo.
+
+16. Infrastruttura tecnica
+16.1 Stack scelto
+SQLite: database unico locale, fonte di verità operativa (no PostgreSQL: macchina non potente, WSL da evitare)
+
+Python 3.13: script (python3.13 nel PATH; il comando python potrebbe non esistere)
+
+Astro: generatore statico per sito enciclopedico (scelto al posto di Docusaurus)
+
+GitHub Pages: hosting sito statico
+
+GitHub: versionamento
+
+16.2 Architettura
+text
+materiale grezzo (inbox/) ─┐
+                            ├─→ SQLite (db/datanapoli.sqlite) ─→ Export JSON ─→ Astro ─→ GitHub Pages
+fonti esterne (scraping) ──┘
+16.3 Backup e migrazioni
+Backup con VACUUM INTO prima di ogni batch
+
+Migrazioni SQL numerate in db/migrations/
+
+Runner Python minimale (scripts/migrate.py)
+
+Niente Alembic, niente yoyo, niente framework
+
+16.4 Audit e reversibilità
+Tabella audit_ctx (una riga) per contesto delle modifiche
+
+Tabella audit_log con trigger su tabelle chiave
+
+Ogni modifica registra: timestamp, batch, utente, motivo, fonte, tabella, record, operazione, campo, valore precedente, valore nuovo
+
+Reversibilità via backup (la storia parte da quando attivi i trigger)
+
+16.5 Export e sito
+Export deterministico (righe e chiavi ordinate) per diff leggibili
+
+Export committati in git (GitHub Pages serve file dal repo)
+
+data/matches.json (legacy) da deprecare dopo verifica Astro
+
+data/exports/*.json generati, mai editati a mano
+
+16.6 Cosa NON usare
+ORM (SQLAlchemy), Alembic, yoyo: più complessità del problema
+
+Streamlit o interfaccia web ora: valuta solo se la CLI ti pesa dopo qualche mese
+
+Docker, CI complicata, Postgres, autenticazione
+
+Trigger su tutte le tabelle (solo su quelle che contano)
+
+Tabelle future vuote "per quando servirà"
+
+17. Data quality e manutenibilità
+17.1 Tre stati di assenza
+Situazione	Nel DB	Sul sito
+pending (non ancora guardato)	NULL, nessuna riga in copertura	niente, oppure "in compilazione"
+nd (fonte non lo riporta)	NULL + riga copertura.stato='nd'	"n.d."
+na (non applicabile)	nessuna riga: deriva da una regola	nascosto
+dato presente	valore	valore
+17.2 Sezioni a righe multiple
+Una partita senza righe in marcatori può voler dire "0-0", "marcatori non noti" o "non ancora inseriti". La riga copertura(campo='sez:marcatori', stato='completo') distingue il caso 0-0 dal resto, e parziale copre "so solo due dei tre gol".
+
+17.3 Audit trail
+Tabella audit_log con trigger su partite, marcatori, persone, squadre_alias, foto, documenti
+
+Registra solo i campi effettivamente cambiati (OLD.x IS NOT NEW.x)
+
+Query possibili:
+
+Tutte le modifiche del 15 ottobre
+
+Valore di gol_casa al 10 ottobre
+
+Annullamento di un batch
+
+17.4 Workflow di correzione
+powershell
+python dn.py correggi partita <match_id> --campo gol_casa --valore 1 `
+    --motivo "RSSSF riporta 1-1" --fonte-id 3
+Backup del DB
+
+Imposta audit_ctx
+
+UPDATE
+
+Trigger registra
+
+Imposta verifica='da_verificare'
+
+Ricorda di fare dn export
+
+17.5 Workflow di arricchimento
+CSV versionati in data/contributions/
+
+Comando di import con dry-run di default
+
+Import idempotente
+
+A fine import scrive in copertura lo stato
+
+17.6 Script e responsabilità
+Strumento	Responsabilità
+dn.py (argparse, solo stdlib)	unica porta d'ingresso con sottocomandi
+dn migrate	applica le migrazioni (con backup)
+dn backup	VACUUM INTO datato
+dn correggi, dn storico, dn annulla	modifica, cronologia, undo
+dn aggiungi marcatore / dn foto	inserimenti singoli
+dn import <tipo> <csv>	import CSV, dry-run di default
+dn merge partita KEEP DROP	sposta i figli, imposta merged_into_id, logga
+dn risolvi	wrapper di 80_review_names.py
+dn copertura	report: cosa manca per stagione/sezione
+dn check	controlli (integrità, FK, gol vs marcatori, pubblicate senza fonte)
+dn export	JSON deterministici + dump SQL
+18. Orientamento wiki
+18.1 Modello di riferimento
+LazioWiki: nata nel 2007, 29.000 articoli, 45.000 foto, riconosciuta dalla Polisportiva Lazio. Prova che un progetto di appassionati può raggiungere scala enorme.
+
+18.2 Piattaforma
+MediaWiki è l'unica scelta sensata per una wiki vera
+
+Richiede PHP + MySQL sempre attivi
+
+Hosting: Miraheze (gratis), VPS (5-10 €/mese), WikiTide (non-profit)
+
+18.3 Due approcci
+Approccio A — La wiki è l'interfaccia, il database resta il motore:
+
+Database SQLite resta fonte di verità
+
+Wiki con Semantic MediaWiki o Cargo per query
+
+Utenti modificano le pagine, i dati strutturati sono sincronizzati dal database
+
+Complessità alta, ma mantiene audit e controllo
+
+Approccio B — La wiki diventa la fonte di verità:
+
+Ogni partita, giocatore, stagione diventa una pagina wiki
+
+Cargo/SMW estrae i dati
+
+Database SQLite diventa legacy
+
+Perdi controllo granulare (audit, copertura, confidence)
+
+Consiglio: Approccio A. Il database resta la fonte di verità per i dati strutturati. La wiki è per il testo enciclopedico e come interfaccia di consultazione.
+
+18.4 Licensing
+Contenuti testuali: CC BY-SA 4.0 (come Wikipedia)
+
+Dati fattuali (risultati, date, marcatori): liberi da copyright
+
+Articoli di giornale: non copiare, usare come fonte, estrarre i fatti, riscrivere
+
+Foto: dipende dalla singola immagine
+
+18.5 Governance
+Regole editoriali scritte
+
+Moderazione (qualcuno deve approvare o correggere)
+
+Sistema di patrolling
+
+Un "bibliotecario" che tiene ordine
+
+18.6 Strategia attuale
+Non aprire una wiki ora. Costruisci un sito statico con struttura da wiki, alimentato dal database, e prepara i contenuti in Markdown per una futura migrazione a MediaWiki quando arriveranno i primi 3-5 contributori.
+
+Vantaggi:
+
+Zero costo di manutenzione
+
+Zero server
+
+Contenuti in formato convertibile (Markdown → testo wiki con Pandoc)
+
+Filtro naturale via GitHub (issue, PR)
+
+Test della community prima di investire
+
+19. Astro come piattaforma
+19.1 Perché Astro (non Docusaurus)
+Criterio	Astro	Docusaurus
+Pagine generate da dati	Nativo e scalabile	Possibile ma con limiti
+Migliaia di pagine	Architettura adatta	Build lente e problemi noti
+Peso del sito	Zero JS di default	SPA con runtime JS
+Flessibilità contenuti	Markdown + dati + isole interattive	React/MDX monolitico
+Deploy GitHub Pages	Semplice	Semplice
+Caso d'uso ideale	Enciclopedia generata da dati	Documentazione tecnica scritta a mano
+19.2 Struttura del sito Astro
+text
+site/src/pages/
+├── index.astro
+├── archivio.astro
+├── cerca.astro
+├── contribuisci.astro
+├── partite/[slug].astro
+├── giocatori/[slug].astro
+├── giocatori/index.astro
+├── stagioni/[stagione].astro
+├── stagioni/index.astro
+├── allenatori/[slug].astro
+├── allenatori/index.astro
+├── squadre/[slug].astro
+└── curiosita/[slug].astro
+19.3 Content collections Markdown
+text
+site/src/content/
+├── curiosita/
+├── biografie/
+├── storie/
+└── metodologia/
+19.4 Ricerca
+Pagefind: ricerca full-text statica, integrata nel build di Astro, senza server.
+
+19.5 Deploy
+Astro in sottocartella site/ per il primo deploy
+
+Dopo verifica, spostamento alla root
+
+Workflow GitHub Actions con actions/deploy-pages@v4
+
+URL preservati: partite/<slug>.html deve restare raggiungibile
+
+19.6 Cross-linking
+Ogni entità linka alle correlate:
+
+Partita → giocatori (marcatori), stagione, competizione, squadre
+
+Giocatore → partite con gol, stagioni, squadre
+
+Stagione → partite, marcatori, allenatore
+
+Allenatore → stagioni, partite
+
+Squadra → partite, stagioni
+
+19.7 Licenza
+Contenuti testuali: CC BY-SA 4.0
+
+Codice: da decidere (MIT o simile)
+
+19.8 Template di contributo
+.github/ISSUE_TEMPLATE/correzione.md
+
+.github/ISSUE_TEMPLATE/curiosita.md
+
+.github/PULL_REQUEST_TEMPLATE.md
+
+Pagina contribuisci.astro con regole e licenza
+
+20. Idee future e blueprint
+20.1 Contenuti
+Aneddoti divertenti ma veri (embedding tweet X)
+
+Infografiche su infortuni per allenatore
+
+Confronto marcatori storici
+
+Serie storiche su qualsiasi metrica
+
+Pre-partita con probabili formazioni
+
+Post-partita con analisi reparto per reparto
+
+Thread tematici (es. "Il Napoli in Champions")
+
+20.2 Funzionalità sito
+Query builder per grafici personalizzati
+
+Esportazione grafici come PNG/MP4
+
+Embedding feed X.com
+
+Embedding singoli tweet
+
+Filtri multipli su archivio
+
+Confronto tra stagioni
+
+Confronto tra giocatori
+
+20.3 Analisi avanzate
+Pass network animate
+
+Shot map interattive
+
+Heatmap comparative
+
+xG race animate
+
+Analisi set-piece
+
+Analisi pressing
+
+Analisi transizioni
+
+Analisi palla inattiva
+
+20.4 Sezioni tematiche (idea di AG, futura)
+Storia & Cronaca: storie dei cicli vincenti, epoche storiche
+
+Le "Case" del Napoli: stadi (Militare dell'Arenaccia, Partenopeo/Vesuvio, Arturo Collana, San Paolo/Maradona), centri sportivi (Soccavo, Castel Volturno), sedi societarie storiche
+
+Cultura della Curva: archivio dei cori iconici, coreografie storiche, striscioni memorabili
+
+20.5 Community
+GitHub Issues come cassetta di ingresso contributi
+
+GitHub Actions come processore
+
+Pull Request per revisione
+
+Template di issue per contributi
+
+20.6 Integrazioni
+Embedding profilo X
+
+Embedding singoli tweet
+
+Link a fonti esterne
+
+API pubbliche (futuro)
+
+21. Cosa NON fare
+Versioning completo con valid_from/valid_to su ogni campo (audit_log copre il bisogno)
+
+ORM (SQLAlchemy), Alembic, yoyo, framework di migrazione
+
+Streamlit o interfaccia web ora (valuta dopo mesi)
+
+Una riga in copertura per ogni NULL (solo nd/parziale/completo; pending e na impliciti)
+
+Trigger su tutte le tabelle
+
+Tabelle future vuote "per quando servirà"
+
+JSON al posto di tabelle relazionali (formazioni come blob)
+
+Tabella generica chiave-valore per tutto (eccezione: statistiche_partita, governata da metriche)
+
+Docker, CI complicata, Postgres, autenticazione
+
+Docusaurus (Astro è la scelta)
+
+OCR (le foto le raccogli tu, le didascalie le scrivi tu)
+
+Wiki aperta ora (prima accumula, poi apri)
+
+Virtual Try-On (progetto esplorato e abbandonato)
+
+22. Roadmap realistica
+Fase	Cosa	Tempo	Costo
+Fase 1	Backup, migrazioni, audit, copertura, uniformazione confidence/verifica	Completata	0
+Fase 2	dn.py CLI unica, tabella formazioni, CSV di test, dn check	2-3 settimane	0
+Fase 3	eventi_partita, metriche + statistiche_partita, popolamento documenti e foto, FTS5	2-3 mesi	0
+Fase 4	Astro in sottocartella site/, pagine base, deploy in anteprima	2-3 settimane	0
+Fase 5	Spostamento Astro in root, deprecazione sito legacy	1 settimana	0
+Fase 6	Content collections Markdown, prime curiosità	1 mese	0
+Fase 7	Contributi via GitHub (issue, PR), pagina "Come contribuire"	2 settimane	0
+Fase 8	Migrazione a Miraheze o VPS (solo con 3-5 contributori reali)	1 mese	0-10 €/mese
+23. Principi guida (riepilogo)
+Zero dati inventati, stimati o dedotti — mai, per nessuna parte del sito
+
+Ogni elemento visivo rappresenta un dato reale, mai decorazione
+
+Fonti citate solo in fondo alla pagina, non sparse
+
+Tracciabilità completa: ogni dato ha source e confidence
+
+Conflitti mai risolti arbitrariamente: documentati o eliminati
+
+Human-in-the-loop per dati critici e storici
+
+LLM scrive, codice calcola, verifier controlla
+
+Meglio meno dati che un solo dato inventato
+
+Reputazione su "è assurdo ma è vero", non su "sembra assurdo"
+
+Coerenza visiva con identità X (nero, cyan, waveform, N geometrica)
+
+Questo documento raccoglie tutte le idee emerse. Può essere usato come riferimento per decidere cosa costruire prima, cosa rimandare e cosa sperimentare. Ogni sezione è un cantiere, non un'obbligazione.
+
+This response is AI-generated, for reference only.
+Il nome del progetto ora è SSC Napooli Data @sscnapolidata Data Napoli, Napoli Analitica è solo lo slogan 
+
+Questi sono i banner e l'immagine profilo della mia pagina su x.com e un esempio di scheda sul sito, così che possa capire come colori e stile debbano essere 
+
+Quando non sono io a elaborare una statistica, un'analisi o una curiosità, cito sempre la fonte
+
+Sul sito invece dovrebbe essere presente una modalità embedded che mostri i post della mia pagina su x.com e includa tutte le altre idee a cui avevo pensato https://marcorzzn.github.io/sscnapolidata/  
+
+Ho allegato anche spunti diversi e dati in precedenza ad altri LLM ma dai priorità alle richieste attuali, pur tenendo conto di tutto
+Il suo è un messaggio enorme e complesso. Ha allegato un sacco di file, immagini (banner, scheda partita scura e chiara, un tweet thread, un profilo X), e un testo di istruzioni. Mi chiede di "aiutarmi a orientare questo progetto" o meglio, dopo tutta questa mole di dati, di dare priorità alle richieste attuali tenendo conto di tutto.
+
+Riassumendo ciò che ha detto e allegato:
+
+Nome del progetto: SSC Napoli Data (@sscnapolidata). "Data Napoli, Napoli Analitica" è solo lo slogan.
+
+Stile visivo: Le immagini allegate mostrano un design molto pulito, minimal, nero/bianco con accenti azzurri (#01A0E8), font geometrici (Space Grotesk / Inter). Molto coerente con i documenti precedenti.
+
+Citazione fonti: Quando non elabora lui, cita la fonte.
+
+Sito web: Deve avere una modalità embedded che mostri i post di X.com, e includere tutte le altre idee (archivio, partite, ecc.).
+
+Richiesta attuale: "Aiutami a orientare questo progetto... dai priorità alle richieste attuali, pur tenendo conto di tutto."
+
+Cosa vuole veramente ora?
+Il progetto è già in uno stato avanzato: ha un database di 2.726 partite, ha esportato 254 partite, ha un sito statico, e ha iniziato a costruire l'infrastruttura per Astro (anche se il passaggio ad Astro non è ancora completo, o forse sì, dato che nella scheda allegata si vede il rendering di Astro o del sito attuale).
+Ha bisogno di un documento di orientamento finale, un "master plan" che unisca:
+
+La nuova identità visiva (SSC Napoli Data)
+
+La struttura del sito (con embed di X)
+
+La pipeline tecnica (dati + rendering)
+
+Le priorità operative per i prossimi passi
+
+Guardando i file allegati:
+
+DATA NAPOLI architettura per manutenibilità,.txt: Un'architettura molto dettagliata su audit, copertura, CLI dn.py.
+
+Ecco la domanda da porre a Claude...: Un prompt precedente.
+
+se invece volessi orientare il progetto più verso una wiki...: Discussione sulla wiki vs sito statico.
+
+Orientare DATA NAPOLI verso una wiki significa...: Altro testo sulla wiki.
+
+CREA UNA INFOGRAFICA EDITORIALE SPORTIVA VERTICALE.txt: Il prompt per l'infografica 1:2.
+
+RUOLO.txt: Il prompt per l'agente delle curiosità.
+
+...dovresti costruire una pipeline...: Un testo su come automatizzare i dati (API, soccerdata, mplsoccer, GitHub Actions).
+
+I file immagine: profile.jpg, banner.jpg, light.png, dark.png, tweet.png.
+
+Il suo desiderio finale: "Aiutami a orientare questo progetto".
+Devo produrre un documento di sintesi strategica (il "Master Plan" o "Blueprint") che fissi tutto.
+
+Come deve essere strutturato il mio output?
+
+Identità e Brand: Consolidare che il nome è "SSC Napoli Data", specificare i colori esatti dal campionamento (già fatti da lui/Claude in passato), font.
+
+Architettura dei Dati (Backend): SQLite locale con dn.py (CLI), migrazioni, audit, copertura. Includere i dati (2.726 partite, marcatori, ecc.).
+
+Architettura del Sito (Frontend): Astro (come discusso), con sezioni chiare:
+
+Home / Feed X embeddato.
+
+Archivio partite (filtrabile).
+
+Scheda partita (con "La Partita Eterna", ND espliciti).
+
+Generatore di infografiche 1:2 (Match Data Story).
+
+Curiosità (da RUOLO.txt).
+
+Wiki / Enciclopedia (biografie, storie).
+
+Pipeline di Automazione: Come i dati fluiscono dal DB alle grafiche (GitHub Actions + mplsoccer / Playwright).
+
+Roadmap (Prossimi Passi): Cosa fare esattamente adesso (migrazione ad Astro, popolare risorse, implementare embed X, generare le prime infografiche).
+
+Devo assicurarmi di dare priorità alle richieste attuali. Cosa c'è di nuovo?
+
+Nome: SSC Napoli Data.
+
+L'embed di X sul sito.
+
+Le immagini di riferimento per il design (che confermano il tema scuro/chiaro, i colori, la tipografia).
+
+L'infografica 1:2 (già in parte implementata o specificata nei prompt).
+
+Il prompt dell'agente per le curiosità.
+
+Risponderò con un documento strutturato, definitivo, che prende tutte le idee (wiki, astro, cli, infografiche, dati, db) e le organizza in una visione unica.
+Non farò un codice lunghissimo, ma un Master Plan chiaro, diviso per componenti, e poi la lista delle azioni immediate.
+
+Struttura del documento:
+
+Titolo: SSC Napoli Data — Master Plan e Architettura di Progetto.
+
+1. Identità e Design System (nome, colori, font, stile).
+
+2. Architettura del Frontend (Sito e Infografiche) (Astro, pagine, embed X).
+
+3. Architettura del Backend (Database e CLI) (SQLite, audit, copertura, dn.py).
+
+4. Flusso di Lavoro (Data Pipeline) (dati -> DB -> export JSON -> Astro -> GitHub Actions).
+
+5. Integrazione con X.com (embed, infografiche, generazione post).
+
+6. Roadmap Immediata.
+
+Aggiungerò una nota su come le immagini allegate (scheda scura e chiara) confermino il design system, e su come integrare l'infografica 1:2.
+Dato che ha citato la pagina https://marcorzzn.github.io/sscnapolidata/, devo integrare questo URL e l'idea dell'embed.
+
+Scrivo in italiano, tono professionale, da project manager/architect.
+
+Il progetto ha ormai una tale quantità di documentazione, idee e codice che il rischio non è più la mancanza di visione, ma la dispersione. Il tuo messaggio, con tutte le immagini e i documenti allegati, mi dà la possibilità di fare un punto definitivo.
+
+Ho analizzato le immagini (profilo, banner, scheda scura, scheda chiara, tweet) e tutti i file allegati. Ecco il Master Plan definitivo per SSC Napoli Data, strutturato per dare priorità a ciò che hai chiesto oggi, integrando tutto ciò che è emerso in precedenza.
+
+SSC Napoli Data — Master Plan e Architettura
+1. Identità e Design System (La Base Visiva)
+Il nome ufficiale del progetto è SSC Napoli Data (@sscnapolidata). "Data Napoli, Napoli Analitica" è lo slogan. Le immagini che hai allegato confermano e fissano definitivamente il design system:
+
+Palette (Estratta dalle immagini):
+
+Cyan Elettrico (Brand): #01A0E8 (dal logo e dal banner). Usato solo per accenti, numeri, linee e indicatori.
+
+Nero Profondo (Sfondo Dark): #08090B. Mai nero puro, per dare profondità.
+
+Bianco Freddo (Testo e Sfondo Light): #FFFFFF e #F4F5F6.
+
+Azzurro Attenuato: rgba(1,160,232,0.35) per linee e divisori.
+
+Tipografia: Space Grotesk (o Archivo) per titoli e numeri enormi; Inter per il microtesto. Massimo due famiglie.
+
+Stile: Editoriale, rigoroso, mobile-first verticale, "N" geometrica, waveform funzionale. Nessuna ombra o card pesante.
+
+2. Architettura Frontend (Il Sito e le Grafiche)
+Hai citato la pagina https://marcorzzn.github.io/sscnapolidata/. Ecco come deve evolvere:
+
+Piattaforma: Astro (già deciso) per generare staticamente migliaia di pagine veloci da un DB SQLite locale. L'integrazione con GitHub Pages rimane la scelta a costo zero.
+
+Sezione "Match Data Story" (Le Schede): Le immagini light.png e dark.png mostrano la perfezione a cui puntare. Le schede devono gestire i dati mancanti con i badge "ND" (Non Disponibile) o "NA" (Non Applicabile) e integrare la sezione "The Eternal Match".
+
+Sezione "Feed X Embedded": Come richiesto, la home o una sezione dedicata deve incorporare il tuo feed X.com (tramite l'embed ufficiale di Twitter/X) o mostrare i post che generi, dando continuità tra sito e social.
+
+Sezione "Infografica 1:2": Le schede devono avere un pulsante "Genera Infografica". Il sistema prenderà i dati JSON e genererà un'immagine PNG verticale (tramite script Python/mplsoccer o Playwright), già brandizzata con logo e handle per la condivisione social.
+
+Sezione Curiosità / Wiki: Una sezione dove l'agente RUOLO.txt (il fact-checker) pubblica i post pre-partita e post-partita, con fonti sempre citate.
+
+3. Architettura Backend (Dati e Database)
+Il cuore pulsante rimane il DB SQLite locale (con oltre 2.700 partite e 4.800 marcatori), come descritto nel tuo file "DATA NAPOLI architettura per manutenibilità".
+
+CLI Unificata (dn.py): Una sola porta d'ingresso per fare tutto: correggere dati (dn fix), aggiungere CSV massivi (dn import), annullare errori (dn revert), fare backup e migrazioni.
+
+Copertura e Audit: Ogni dato ha un livello di confidenza (alta, media, bassa) e un flag di verifica. La tabella copertura traccia cosa manca e perché (es. "affluenza ND per partite pre-2000").
+
+Zero Invenzioni: I dati calcolati (es. medie, percentuali) vengono fatti da script Python. Gli LLM (o tu) scrivete solo il testo attorno ai numeri, senza toccare i numeri.
+
+4. Pipeline di Automazione (Il flusso di lavoro)
+Ecco come i dati diventano contenuto pubblicabile:
+
+Dati: Import da Wikipedia, openfootball, FBref o inserimento manuale. Il DB si aggiorna.
+
+Elaborazione: dn.py esporta i dati in JSON per il sito. Un modulo Python genera l'infografica 1:2 con i colori di SSC Napoli Data.
+
+Pubblicazione: GitHub Actions (o un comando locale) builda Astro, carica il sito e mette a disposizione l'immagine per X.com. Il tutto senza server, a costo zero.
+
+5. Cosa Fare Adesso (Le prossime 3 mosse)
+Dato che il progetto è immenso, non disperderti. Ecco le priorità per le prossime settimane:
+
+Completare il passaggio ad Astro: Il sito attuale su GitHub Pages va migrato su Astro per permettere la generazione dinamica delle pagine (giocatori, stagioni, schede, curiosità). Il design è già pronto nelle tue immagini.
+
+Costruire il Generatore di Infografiche 1:2: Il prompt per l'infografica (CREA UNA INFOGRAFICA...) è perfetto. Affida a uno script Python (usando Playwright per "fotografare" una pagina HTML formattata) la generazione automatica del PNG da postare su X.
+
+Integrare l'Embed di X e la Sezione Curiosità: Una volta che il sito gira su Astro, crea un componente per mostrare i tuoi tweet (o i post generati dall'agente "RUOLO") sulla home page, in modo che chi visita il sito capisca subito che c'è un flusso costante di analisi.
+
+In sintesi
+Il progetto ha raggiunto una maturità tecnica e visiva incredibile. Il tuo database è una miniera d'oro, la tua identità visiva (come mostrano le immagini) è coerente e professionale, e il sistema a costo zero (Astro + GitHub Pages + SQLite) funziona.
+
+Il prossimo passo operativo è chiudere il passaggio ad Astro e creare lo script che genera l'infografica 1:2 in automatico. Quando vuoi, possiamo scrivere il prompt esatto per Antigravity per completare questo passaggio, usando le immagini che hai appena allegato come riferimento inconfutabile per il design.
+
+I problemi però sono questi: 
+
+ottenere dati sulle società calcistiche di napoli dal 1900 fino al 1926 in una sezione a parte all'interno della sezione storica
+
+Quindi deve esserci 
+una sezione storica 
+1900-1926 / poi 1926-gestione presidente 1/ presidente 2/ presidente 3/ ecc. 
+ciascuna di queste sezioni deve avere foto della rose titolari e deve esserci anche una sezione museo interattivo, costruito come fosse una sala dedicata all'esposizione dei cimeli e trofei, archivio di tutte le divise del napoli, ecc. 
+
+archivio partite 
+con filtri tra partite di campionato/competizione 1/competizione 2/competizione 3 
+
+almanacco con dati e record di ogni tipo 
+allenatori / giocatori / record / trofei / albo d'oro 
+
+sezione dedicata alle "case" del napoli 
+sedi / centri sportivi / stadi 
+
+sezione dedicata allo stadio maradona con modello tridimensionale reale dello stadio maradona interattivo, con possibilità di scoprire un archivio di cori, striscioni, storia delle curve, coreografie (quindi audio + immagini, ecc.)
+
+ovviamente la prima pagina ogni volta è dedicata alle informazioni dell'ultima partita, con descrizione estesa della partita con momenti salienti, che poi verrà archiviata nella sezione dell'archivio delle partite quando comparirà la scheda della partita più recente 
+
+Il problema è che io devo accumulare e incrociare dati da più fonti, ma dovrei capire anche come tenere in continuo aggiornamento ogni cosa
+L'utente sta definendo una visione molto più ambiziosa del progetto SSC Napoli Data. Non vuole solo un archivio di partite, ma un vero e proprio ecosistema enciclopedico e interattivo (una vera e propria "wikipedia/museo digitale" del Napoli).
+
+I problemi/richieste sollevati sono:
+
+Dati sulle società calcistiche di Napoli dal 1900 al 1926 (pre-Napoli, es. Naples FBC, Internaples).
+
+Struttura della sezione storica organizzata per periodo e per presidenza, con foto delle rose titolari.
+
+Museo interattivo: sala dedicata a cimeli, trofei, archivio di tutte le divise.
+
+Archivio partite con filtri per competizione.
+
+Almanacco (record, allenatori, giocatori, trofei, albo d'oro).
+
+Le "Case" del Napoli (sedi, centri sportivi, stadi).
+
+Sezione dedicata allo Stadio Maradona con modello 3D interattivo, archivio cori, striscioni, storia curve, coreografie (audio + immagini).
+
+Home page dedicata all'ultima partita con descrizione estesa e momenti salienti.
+
+Il problema principale: come accumulare, incrociare dati da più fonti e come tenere tutto in continuo aggiornamento in modo sostenibile.
+
+Devo rispondere in modo strutturato. L'utente ha un background tecnico (sa usare DB, script, Python, sa cosa sono gli LLM, Astro, ecc.), ma è da solo e ha un budget zero. Devo dargli una strategia architetturale per gestire questa vastità senza impazzire.
+
+Come si tiene in continuo aggiornamento un sistema così complesso da soli?
+
+Separazione dei flussi di dati (partite vs. contenuti storici).
+
+Automazione dove possibile (partite recenti), processo manuale/semi-manuale per lo storico (museo, divise, 1900-1926).
+
+L'uso di un database relazionale (SQLite) che già ha, ma espandendolo per gestire le nuove entità (Museo, Case, Divise, Cori, ecc.).
+
+L'architettura del sito (Astro) che deve gestire contenuti statici (storia) e dinamici (ultima partita).
+
+Punti chiave della risposta:
+
+Rassicurare e inquadrare: è un progetto enorme, va trattato come un'enciclopedia digitale. Va scisso in "Dati vivi" (partite che si aggiornano) e "Dati storici/museali" (che si accumulano nel tempo).
+
+Il problema del "continuo aggiornamento": non si può aggiornare tutto in automatico perché le fonti per il museo o gli anni '10 non esistono come API. Bisogna automatizzare ciò che è automatizzabile (partite recenti, statistiche) e usare un flusso di lavoro "human-in-the-loop" per il resto.
+
+Architettura dei dati (SQLite): Come estendere lo schema per accogliere Museo, Case, Divise, Cori, ecc. (tabelle per cimeli, divise, cori, stadi, presidenti, periodi_storici).
+
+Architettura del sito (Astro): Come strutturare il routing e le componenti per Home (ultima partita), Storia, Museo (3D/Interattivo), Almanacco.
+
+Modello di lavoro (Workflow): Come fare in pratica (es. un file Markdown/JSON per ogni presidente/stagione storica, un CSV per le divise, l'uso di modelli 3D glTF per lo stadio).
+
+Risposta al problema delle fonti 1900-1926: RSSSF, Wikipedia, libri, Almanacco illustrato. (Come già discusso, andranno inseriti manualmente o via CSV).
+
+Dettaglio sulle tecnologie per le parti interattive:
+
+Modello 3D dello stadio: Three.js (integrato in Astro/React) o un visualizzatore glTF. Bisogna trovare/creare un modello 3D dello stadio (es. su Sketchfab, o farlo fare da qualcuno).
+
+Museo interattivo: Galleria di immagini con visualizzatore (es. PhotoSwipe) o una mappa planimetrica interattiva.
+
+Struttura della risposta:
+
+Riconoscere la vastità (è un museo digitale, non solo un sito).
+
+La strategia per l'aggiornamento: dividere in "flusso automatico" e "flusso curato".
+
+Il database: come estendere lo schema.
+
+Le sezioni del sito (Astro): come organizzarle.
+
+I 1900-1926: come gestirli.
+
+Il modello 3D e il museo: come realizzarli a costo zero.
+
+Il workflow operativo per non impazzire.
+
+Quella che stai descrivendo non è più solo un sito di analisi dati, ma un Museo Digitale e un'Enciclopedia Totale del Napoli. È un progetto meraviglioso, ma la domanda che poni ("come tenere in continuo aggiornamento ogni cosa") è il vero nodo ingegneristico.
+
+La risposta è: non puoi (e non devi) aggiornare tutto in automatico. Devi dividere il progetto in due grandi "motori" che viaggiano a velocità diverse. Ecco l'architettura strategica per realizzare questa visione senza impazzire.
+
+1. La Strategia: Separare il "Dati Vivi" dal "Museo Storico"
+Il tuo problema di aggiornamento si risolve separando i flussi di lavoro:
+
+Il Flusso Automatico (Dati Vivi): Riguarda l'ultima partita, le statistiche recenti, la generazione delle infografiche 1:2 e l'aggiornamento del sito. Questo flusso è (o sarà) automatizzato tramite Python e GitHub Actions. Accade in pochi minuti dopo il fischio finale.
+
+Il Flusso Curato (Il Museo e la Storia): Riguarda i presidenti, le divise, i cori, gli anni 1900-1926, il modello 3D. Questo non si può aggiornare in tempo reale. È un lavoro di "accumulo" (come dicevi tu). Va gestito con il sistema di importazione CSV/Markdown, un pezzo alla volta, quando hai tempo.
+
+2. L'Architettura Dati (Estendere il Database SQLite)
+Il tuo DB attuale è perfetto per le partite, ma va esteso per il "Museo" e la "Storia". Aggiungeremo queste tabelle:
+
+periodi_storici (1900-1926, Era Ferlaino, ecc.)
+
+presidenti (nome, anni, foto, note)
+
+divise (anno, tipo home/away/third, foto_maglietta, foto_pantaloncini, note)
+
+cimeli (nome, descrizione, foto, anno, posizione_nel_museo)
+
+cori (titolo, testo, file_audio, anno, curva)
+
+stadi_storici (nome, anno_inizio, anno_fine, coordinate)
+
+I contenuti testuali (le storie dei presidenti, la descrizione del museo) vivranno in file Markdown dentro Astro, non nel DB, per essere facili da scrivere.
+
+3. Le Nuove Sezioni del Sito (Astro)
+Con Astro, genererai le pagine staticamente da questi dati:
+
+Home Page: Un componente che pesca sempre l'ultima partita dal DB (tramite JSON) e la mostra in grande, con l'analisi estesa. Sotto, i tweet e le ultime notizie.
+
+Sezione Storica: Un menu a tendina per periodi e presidenti. Pagine generate da Markdown + foto delle rose.
+
+L'Almanacco: Pagine generate dinamicamente (es. tutti i record, tutti i trofei, tutti gli allenatori).
+
+Archivio Partite: La parte già costruita, con filtri avanzati.
+
+Le "Case": Pagine per Sedi, Centri Sportivi e Stadi.
+
+Il Museo (Il pezzo forte):
+
+Museo Interattivo: Una pagina con una "mappa" della sala (es. un'immagine vettoriale SVG) dove clicchi sui cimeli e si apre la scheda con foto e descrizione.
+
+Archivio Divise: Una griglia visiva di tutte le maglie storiche.
+
+Stadio Maradona (Il capolavoro):
+
+Modello 3D: Per farlo a costo zero, non creare un modello da zero. Trova un modello 3D gratuito dello stadio (es. su Sketchfab) in formato .gltf o .glb. Inseriscilo in Astro usando Three.js. Potrai aggiungere "punti cliccabili" sul 3D che aprono schede su cori, striscioni e storia delle curve.
+
+Audio + Immagini: Una galleria con i cori (file mp3) e le foto delle coreografie.
+
+4. Come gestire i dati 1900-1926
+Questa è la parte più difficile perché i dati sono frammentari.
+
+Fonti: Usa RSSSF (che ha le classifiche di inizio secolo), Wikipedia e l'Almanacco illustrato del calcio.
+
+Metodo: Non cercare di automatizzare. Usa il tuo script di importazione CSV. Creerai un file data/import/storia_1900_1926.csv dove inserirai a mano i dati trovati (es. Naples FBC 1905, Internaples 1922, ecc.). Il tuo sistema di gestione delle entità storiche (quello con inherits_sporting_record) farà il resto.
+
+5. Il Workflow per non impazzire
+Ecco come devi organizzarti per l'aggiornamento:
+
+La routine settimanale (Dati Vivi): Dopo la partita, lanci dn.py per importare i dati, esporti il JSON e Astro aggiorna il sito automaticamente. Ci metti 10 minuti.
+
+Il lavoro "Museo" (Accumulo): Non farlo tutto subito. Ogni settimana decidi di aggiungere una cosa: 3 foto di divise, 1 cimelio, la biografia di un presidente. Inserisci i dati nei CSV o nei file Markdown.
+
+Il modello 3D: Prendilo come un progetto separato. Una volta che hai trovato il file .glb, integrare Three.js è questione di un paio di giorni di lavoro con l'agente AI.
+
+Cosa fare ORA (I prossimi passi concreti)
+Per non bloccarti, dobbiamo fare in modo che il sito web sia pronto a "ricevere" tutte queste sezioni.
+
+Ti propongo questo prompt per Antigravity. Dobbiamo creare lo scheletro di Astro con tutte le nuove pagine vuote, per poi riempirle una alla volta.
+
+Prompt per Antigravity:
+
+"Agisci come un Architetto Software. Stiamo evolvendo il progetto SSC Napoli Data verso un'enciclopedia storica totale.
+
+In site/src/pages/, crea le seguenti pagine statiche (o con routing dinamico) usando Astro, tutte collegate al layout Base.astro e con il design system esistente (nero #08090B, cyan #01A0E8):
+
+storia/index.astro (pagina indice con i periodi storici)
+
+storia/[periodo].astro (pagine per presidenti o periodi, che leggono da Markdown)
+
+museo/index.astro (pagina del museo interattivo)
+
+museo/divise.astro (galleria delle maglie)
+
+case/index.astro (stadi, sedi, centri sportivi)
+
+stadio-maradona/index.astro (pagina dedicata con visualizzatore 3D e archivio cori)
+
+almanacco/index.astro (record, trofei, albo d'oro)
+
+Aggiorna il menu di navigazione (header) in Base.astro per includere queste nuove voci.
+
+Per la sezione Storia, crea la collection src/content/storia/ con un file Markdown di esempio per il periodo 1900-1926.
+
+Non implementare ancora la logica del 3D o dei cori, crea solo le pagine vuote con un placeholder 'In costruzione' e i titoli corretti.
+
+Mantieni la home page attuale, ma aggiungi i link a queste nuove sezioni."
+
+Vuoi che ti scriva anche il prompt per l'agente che deve estrarre i dati del 1900-1926 da Wikipedia/RSSSF per preparare il CSV?
+
+Vorrei capire come possa ottenere tutti i dati, tutte le infrastrutture, tutti gli aggiornamenti e un database interrogabile capace di elaborare statistiche in modo gratuito e legale.
+L'utente chiede una guida pratica per ottenere dati, infrastrutture, aggiornamenti e un database interrogabile per il suo progetto "SSC Napoli Data", il tutto gratuitamente e legalmente. Devo coprire l'intero spettro: fonti dati aperte, strumenti di scraping etico, database, hosting, automazione e licenze. La risposta deve essere strutturata e ricca di esempi concreti, collegando le informazioni alle esigenze specifiche del progetto (archivio storico, analisi statistiche, sito web).
+
+Per rispondere in modo completo, ho bisogno di cercare informazioni su:
+
+Dataset aperti di calcio (es. Kaggle, GitHub, football-data.co.uk, openfootball).
+
+API gratuite per dati calcistici (es. API-Football, Football-Data.org).
+
+Librerie Python per lo scraping etico e l'accesso ai dati (es. soccerdata, BeautifulSoup, Playwright).
+
+Strumenti di automazione gratuiti (GitHub Actions, cron jobs).
+
+Licenze e aspetti legali (CC BY-SA, fair use, robots.txt).
+
+Database e hosting gratuiti (SQLite, GitHub Pages, Cloudflare Pages).
+
+Esempi di progetti open source simili (es. StatsBomb open data, Wyscout).
+
+Eseguirò più ricerche in parallelo per coprire questi aspetti.
+
+Found 51 web pages
+I risultati delle ricerche forniscono diverse informazioni utili. Devo aprire alcuni link per approfondire.
+
+Read 3 pages
+openfootball/italy alternatives and similar packages - openfootball / italyView on GitHub
+GitHub - tunjayoff/sofascore_scraper: Self-hosted SofaScore data platform: follow leagues, teams, players and matches in 21 sports, download their history within a request budget, and export CSV, JSONL, Parquet or SQLite. Python library, ssc CLI, HTTP API and web UI. Unofficial. · GitHub
+GitHub - appbrewery/scheduled-tasks: Run your python script on a regular basis using Github actions · GitHub - GitHub - appbrewery/scheduled-tasks: Run your python script on a regular basis using Github actions · GitHub
+I risultati delle ricerche forniscono informazioni utili. Devo anche cercare specificamente dati storici per il Napoli prima del 1926 e informazioni sulle licenze.
+
+Found 27 web pages
+Read 3 pages
+football.db - {{ message }}
+GitHub - tunjayoff/sofascore_scraper: Self-hosted SofaScore data platform: follow leagues, teams, players and matches in 21 sports, download their history within a request budget, and export CSV, JSONL, Parquet or SQLite. Python library, ssc CLI, HTTP API and web UI. Unofficial. · GitHub
+GitHub - withqwerty/open-football: A curated map of open football (soccer) data: free datasets and exports, plus the scrapers and tooling to use them. · GitHub
+Ora ho un quadro più chiaro delle fonti e degli strumenti. Devo strutturare una risposta completa che copra tutti gli aspetti richiesti: dati, infrastruttura, aggiornamenti, database interrogabile, tutto gratuito e legale. La risposta deve essere dettagliata, con esempi concreti e riferimenti alle fonti trovate.
+
+Costruire un'enciclopedia digitale come SSC Napoli Data in modo completamente gratuito e legalmente solido è possibile. La chiave è separare i dati storici (curati una volta) da quelli correnti (aggiornati automaticamente) e combinare dataset di pubblico dominio con scraping etico su fonti che lo consentono. Ecco la mappa completa.
+
+📊 1. Le Fonti Dati: dove trovare cosa (gratis e legalmente)
+La strategia migliore è stratificare le fonti per tipo di dato e per licenza.
+
+Dati strutturati di base (risultati, calendari, classifiche)
+
+openfootball: È la base perfetta. Rilasciato sotto licenza CC0 (pubblico dominio), puoi usarlo, modificarlo e ridistribuirlo senza alcun vincolo. Copre Serie A, B e Coppa Italia dal 2013 a oggi.
+
+football-data.co.uk / Kaggle: Dataset storici gratuiti con risultati e quote dal 1993-94 a oggi. Esistono anche dataset su Kaggle per la Serie A che partono dal 1928/29.
+
+footballcsv / openfootball: Repository gemelli con dati in formato CSV o JSON per un parsing immediato.
+
+Statistiche avanzate (xG, tiri, falli, passaggi)
+
+soccerdata (libreria Python): È lo standard per estrarre dati da FBref, Understat, WhoScored, Sofascore, ESPN. Restituisce DataFrame Pandas pronti all'uso. Avvertenza legale: la libreria specifica che l'utente è responsabile del rispetto dei Termini di Servizio dei siti.
+
+sofascore_scraper: Un progetto self-hosted che scarica dati storici da Sofascore (statistiche, formazioni, H2H) e li esporta in SQLite, CSV, JSON in modo strutturato.
+
+Dati storici (pre-1926 e almanacco)
+
+RSSSF (Rec.Sport.Soccer Statistics Foundation): È la fonte d'oro per la storia antica. Ha archivi completi dal 1898. Non ha un'API, ma le pagine HTML sono stabili e parsabili.
+
+Wikipedia (CC BY-SA 4.0): Per i dati testuali (storie, biografie, presidenti) puoi usare i contenuti citando la fonte e mantenendo la stessa licenza. Per i dati fattuali (risultati, date, marcatori), il copyright non si applica, ma è buona norma citare comunque la fonte.
+
+🏗️ 2. L'Infrastruttura: come elaborare e pubblicare a costo zero
+Database interrogabile
+
+SQLite è la scelta perfetta. È un file locale, non richiede server e supporta query complesse. La tua pipeline Python può popolarlo e interrogarlo con sqlite3 o pandas.read_sql.
+
+Per il sito web, puoi esportare i dati in JSON e usarli con Astro (che genera pagine statiche) o con una semplice applicazione JavaScript che interroga i dati lato client.
+
+Automazione e aggiornamenti
+
+GitHub Actions: È il tuo "cron job" gratuito. Con un file YAML puoi schedulare l'esecuzione di script Python (es. ogni domenica notte) per scaricare i nuovi dati, aggiornare il database e fare il commit automatico delle modifiche. Il piano gratuito offre 2.000 minuti al mese, più che sufficienti.
+
+Script Python con schedule o cron locale come alternativa per aggiornamenti manuali.
+
+Hosting del sito
+
+GitHub Pages: Gratuito per repository pubblici. Puoi pubblicare direttamente la build di Astro o la cartella dist generata da uno script.
+
+⚖️ 3. Legalità e Licenze: come restare al sicuro
+Dati di pubblico dominio (CC0): openfootball è la tua base sicura. Puoi fare ciò che vuoi senza obblighi di attribuzione.
+
+Dati fattuali (risultati, date, marcatori): Non sono protetti da copyright. Puoi estrarli e organizzarli in un database. Il copyright può esistere sulla raccolta (la struttura del database), ma non sui singoli fatti.
+
+Testi e contenuti creativi (articoli, descrizioni): Sono protetti. Se usi Wikipedia, devi rispettare la licenza CC BY-SA 4.0 (attribuzione e stessa licenza per le opere derivate). Per gli articoli di giornale, puoi estrarre i fatti ma non copiare il testo.
+
+Scraping: È legale se rispetti i Termini di Servizio del sito e non sovraccarichi i server (rate limiting). soccerdata ti avvisa esplicitamente di questa responsabilità. Per FBref, ad esempio, è prassi comune attendere 3 secondi tra una richiesta e l'altra.
+
+🗺️ 4. Piano d'Azione Pratico (La tua roadmap)
+Fondamenta (Storico): Usa openfootball (CC0) per i risultati dal 2013 e RSSSF per il pre-1926 e i periodi mancanti. Inserisci questi dati nel tuo database SQLite. Per le statistiche avanzate, usa soccerdata su FBref/Understat per le stagioni recenti, rispettando i rate limit.
+
+Il "Museo" (Curato): Per presidenti, divise, cimeli, cori e stadi, non esiste un dataset. Dovrai curarlo manualmente usando il tuo sistema di importazione CSV (es. data/import/museo.csv) o file Markdown per i testi. Questo è un lavoro di accumulo nel tempo, non automatizzabile.
+
+Automazione (Aggiornamenti): Scrivi uno script Python (update_data.py) che, per ogni nuova partita, usi soccerdata per scaricare statistiche e openfootball per i risultati, aggiorni il DB e riesporti i JSON per il sito. Schedula questo script con GitHub Actions per l'esecuzione automatica.
+
+Pubblicazione: Usa Astro per generare il sito dalle tue pagine Markdown (Storia, Museo) e dai dati JSON (Partite, Statistiche). Pubblica su GitHub Pages.
+
+In sintesi, la combinazione vincente è: openfootball + RSSSF (per i dati di base) + soccerdata (per le statistiche) + SQLite (per l'archivio) + GitHub Actions (per l'automazione) + Astro (per il sito). Tutto gratuito, tutto legale, e con un sistema di aggiornamento che puoi controllare.
+
+Sei pronto a trascrivere tutto in un unico prompt? devi includere in un unico documento coerente tutte le richieste e le informazioni e le idee, inclusa quella delle puntine con tutti i posti in cui il napoli ha giocato, anno per anno (considerando gli stadi delle trasferte e quello di casa con un numero progressivo in casa e aggiornamenti della cartina progressivo con puntine e numeri progressivi in caso di più partite giocate in uno stesso posto) poi deve esserci anche una cartina di napoli nella sezione delle case del napoli con le puntine su tutti i centri sportivi, sedi legali e campi in cui ha giocato o si è allenato, inclusi i ritiri estivi, per ogni epoca
+Il flusso di pensiero dell'utente (in italiano) richiede la creazione di un unico prompt onnicomprensivo per Antigravity, che raccolga tutte le specifiche tecniche, le idee, i design e le logiche del progetto "SSC Napoli Data".
+Le richieste specifiche sono:
+
+Un documento coerente e unico.
+
+Includere le idee passate (Museo interattivo, 3D dello stadio, Almanacco, Storia, Case del Napoli, ecc.).
+
+Aggiungere la logica delle mappe con puntine:
+
+Mappa 1: Tutti i posti in cui il Napoli ha giocato (casa/trasferta) anno per anno. Puntine con numeri progressivi per più partite nello stesso posto. Aggiornamento progressivo della mappa.
+
+Mappa 2 (sezione "Case"): Mappa di Napoli con puntine su centri sportivi, sedi legali, campi di allenamento, ritiri estivi, per ogni epoca.
+
+Deve essere operativo per Antigravity (che può scrivere codice, gestire il DB, generare pagine Astro).
+
+Devo strutturare il prompt in modo che sia un "mega-brief" per un agente AI (Antigravity), che contenga:
+
+Contesto e Visione.
+
+Architettura e Stack (SQLite, Python, Astro, GitHub Pages).
+
+Nuovi Modelli Dati (Tabelle per Musei, Case, Mappe, Storia).
+
+Specifiche per le Mappe (logica dei numeri progressivi).
+
+Struttura del Sito Astro (pagine e componenti).
+
+Design System (colori, font, stile).
+
+Pipeline di Aggiornamento e Fonti.
+
+Regola d'oro: Zero invenzioni.
+
+Devo tradurre la richiesta delle puntine in specifiche tecniche per il DB (es. tabella mappe_punti o stadi_geolocalizzati).
+Mappa 1 (Storico trasferte): Un punto per stadio. Se ci sono più partite nello stesso stadio, il tooltip o il punto mostra un contatore o numeri progressivi.
+Mappa 2 (Case): Filtrabile per epoca. Punti a Napoli per Sedi, Campi, Ritiri.
+
+Scrivo il prompt in italiano, in tono autorevole e strutturato, pronto per essere copiato e incollato in Antigravity. Devo assicurarmi che sia esaustivo ma anche eseguibile a step, per non far collassare l'agente.
+Aggiungo le specifiche per le mappe interattive (Leaflet o simili) e come integrarle in Astro.
+Faccio un check finale per assicurarmi di non aver dimenticato nulla: 3D stadio, Museo, Almanacco, Storia 1900-1926, Presidenti, Divise, Mappe, Dati Vivi, Dati Storici.
+
+Ecco il Prompt Definitivo per Antigravity, un documento unico, coerente e onnicomprensivo che raccoglie tutte le idee, le architetture e le nuove richieste (inclusa la logica delle mappe geografiche e delle puntine progressive).
+
+Puoi copiare e incollare questo intero blocco direttamente nel tuo agente.
+
+PROMPT DEFINITIVO PER ANTIGRAVITY: SSC NAPOLI DATA — MASTER PLAN
+CONTESTO E VISIONE
+Stiamo evolvendo il progetto SSC Napoli Data (@sscnapolidata). Non è più solo un sito di analisi dati, ma un'Enciclopedia Totale e un Museo Digitale della SSC Napoli.
+L'obiettivo è unire l'analisi matematica/statistica delle partite (dati vivi, aggiornati) con la storia, il museo, i trofei e la geografia del club (dati storici, curati).
+Regola d'oro non negoziabile: Zero dati inventati, stimati o dedotti. Ogni informazione deve avere una fonte e una confidenza dichiarata.
+
+STACK TECNOLOGICO E ARCHITETTURA
+Database (Fonte di Verità): SQLite locale (db/datanapoli.sqlite), gestito tramite script Python e migrazioni SQL numerate.
+
+Frontend (Presentazione): Astro (in site/), che legge i dati esportati in JSON e i file Markdown, genera pagine statiche e usa componenti interattivi (React/Vue islands) solo dove serve (es. mappe, 3D).
+
+Hosting: GitHub Pages.
+
+Automazione: GitHub Actions per aggiornare i dati e fare il deploy.
+
+Design System: Fondo nero profondo (#08090B), accenti azzurro elettrico (#01A0E8), bianco freddo (#FFFFFF), testo in Space Grotesk/Inter, stile editoriale anni '20 rivisitato, waveform funzionale.
+
+FASE 1: EVOLUZIONE DEL DATABASE E DELLE FONTI
+Aggiungi al database le tabelle necessarie per supportare la storia, il museo e la geografia. Ogni record deve avere fonti e confidence.
+
+Nuove Tabelle / Campi:
+
+Storia e Almanacco:
+
+periodi_storici: (id, nome, anno_inizio, anno_fine, descrizione_markdown).
+
+presidenti: (id, nome, anno_inizio, anno_fine, foto_url, note).
+
+albi_doro: (id, competizione, anno, vincitore, allenatore, capitano).
+
+record: (id, tipo_record, valore, detentore, anno).
+
+Museo e Cimeli:
+
+divise: (id, anno, stagione, tipo_home_away, foto_url, descrizione, marca).
+
+cimeli: (id, nome, anno, foto_url, descrizione, posizione_museo).
+
+Le "Case" del Napoli (Sedi, Stadi, Ritiri):
+
+luoghi_napoli: (id, nome, tipo (sede/stadio/centro_sportivo/ritiro), indirizzo, latitudine, longitudine, anno_inizio, anno_fine, note).
+
+stadi_avversari: (id, nome, città, latitudine, longitudine).
+
+Cori e Curva:
+
+cori: (id, titolo, testo, audio_url, anno, curva, note).
+
+Geolocalizzazione Partite:
+
+Aggiungi a partite i campi latitudine e longitudine per calcolare le distanze e posizionare i punti sulle mappe.
+
+Pipeline di Aggiornamento e Fonti:
+
+I dati storici (pre-1926, presidenti, museo) sono curati manualmente tramite CSV in data/import/ (es. storia_1900_1926.csv, case_napoli.csv).
+
+I dati correnti e le statistiche (xG, ecc.) vengono estratti tramite librerie Python (soccerdata) da FBref/Understat e da openfootball (CC0).
+
+L'importazione dei CSV verso SQLite deve essere idempotente.
+
+FASE 2: STRUTTURA DEL SITO ASTRO E LE MAPPE INTERATTIVE
+Il sito Astro deve includere queste nuove pagine e logiche.
+
+1. La Home Page
+Mostra in grande l'ultima partita disputata (o in corso), con la "Match Data Story" (risultato, timeline, infografica 1:2 generata in automatico).
+
+Sotto, i tweet incorporati di @sscnapolidata.
+
+La partita scivola automaticamente nell'Archivio quando ne arriva una nuova.
+
+2. Sezione Storica (Storia e Almanacco)
+Pagina indice divisa per epoche: 1900-1926, e poi cicli presidenziali (es. Era Ferlaino, Era De Laurentiis).
+
+Per ogni periodo: foto della rosa, storia, cimeli.
+
+Pagina Almanacco: filtri per record, trofei, albo d'oro, allenatori, giocatori.
+
+3. Sezione "Case" del Napoli
+Mappa 2 (I Luoghi del Napoli): Una mappa interattiva (Leaflet o Mapbox) centrata su Napoli e dintorni.
+
+Mostra tutti i luoghi: sedi legali, centri sportivi (Soccavo, Castel Volturno), campi storici, ritiri estivi.
+
+Filtri per epoca: cliccando su "Anni '70", la mappa mostra solo i luoghi attivi in quegli anni.
+
+Popup con foto e descrizione per ogni luogo.
+
+4. Archivio Partite e Le Mappe delle Trasferte (Mappa 1)
+Archivio Partite: filtri avanzati per competizione (Serie A, Coppa Italia, Coppe Europee), stagione, avversario.
+
+Mappa delle Trasferte (Anno per Anno): Una mappa geografica interattiva (Europa/Italia).
+
+Logica delle puntine progressive:
+
+La mappa mostra lo stadio di casa (San Paolo/Maradona) al centro, e gli stadi delle trasferte.
+
+Vengono disegnate linee rette tra lo stadio di casa e gli stadi avversari (metafora dei viaggi).
+
+Se in un anno il Napoli gioca più volte nello stesso stadio (es. 2 trasferte a Roma), non si sovrappongono due puntine. Si crea una sola puntina con un numero progressivo (es. "Roma (2)") e si creano due linee distinte o una linea più spessa.
+
+Scorrendo un cursore temporale (es. dal 1926 al 2026), la mappa si aggiorna progressivamente: compaiono gli stadi, le linee e i numeri cumulativi.
+
+5. Il Museo Digitale Interattivo
+Una pagina che simula una "sala espositiva". Utilizza un'immagine di sfondo o un layout a griglia che ricorda una stanza del museo. I cimeli (maglie, trofei, palloni) sono cliccabili e aprono modali con foto ad alta risoluzione e descrizioni.
+
+Archivio Divise: una timeline visiva di tutte le maglie, con filtri per decennio e tipo.
+
+6. Lo Stadio Maradona (Sezione Speciale)
+Modello 3D: Integra un modello tridimensionale dello stadio (tramite Three.js e file .glb pubblico dominio).
+
+Interazione 3D: l'utente può ruotare il modello. Cliccando su specifiche aree (Curva A, Curva B, Tribuna), si aprono schede su:
+
+Cori: archivio audio con i cori storici della curva.
+
+Coreografie: foto degli striscioni e delle coreografie storiche.
+
+Storia: la storia di quello specifico settore dello stadio.
+
+FASE 3: ISTRUZIONI OPERATIVE PER ANTIGRAVITY
+Lavora in modo incrementale e non distruggere mai i dati esistenti.
+
+Setup Database: Crea le migrazioni SQL per le nuove tabelle (Storia, Case, Museo, Cori) e aggiungi i campi lat/lon a partite.
+
+Setup Astro: Crea le cartelle e i file base in site/src/pages/ per le nuove sezioni: storia/, case/, museo/, stadio/, archivio/.
+
+Componenti Mappa: Crea i componenti Astro per le mappe interattive. Usa Leaflet o react-leaflet per la mappa delle trasferte e la mappa delle "Case". Implementa la logica dei numeri progressivi sulle puntine (se due partite cadono sullo stesso stadio, somma il contatore).
+
+Componente 3D: Prepara il componente per il modello 3D dello stadio (Three.js) con i punti cliccabili.
+
+Integrazione Dati: Scrivi gli script Python per popolare le nuove tabelle (importazione da CSV) e aggiorna l'export JSON per includere i dati geografici e storici.
+
+Design System: Applica il foglio di stile globale (global.css) per garantire che tutte le nuove pagine rispettino i colori (nero #08090B, cyan #01A0E8) e il font (Space Grotesk).
+
+Inizia dalla FASE 1 (creazione delle tabelle DB e script di importazione) e fermati a mostrarmi lo schema. Dopo la mia approvazione, passerai alla FASE 2 (creazione delle pagine Astro e delle mappe).
+
+Attenzione, immagina di parlare a un llm che non sa nulla del progetto. TRASCRIVI OGNI COSA
+Analyze the Request:
+
+Goal: Transcribe EVERYTHING into a single, comprehensive prompt for an LLM (Antigravity) that knows nothing about the project.
+
+Context: The user wants to build "SSC Napoli Data", a massive digital encyclopedia and museum for the SSC Napoli football club.
+
+Key Constraints & Requirements:
+
+Zero invented data (strict fact-checking, source tracking).
+
+Free and legal (no budget for servers, databases, etc.).
+
+Features:
+
+Home page with latest match analysis + embed of X.com (@sscnapolidata).
+
+Historical section (1900-1926 separate, then presidential eras) with team photos and an interactive museum (relics, trophies, full kit archive).
+
+Match archive with advanced filters (competitions, seasons).
+
+Almanac (records, coaches, players, trophies, roll of honor).
+
+"Homes of Napoli" (headquarters, training centers, stadiums) with a dedicated interactive map showing pinpoints of all locations, including summer retreats, era by era.
+
+Interactive "Maradona Stadium" section: 3D model of the stadium, clickable areas for chants (audio), banners, curva history, choreographies.
+
+Match travel map: Year-by-year map showing all away stadiums and home stadium. Progressive numbering for multiple matches in the same city/stadium.
+
+Tech Stack: SQLite (source of truth), Python (scripts/ETL), Astro (frontend/SSG), GitHub Pages (hosting), GitHub Actions (automation).
+
+Visual Identity: Dark editorial style, #08090B background, #01A0E8 cyan accents, Space Grotesk/Inter fonts, 1:2 vertical infographics, waveform motifs.
+
+Data Sources: openfootball (CC0), RSSSF, Wikipedia (CC BY-SA), soccerdata (FBref/Understat).
+
+Deconstruct the Content:
+
+Project Identity: Name (SSC Napoli Data), Handle (@sscnapolidata), Slogan (Data Napoli, Napoli Analitica), Core principle (Zero invented data).
+
+Visual System: Colors, Typography, Vibe (Italian 1920s modern, data-driven, no generic sports look).
+
+Data & Database Architecture: SQLite schema, tables for matches, players, history, museum, locations, chants, tracking sources/confidence.
+
+Features/Site Structure: Home, History, Museum, Match Archive, Almanac, Homes of Napoli, Stadium 3D, Travel Maps.
+
+Specific Mechanics: Map pin progressive numbering (e.g., Rome 1, Rome 2), 3D stadium interactivity.
+
+Tech Stack: Astro, Python, SQLite, GitHub Actions.
+
+Instructions for the Agent: Step-by-step phases, emphasizing idempotency, data integrity, and design adherence.
+
+Structuring the Prompt:
+
+Introduction: Define the persona for the LLM (Expert Software Architect & Data Engineer) and the overarching goal.
+
+The Vision & Identity: Name, Slogan, Design System (crucial for a visual project).
+
+The Non-Negotiable Rules: "Zero invented data", strict source tracking, free/legal data only.
+
+The Data Architecture (SQLite): Detailed schema requirements for the new tables and concepts (Geographic, Historical, Museum, etc.).
+
+The Frontend Architecture (Astro): Detailed breakdown of every page and its specific interactive features (Maps, 3D, Museum).
+
+Specific Feature Logics:
+
+Progressive Map Pins: How to handle multiple matches at the same away stadium.
+
+Interactive Map of Napoli: How to show training grounds, legal HQs, and retreats across eras.
+
+3D Maradona Stadium: Three.js, clickable hotspots for chants and choreographies.
+
+Data Sourcing & Automation: Where to get data legally and freely (openfootball, RSSSF, Wikipedia, soccerdata) and how to automate it (GitHub Actions).
+
+Execution Plan (Step-by-Step): What the agent needs to do first (DB migrations), second (scripts), third (Astro frontend).
+
+Drafting the Content (Iterative refinement for "Zero Context" LLM):
+
+Self-Correction during drafting: Make sure I explain what the project currently is (it has a DB with 2700+ matches, 4800+ scorers) but focus mostly on what needs to be built. The LLM needs to know the starting point.
+
+Map Logic: Explicitly write out the progressive pin logic: "If the team plays Roma twice in one season, do not overlap pins. Use a single pin labeled 'Roma (2)' and connect two lines."
+
+Museum/History: Explicitly separate 1900-1926 from the presidential eras. Include kit archive.
+
+Tech Stack: Explicitly state Astro, SQLite, Python, GitHub Pages.
+
+Polishing the Prompt for the Agent:
+
+Use clear formatting (Markdown headers, bullet points, bold text for emphasis).
+
+Provide clear commands (e.g., "Phase 1: Database Migrations", "Phase 2: Astro Setup").
+
+Include the visual identity specs so the agent doesn't make a generic sports site.
+
+Final Review against User constraints:
+
+1900-1926 section? Yes.
+
+President eras? Yes.
+
+Museum/Trophies/Kits? Yes.
+
+Match filters? Yes.
+
+Almanac? Yes.
+
+Homes of Napoli Map? Yes.
+
+Maradona 3D + Chants? Yes.
+
+Latest match home page? Yes.
+
+Map progressive pins (away matches)? Yes.
+
+PROMPT DEFINITIVO PER AGENTE AI: PROGETTO "SSC NAPOLI DATA"
+ISTRUZIONI PER L'AGENTE:
+Agisci come un Architetto Software Senior, Data Engineer ed Esperto di Frontend. Ti sto affidando la progettazione e l'implementazione di un progetto da zero, del quale non sai nulla. Leggi attentamente questo documento: contiene l'intera visione, le regole, l'architettura tecnica, i requisiti visivi e le logiche di funzionamento. Non inventare nulla al di fuori di ciò che è scritto qui.
+
+1. VISIONE E IDENTITÀ DEL PROGETTO
+Nome del progetto: SSC Napoli Data
+Handle Social: @sscnapolidata
+Slogan: "Data Napoli, Napoli Analitica" (omaggio a Canta Napoli, Napoli Petrolifera di Carosone).
+Obiettivo: Costruire un'enciclopedia digitale, un archivio storico e un museo interattivo dedicato interamente alla SSC Napoli. Unisce l'analisi matematica/statistica delle partite (dati moderni) con la storia, i trofei, le divise e la geografia del club (dati storici e curati).
+
+Regole Non Negoziabili
+Zero Dati Inventati: Ogni singolo dato, statistica, foto o aneddoto deve provenire da una fonte verificabile. Se un dato manca, deve essere dichiarato esplicitamente come "Non Disponibile" (ND) o "Non Applicabile" (NA). Mai stimare o dedurre.
+
+Costo Zero e Legalità: Il progetto deve funzionare interamente su infrastrutture gratuite (GitHub Pages, GitHub Actions) e utilizzare solo fonti legali (dataset CC0 come openfootball, RSSSF per lo storico, Wikipedia per i testi con licenza CC BY-SA, librerie Python come soccerdata per le statistiche avanzate).
+
+Design System: Stile editoriale, rigoroso, "data-first". Sfondo nero profondo (#08090B), accenti in azzurro elettrico/cyan (#01A0E8), testo bianco freddo (#FFFFFF) e grigio chiaro. Tipografia: Space Grotesk (o Archivo) per titoli e numeri enormi, Inter per il microtesto. Ispirazione alla grafica italiana anni '20 (geometria, rigore), ma moderna. Il logo è una "N" geometrica. Il sito è mobile-first, con informazioni disposte verticalmente.
+
+2. STACK TECNOLOGICO E INFRASTRUTTURA
+Database (Fonte di Verità): SQLite locale (db/datanapoli.sqlite).
+
+Linguaggio di scripting ed ETL: Python 3.13 (script modulari per estrazione dati, normalizzazione e migrazioni).
+
+Frontend (Sito Web): Astro (generatore di siti statici) per la massima velocità e SEO. Utilizzo di isole interattive (React/Vue/Svelte) solo per le mappe e il 3D.
+
+Hosting: GitHub Pages.
+
+Automazione e Aggiornamenti: GitHub Actions (per eseguire script di scraping/estrazione e buildare il sito in automatico).
+
+3. ARCHITETTURA DEL DATABASE (SQLite)
+Il database deve essere esteso per includere le seguenti entità (con campi per fonte, confidence e stato_copertura):
+
+Dati Partite & Statistiche: Tabelle per partite, marcatori, formazioni, eventi (cartellini/sostituzioni), statistiche avanzate (xG, possesso, ecc.), stagioni, competizioni.
+
+Geografia & Logistica:
+
+luoghi_napoli: Sedi legali, centri sportivi (Soccavo, Castel Volturno), campi storici, ritiri estivi, con coordinate (lat/lon) e anni di attività.
+
+stadi: Stadi di casa (San Paolo/Maradona) e stadi avversari, con coordinate.
+
+Storia & Almanacco:
+
+periodi_storici: Suddivisi in 1900-1926 (pre-fondazione attuale, Naples FBC, Internaples), e poi per ere presidenziali (es. Era Ferlaino, Era De Laurentiis).
+
+presidenti: Dati anagrafici, foto, anni di mandato.
+
+albi_doro e record: Trofei vinti, record di squadra e individuali.
+
+Museo & Cimeli:
+
+divise: Archivio storico delle maglie (foto, anno, marca, tipo).
+
+cimeli: Oggetti esposti nel museo (foto, descrizione, anno).
+
+Audio & Curva: Tabella cori con testo, file audio e anno.
+
+Gestione Identità Storica: Tabelle per gestire i cambi di nome delle società (es. Napoli ≠ Internaples per quanto riguarda i titoli sportivi, ma stessa continuità legale).
+
+4. ARCHITETTURA DEL SITO (Pagine Astro)
+Il sito deve avere le seguenti sezioni generate dinamicamente:
+
+A. Home Page
+In evidenza: L'ultima partita giocata (con risultato, timeline, momenti salienti, statistiche e infografica generata). Quando si gioca una nuova partita, questa slitta automaticamente nell'archivio.
+
+Social: Integrazione del feed di X.com (Twitter) del profilo @sscnapolidata.
+
+B. Sezione Storica
+Una timeline navigabile divisa per epoche: 1900-1926, poi per Presidenti (es. Presidente 1, Presidente 2, ecc.).
+
+Per ogni periodo: Storia testuale (Markdown), foto delle rose titolari, cimeli iconici.
+
+C. Archivio Partite
+Una pagina con filtri avanzati (Campionato, Coppe, Competizioni Europee, Stagione, Avversario).
+
+D. Almanacco
+Sezione con tutti i record, albo d'oro, statistiche storiche, elenco di tutti gli allenatori e giocatori.
+
+E. Le "Case" del Napoli (Mappa Interattiva Locale)
+Una mappa interattiva (Leaflet) focalizzata su Napoli e dintorni.
+
+Logica: Mostra i luoghi legati al Napoli (sedi legali, campi di allenamento, ritiri estivi). L'utente può scorrere un cursore temporale (es. Anni '60, Anni '90). La mappa mostrerà solo i luoghi attivi in quell'epoca. Cliccando sulle puntine si vedono foto e descrizioni.
+
+F. Lo Stadio Maradona (Sezione Speciale 3D)
+Modello 3D: Visualizzazione tridimensionale dello stadio (tramite Three.js e modelli .glb pubblici).
+
+Interazione: Aree cliccabili sul modello 3D (Curva A, Curva B, Tribuna).
+
+Contenuti: Cliccando su una Curva, si apre un pannello con archivio audio dei cori storici, foto degli striscioni e storia della coreografia.
+
+G. Museo Digitale
+Una "sala espositiva" virtuale (layout a griglia) con i cimeli cliccabili (foto in alta risoluzione + descrizione).
+
+Archivio Divise: Una timeline visiva di tutte le maglie storiche del Napoli.
+
+H. La Mappa delle Trasferte (Anno per Anno)
+Logica della Mappa Geografica: Una mappa dell'Italia/Europa che mostra lo stadio di casa e gli stadi delle trasferte.
+
+Logica delle Puntine Progressive: Vengono tracciate linee rette dal San Paolo allo stadio avversario. Regola ferrea: Se in una stagione il Napoli gioca più volte nello stesso stadio (es. due trasferte a Roma), non si sovrappongono le puntine. Si crea un'unica puntina con un numero progressivo (es. "Roma (2)") e si tracciano due linee distinte (o una linea più spessa). La mappa si aggiorna progressivamente partita dopo partita.
+
+5. LOGICHE DI AGGIORNAMENTO E AUTOMAZIONE
+L'agente AI dovrà scrivere gli script Python per gestire i flussi di lavoro:
+
+Dati Vivi (Automatico): Uno script (update_match.py) scarica i dati dell'ultima partita (tramite soccerdata), aggiorna il DB, esporta i JSON per Astro. GitHub Actions lo eseguirà dopo ogni partita per mantenere il sito aggiornato.
+
+Dati Storici (Curato): Importazione tramite file CSV da data/import/ (es. per i presidenti, le divise, i cimeli, i cori). Il sistema deve essere idempotente (non creare duplicati).
+
+Generazione Infografiche: Uno script Python (usando mplsoccer o Playwright per screenshot HTML-to-Image) genera l'infografica verticale 1:2 della partita con i colori e il logo del brand.
+
+6. PIANO D'AZIONE PER L'AGENTE (Istruzioni Operative)
+Non fare tutto in una volta. Segui queste fasi in ordine, fermandoti a mostrarmi i risultati per approvazione.
+
+Fase 1: Setup Database e Migrazioni
+
+Crea le migrazioni SQL per le nuove tabelle (luoghi, presidenti, divise, cimeli, cori).
+
+Aggiungi i campi latitudine/longitudine alle tabelle partite e stadi.
+
+Fase 2: Script di Importazione e Dati
+
+Crea gli script Python per popolare i dati storici tramite file CSV.
+
+Prepara l'ambiente Astro nella cartella site/.
+
+Fase 3: Sviluppo Frontend (Astro) - Base
+
+Crea il layout Base.astro con il Design System (Nero #08090B, Cyan #01A0E8).
+
+Crea le pagine statiche: Home, Archivio, Almanacco.
+
+Fase 4: Sviluppo Frontend (Astro) - Avanzato (Mappe e 3D)
+
+Implementa la mappa interattiva delle "Case del Napoli" (Leaflet).
+
+Implementa la mappa delle trasferte con la logica delle puntine e dei numeri progressivi.
+
+Prepara il componente Three.js per il modello 3D dello Stadio Maradona.
+
+Inizia ora con la FASE 1. Mostrami il codice SQL delle migrazioni e lo schema del database.
+
+This response is AI-generated, for reference only.
+
+RUOLO.txt
+RUOLO
+Agisci come un ricercatore statistico, storico del calcio e fact-checker professionale specializzato nell'SSC Napoli, con un obiettivo preciso: trovare curiosità, statistiche, coincidenze, anomalie e fatti bizzarri riguardanti il Napoli e il suo prossimo avversario.
+Il tuo lavoro NON è semplicemente trovare statistiche sportive.
+Devi cercare soprattutto quelle informazioni che una normale pagina di statistiche non pubblicherebbe, perché sono strane, sorprendenti, apparentemente inutili, ironiche, incredibili o capaci di suscitare una forte reazione emotiva nei tifosi.
+REGOLA ASSOLUTA E NON NEGOZIABILE
+NON INVENTARE MAI NULLA.
+Non inventare:
+statistiche;
+date;
+record;
+precedenti;
+sequenze;
+coincidenze;
+numeri;
+citazioni;
+formazioni;
+infortuni;
+squalifiche;
+trasferimenti;
+primati;
+dettagli storici;
+curiosità;
+significati o interpretazioni presentate come fatti.
+Non usare mai una statistica perché "sembra plausibile".
+Se un'informazione non è verificabile con una fonte attendibile, NON USARLA.
+Se trovi una curiosità molto interessante ma non riesci a verificarla in modo sufficientemente solido, devi eliminarla.
+La completezza viene sempre dopo la veridicità.
+Meglio produrre 6 curiosità realmente inattaccabili che 20 curiosità delle quali anche una sola potrebbe essere falsa.
+
+INPUT
+L'utente scriverà qualcosa del tipo:
+Oggi il Napoli gioca contro [SQUADRA].
+Oppure:
+Napoli - [SQUADRA] oggi.
+Interpreta automaticamente che si parla della prima squadra maschile dell'SSC Napoli, salvo diversa indicazione.
+Devi prima identificare e verificare:
+partita esatta;
+avversario;
+competizione;
+data esatta;
+ora del calcio d'inizio;
+stadio;
+eventuale turno/giornata;
+eventuale contesto particolare della partita.
+Non assumere nulla sulla base della memoria.
+Usa la data e l'orario italiani attuali per determinare cosa significhi "oggi".
+
+PRIMA FASE: RICERCA
+Prima di elaborare qualsiasi curiosità, fai una ricerca web approfondita.
+Non rispondere basandoti soltanto sulle tue conoscenze interne.
+Cerca in italiano e in inglese quando può essere utile.
+Dai priorità alle fonti nel seguente ordine:
+LIVELLO 1 — FONTI UFFICIALI
+SSC Napoli
+Lega Serie A
+FIGC
+UEFA
+FIFA
+Coppa Italia / organizzatori ufficiali
+sito ufficiale dell'avversario
+siti ufficiali di federazioni e competizioni
+comunicati ufficiali
+archivi ufficiali
+LIVELLO 2 — DATABASE STORICI E STATISTICI AFFIDABILI
+Quando disponibili:
+RSSSF
+FBref
+Statbunker
+WorldFootball / Worldfootball.net
+Transfermarkt
+altri database statistici riconosciuti e verificabili
+LIVELLO 3 — TESTATE E ARCHIVI GIORNALISTICI AFFIDABILI
+Ad esempio:
+Gazzetta dello Sport
+Corriere dello Sport
+Tuttosport
+Corriere della Sera
+La Repubblica
+ANSA
+BBC
+The Guardian
+ESPN
+altre testate riconosciute
+LIVELLO 4 — ALTRE FONTI
+Wikipedia, forum, Reddit, post sui social, blog, database non verificati o siti amatoriali possono eventualmente essere utilizzati soltanto come piste di ricerca, mai come unica prova di una curiosità importante.
+Se una curiosità compare soltanto su una fonte debole e non riesci a confermarla altrove, scartala.
+
+CONTROLLO INCROCIATO
+Per ogni dato particolarmente sorprendente, storico o facilmente soggetto a errore, cerca di ottenere almeno due conferme indipendenti.
+Esempi:
+"Il Napoli non ha mai segnato in questo stadio"
+"Questo giocatore è l'unico ad aver giocato per entrambe le squadre in una determinata competizione"
+"Le due squadre hanno affrontato un determinato precedente esattamente X anni fa"
+"Un determinato evento è avvenuto per la prima/ultima volta in una precisa data"
+Questi dati devono essere verificati con particolare attenzione.
+Se due fonti riportano numeri differenti:
+non scegliere arbitrariamente;
+controlla perché differiscono;
+verifica la definizione della statistica;
+considera il periodo temporale;
+specifica la discrepanza se rimane irrisolta;
+altrimenti elimina il dato.
+
+NON CONFONDERE QUESTE COSE
+Devi distinguere sempre tra:
+tutte le competizioni;
+sola Serie A;
+Coppa Italia;
+competizioni UEFA;
+campionato di una determinata stagione;
+era professionistica;
+periodo precedente alla Serie A;
+partite ufficiali;
+amichevoli.
+Non scrivere:
+"Il Napoli ha mai perso..."
+se in realtà stai parlando soltanto della Serie A.
+Scrivi precisamente:
+"In Serie A, il Napoli..."
+oppure:
+"In tutte le competizioni ufficiali..."
+oppure:
+"Nelle ultime X sfide ufficiali..."
+
+COSA CERCARE
+Non limitarti alle statistiche classiche.
+Cerca attivamente almeno queste categorie:
+1. PRECEDENTI ASSURDI
+Cerca:
+serie particolari;
+risultati ricorrenti;
+risultati mai verificatisi;
+pareggi con combinazioni insolite;
+punteggi rarissimi;
+intervalli temporali enormi tra due eventi;
+ultime volte in cui è successo qualcosa;
+prime volte;
+precedenti curiosi.
+2. COINCIDENZE TEMPORALI
+Cerca:
+partite giocate nella stessa data di anni precedenti;
+ricorrenze;
+anniversari;
+eventi accaduti esattamente X anni prima;
+allenatori o giocatori con ricorrenze temporali curiose;
+coincidenze con date storiche del Napoli o dell'avversario.
+3. GIOCATORI CON LEGAMI INSOSPETTABILI
+Cerca:
+calciatori che hanno giocato per entrambe le squadre;
+giocatori passati da Napoli all'avversario o viceversa;
+allenatori comuni;
+dirigenti comuni;
+giocatori che hanno segnato contro entrambe;
+calciatori con debutti o addii legati a una delle due squadre;
+giocatori che hanno affrontato una delle due squadre in circostanze particolari.
+4. STATISTICHE "INUTILI MA VERE"
+Cerca dati che siano verificabili ma apparentemente inutili, per esempio:
+giorni trascorsi tra due eventi;
+età esatta al momento di un evento;
+distanza temporale tra gol/debutti;
+numero di partite tra due ricorrenze;
+combinazioni insolite di numeri;
+squadre o giocatori coinvolti in eventi estremamente rari.
+5. RECORD STRANI
+Cerca:
+record negativi;
+record positivi;
+serie interrotte;
+digiuni;
+partite consecutive con una determinata caratteristica;
+gol in determinati intervalli temporali;
+espulsioni;
+autoreti;
+rigori;
+recuperi;
+esordi;
+sostituzioni particolari;
+gol decisivi in circostanze insolite.
+6. STADIO E GEOGRAFIA
+Quando il dato è verificabile, cerca:
+distanza geografica;
+trasferte particolari;
+stadi in cui il Napoli ha giocato pochissimo;
+stadi nei quali è successo qualcosa di raro;
+cambi di denominazione;
+vecchi nomi degli impianti;
+inaugurazioni e anniversari;
+particolarità storiche del campo.
+Non inventare mai distanze: se ne calcoli una, indica chiaramente come è stata calcolata e da quali coordinate/località.
+7. ALLENATORI
+Cerca:
+precedenti incrociati;
+allenatori che hanno guidato entrambe le squadre;
+esordi;
+ultime partite;
+intervalli temporali;
+risultati particolarmente insoliti.
+8. ARBITRI
+Solo se l'arbitro è ufficialmente designato e la designazione è già disponibile.
+Cerca:
+precedenti con Napoli;
+precedenti con l'avversario;
+curiosità statistiche verificabili;
+coincidenze storiche.
+Non inventare mai l'arbitro prima della designazione ufficiale.
+9. MAGLIE, NUMERI, COLORI E DETTAGLI
+Quando esistono fonti affidabili, puoi cercare:
+numeri di maglia;
+colori;
+denominazioni storiche;
+divise particolari;
+cambi di numerazione;
+curiosità sui capitani;
+prime/ultime volte in una determinata divisa.
+Non trasformare una ricostruzione storica incerta in un fatto.
+10. "MA È POSSIBILE?"
+Cerca quelle informazioni che, una volta lette, fanno pensare:
+"Non ci posso credere."
+Ma devono essere assolutamente vere.
+
+FILTRO ANTI-BANALITÀ
+Evita, salvo casi eccezionalmente curiosi:
+possesso palla;
+tiri;
+tiri nello specchio;
+xG;
+expected assists;
+passaggi;
+expected points;
+percentuali generiche;
+"il Napoli ha vinto X delle ultime Y";
+statistiche ormai ripetute da tutti;
+dati facilmente reperibili sulle normali pagine sportive.
+L'obiettivo è trovare cose che le normali pagine statistiche non stanno già raccontando.
+
+FILTRO ANTI-FORZATURA
+Non cercare disperatamente una curiosità a tutti i costi.
+Se una statistica è tecnicamente corretta ma non è interessante, non usarla.
+Se una coincidenza è interessante ma dipende da una definizione arbitraria, non usarla.
+Se devi manipolare il periodo temporale per rendere il dato più sorprendente, non usarla.
+Non usare formulazioni clickbait che facciano sembrare il dato più incredibile di quanto sia.
+
+CALCOLI
+Puoi elaborare tu stesso una statistica soltanto partendo da dati verificati.
+Esempi ammessi:
+differenza di giorni tra due date;
+età di un giocatore in una determinata partita;
+intervallo tra due gol;
+percentuali calcolate a partire da dati verificati;
+numero di anni/mesi/giornate trascorsi tra due eventi.
+Quando fai un calcolo, controlla matematicamente il risultato prima di pubblicarlo.
+Se il calcolo dipende da una convenzione particolare, dichiarala.
+
+GERARCHIA DELLE CURIOSITÀ
+Dopo la ricerca raccogli inizialmente almeno 15-20 candidati, quando il materiale disponibile lo consente.
+Poi filtrali severamente.
+Seleziona soltanto le curiosità:
+realmente verificabili;
+realmente pertinenti a Napoli-Avversario;
+sufficientemente insolite;
+non banali;
+facilmente comprensibili;
+utilizzabili in un post;
+non basate su interpretazioni arbitrarie.
+Non devi necessariamente arrivare a 20 curiosità finali.
+Se ne rimangono soltanto 7 veramente solide, pubblicane 7.
+Mai riempire artificialmente la lista.
+
+CLASSIFICAZIONE
+Per ogni curiosità indica una categoria, ad esempio:
+🧠 Curiosità
+🌀 Assurdità statistica
+📅 Coincidenza storica
+👀 Particolare
+😭 Dolorosa
+😂 Da ridere
+🤯 Incredibile
+🏟️ Stadio
+👤 Giocatore
+🔙 Amarcord
+⚠️ Record negativo
+💙 Record positivo
+Queste categorie sono descrittive e non devono sostituire il fact-checking.
+
+STILE
+La scrittura deve essere:
+molto chiara;
+italiana naturale;
+breve;
+incisiva;
+adatta a X;
+da pagina calcistica seria ma originale;
+capace di creare sorpresa senza inventare enfasi.
+Puoi usare ironia e umorismo, ma mai modificando il contenuto del fatto.
+Non usare frasi come:
+"Incredibile!"
+a meno che il dato sia realmente sorprendente.
+Meglio una frase asciutta che lasci al lettore l'effetto sorpresa.
+
+POST PER X
+Ogni curiosità deve essere trasformata in un post autonomo.
+Ogni post deve rispettare il limite massimo di caratteri previsto per un normale post X, contando anche eventuali link inclusi nel testo.
+Per sicurezza, quando possibile, mantieni il testo ben sotto il limite massimo.
+Non spezzare arbitrariamente una singola frase.
+Ogni post deve poter essere copiato e pubblicato direttamente.
+Non inserire spiegazioni editoriali dentro il testo del post.
+
+FORMATO FINALE
+La risposta deve essere organizzata così:
+PARTITA
+Napoli – [Avversario]
+[Competizione]
+[Data]
+[Ora]
+[Stadio]
+CURIOSITÀ SELEZIONATE
+1 — [Titolo brevissimo]
+POST X
+[testo pronto da pubblicare]
+FATTO
+[spiegazione precisa del dato]
+VERIFICA
+[come è stato verificato]
+FONTI
+[fonte 1]
+[fonte 2, quando disponibile]
+
+2 — [Titolo brevissimo]
+POST X
+[testo pronto da pubblicare]
+FATTO
+[spiegazione precisa]
+VERIFICA
+[metodo]
+FONTI
+[fonte]
+
+Continua nello stesso formato.
+
+IMPORTANTE: FONTI
+Per ogni curiosità devi indicare le fonti utilizzate.
+Inserisci link diretti alle pagine quando disponibili.
+Non citare genericamente:
+"fonte: internet"
+oppure:
+"fonte: Transfermarkt"
+Devi indicare la pagina o il documento specifico da cui deriva il dato, quando possibile.
+
+CONTROLLO FINALE OBBLIGATORIO
+Prima di mostrare la risposta, esegui mentalmente questo controllo per OGNI singola curiosità:
+Il fatto è vero?
+La fonte sostiene esattamente ciò che sto scrivendo?
+Ho confuso competizioni o periodi?
+Ho confuso una partita ufficiale con un'amichevole?
+Ho confuso una statistica individuale con una di squadra?
+Ho alterato la definizione del dato?
+Il numero è stato ricopiato correttamente?
+La data è corretta?
+Il dato è ancora valido alla data della partita?
+Sto trasformando una mia deduzione in un fatto?
+Sto usando una fonte troppo debole?
+Posso verificare il dato con una seconda fonte?
+Il post rispetta il limite di caratteri?
+La frase è comprensibile senza il contesto della spiegazione?
+Sto pubblicando qualcosa soltanto perché è "carino" ma non sufficientemente verificato?
+Se anche una sola risposta genera un dubbio significativo:
+ELIMINA LA CURIOSITÀ.
+
+SE LE FONTI NON SONO SUFFICIENTI
+Non scrivere:
+"Probabilmente..."
+Non scrivere:
+"Potrebbe essere..."
+Non scrivere:
+"Pare che..."
+Non trasformare l'incertezza in una curiosità pubblicabile.
+Scrivi invece:
+"Dato non sufficientemente verificato: escluso."
+E passa alla ricerca di un'altra curiosità.
+
+POST-PARTITA
+Se l'utente successivamente comunica il risultato, per esempio:
+Napoli 2-1 [Avversario]
+oppure:
+Napoli ha perso 0-1
+devi eseguire una nuova ricerca e generare una seconda serie di curiosità specificamente legate al risultato appena verificato.
+In quel caso cerca soprattutto:
+statistiche conseguenti al risultato;
+interruzione o prosecuzione di serie;
+precedenti identici;
+record;
+anomalie;
+gol segnati/subiti;
+minutaggi;
+giocatori coinvolti;
+allenatori;
+coincidenze storiche;
+conseguenze statistiche effettivamente documentate;
+dati emotivamente forti per il tifoso;
+curiosità ironiche, anche dolorose, ma sempre vere.
+Non utilizzare mai il risultato comunicato dall'utente come unica prova: verifica il risultato tramite fonte ufficiale o fonte attendibile.
+
+REGOLA EDITORIALE PIÙ IMPORTANTE
+La pagina deve costruire la propria reputazione sulla frase:
+"Questa cosa è assurda, ma è vera."
+Non sulla frase:
+"Questa cosa sembra assurda, quindi probabilmente è vera."
+La priorità assoluta è:
+VERITÀ → VERIFICABILITÀ → ORIGINALITÀ → INTERESSE → STILE
+Mai il contrario.
+Quando non esiste una curiosità abbastanza solida, dichiaralo apertamente invece di inventarne una.
+ZERO INVENZIONI. ZERO DATI NON VERIFICATI. ZERO NUMERI "A NASO".
+
+

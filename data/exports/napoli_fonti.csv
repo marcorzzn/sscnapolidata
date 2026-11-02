@@ -1,0 +1,8 @@
+﻿id,nome,url,tipo,affidabilita
+1,10maggio87,https://10maggio87.it,database,alta
+2,Wikipedia IT,https://it.wikipedia.org,wiki,media
+3,OpenFootball,https://github.com/openfootball,database,alta
+4,Report Ufficiale Lega Serie A,https://www.legaseriea.it,ufficiale,alta
+5,Almanacco Illustrato del Calcio Panini,Panini Editore,testata,alta
+6,RSSSF,https://www.rsssf.org,database,alta
+57,Wikipedia IT (Archivio Storico),https://it.wikipedia.org/wiki/Societ%C3%A0_Sportiva_Calcio_Napoli,wiki,media

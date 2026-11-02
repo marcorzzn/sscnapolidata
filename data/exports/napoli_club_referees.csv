@@ -1,0 +1,607 @@
+﻿referee_id,name,city,matches,wins,draws,losses,yellow_cards_napoli,second_yellows_napoli,red_cards_napoli,penalties_napoli,yellow_cards_opp,second_yellows_opp,red_cards_opp,penalties_opp
+906,Daniele Orsato,Vicenza,53,18,18,17,135,4,4,7,135,4,,3
+2455,Daniele Doveri,Roma,45,24,14,7,61,2,,6,94,3,2,4
+5341,Rosario Lo Bello,Italy,42,21,16,5,31,2,1,11,30,,4,7
+2481,Pierluigi Pairetto,Torino,41,17,15,9,41,,5,7,41,,5,10
+338,Gianluca Rocchi,Firenze,40,19,9,12,100,7,2,9,122,9,3,6
+3219,Carlo Longhi,Italy,40,18,12,10,19,,,5,22,,3,5
+320,Luca Banti,Italy,37,21,9,7,80,1,1,5,82,3,1,2
+6457,Concetto Lo Bello,Italy,37,10,12,15,,,1,8,,,,2
+1580,Paolo Valeri,Roma,34,20,5,9,84,4,,5,92,3,1,5
+939,Antonio Damato,Barletta,33,15,10,8,71,3,,10,81,3,1,4
+3116,Luigi Agnolin,Italy,33,8,11,14,15,,,3,16,,,4
+3223,Paolo Casarin,Italy,32,9,16,7,,,,3,,,,
+337,Nicola Rizzoli,Mirandola,31,10,12,9,78,2,1,4,78,1,1,3
+2640,Davide Massa,Imperia,31,21,5,5,59,3,4,3,76,1,5,6
+3806,Sergio Gonella,Forte dei Marmi,29,14,10,5,,,1,6,,,1,5
+5274,Tullio Lanese,Italy,29,15,8,6,17,1,,6,19,1,3,5
+4705,Maurizio Mariani,Aprilia,28,18,3,7,45,,2,7,70,1,1,5
+8483,Claudio Pieri,Italy,28,11,10,7,,,,2,1,,,2
+4244,Riccardo Lattanzi,Italy,27,8,9,10,,,2,2,,,4,2
+9587,Riccardo Pieri,Trieste,27,11,6,10,,,4,2,,,3,2
+11386,Giuseppe Scarpi,Italy,27,8,7,12,,,3,1,,,4,3
+4708,Marco Di Bello,Brindisi,26,20,3,3,43,,1,6,68,1,3,2
+10105,Enzo Barbaresco,Italy,26,5,17,4,,,,6,,,,4
+6014,Paolo Bergamo,Italy,25,7,6,12,4,,,4,1,,,1
+308,Roberto Rosetti,Italy,24,7,7,10,69,2,1,5,68,1,1,2
+778,Paolo Silvio Mazzoleni,Bergamo,24,10,5,9,45,1,7,3,51,1,4,3
+7001,Pierluigi Magni,Italy,24,12,7,5,14,,2,5,20,2,,2
+9631,Giorgio Bernardi,Bologna,24,10,2,12,,,1,3,,,1,1
+23856,Francesco Francescon,Padova,24,8,9,7,,,,2,,,,2
+3130,Alfredo Trentalange,Torino,23,7,9,7,36,1,2,3,31,,2,4
+4306,Graziano Cesari,Genova,23,10,7,6,39,,4,2,35,,4,6
+6663,Cesare Jonni,Italy,23,8,6,9,,,3,,,,1,3
+7188,Antonio Sbardella,Italy,23,10,7,6,1,,1,2,1,,1,1
+10081,Cesare Gussoni,Cremona,23,12,8,3,,,,3,,,,2
+1282,Domenico Celi,Bari,22,12,4,6,45,2,1,3,55,2,4,
+253,Pierluigi Collina,Viareggio,21,4,5,12,36,1,8,4,35,2,5,5
+321,Mauro Bergonzi,Genova,21,9,6,6,57,,3,5,56,1,2,1
+325,Andrea De Marco,Chiavari,21,11,6,4,39,,,6,51,4,5,3
+336,Salvatore Racalbuto,Gallarate,21,8,6,7,37,1,2,4,39,6,3,2
+343,Paolo Tagliavento,Terni,21,9,7,5,61,,4,6,54,2,3,3
+899,Andrea Gervasoni,Mantova,21,10,9,2,40,3,1,4,40,,2,3
+4760,Federico La Penna,Roma,21,15,4,2,34,,,1,51,1,,3
+8057,Generoso Dattilo,Italy,21,10,3,8,,,1,,,,,2
+28605,Achille Pizziolo,Italy,21,5,8,8,,,7,2,,,5,2
+4041,Michael Fabbri,Ravenna,20,9,10,1,33,1,2,1,48,,1,2
+8052,Giovanni Galeati,Italy,20,8,4,8,,,3,1,,,4,2
+8485,Maurizio Mattei,Italy,20,8,8,4,3,,2,3,4,,1,2
+9619,Francesco Liverani,Italy,20,6,5,9,,,1,3,,,,
+9636,Giulio Campanati,Italy,20,8,4,8,,,5,3,,,3,4
+26166,Ferruccio Bellé,Venezia,20,7,5,8,,,4,3,,,2,5
+339,Pasquale Rodomonti,Teramo,19,8,7,4,39,1,2,7,36,,1,3
+4005,Aurelio Angonese,Italy,19,8,7,4,,,,,,,,2
+4353,Emilio Pellegrino,Barcellona Pozzo di Gotto,19,5,11,3,26,1,1,2,42,1,4,1
+7428,Francesco Mattea,Italy,19,7,3,9,,,,3,,,,1
+10380,Gino Rigato,Italy,19,6,8,5,,,,1,,,,3
+28555,Giacomo Bertolio,Italy,19,6,4,9,,,4,3,,,3,4
+2526,Fabio Baldas,Trieste,18,13,1,4,15,,4,3,22,,2,3
+6649,Alberto Michelotti,Italy,18,5,8,5,1,,,1,1,,1,
+23860,Ettore Carminati,Italy,18,8,7,3,1,,,1,,,,1
+27848,Camillo Caironi,Italy,18,10,3,5,,,1,2,,,1,2
+5331,Fiorenzo Treossi,Forlì,17,7,6,4,36,2,3,3,19,,2,
+14298,Gino Menicucci,Italy,17,7,7,3,,,,1,,,1,4
+4351,Stefano Braschi,Prato,16,9,3,4,34,2,2,4,22,1,1,5
+4717,Luca Pairetto,Nichelino,16,10,1,5,19,,,6,35,2,,1
+6047,Daniele Chiffi,Padova,16,11,2,3,27,,,4,27,,2,
+7425,Rinaldo Barlassina,Italy,16,3,3,10,,,1,1,,,2,
+9625,Fabio Monti,Italy,16,4,3,9,,,,1,,,,
+10206,Alessandro D'Agostini,Italy,16,7,2,7,,,,,,,,1
+26278,Ermanno Silvano,Torino,16,6,3,7,,,2,1,,,1,2
+27835,Felice Rovida,Italy,16,9,3,4,,,,1,,,,
+27988,Mario Ciamberlini,Italy,16,6,5,5,,,2,1,,,2,
+28864,Giuseppe Zelocchi,Modena,16,4,7,5,,,2,,,,1,2
+476,Daniele Tombolini,Ancona,15,6,6,3,32,1,,,33,,,1
+2045,Gianpaolo Calvarese,Teramo,15,11,4,0,39,2,,2,42,2,,2
+2599,Piero Ceccarini,Livorno,15,5,2,8,19,,2,,19,1,1,
+2952,Piero Giacomelli,Trieste,15,9,3,3,20,,,2,26,,,1
+4426,Massimiliano Irrati,Pistoia,15,12,1,2,28,1,,3,31,,,3
+5386,Livio Bazzoli,Merano,15,6,2,7,14,1,2,1,22,,1,1
+7671,Carlo Sguizzato,Verona,15,9,3,3,11,,1,2,11,,1,2
+7677,Romeo Paparesta,Italy,15,5,9,1,6,,,6,6,,1,1
+8482,Giancarlo Redini,Italy,15,9,4,2,,,1,1,,,2,
+10128,Pietro Bonetto,Italy,15,4,3,8,,,1,2,,,2,3
+10185,Bruno de Marchi,Italy,15,3,5,7,1,,1,,1,,,1
+10292,Armando Marchetti,Italy,15,7,3,5,,,,,,,,
+13354,Massimo Ciulli,Roma,15,5,9,1,,,1,1,,,1,1
+4683,Gianluca Manganiello,Pinerolo,14,9,1,4,21,,,4,26,1,,1
+7426,Albino Carraro,Italy,14,6,2,6,,,1,1,,,,1
+7680,Loris Stafoggia,Pesaro,14,4,5,5,20,1,1,2,14,,1,3
+9415,Domenico Serafino,Italy,14,4,4,6,,,,2,,,,
+21786,Piero Angelini,Italy,14,5,3,6,,,,2,,,,1
+23643,Mario Bernardis,Italy,14,8,3,3,,,,3,,,,1
+23646,Ezio Motta,Monza,14,8,5,1,,,,2,,,,1
+28587,Mario Scotto,Savona,14,6,1,7,,,2,,,,4,2
+178,Stefano Farina,Novi ligure,13,5,3,5,25,2,3,4,21,1,2,3
+326,Paolo Dondarini,Finale Emilia,13,4,5,4,28,1,3,4,26,4,2,3
+3210,Angelo Amendolia,Messina,13,7,3,3,10,,,,13,,,4
+5379,Vincenzo Orlandini,Roma,13,6,3,4,,,,,,,,
+6902,Marcello Nicchi,Arezzo,13,4,4,5,13,,1,2,8,,1,1
+7711,Gianni Beschin,Legnano,13,2,6,5,14,,2,3,9,,2,2
+7876,Gianfranco Menegali,Italy,13,2,4,7,,,2,1,,,3,1
+9762,Giuseppe Carpani,Italy,13,6,3,4,,,3,3,,,,4
+13533,Raffaele Scorzoni,Italy,13,4,3,6,,,2,2,,,1,1
+20716,Ferdinando Reggiani,Italy,13,8,1,4,,,1,6,,,1,
+23854,Fulvio Pieroni,Italy,13,8,2,3,1,,2,2,,,1,
+26165,Renzo Massai,Italy,13,6,2,5,,,,1,,,,
+27869,Giuseppe Turbiani,Italy,13,6,5,2,,,,,,,1,
+292,Gianluca Paparesta,Italy,12,5,2,5,24,,1,3,15,,1,3
+335,Diego Preschern,Italy,12,4,4,4,29,1,1,1,31,1,1,1
+6042,Rosario Abisso,Palermo,12,10,1,1,15,1,,6,32,,2,1
+7670,Luciano Luci,Firenze,12,5,5,2,20,1,1,3,18,1,1,2
+10274,Giuseppe Adami,Italy,12,4,4,4,,,2,1,,,1,
+14301,Vittorio Benedetti,Roma,12,4,2,6,,,,,,,,
+17223,Andrea Colombo,Como,12,7,2,3,19,1,1,,33,,,1
+23984,Antonio Di Tonno,Italy,12,6,3,3,,,,2,,,,1
+305,Domenico Messina,Bergamo,11,2,5,4,37,3,1,2,26,1,2,1
+323,Stefano Cassarà,Italy,11,4,4,3,22,,4,1,22,,2,1
+340,Andrea Romeo,Italy,11,5,1,5,23,2,,2,28,1,1,2
+341,Massimiliano Saccani,Italy,11,3,4,4,24,,,,25,,,2
+10425,Paolo Toselli,Italy,11,5,2,4,,,1,2,,,,2
+24035,Giorgio Genel,Italy,11,3,3,5,,,,1,,,,1
+26271,Luigi Gemini,Italy,11,5,3,3,,,,2,,,,2
+27900,Raffaele Mastellari,Italy,11,7,0,4,,,1,2,,,1,3
+28588,Eliseo Camiolo,Roma,11,7,0,4,,,1,1,,,1,1
+157,Massimo De Santis,Tivoli,10,0,3,7,19,3,1,1,13,,1,1
+319,Nicola Ayroldi,Italy,10,4,0,6,17,,2,2,24,1,4,1
+331,Emidio Morganti,Italy,10,7,2,1,30,,,1,24,,2,
+569,Gabriele Gava,Conegliano,10,7,2,1,25,,,2,30,,3,
+4330,Cosimo Bolognino,Milano,10,2,4,4,17,1,,2,18,1,1,4
+7750,Walter Cinciripini,Ascoli Piceno,10,5,4,1,12,1,1,1,8,1,1,1
+9620,Mario Maurelli,Italy,10,4,3,3,,,2,4,,,2,3
+10670,Simone Sozza,Seregno,10,3,3,4,15,1,,2,19,,,2
+22455,Francesco Panzino,Italy,10,7,2,1,,,,2,1,,,2
+23475,Alberto Picasso,Chiavari,10,3,6,1,,,,3,,,,
+27909,Cesare Lenti,Italy,10,4,1,5,,,,1,,,,
+28250,Umberto Biancone,Switzerland,10,3,2,5,2,,1,1,,,1,1
+28648,Ferruccio Bonivento,Italy,10,6,0,4,,,1,2,,,4,
+322,Christian Brighi,Italy,9,4,4,1,17,2,1,4,20,,2,
+328,Antonio Giannoccaro,Italy,9,4,2,3,16,,1,2,28,1,,2
+332,Luca Palanca,Italy,9,2,6,1,30,2,1,1,19,2,,2
+345,Matteo Trefoloni,Italy,9,4,4,1,23,,2,3,19,1,2,2
+4750,Fabrizio Pasqua,Tivoli,9,6,1,2,10,,,1,16,,2,
+7679,Werter Cornieti,Italy,9,4,4,1,12,,1,2,13,,,3
+7683,Paolo Fabricatore,Roma,9,5,2,2,6,,1,1,11,1,,2
+16829,Domenico Lops,Italy,9,4,4,1,,,,1,,,1,3
+23624,Luciano Giunti,Italy,9,2,6,1,,,,,,,,
+24594,Alfeo Grignani,Italy,9,6,0,3,,,,1,,,1,2
+26513,Luigi Valsecchi,Milano,9,5,2,2,,,,,,,,
+27901,Umberto Gama,Italy,9,5,1,3,,,,,,,,1
+27951,Amedeo Guarnieri,Italy,9,4,3,2,,,,,,,2,
+28105,Gino Mazzarini,Italy,9,3,2,4,,,,4,,,,1
+29089,Renzo Curradi,Italy,9,5,1,3,,,,,,,,1
+900,Nicola Pierpaoli,Italy,8,2,3,3,17,1,,3,25,,1,1
+4223,Danilo Nucini,Bergamo,8,2,3,3,15,1,,5,19,,2,2
+5765,Gennaro Borriello,Mantova,8,2,3,3,15,,1,1,10,,2,4
+7232,Diego De Leo,Italy,8,6,2,0,,,,1,,,1,2
+7672,Sergio Coppetelli,Italy,8,4,2,2,3,,1,1,5,,1,
+9774,Livio Marinelli,Tivoli,8,4,2,2,12,,,1,17,1,1,
+10659,Erminio Piemonte,Italy,8,4,2,2,,,,,,,,1
+12746,Egidio Ballerini,Italy,8,4,3,1,,,,,,,,
+16929,Arnaldo Prati,Italy,8,2,6,0,,,,,,,,
+21785,Carlo Gambarotta,Italy,8,3,2,3,,,2,,,,1,
+23119,Pasquale Gialluisi,Italy,8,5,2,1,,,,,,,,
+24459,Gastone Roversi,Bologna,8,2,1,5,2,,,1,1,,,
+25557,Francesco Guarnaschelli,Italy,8,5,1,2,,,,1,,,3,2
+26164,Bruno Tassini,Verona,8,3,1,4,,,,3,,,,1
+27908,Ermenegildo Melandri,Italy,8,4,0,4,,,,1,,,,
+28012,Giovanni Gonani,Italy,8,2,2,4,,,3,,,,1,
+30141,Giuseppe Vannini,Bologna,8,4,1,3,,,,2,,,,
+249,Paolo Bertini,Italy,7,3,3,1,13,,1,1,16,,1,
+351,Cüneyt Çakır,Istanbul,7,2,1,4,13,,,3,12,,,1
+715,Luca Marelli,Italy,7,3,2,2,10,1,,2,14,1,,1
+1571,Massimiliano Velotto,Grosseto,7,4,1,2,16,,1,,16,,2,
+6078,Marco Piccinini,Forlì,7,4,2,1,14,,,2,16,,,2
+7919,Roberto Bettin,Padova,7,3,2,2,12,1,,1,11,1,,
+7950,Marcello Cardona,Milano,7,4,1,2,6,,2,4,10,,2,3
+10402,Giulio Ciacci,Italy,7,3,2,2,1,,3,4,,,,2
+16865,Giovanni Ayroldi,Molfetta,7,4,2,1,14,1,2,1,21,3,1,
+23954,Giuliano Acernese,Italy,7,2,1,4,,,,,,,,1
+26265,Guido Agnolin,Italy,7,1,1,5,,,,1,,,,
+26388,Virginio Canavesio,Torino,7,5,0,2,,,,,,,,1
+28181,Natale Beretta,Italy,7,4,1,2,,,,1,,,,1
+29589,Giuseppe Scotti,Italy,7,5,1,1,,,1,1,,,1,
+4262,Alberto Castellani,Italy,6,2,2,2,14,,2,1,10,,,2
+7675,Mauro Felicani,Bologna,6,5,1,0,11,1,,2,8,,1,
+7743,Tarcisio Serena,Bassano del Grappa,6,2,2,2,11,1,2,,15,1,2,1
+7943,Giuseppe Rosica,Roma,6,3,1,2,3,,1,3,6,,1,
+10690,Matteo Marchetti,Ostia Lido,6,3,2,1,6,,,3,10,,,1
+17358,Matteo Marcenaro,Genova,6,2,3,1,16,,,,14,,,2
+22542,Cesare Trinchieri,Reggio Emilia,6,3,1,2,2,,2,1,2,,2,2
+23647,Renzo Torelli,Italy,6,3,1,2,,,,,,,,
+26106,Tommaso Corallo,Italy,6,5,1,0,,,,1,,,,2
+27907,Carlo Dani,Italy,6,4,1,1,,,,,,,,
+28081,Otello Sassi,Italy,6,4,0,2,,,,1,,,1,1
+28983,Emiliano Saracini,Italy,6,1,1,4,,,1,,,,1,
+29284,Oreste Dellarole,Italy,6,3,1,2,,,,2,,,,1
+30142,Cesare Cappucci,Italy,6,4,1,1,,,,1,,,,
+2,Dr. Felix Brych,München,5,2,1,2,10,,,3,13,1,,1
+124,Felix Zwayer,Berlin,5,1,2,2,12,,1,2,13,,,1
+327,Marco Gabriele,Italy,5,2,3,0,9,,,2,11,1,,
+334,Tiziano Pieri,Italy,5,0,5,0,7,,2,,11,2,1,2
+571,Maurizio Ciampi,Roma,5,3,0,2,11,,,,9,,,
+784,Damir Skomina,Koper,5,3,0,2,7,,,,14,,,
+1276,Clément Turpin,Montceau-les-Mines,5,2,0,3,8,,1,1,10,,,3
+1525,Mateu Lahoz,Spain,5,4,0,1,6,,,4,10,1,,
+1568,Denis Salati,Italy,5,4,1,0,6,,1,,11,1,2,1
+1964,Szymon Marciniak,Plock,5,2,3,0,10,,,3,9,1,1,2
+6082,Juan Luca Sacchi,Macerata,5,3,1,1,6,,,2,12,,,
+7631,Antonio Rapuano,Rimini,5,3,0,2,6,1,,,12,1,,
+8709,Roberto Bianciardi,Italy,5,4,1,0,3,,,1,,,,1
+10665,Francesco Fourneau,Roma 1,5,5,0,0,8,,,,7,,1,
+14328,Luca Zufferli,Udine,5,3,1,1,6,,,1,8,,,2
+19838,Achille Gama,Brazil,5,1,0,4,,,,,,,,1
+20855,Giuseppe Panzino,Italy,5,3,2,0,,,,1,,,,
+23393,Gaetano Mascali,Italy,5,3,1,1,,,,1,,,,
+24358,Antonio Marchiori,Italy,5,2,1,2,,,,,,,,
+24929,Giovanni Rebuffo,Italy,5,1,3,1,,,,1,,,1,1
+29006,Alfredo Conticini,Italy,5,2,1,2,,,,,,,,
+29251,Giovanni Tonnetti,Italy,5,3,1,1,,,1,,,,1,1
+329,Oscar Girardi,San Donà,4,2,2,0,10,,,1,11,,,
+1112,Ovidiu Hațegan,Arad,4,2,1,1,6,,1,1,7,,,
+1518,Carlos del Cerro Grande,Alcalá de Henares,4,2,1,1,6,,,2,6,,,
+1569,Valerio Scoditti,Italy,4,1,2,1,8,,,1,6,,,
+1570,Dino Tommasi,Bassano del Grappa,4,0,3,1,6,,,1,9,,,
+1715,Sergey Karasev,Moskau,4,1,0,3,9,,,3,11,,,
+3153,George Courtney,England,4,0,2,2,8,,1,1,1,,,
+5026,Fabrizio Lena,Italy,4,4,0,0,4,,,1,9,,,
+5049,Cristian Zanzi,Italy,4,3,1,0,7,,,,8,,,
+7678,Moreno Frigerio,Italy,4,2,2,0,2,,,1,5,,,
+8236,Angelo Bonfrisco,Monza,4,1,1,2,6,,1,,7,,2,
+8442,Salvatore Lombardo,Italy,4,2,1,1,,,,1,,,,
+8615,Lorenzo Branzoni,Pavia,4,2,2,0,7,,,,9,,3,
+8707,Pierangelo Pin,Conegliano Veneto,4,1,2,1,10,,,2,10,,1,
+9608,Antonio Giua,Olbia,4,2,0,2,6,,,3,8,,1,2
+10692,Luca Massimi,Termoli,4,3,0,1,3,,,2,10,,,1
+12753,Vincenzo Sputore,Vasto,4,0,1,3,6,,1,1,15,,1,2
+16510,Paolo Milan,Italy,4,1,2,1,,,,2,,,,1
+18453,Roberto Terpin,Italy,4,2,2,0,,,,,,,1,
+21036,Andrea Guiducci,Italy,4,0,3,1,7,,,,12,,1,1
+23657,Carlo Cantelli,Italy,4,3,0,1,,,,1,,,,
+23863,Umberto Branzoni,,4,2,0,2,,,,1,,,,
+24360,Bruno Orlando,Italy,4,2,0,2,,,,1,,,,
+24784,Carlo Babini,Italy,4,3,0,1,,,,1,,,,
+25560,Antonio Moriconi,Italy,4,3,1,0,,,,,,,,1
+26493,Osvaldo Savio,Torino,4,2,0,2,,,4,1,,,4,
+26534,Lelio Coppolone,Italy,4,2,1,1,,,,1,,,,
+27867,Piero Giorgi,Italy,4,2,1,1,,,,,,,,1
+27882,Costante Pessato,Italy,4,2,1,1,,,,,,,,
+27891,Walter Malagodi,Italy,4,2,0,2,,,,,,,,
+28633,Pompeo Casati,Italy,4,1,3,0,,,,1,,,,
+28700,Sandro Buratti,Milano,4,0,1,3,,,1,,,,,
+28703,Angelo Gianelli,Italy,4,2,1,1,,,1,,,,1,
+28899,Lelio Salvatori,Italy,4,1,1,2,,,,1,,,1,1
+30126,Mario Cambi,Italy,4,2,0,2,,,,,,,,
+158,Viktor Kassai,Tatabánya,3,2,0,1,9,,,,7,1,,
+404,Björn Kuipers,Oldenzaal,3,1,1,1,6,1,,1,7,1,,
+570,Roland Herberg,Italy,3,1,2,0,4,,1,2,9,1,2,
+572,Giorgio Lops,Italy,3,3,0,0,10,1,,,5,,1,
+732,Daniel Siebert,Berlin,3,1,0,2,9,,1,,12,,,
+1225,Istvan Kovacs,Carei,3,0,2,1,10,1,,,4,,,1
+1239,Danny Makkelie,Dordrecht,3,1,1,1,4,,,,5,,,1
+1244,Milorad Mazic,Serbia,3,1,0,2,6,,,,9,,,1
+4239,Michele Cruciani,Italy,3,1,0,2,6,,,,5,1,,
+4702,Gianluca Aureliano,Bologna,3,2,1,0,2,,1,2,10,,,
+4703,Claudio Gavillucci,Latina,3,3,0,0,4,,,,9,,,1
+7873,Pierpaolo Rossi,Ciampino,3,1,1,1,13,2,,,3,,1,1
+8486,Giorgio Baldi,Italy,3,1,2,0,,,,,,,,
+9096,Francesco Strazzera,Trapani,3,1,2,0,7,,2,,7,,1,
+17847,Ermanno Feliciani,Teramo,3,3,0,0,3,,,3,2,,,
+18655,Francesco Cosso,Reggio Calabria,3,2,0,1,1,,,1,8,,,
+23956,Giangaetano Vacchini,Italy,3,2,0,1,,,,,,,,
+24359,Antonio Marengo,Italy,3,1,1,1,,,,1,,,,1
+24363,Priamo Varazzani,Italy,3,3,0,0,,,,2,,,,
+24457,Luciano Politano,Italy,3,2,0,1,,,,,,,,
+24595,Marcello Rancher,Italy,3,2,0,1,,,,,,,,
+24597,Giovanni Sebastio,Italy,3,1,0,2,,,,,,,,
+24785,Domenico Cataldo,Reggio Calabria,3,0,1,2,,,,,,,,
+24786,Fiorenzo Samani,Italy,3,1,2,0,,,,,,,,
+24875,Pietro Leita,Italy,3,1,1,1,,,,1,,,,
+25045,Florenzo Annoscia,Italy,3,0,0,3,,,,1,,,,
+25212,Ugo Famulari,Italy,3,0,0,3,,,,1,,,,1
+25213,Silvio Ferrari,Italy,3,0,2,1,,,,,,,,3
+25214,Guido Mori,Italy,3,1,0,2,,,2,1,,,1,
+25559,Lorenzo Menchini,Italy,3,3,0,0,,,,1,,,,
+25563,Giovanni Ubezio,Italy,3,1,1,1,,,,,,,,
+26524,Guglielmo Matucci,Italy,3,0,0,3,,,,,,,,
+27062,Gilberto Arpaia,Italy,3,3,0,0,,,,,,,,
+27952,Giovanni Bruna,Italy,3,1,0,2,,,1,1,,,1,
+27958,Mario Camillo Manfredi Ferro,Italy,3,1,0,2,,,,,,,,1
+29264,Giuseppe Fois,Italy,3,1,1,1,,,,,,,,
+29987,Eriprando Poggipollini,Ferrara,3,3,0,0,,,,1,,,,1
+30100,Franco Giuseppe Tonolini,Italy,3,1,1,1,,,,1,,,,
+30655,Battista Tibaldi,Savona,3,2,0,1,,,,,,,,1
+30971,Attilio Casini,Italy,3,2,0,1,,,,,,,,
+32219,Kevin Bonacina,Bergamo,3,3,0,0,3,,,,2,,,
+40786,Carlo Osti,Italy,3,0,0,3,,,,,,,,1
+40892,Ettore Mangano,Italy,3,2,0,1,,,,,,,,
+186,Artur Soares Dias,Vila Nova de Gaia,2,1,0,1,4,,,1,1,,1,
+245,Ivan Bebek,Croatia,2,1,1,0,3,,,,5,,,
+333,Oberdan Pantana,Italy,2,0,2,0,5,1,,1,6,,1,
+342,Nicola Stefanini,Italy,2,1,0,1,4,,1,1,4,,1,
+369,Jonas Eriksson,Sweden,2,0,2,0,5,,,,3,,,
+383,Mark Clattenburg,England,2,0,2,0,4,1,,,5,,,1
+406,Bas Nijhuis,Enschede,2,0,1,1,5,,,,3,,,
+463,Carlos Velasco Carballo,Spain,2,1,0,1,5,,,,3,,,1
+699,Willie Collum,Motherwell,2,2,0,0,3,,,,5,1,,1
+841,Pavel Kralovec,Domažlice,2,1,0,1,5,1,,,6,,,
+847,Anthony Taylor,Cheshire,2,2,0,0,3,,,1,7,,,
+1020,Svein Oddvar Moen,Haugesund,2,1,1,0,1,,,,6,,,
+1268,Ruddy Buquet,France,2,0,1,1,3,,,,5,,,1
+1357,Aleksandar Stavrev,Skopje,2,2,0,0,2,,,,1,,,
+1359,István Vad,Budapest,2,1,1,0,5,,,,4,,,
+1700,Serdar Gözübüyük,Haarlem,2,2,0,0,7,,,,3,,,
+1931,Slavko Vincic,Slovenia,2,1,0,1,2,,,,3,,,
+2051,Sebastiano Peruzzo,Schio,2,2,0,0,4,,,1,6,,1,
+2495,Aron Schmidhuber,Germany,2,1,1,0,2,,,1,3,,,
+2528,Bo Jonas Hil Karlsson,Sweden,2,1,0,1,1,,,,3,,,
+2629,Anastasios Sidiropoulos,Rodos,2,2,0,0,2,,,1,5,1,,
+2702,Karl-Heinz Tritschler,Freiburg,2,2,0,0,1,,1,,1,,1,
+2805,Walter Eschweiler,Euskirchen,2,1,0,1,2,,,,3,,,
+2829,Pietro D'Elia,Italy,2,0,2,0,,,,,,,,
+3109,Erik Fredriksson,Sweden,2,0,1,1,1,,,,1,,,
+4102,Rudolf Glöckner,Markranstädt,2,1,0,1,1,,,1,,,,
+6668,Daniel Mellet,Switzerland,2,2,0,0,,,,,,,,
+6815,Paul Schiller,Wien,2,0,1,1,,,,,,,,
+7417,Irfan Peljto,Sarajevo,2,1,1,0,3,,,,5,,1,1
+7676,Bruno Di Cola,Italy,2,2,0,0,2,,,,1,,,
+7874,Maurizio Mughetti,Cesena,2,0,1,1,4,,,,5,,,2
+7904,Fritz Seipelt,Austria,2,1,0,1,,,,,,,,
+8193,Anton Bucheli,Switzerland,2,2,0,0,,,,,,,,
+8303,Carlo Dinelli,Lucca,2,1,1,0,1,,,,2,,,
+8354,Giancarlo Lana,Torino,2,2,0,0,2,,,,6,1,,
+8391,Giacinto Franceschini,Bari,2,1,1,0,,,,2,,,2,1
+9305,Gilberto Dagnello,Trieste,2,1,0,1,2,,1,,5,,,
+9405,Franco Sirotti,Forlì,2,0,1,1,4,,,1,5,,1,
+9461,Alessandro Prontera,Bologna,2,1,0,1,4,,,1,3,,,
+9600,Friedrich Mayer,Niederösterreich,2,1,0,1,,,,,,,,
+9802,Robert Matthewson,England,2,0,0,2,3,,,,,,,1
+10303,Raoul Righi,Milano,2,0,2,0,,,1,,,,1,
+10369,Arthur Lentini,Malta,2,1,1,0,,,,,,,,
+14306,Luigi Altobelli,Italy,2,0,0,2,,,,,,,,
+14310,Renzo Vitali,Italy,2,2,0,0,,,,,,,,
+14311,François Letexier,France,2,1,0,1,3,,,,3,1,,
+17576,Paride Tremolada,Monza,2,2,0,0,5,,,,5,1,,1
+17750,Giuseppe Collu,Cagliari,2,2,0,0,2,,,,2,,1,1
+20762,Riccardo Pirrone,Italy,2,1,1,0,8,,1,,1,,,
+20763,Luciano Fausti,Milano,2,1,1,0,3,,,,4,,,
+22004,Giancarlo Lapi,Italy,2,1,0,1,,,,,,,,
+23059,Fernando Lazzaroni,Italy,2,0,1,1,,,,,,,,
+23206,Vittorio Vannucchi,Italy,2,0,1,1,,,,1,,,,
+23395,Fiorenzo Lenardon,Italy,2,2,0,0,,,,,,,,
+23469,Antonio Trono,Italy,2,0,2,0,,,,,,,,
+23683,Alberto Cali',Italy,2,0,1,1,,,,1,,,,
+24086,Ermenegildo Piantoni,Terni,2,1,1,0,,,,,,,,
+24361,Giuseppe Palazzo,Italy,2,2,0,0,,,,,,,,1
+24456,Luigi Barolo,Italy,2,2,0,0,,,,1,,,,
+24458,Renzo Righetti,Italy,2,2,0,0,,,,,,,,
+24592,Giuseppe Cirone,Italy,2,2,0,0,,,,1,,,,
+25553,Severo Bartolomei,Italy,2,1,1,0,,,1,,,,1,
+25561,Ettore Perego,Italy,2,1,1,0,,,,,,,,
+26104,Francesco Canepa,Italy,2,1,0,1,,,,,,,,
+26108,Nello Griggi,Italy,2,0,1,1,,,1,,,,,
+26274,Florindo Longagnani,Italy,2,0,0,2,,,1,,,,1,
+27894,Nereo Bertoli,Italy,2,0,0,2,,,,,,,,1
+27897,Carlo Garbieri,Italy,2,1,0,1,,,,,,,,
+27957,Renato Bonello,Italy,2,0,0,2,,,,,,,,1
+28097,Rodolfo Zorzi,Italy,2,0,1,1,,,,,,,,
+28472,Gialma Bevilacqua,Italy,2,1,1,0,,,,,,,,
+28634,Eraldo Corradini,Italy,2,0,1,1,,,,2,,,,
+28662,Aniello Mazza,Italy,2,1,0,1,,,,,,,,
+28664,Renato Gianni,Italy,2,2,0,0,,,,,,,1,
+28682,Mario Carminati,Italy,2,0,0,2,,,,1,,,,
+28812,Giorgio Moretti,Italy,2,0,0,2,,,,1,,,,1
+28835,Umberto Levrero,Italy,2,0,0,2,,,,,,,,
+28873,Antonio Bertone,Italy,2,0,2,0,,,,,,,,
+29373,Ettore Neri,Vicenza,2,0,1,1,,,,,,,1,1
+29527,Lorenzo Limido,Milano,2,0,1,1,,,,,,,,1
+29946,Bruno Zilli,Reggio Emilia,2,2,0,0,,,,,,,1,
+30127,Angelo Pizzato,Venezia,2,2,0,0,,,,,,,,
+30222,Giuseppe Boffardi,Italy,2,2,0,0,,,,,,,,
+30285,Vittorio Pera,Firenze,2,0,0,2,,,2,,,,1,
+30287,Antonio Zambotto,Padova,2,0,1,1,,,1,,,,,2
+30389,Giuseppe Parpaiola,Padova,2,1,0,1,,,,,,,,1
+34711,Saverio Laureti,Italy,2,2,0,0,,,,,,,,
+40819,Alfredo Medica,Italy,2,0,1,1,,,,,,,,
+41549,Tommaso Sguerso,Italy,2,0,1,1,,,,,,,,
+41845,Giacomo Romolo Pinasco,Italy,2,0,0,2,,,,,,,,1
+73074,Giovanni Colonna,Bari,2,2,0,0,,,,1,,,,
+5,Thorsten Kinhöfer,Herne,1,0,1,0,1,,,,1,,,
+10,Wolfgang Stark,Ergolding,1,0,0,1,5,,,,2,,,
+61,Fredy Fautrel,France,1,0,0,1,4,,,,2,,,1
+95,Deniz Aytekin,Oberasbach,1,0,1,0,3,,,,2,,,
+107,Tobias Stieler,"Sölden, Schwarzwald",1,0,0,1,,,,,3,,,
+113,Said Ennjimi,France,1,1,0,0,2,,,,1,,,
+127,Olegário Benquerença,Leiria,1,0,1,0,4,,,,5,,,1
+129,Duarte Gomes,Lisboa,1,1,0,0,1,1,,,3,,,
+166,Frank De Bleeckere,Belgium,1,1,0,0,2,,,1,3,,,
+185,Pedro Proença,Portugal,1,1,0,0,3,,,,1,,1,
+222,Alexandru Tudor,Bucharest,1,0,0,1,8,,,,2,,,
+280,Undiano Mallenco,Pamplona,1,0,0,1,1,,,,,,,
+282,Urs Meier,Dällikon,1,1,0,0,,,,,,,,
+324,Antonio Dattilo,Locri,1,1,0,0,2,,,1,1,,,
+348,Fırat Aydınus,Istanbul,1,1,0,0,,,,,,,,
+367,Eduardo Iturralde González,Llodio,1,0,1,0,7,,,1,3,,,1
+379,Mike Dean,Wirral,1,0,0,1,1,,,,3,,,
+381,Martin Atkinson,West Yorkshire,1,0,1,0,2,,,,1,,,
+392,Alon Yefet,Netanya,1,1,0,0,2,,,,4,,,
+397,Kevin Blom,Alphen aan den Rijn,1,1,0,0,1,,,1,2,,,
+415,Michalis Koukoulakis,Heraklion,1,1,0,0,,,,,1,,,
+420,Anastasios Kakos,Greece,1,1,0,0,2,,,,3,,,
+447,Marcin Borski,Poland,1,0,1,0,2,,,,3,,1,
+454,César Muñiz Fernández,Spain,1,1,0,0,2,,,,3,,,
+471,Andre Marriner,West Midlands,1,0,1,0,1,,,,2,,,
+568,Pol van Boekel,Vierlingsbeek,1,0,0,1,2,,,,1,,,
+804,Stanislav Sukhina,"Malakhovka, Moscow Region",1,1,0,0,2,,,,1,,,
+902,Michael Oliver,Northumberland,1,0,0,1,1,,,,2,1,,
+964,Hüseyin Göçek,Istanbul,1,0,0,1,3,,,1,2,,,
+966,Halis Özkahya,Izmir,1,1,0,0,,,,,1,,,
+974,Marijo Strahonja,Croatia,1,1,0,0,,,,,1,,,
+1091,Vladislav Bezborodov,St. Petersburg,1,1,0,0,1,,,1,2,,,
+1116,Mattias Gestranius,Parainen,1,1,0,0,2,,,,2,,,
+1135,Marius Avram,Bucharest,1,1,0,0,2,,,,2,,,
+1443,Aleksey Kulbakov,Gomel,1,1,0,0,3,,,,1,,,
+1565,Michele Cavarretta,Italy,1,1,0,0,1,,,,2,,,
+1566,Riccardo Pinzani,Empoli,1,1,0,0,2,,,,2,,,
+1752,Kenn Hansen,Denmark,1,1,0,0,,,,,,,,
+1922,Leonardo Baracani,Firenze,1,0,0,1,2,,1,,2,,,1
+1926,Renzo Candussio,Cervignano del Friuli,1,1,0,0,,,,,,,,
+2068,Daniel Stefanski,Bydgoszcz,1,0,0,1,1,,,,1,,,
+2289,Craig Pawson,South Yorkshire,1,1,0,0,2,1,,,1,,,
+2480,Gérard Biguet,France,1,1,0,0,1,,,,3,,,
+2490,Hans-Jürgen Weber,Essen,1,0,1,0,,,,,,,,
+2497,Hubert Forstinger,Austria,1,1,0,0,2,,,,2,,1,
+2521,Mario van der Ende,Naarden,1,0,0,1,4,,,,2,,,
+2531,Sándor Puhl,Hungary,1,0,0,1,1,1,,,,,,
+2585,Guy Goethals,Belgium,1,1,0,0,,,,,1,,,
+2724,Karl-Josef Assenmacher,Hürth,1,0,0,1,2,,,,2,,,
+2737,Dieter Pauly,Rheydt,1,0,1,0,2,,1,,2,,,
+2770,Heinz Siebert,Mannheim,1,0,1,0,1,,,,,,,
+2859,Kurt Tschenscher,Germany,1,1,0,0,,,,,,,,
+2913,Heinz Aldinger,Waiblingen,1,1,0,0,,,,1,,,,
+3077,Ioan Igna,Romania,1,0,0,1,,,,,,,,1
+3079,Alexis Ponnet,Belgium,1,0,1,0,1,,,,2,,,
+3110,Victoriano Sánchez Arminio,Santander,1,0,1,0,,,,,1,,,
+3145,Horst Brummeier,Austria,1,0,1,0,1,,,,2,,,
+3155,Bogdan Dochev,Sofia,1,0,0,1,1,,,,2,,,
+3198,Bob Valentine,Dundee,1,0,0,1,3,,,,1,,,
+3217,Emilio Soriano Aladrén,Spain,1,0,0,1,4,,,,1,,,
+3241,Michel Vautrot,France,1,1,0,0,2,,,,1,,,
+3270,Rudolf Frickel,München,1,0,1,0,1,,,,,,,
+3374,Ivan Kruzliak,Bratislava,1,0,0,1,4,,1,,7,1,,
+3454,Karl-Erik Nilsson,Sweden,1,1,0,0,,,,,1,,,
+3490,Jesús Gil Manzano,Spain,1,1,0,0,1,,,,3,,,
+3786,Robert Wurtz,Climbach,1,0,0,1,,,,,,,,
+3801,Joe Worrall,England,1,0,1,0,4,,,,1,,,
+3809,Georges Sandoz,Switzerland,1,1,0,0,,,,,,,,
+3814,David Syme,Rutherglen,1,0,1,0,2,,,,1,,,
+3860,Ángel Franco Martínez,Murcia,1,1,0,0,,,,,1,,,
+3889,Orel Grinfeld,Israel,1,0,1,0,3,,,,3,,,
+3928,Adolf Prokop,Erfurt,1,0,1,0,,,,,,,,
+3942,Jean Dubach,Switzerland,1,0,1,0,2,,,,1,,,
+4006,Rudolf Scheurer,Solothurn,1,1,0,0,,,,,,,,
+4245,Anders Mattsson,Finland,1,1,0,0,,,,,,,,
+4481,Benoît Bastien,France,1,1,0,0,1,,,,,,,
+4579,Angelo Cervellera,Taranto,1,0,1,0,2,,,,2,,,
+4685,Valerio Marini,Roma,1,0,1,0,2,,,1,2,,,2
+4710,Eugenio Abbattista,Molfetta,1,1,0,0,1,,,,2,,,1
+4754,Aleandro Di Paolo,Avezzano,1,0,0,1,1,,,,,,,
+5060,Ion Craciunescu,Romania,1,0,1,0,,,,,1,,,
+5255,Edgar Azzopardi,Malta,1,1,0,0,,,,1,4,,,
+5279,Claude Bouillet,Nîmes,1,1,0,0,,,,,1,,,
+5280,Michel Girard,France,1,0,0,1,4,,,,1,,,
+5328,Neil Midgley,Kearsley,1,0,1,0,2,,,,1,,1,
+5708,José María Sánchez Martínez,Spain,1,1,0,0,3,,,,,,,
+6055,Davide Ghersini,Genova,1,1,0,0,3,,,2,3,,1,
+6192,Walter Hungerbühler,Switzerland,1,0,1,0,,,,,2,,,
+6257,Glenn Nyberg,Borlänge,1,0,0,1,2,,,,1,,,
+6385,José Pratas,Portugal,1,1,0,0,1,,,1,1,,,
+6645,Gerasimos Germanakos,Greece,1,1,0,0,1,,,1,3,,,
+6665,István Zsolt,Hungary,1,0,0,1,,,,,,,,
+6667,Arthur Holland,England,1,1,0,0,,,,,,,,
+6800,John Adair,Northern Ireland,1,1,0,0,,,,,,,,
+6852,Robert Héliès,France,1,1,0,0,1,,,,1,,,
+7399,Juan Gardeazabal Garay,Spain,1,0,0,1,,,1,,,,,
+7564,Marco Serra,Torino,1,1,0,0,1,,,2,1,,,
+7637,Antonio Di Martino,Teramo,1,1,0,0,,,,,4,,,
+7648,Janus Aalbrecht,Hoek van Holland,1,0,1,0,,,,,,,,
+7736,Emilio Carlos Guruceta Muro,Spain,1,0,0,1,5,,2,,,,,1
+7780,Michel Kitabdjian,France,1,0,1,0,1,,,,,,,
+7795,Giancarlo Dal Forno,Italy,1,1,0,0,,,,1,,,,
+7909,Ivano Pezzuto,Lecce,1,0,1,0,2,,,,4,,,
+7918,Alessandro Guidi,Italy,1,1,0,0,1,,,,2,,,
+7942,Massimo Chiesa,Livorno,1,0,0,1,2,,,,2,,1,1
+8060,Mario Palmieri,Italy,1,0,0,1,2,1,,,,,,
+8387,Daniele Scaramuzza,Mestre,1,1,0,0,1,,,,2,,,
+8484,Massimo Leni,Italy,1,1,0,0,,,,,,,,
+8487,Alberto Boschi,Italy,1,0,1,0,,,,,,,,
+8750,Hans Wüthrich,Switzerland,1,0,0,1,,,,,,,,1
+8785,Pierluigi Lamorgese,Italy,1,0,1,0,,,,,,,,
+8856,Jozef Krnávek,Czech Republic,1,0,0,1,,,,,,,,
+8869,Alfred Grill,Villach,1,0,1,0,,,,,,,,
+8883,Robert Schaut,Edegem,1,1,0,0,,,,,,,,
+9143,Joop Martens,Zeist,1,0,0,1,,,,,,,,1
+9335,Porém Luís,Portugal,1,1,0,0,1,,,,,,,
+9428,Josef Bucek,Austria,1,0,0,1,3,,,,1,,,
+9483,René Vigliani,France,1,0,1,0,,,,1,1,,,
+9592,Lawrence Visser,Belgium,1,1,0,0,1,,,2,3,,,
+9663,Tiago Martins,Portugal,1,0,1,0,2,,,,4,1,,
+9714,Joseph Barbéran,France,1,0,0,1,,,1,,,,,
+9780,Louis Fauquemberghe,France,1,0,0,1,,,,,,,,
+10014,Halil Umut Meler,Izmir,1,1,0,0,2,,,,2,,,
+10080,Orhan Cebe,Izmir,1,1,0,0,,,,,,,,
+10167,Fernando Leite,Portugal,1,1,0,0,,,,1,,,,
+10184,Augusto Marques Pires,Portugal,1,0,1,0,3,,1,,,,,
+10203,Robert Lacoste,Bordeaux,1,0,0,1,,,,,,,,
+10357,Gheorge Limona,Romania,1,0,0,1,,,,,2,,,
+10378,Albert Guinnard,Fribourg,1,1,0,0,,,,,,,,
+10396,Dimitar Parmakov,Sofia,1,0,1,0,2,,,1,,,,
+10611,Antonio Rigo Sureda,Spain,1,0,0,1,,,1,,,,,
+10685,Federico Dionisi,L'Aquila,1,0,1,0,,,,,,,,
+11224,Petar Kostovski,North Macedonia,1,1,0,0,,,,,,,,
+11825,Paul Bonett,Malta,1,1,0,0,1,,,,2,,,
+13128,Giancarlo Pirandola,Italy,1,0,1,0,,,,,,,,
+14261,João Pinheiro,Portugal,1,0,1,0,2,,,,1,,,
+15146,Angelo Angelelli,Terni,1,1,0,0,,,,,,,,
+15810,Domenico Falzier,Italy,1,0,0,1,,,,,,,,
+16987,Piero Patrussi,Italy,1,1,0,0,,,,,,,,
+17662,Alberto Santoro,Messina,1,1,0,0,1,,,,2,,,
+18367,Maria Sole Ferrieri Caputi,Livorno,1,0,0,1,2,,,,6,1,,
+21855,Ruggero Mascia,Italy,1,1,0,0,,,,1,,,,
+22634,Francesco Schena,Foggia,1,0,1,0,,,,,,,,
+23118,Piero Barboni,Italy,1,1,0,0,,,,,,,,
+23383,Pierluigi Levrero,Italy,1,0,1,0,,,,,,,,1
+23394,Giuseppe Moretto,San Donà di Piave,1,0,1,0,,,,,,,,
+23888,Corrado Martinelli,Catanzaro,1,0,1,0,,,,,,,,
+23969,Piero Bianchi,Italy,1,0,0,1,,,,,,,,
+24022,Rino Possagno,Italy,1,1,0,0,,,,,,,,
+24043,Danilo Bigi,Italy,1,0,0,1,,,,,,,,
+24570,Massimo Mannella,Italy,1,1,0,0,,,,,2,,2,
+24590,Marco Forconi,Italy,1,1,0,0,2,,,,,,,
+24593,Sergio Ferrari,Italy,1,1,0,0,,,,,,,,
+24596,Elio Schinetti,Italy,1,0,1,0,,,,,,,,
+24616,Alberto Zanardo,Italy,1,1,0,0,1,,,,1,,,
+24622,Andrea Bo,Italy,1,1,0,0,2,,,,3,,,
+24624,Marco Giglioni,Italy,1,0,1,0,3,,,,2,1,,
+24656,Gian Luca Crugliano,Italy,1,1,0,0,,,,,3,,,
+25047,Vittorio Cariani,Italy,1,1,0,0,,,,1,,,,
+25211,Pietro De Magistris,Italy,1,0,1,0,,,,,,,,
+25558,Carlo Marangio,Italy,1,1,0,0,,,,,,,,
+25991,Christian Rubino,Italy,1,0,1,0,,,,,1,,,
+26105,Alessandro Coppa,Italy,1,1,0,0,,,,1,,,,
+26109,Alfred Stoll,Austria,1,0,0,1,,,,1,,,,
+26194,Fabrizio Brunialti,Trento,1,0,1,0,4,,,,2,1,,
+26270,Aldo Cartei,Italy,1,1,0,0,,,,,,,,
+26401,Giuseppe Fortina,Italy,1,1,0,0,,,,,,,,
+26558,Pietro Smorto,Italy,1,1,0,0,,,,,,,,
+26559,x Stulle,,1,0,1,0,,,,,,,,
+26569,Gino Cicardi,Italy,1,0,1,0,,,,,,,,
+27890,Mario Cassetta,Italy,1,0,0,1,,,,,,,,
+27893,Domenico Enrietti,Italy,1,1,0,0,,,,,,,,
+27906,Silo Galassi,Italy,1,0,0,1,,,,,,,,
+28059,Federico Sani,Italy,1,0,1,0,,,,,,,,
+28086,Umberto Tassinari,Italy,1,1,0,0,,,,,,,,
+28249,Enrico Dall'Era,Italy,1,1,0,0,,,,,,,,
+28274,Saverio Giulini,Italy,1,0,0,1,,,1,,,,,
+28550,Valerio Crezzini,Siena,1,1,0,0,1,,,,2,,,1
+28687,Giovanni Gondola,Italy,1,1,0,0,,,,,,,,
+28822,Silvio Pasinato,Italy,1,1,0,0,,,1,,,,,
+28852,Beniamino De Sanctis,Italy,1,1,0,0,,,,,,,,
+28979,Medardo Ghetti,Italy,1,1,0,0,,,1,,,,1,
+29020,Attilio Soliani,Italy,1,1,0,0,,,,,,,,
+29022,Luigi Pirovano,Italy,1,1,0,0,,,,,,,,
+29094,Pasquale Gnocchini,Italy,1,1,0,0,,,,,,,,
+29218,Arturo Leoni,Italy,1,1,0,0,,,,,,,,
+29350,Giovanni Rosso,Italy,1,0,0,1,,,,,,,,
+29355,Romeo Cardinali,Italy,1,1,0,0,,,,,,,,
+29368,Cellino Forni,Italy,1,0,0,1,,,,,,,,
+29783,Aldo Donati,Italy,1,0,0,1,,,,,,,,1
+30109,Otello Piselli,Italy,1,0,1,0,,,,,,,,
+30134,Pietro Massironi,Italy,1,1,0,0,,,,1,,,1,
+30181,Mario Codeluppi,Italy,1,0,0,1,,,,,,,,
+30208,Angelo Fornari,Bologna,1,1,0,0,,,,,,,,
+30362,Bruno Guarda,Italy,1,1,0,0,,,1,,,,1,
+30686,Luigi Arietti,Italy,1,1,0,0,,,,,,,,
+30716,Marcello Pasinetti,Roma,1,1,0,0,,,,,,,,
+32401,Arturo Baldoni,Italy,1,1,0,0,,,,1,,,,
+32428,Andrea Zanotti,Rimini,1,1,0,0,,,,,3,,1,
+34151,Manlio Moratelli,Italy,1,1,0,0,,,,,,,,
+34258,Othmar Huber,Thun,1,1,0,0,,,,,,,,
+34733,Giancarlo Pignatta,Italy,1,1,0,0,,,,,,,,
+34756,Luigi Zanchi,Italy,1,0,1,0,,,,,,,,
+37857,Tony Briguglio,Malta,1,1,0,0,,,,,,,,
+38419,Ugo Essinger,Italy,1,0,0,1,,,,,,,,
+39582,José Rosa Dias Nunes,Portugal,1,1,0,0,,,,,,,,
+40125,Marcel Deckx,Belgium,1,1,0,0,,,,1,,,,
+40771,Giacomo Ciro Turra,Italy,1,0,0,1,,,,,,,,
+41415,Michele Cristantiello,Bari,1,1,0,0,,,,1,,,,
+41533,Agostino Montessoro,Torino,1,0,0,1,,,,,,,,
+41546,Gamberini,Italy,1,0,0,1,,,,1,,,,
+41574,Magliulo,Italy,1,0,0,1,,,,,,,,
+41859,Luigi Galli,Bologna,1,0,0,1,,,,,,,,
+41927,Ermanno Aebi,Milano,1,0,0,1,,,,,,,,
+45718,Ugo Della Lunga,Italy,1,1,0,0,,,1,,,,,
+45719,Romeo Loda,Italy,1,0,1,0,,,1,,,,,
+49092,Frigyes Klug,Hungary,1,0,1,0,,,,1,,,,
+60924,Ruggero Altomare,Italy,1,1,0,0,,,,1,,,,
+64890,Bruno Nerozzi,Italy,1,1,0,0,,,,,,,,

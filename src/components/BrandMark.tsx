@@ -13,15 +13,15 @@ interface LogoProps {
 export const NapoliLogoIcon: React.FC<LogoProps> = ({
   size = 32,
   className = '',
-  useImageAsset = false,
+  useImageAsset = true,
 }) => {
   const [imgError, setImgError] = React.useState(false);
   const baseUrl = (import.meta.env.BASE_URL || '/').replace(/\/$/, '');
 
-  if (useImageAsset && !imgError) {
+  if (!imgError) {
     return (
       <img
-        src={`${baseUrl}/assets/aistudio/L_IPogEZ_400x400_77e6c2dc.jpg`}
+        src={`${baseUrl}/favicon.png`}
         alt="SSC Napoli Data"
         width={size}
         height={size}

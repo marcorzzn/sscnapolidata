@@ -1,0 +1,301 @@
+﻿record_type,rank,player_id,player_name,position,age,season,other_club,fee_raw,fee_eur
+arrival,1,401923,Victor Osimhen,Centre-Forward,21,20/21,20/21,€79M,79000000.0
+arrival,2,316889,Hirving Lozano,Left Winger,24,19/20,19/20,€50M,50000000.0
+arrival,3,610442,Rasmus Højlund,Centre-Forward,23,26/27,26/27,€44M,44000000.0
+arrival,4,39153,Gonzalo Higuaín,Centre-Forward,25,13/14,13/14,€39M,39000000.0
+arrival,5,386446,Alessandro Buongiorno,Centre-Back,25,24/25,24/25,€37M,37000000.0
+arrival,6,104752,Konstantinos Manolas,Centre-Back,28,19/20,19/20,€36M,36000000.0
+arrival,7,191891,Arkadiusz Milik,Centre-Forward,22,16/17,16/17,€32M,32000000.0
+arrival,8,433984,Sam Beukema,Centre-Back,26,25/26,25/26,€31M,31000000.0
+arrival,9,96341,Romelu Lukaku,Centre-Forward,31,24/25,24/25,€31M,31000000.0
+arrival,10,315969,Scott McTominay,Central Midfield,27,24/25,24/25,€31M,31000000.0
+arrival,11,513245,Jesper Lindstrøm,Right Winger,23,23/24,23/24,€30M,30000000.0
+arrival,12,350219,Fabián Ruiz,Central Midfield,22,18/19,18/19,€30M,30000000.0
+arrival,13,405885,Giacomo Raspadori,Second Striker,23,23/24,23/24,€28M,28000000.0
+arrival,14,469822,David Neres,Right Winger,27,24/25,24/25,€28M,28000000.0
+arrival,15,572265,Lorenzo Lucca,Centre-Forward,25,25/26,25/26,€26M,26000000.0
+arrival,16,240414,Alex Meret,Goalkeeper,22,19/20,19/20,€26M,26000000.0
+arrival,17,339332,Noa Lang,Left Winger,26,25/26,25/26,€25M,25000000.0
+arrival,18,130360,Simone Verdi,Attacking Midfield,25,18/19,18/19,€25M,25000000.0
+arrival,19,192735,Stanislav Lobotka,Defensive Midfield,25,19/20,19/20,€24M,24000000.0
+arrival,20,165895,Matteo Politano,Right Winger,27,21/22,21/22,€22M,22000000.0
+arrival,21,124715,Nikola Maksimović,Centre-Back,25,17/18,17/18,€21M,21000000.0
+arrival,22,525299,Miguel Gutiérrez,Left-Back,24,25/26,25/26,€20M,20000000.0
+arrival,23,358032,Cyril Ngonge,Right Winger,23,23/24,23/24,€20M,20000000.0
+arrival,24,503482,Min-jae Kim,Centre-Back,25,22/23,22/23,€19M,19000000.0
+arrival,25,19041,Gökhan Inler,Defensive Midfield,27,11/12,11/12,€18M,18000000.0
+arrival,26,22328,Fabio Quagliarella,Centre-Forward,26,09/10,09/10,€18M,18000000.0
+arrival,27,64793,Leonardo Pavoletti,Centre-Forward,28,16/17,16/17,€18M,18000000.0
+arrival,28,400489,Eljif Elmas,Attacking Midfield,19,19/20,19/20,€18M,18000000.0
+arrival,29,199258,Andrea Petagna,Centre-Forward,24,19/20,19/20,€17M,17000000.0
+arrival,30,830365,Alisson Santos,Left Winger,23,26/27,26/27,€17M,17000000.0
+arrival,31,376514,Mathías Olivera,Left-Back,24,22/23,22/23,€17M,17000000.0
+arrival,32,354361,Frank Anguissa,Central Midfield,26,22/23,22/23,€16M,16000000.0
+arrival,33,181136,Piotr Zieliński,Central Midfield,22,16/17,16/17,€16M,16000000.0
+arrival,34,257732,Amir Rrahmani,Centre-Back,25,19/20,19/20,€15M,15000000.0
+arrival,35,257474,Vanja Milinković-Savić,Goalkeeper,28,25/26,25/26,Loan fee:€15M,15000000.0
+arrival,36,423744,Billy Gilmour,Defensive Midfield,23,24/25,24/25,€15M,15000000.0
+arrival,37,355501,Amadou Diawara,Defensive Midfield,19,16/17,16/17,€15M,15000000.0
+arrival,38,317482,Marko Rog,Central Midfield,21,17/18,17/18,€14M,14000000.0
+arrival,39,89718,Eduardo Vargas,Centre-Forward,22,11/12,11/12,€14M,14000000.0
+arrival,40,502670,Khvicha Kvaratskhelia,Left Winger,21,22/23,22/23,€13M,13000000.0
+arrival,41,112343,Manolo Gabbiadini,Centre-Forward,23,14/15,14/15,€13M,13000000.0
+arrival,42,48280,Edinson Cavani,Centre-Forward,24,11/12,11/12,€12M,12000000.0
+arrival,43,282388,Giovanni Simeone,Centre-Forward,27,23/24,23/24,€12M,12000000.0
+arrival,44,15452,Raúl Albiol,Centre-Back,27,13/14,13/14,€12M,12000000.0
+arrival,45,662261,Rafa Marín,Centre-Back,22,24/25,24/25,€12M,12000000.0
+arrival,46,126711,Kévin Malcuit,Right-Back,27,18/19,18/19,€12M,12000000.0
+arrival,47,159337,Roberto Inglese,Centre-Forward,25,17/18,17/18,€12M,12000000.0
+arrival,48,400485,Adam Ounas,Right Winger,20,17/18,17/18,€12M,12000000.0
+arrival,49,126422,Allan,Defensive Midfield,24,15/16,15/16,€12M,12000000.0
+arrival,50,468066,Jens Cajuste,Defensive Midfield,24,23/24,23/24,€12M,12000000.0
+arrival,51,33218,Luca Cigarini,Defensive Midfield,23,09/10,09/10,€11M,11000000.0
+arrival,52,82070,Diego Demme,Defensive Midfield,28,19/20,19/20,€10M,10000000.0
+arrival,53,111347,Lorenzo Tonelli,Centre-Back,26,16/17,16/17,€10M,10000000.0
+arrival,54,814446,Luca Marianucci,Centre-Back,20,25/26,25/26,€9.9M,9900000.0
+arrival,55,169880,Giovanni Di Lorenzo,Right-Back,25,19/20,19/20,€9.8M,9800000.0
+arrival,56,102017,Jorginho,Defensive Midfield,22,13/14,13/14,€9.5M,9500000.0
+arrival,57,61253,José Callejón,Right Winger,26,13/14,13/14,€9.5M,9500000.0
+arrival,58,735568,Natan,Centre-Back,22,23/24,23/24,€9.5M,9500000.0
+arrival,59,56416,Dries Mertens,Second Striker,26,13/14,13/14,€9.5M,9500000.0
+arrival,60,572265,Lorenzo Lucca,Centre-Forward,24,25/26,25/26,Loan fee:€9.0M,9000000.0
+arrival,61,9967,Blerim Dzemaili,Central Midfield,25,11/12,11/12,€9.0M,9000000.0
+arrival,62,76799,Miguel Britos,Centre-Back,25,11/12,11/12,€9.0M,9000000.0
+arrival,63,62920,Víctor Ruiz,Centre-Back,21,10/11,10/11,€8.5M,8500000.0
+arrival,64,37941,Camilo Zúñiga,Left Midfield,23,09/10,09/10,€8.5M,8500000.0
+arrival,65,21151,Christian Maggio,Right-Back,26,08/09,08/09,€8.0M,8000000.0
+arrival,66,21905,Valon Behrami,Central Midfield,27,12/13,12/13,€8.0M,8000000.0
+arrival,67,197473,Alberto Grassi,Defensive Midfield,20,15/16,15/16,€8.0M,8000000.0
+arrival,68,93128,Kalidou Koulibaly,Centre-Back,23,14/15,14/15,€7.8M,7800000.0
+arrival,69,151825,Daniel Fonseca,Centre-Forward,22,92/93,92/93,€7.8M,7800000.0
+arrival,70,30873,Germán Denis,Centre-Forward,26,08/09,08/09,€7.5M,7500000.0
+arrival,71,12563,Goran Pandev,Second Striker,28,12/13,12/13,€7.5M,7500000.0
+arrival,72,73794,Duván Zapata,Centre-Forward,22,13/14,13/14,€7.5M,7500000.0
+arrival,73,3416,Claudio Husaín,Defensive Midfield,25,00/01,00/01,€7.4M,7400000.0
+arrival,74,3896,David Sesa,Second Striker,26,00/01,00/01,€7.3M,7300000.0
+arrival,75,123261,Vlad Chiricheș,Defensive Midfield,25,15/16,15/16,€7.0M,7000000.0
+arrival,76,21782,Hugo Campagnaro,Centre-Back,29,09/10,09/10,€7.0M,7000000.0
+arrival,77,21690,Daniele Mannini,Right Midfield,24,07/08,07/08,€7.0M,7000000.0
+arrival,78,8024,Diego Maradona,Attacking Midfield,23,84/85,84/85,€7.0M,7000000.0
+arrival,79,30759,Jesús Dátolo,Left Midfield,24,08/09,08/09,€6.5M,6500000.0
+arrival,80,17407,José Luís Vidigal,Defensive Midfield,27,00/01,00/01,€6.5M,6500000.0
+arrival,81,610442,Rasmus Højlund,Centre-Forward,22,25/26,25/26,Loan fee:€6.0M,6000000.0
+arrival,82,257474,Vanja Milinković-Savić,Goalkeeper,29,26/27,26/27,€6.0M,6000000.0
+arrival,83,31067,Jonathan de Guzmán,Central Midfield,26,14/15,14/15,€6.0M,6000000.0
+arrival,84,3389,Benny Carbone,Second Striker,22,94/95,94/95,€6.0M,6000000.0
+arrival,85,87884,Mário Rui,Left-Back,26,17/18,17/18,€5.8M,5800000.0
+arrival,86,50570,Ezequiel Lavezzi,Second Striker,22,07/08,07/08,€5.6M,5600000.0
+arrival,87,84903,Mirko Valdifiori,Defensive Midfield,29,15/16,15/16,€5.5M,5500000.0
+arrival,88,367284,Leo Østigård,Centre-Back,22,22/23,22/23,€5.5M,5500000.0
+arrival,89,21988,Leandro Rinaudo,Centre-Back,25,08/09,08/09,€5.5M,5500000.0
+arrival,90,56817,Fabiano Santacroce,Centre-Back,21,07/08,07/08,€5.5M,5500000.0
+arrival,91,38593,Marek Hamsik,Central Midfield,19,07/08,07/08,€5.5M,5500000.0
+arrival,92,129444,David López,Centre-Back,24,14/15,14/15,€5.3M,5300000.0
+arrival,93,116682,Salvatore Bagni,Central Midfield,27,84/85,84/85,€5.3M,5300000.0
+arrival,94,6090,Manuele Blasi,Central Midfield,26,07/08,07/08,€5.1M,5100000.0
+arrival,95,405885,Giacomo Raspadori,Second Striker,22,22/23,22/23,Loan fee:€5.0M,5000000.0
+arrival,96,48280,Edinson Cavani,Centre-Forward,23,10/11,10/11,Loan fee:€5.0M,5000000.0
+arrival,97,124715,Nikola Maksimović,Centre-Back,24,16/17,16/17,Loan fee:€5.0M,5000000.0
+arrival,98,200056,Elseid Hysaj,Right-Back,21,15/16,15/16,€5.0M,5000000.0
+arrival,99,103916,Rafael Cabral,Goalkeeper,23,13/14,13/14,€5.0M,5000000.0
+arrival,100,126656,Faouzi Ghoulam,Left-Back,22,13/14,13/14,€5.0M,5000000.0
+arrival,101,25785,Erwin Hoffer,Centre-Forward,22,09/10,09/10,€5.0M,5000000.0
+arrival,102,4150,Nicola Amoruso,Centre-Forward,25,00/01,00/01,€5.0M,5000000.0
+arrival,103,3758,Caio Ribeiro,Centre-Forward,20,96/97,96/97,€5.0M,5000000.0
+arrival,104,17130,Michele Pazienza,Defensive Midfield,25,07/08,07/08,€4.3M,4300000.0
+arrival,105,73786,Pablo Armero,Left Midfield,26,13/14,13/14,€4.0M,4000000.0
+arrival,106,52513,Henrique,Centre-Back,27,13/14,13/14,€4.0M,4000000.0
+arrival,107,16846,Cristian Bucchi,Centre-Forward,29,06/07,06/07,€4.0M,4000000.0
+arrival,108,525287,Carlos Vinícius,Centre-Forward,23,18/19,18/19,€4.0M,4000000.0
+arrival,109,22268,Emanuele Calaiò,Centre-Forward,23,04/05,04/05,€4.0M,4000000.0
+arrival,110,108638,Francesco Moriero,Right Winger,31,00/01,00/01,€4.0M,4000000.0
+arrival,111,6296,Fabio Rossitto,Central Midfield,25,97/98,97/98,€4.0M,4000000.0
+arrival,112,120377,Massimo Crippa,Central Midfield,23,88/89,88/89,€3.9M,3900000.0
+arrival,113,30870,José Luis Calderón,Centre-Forward,26,97/98,97/98,€3.9M,3900000.0
+arrival,114,87884,Mário Rui,Left-Back,26,17/18,17/18,Loan fee:€3.8M,3800000.0
+arrival,115,21863,Andrea Dossena,Left Midfield,28,09/10,09/10,€3.8M,3800000.0
+arrival,116,180552,Andrea Silenzi,Centre-Forward,24,90/91,90/91,€3.6M,3600000.0
+arrival,117,830365,Alisson Santos,Left Winger,23,25/26,25/26,Loan fee:€3.5M,3500000.0
+arrival,118,73396,David Ospina,Goalkeeper,30,19/20,19/20,€3.5M,3500000.0
+arrival,119,222760,Roberto Policano,Left-Back,28,92/93,92/93,€3.5M,3500000.0
+arrival,120,73097,Omar El Kaddouri,Attacking Midfield,22,12/13,12/13,€3.4M,3400000.0
+arrival,121,26727,Nicolás Navarro,Goalkeeper,22,07/08,07/08,€3.4M,3400000.0
+arrival,122,85475,Federico Fernández,Centre-Back,22,11/12,11/12,€3.3M,3300000.0
+arrival,123,52266,Walter Gargano,Defensive Midfield,23,07/08,07/08,€3.2M,3200000.0
+arrival,124,25318,Matteo Contini,Centre-Back,27,07/08,07/08,€3.2M,3200000.0
+arrival,125,7565,Roberto Ayala,Centre-Back,22,95/96,95/96,€3.2M,3200000.0
+arrival,126,282388,Giovanni Simeone,Centre-Forward,27,22/23,22/23,Loan fee:€3.1M,3100000.0
+arrival,127,463603,Benoît Badiashile,Centre-Back,25,26/27,26/27,Loan fee:€3.0M,3000000.0
+arrival,128,521407,Walid Cheddira,Centre-Forward,25,23/24,23/24,€3.0M,3000000.0
+arrival,129,250153,Pasquale Mazzocchi,Right-Back,28,23/24,23/24,€3.0M,3000000.0
+arrival,130,20137,José Sosa,Attacking Midfield,25,10/11,10/11,€3.0M,3000000.0
+arrival,131,147396,Bruno Uvini,Centre-Back,21,12/13,12/13,€3.0M,3000000.0
+arrival,132,6002,Roberto Goretti,Defensive Midfield,21,97/98,97/98,€3.0M,3000000.0
+arrival,133,118252,Giovanni Francini,Left-Back,23,87/88,87/88,€3.0M,3000000.0
+arrival,134,116755,Fernando De Napoli,Central Midfield,22,86/87,86/87,€3.0M,3000000.0
+arrival,135,118253,Luca Fusi,Defensive Midfield,25,88/89,88/89,€3.0M,3000000.0
+arrival,136,6442,Antonio Rosati,Goalkeeper,28,11/12,11/12,€2.9M,2900000.0
+arrival,137,88150,Igor Shalimov,Attacking Midfield,29,98/99,98/99,€2.9M,2900000.0
+arrival,138,3113,Laurent Blanc,Centre-Back,25,91/92,91/92,€2.8M,2800000.0
+arrival,139,6750,Maurizio Domizzi,Centre-Back,26,06/07,06/07,€2.8M,2800000.0
+arrival,140,107356,Damir Stojak,Centre-Forward,22,97/98,97/98,€2.8M,2800000.0
+arrival,141,19182,Salvatore Aronica,Centre-Back,30,08/09,08/09,€2.7M,2700000.0
+arrival,142,65220,Beto,Attacking Midfield,21,96/97,96/97,€2.6M,2600000.0
+arrival,143,154731,Bruno Giordano,Centre-Forward,28,85/86,85/86,€2.6M,2600000.0
+arrival,144,165895,Matteo Politano,Right Winger,26,19/20,19/20,Loan fee:€2.5M,2500000.0
+arrival,145,23194,Roberto De Zerbi,Attacking Midfield,27,06/07,06/07,€2.5M,2500000.0
+arrival,146,14147,Abdelilah Saber,Right-Back,26,00/01,00/01,€2.5M,2500000.0
+arrival,147,5974,Matuzalém,Defensive Midfield,19,99/00,99/00,€2.5M,2500000.0
+arrival,148,21235,Igor Protti,Centre-Forward,29,97/98,97/98,Loan fee:€2.5M,2500000.0
+arrival,149,6979,William Prunier,Centre-Back,29,97/98,97/98,€2.5M,2500000.0
+arrival,150,4148,Alain Boghossian,Central Midfield,23,94/95,94/95,€2.5M,2500000.0
+departure,1,39153,Gonzalo Higuaín,Centre-Forward,28,16/17,16/17,€90M,90000000.0
+departure,2,502670,Khvicha Kvaratskhelia,Left Winger,23,24/25,24/25,€80M,80000000.0
+departure,3,401923,Victor Osimhen,Centre-Forward,26,25/26,25/26,€75M,75000000.0
+departure,4,48280,Edinson Cavani,Centre-Forward,26,13/14,13/14,€65M,65000000.0
+departure,5,102017,Jorginho,Defensive Midfield,26,18/19,18/19,€57M,57000000.0
+departure,6,503482,Min-jae Kim,Centre-Back,26,23/24,23/24,€50M,50000000.0
+departure,7,93128,Kalidou Koulibaly,Centre-Back,31,22/23,22/23,€42M,42000000.0
+departure,8,50570,Ezequiel Lavezzi,Second Striker,27,12/13,12/13,€30M,30000000.0
+departure,9,525299,Miguel Gutiérrez,Left-Back,25,26/27,26/27,€26M,26000000.0
+departure,10,126422,Allan,Defensive Midfield,29,20/21,20/21,€25M,25000000.0
+departure,11,400489,Eljif Elmas,Attacking Midfield,24,23/24,23/24,€24M,24000000.0
+departure,12,350219,Fabián Ruiz,Central Midfield,26,22/23,22/23,€23M,23000000.0
+departure,13,405885,Giacomo Raspadori,Second Striker,25,25/26,25/26,€22M,22000000.0
+departure,14,130360,Simone Verdi,Attacking Midfield,28,20/21,20/21,€22M,22000000.0
+departure,15,159337,Roberto Inglese,Centre-Forward,28,20/21,20/21,€22M,22000000.0
+departure,16,355501,Amadou Diawara,Defensive Midfield,21,19/20,19/20,€21M,21000000.0
+departure,17,38593,Marek Hamsik,Central Midfield,31,18/19,18/19,€20M,20000000.0
+departure,18,73794,Duván Zapata,Centre-Forward,27,18/19,18/19,€19M,19000000.0
+departure,19,112343,Manolo Gabbiadini,Centre-Forward,25,16/17,16/17,€17M,17000000.0
+departure,20,525287,Carlos Vinícius,Centre-Forward,24,19/20,19/20,€17M,17000000.0
+departure,21,316889,Hirving Lozano,Left Winger,28,23/24,23/24,€15M,15000000.0
+departure,22,317482,Marko Rog,Central Midfield,25,20/21,20/21,€15M,15000000.0
+departure,23,151825,Daniel Fonseca,Centre-Forward,24,94/95,94/95,€13M,13000000.0
+departure,24,22328,Fabio Quagliarella,Centre-Forward,28,11/12,11/12,€11M,11000000.0
+departure,25,85475,Federico Fernández,Centre-Back,25,14/15,14/15,€10M,10000000.0
+departure,26,64793,Leonardo Pavoletti,Centre-Forward,28,17/18,17/18,€9.8M,9800000.0
+departure,27,191891,Arkadiusz Milik,Centre-Forward,28,22/23,22/23,€9.7M,9700000.0
+departure,28,199258,Andrea Petagna,Centre-Forward,28,23/24,23/24,€9.7M,9700000.0
+departure,29,123261,Vlad Chiricheș,Defensive Midfield,30,20/21,20/21,€9.5M,9500000.0
+departure,30,735568,Natan,Centre-Back,24,25/26,25/26,€9.0M,9000000.0
+departure,31,197473,Alberto Grassi,Defensive Midfield,25,20/21,20/21,€8.5M,8500000.0
+departure,32,421873,Elia Caprile,Goalkeeper,23,25/26,25/26,€8.2M,8199999.999999999
+departure,33,62920,Víctor Ruiz,Centre-Back,22,11/12,11/12,€8.0M,8000000.0
+departure,34,6296,Fabio Rossitto,Central Midfield,27,99/00,99/00,€7.8M,7800000.0
+departure,35,7565,Roberto Ayala,Centre-Back,25,98/99,98/99,€7.5M,7500000.0
+departure,36,367284,Leo Østigård,Centre-Back,24,24/25,24/25,€7.4M,7400000.0
+departure,37,282388,Giovanni Simeone,Centre-Forward,30,26/27,26/27,€7.2M,7200000.0
+departure,38,19041,Gökhan Inler,Defensive Midfield,31,15/16,15/16,€7.0M,7000000.0
+departure,39,3177,Gianfranco Zola,Second Striker,26,93/94,93/94,€6.8M,6800000.0
+departure,40,5775,Fabio Cannavaro,Centre-Back,21,95/96,95/96,€6.7M,6700000.0
+departure,41,358008,Gianluca Gaetano,Defensive Midfield,25,25/26,25/26,€6.2M,6200000.0
+departure,42,21905,Valon Behrami,Central Midfield,29,14/15,14/15,€6.0M,6000000.0
+departure,43,96341,Romelu Lukaku,Centre-Forward,33,26/27,26/27,€6.0M,6000000.0
+departure,44,89718,Eduardo Vargas,Centre-Forward,25,15/16,15/16,€6.0M,6000000.0
+departure,45,202979,Gennaro Tutino,Centre-Forward,25,22/23,22/23,€5.8M,5800000.0
+departure,46,8024,Diego Maradona,Attacking Midfield,31,92/93,92/93,€5.7M,5700000.0
+departure,47,4150,Nicola Amoruso,Centre-Forward,26,01/02,01/02,€5.5M,5500000.0
+departure,48,5749,Ciro Ferrara,Centre-Back,27,94/95,94/95,€5.2M,5200000.0
+departure,49,16871,Fabio Pecchia,Central Midfield,23,97/98,97/98,€5.2M,5200000.0
+departure,50,16408,Orestis Karnezis,Goalkeeper,35,20/21,20/21,€5.1M,5100000.0
+departure,51,397225,Alessandro Zanoli,Right-Back,25,26/27,26/27,€5.0M,5000000.0
+departure,52,120377,Massimo Crippa,Central Midfield,28,93/94,93/94,€4.7M,4700000.0
+departure,53,99254,Luigi Sepe,Goalkeeper,29,20/21,20/21,€4.6M,4600000.0
+departure,54,3389,Benny Carbone,Second Striker,23,95/96,95/96,€4.6M,4600000.0
+departure,55,22328,Fabio Quagliarella,Centre-Forward,27,10/11,10/11,Loan fee:€4.5M,4500000.0
+departure,56,6750,Maurizio Domizzi,Centre-Back,28,08/09,08/09,€4.5M,4500000.0
+departure,57,33218,Luca Cigarini,Defensive Midfield,27,13/14,13/14,€4.2M,4200000.0
+departure,58,129444,David López,Centre-Back,26,16/17,16/17,€4.0M,4000000.0
+departure,59,15452,Raúl Albiol,Centre-Back,33,19/20,19/20,€4.0M,4000000.0
+departure,60,395436,Luigi Liguori,Right Winger,22,20/21,20/21,€4.0M,4000000.0
+departure,61,21792,Giorgio Lucenti,Right-Back,24,00/01,00/01,€4.0M,4000000.0
+departure,62,65220,Beto,Attacking Midfield,22,97/98,97/98,€4.0M,4000000.0
+departure,63,191891,Arkadiusz Milik,Centre-Forward,26,20/21,20/21,Loan fee:€3.9M,3900000.0
+departure,64,22268,Emanuele Calaiò,Centre-Forward,26,08/09,08/09,€3.6M,3600000.0
+departure,65,120380,Andrea Carnevale,Centre-Forward,29,90/91,90/91,€3.5M,3500000.0
+departure,66,21690,Daniele Mannini,Right Midfield,25,09/10,09/10,€3.5M,3500000.0
+departure,67,3532,Marek Jankulovski,Left-Back,25,02/03,02/03,€3.5M,3500000.0
+departure,68,22212,Stefan Schwoch,Centre-Forward,30,00/01,00/01,€3.5M,3500000.0
+departure,69,152724,Giovanni Bia,Sweeper,25,94/95,94/95,€3.5M,3500000.0
+departure,70,118253,Luca Fusi,Defensive Midfield,27,90/91,90/91,€3.5M,3500000.0
+departure,71,84903,Mirko Valdifiori,Defensive Midfield,30,16/17,16/17,€3.4M,3400000.0
+departure,72,116755,Fernando De Napoli,Central Midfield,28,92/93,92/93,€3.4M,3400000.0
+departure,73,120392,Renato Buso,Right Midfield,26,96/97,96/97,€3.1M,3100000.0
+departure,74,5974,Matuzalém,Defensive Midfield,21,01/02,01/02,€3.1M,3100000.0
+departure,75,159337,Roberto Inglese,Centre-Forward,26,18/19,18/19,Loan fee:€3.0M,3000000.0
+departure,76,6721,Mario Santana,Right Winger,31,13/14,13/14,€3.0M,3000000.0
+departure,77,5770,Alberto Fontana,Goalkeeper,34,01/02,01/02,€3.0M,3000000.0
+departure,78,17558,André Cruz,Centre-Back,28,97/98,97/98,€3.0M,3000000.0
+departure,79,102163,Freddy Rincón,Central Midfield,28,95/96,95/96,€3.0M,3000000.0
+departure,80,180552,Andrea Silenzi,Centre-Forward,26,92/93,92/93,€3.0M,3000000.0
+departure,81,34025,Jonas Thern,Central Midfield,27,94/95,94/95,€2.8M,2800000.0
+departure,82,6806,Giuseppe Taglialatela,Goalkeeper,30,99/00,99/00,€2.6M,2600000.0
+departure,83,199258,Andrea Petagna,Centre-Forward,27,22/23,22/23,Loan fee:€2.5M,2500000.0
+departure,84,400485,Adam Ounas,Right Winger,25,22/23,22/23,€2.5M,2500000.0
+departure,85,104752,Konstantinos Manolas,Centre-Back,30,21/22,21/22,€2.5M,2500000.0
+departure,86,724178,Luis Hasa,Central Midfield,22,26/27,26/27,€2.5M,2500000.0
+departure,87,30759,Jesús Dátolo,Left Midfield,26,10/11,10/11,€2.5M,2500000.0
+departure,88,278531,Sebastiano Luperto,Centre-Back,26,23/24,23/24,€2.5M,2500000.0
+departure,89,2926,György Garics,Right-Back,24,08/09,08/09,€2.5M,2500000.0
+departure,90,521407,Walid Cheddira,Centre-Forward,28,26/27,26/27,€2.5M,2500000.0
+departure,91,513245,Jesper Lindstrøm,Right Winger,24,24/25,24/25,Loan fee:€2.4M,2400000.0
+departure,92,9967,Blerim Dzemaili,Central Midfield,28,14/15,14/15,€2.4M,2400000.0
+departure,93,25318,Matteo Contini,Centre-Back,30,10/11,10/11,€2.3M,2300000.0
+departure,94,400485,Adam Ounas,Right Winger,22,19/20,19/20,Loan fee:€2.2M,2200000.0
+departure,95,20137,José Sosa,Attacking Midfield,26,11/12,11/12,€2.2M,2200000.0
+departure,96,89718,Eduardo Vargas,Centre-Forward,23,12/13,12/13,Loan fee:€2.1M,2100000.0
+departure,97,572265,Lorenzo Lucca,Centre-Forward,25,25/26,25/26,Loan fee:€2.0M,2000000.0
+departure,98,339332,Noa Lang,Left Winger,26,25/26,25/26,Loan fee:€2.0M,2000000.0
+departure,99,30873,Germán Denis,Centre-Forward,28,10/11,10/11,€2.0M,2000000.0
+departure,100,111347,Lorenzo Tonelli,Centre-Back,30,20/21,20/21,€2.0M,2000000.0
+departure,101,433584,Alessio Zerbin,Left Winger,27,26/27,26/27,€2.0M,2000000.0
+departure,102,52513,Henrique,Centre-Back,29,15/16,15/16,€2.0M,2000000.0
+departure,103,158112,Michele Padovano,Centre-Forward,25,92/93,92/93,€2.0M,2000000.0
+departure,104,166879,Alfredo Aglietti,Centre-Forward,26,97/98,97/98,€2.0M,2000000.0
+departure,105,180556,Giuseppe Incocciati,Centre-Forward,27,91/92,91/92,€1.8M,1800000.0
+departure,106,513245,Jesper Lindstrøm,Right Winger,25,25/26,25/26,Loan fee:€1.5M,1500000.0
+departure,107,468066,Jens Cajuste,Defensive Midfield,25,24/25,24/25,Loan fee:€1.5M,1500000.0
+departure,108,73794,Duván Zapata,Centre-Forward,26,17/18,17/18,Loan fee:€1.5M,1500000.0
+departure,109,89718,Eduardo Vargas,Centre-Forward,24,13/14,13/14,Loan fee:€1.5M,1500000.0
+departure,110,52266,Walter Gargano,Defensive Midfield,30,15/16,15/16,€1.5M,1500000.0
+departure,111,200174,Roberto Insigne,Right Winger,25,19/20,19/20,€1.5M,1500000.0
+departure,112,6090,Manuele Blasi,Central Midfield,30,11/12,11/12,€1.5M,1500000.0
+departure,113,168933,Eddy Gnahoré,Defensive Midfield,23,17/18,17/18,€1.5M,1500000.0
+departure,114,89718,Eduardo Vargas,Centre-Forward,24,14/15,14/15,Loan fee:€1.4M,1400000.0
+departure,115,286275,Armando Anastasio,Left-Back,22,19/20,19/20,€1.4M,1400000.0
+departure,116,282388,Giovanni Simeone,Centre-Forward,30,25/26,25/26,Loan fee:€1.4M,1400000.0
+departure,117,317482,Marko Rog,Central Midfield,24,19/20,19/20,Loan fee:€1.3M,1300000.0
+departure,118,165531,Jacopo Dezi,Central Midfield,26,18/19,18/19,€1.3M,1300000.0
+departure,119,52266,Walter Gargano,Defensive Midfield,28,12/13,12/13,Loan fee:€1.3M,1300000.0
+departure,120,15462,Stefano Lombardi,Centre-Back,23,00/01,00/01,€1.3M,1300000.0
+departure,121,180551,Ivan Rizzardi,Left-Back,24,91/92,91/92,€1.3M,1300000.0
+departure,122,216657,Tebaldo Bigliardi,Centre-Back,27,90/91,90/91,€1.3M,1300000.0
+departure,123,468066,Jens Cajuste,Defensive Midfield,25,25/26,25/26,Loan fee:€1.2M,1200000.0
+departure,124,39799,Ivan Strinic,Left-Back,30,17/18,17/18,€1.2M,1200000.0
+departure,125,73097,Omar El Kaddouri,Attacking Midfield,26,16/17,16/17,€1.2M,1200000.0
+departure,126,140559,Raffaele Maiello,Defensive Midfield,26,17/18,17/18,€1.2M,1200000.0
+departure,127,30870,José Luis Calderón,Centre-Forward,27,97/98,97/98,€1.0M,1000000.0
+departure,128,735568,Natan,Centre-Back,23,24/25,24/25,Loan fee:€1.0M,1000000.0
+departure,129,124715,Nikola Maksimović,Centre-Back,26,17/18,17/18,Loan fee:€1.0M,1000000.0
+departure,130,358032,Cyril Ngonge,Right Winger,25,25/26,25/26,Loan fee:€1.0M,1000000.0
+departure,131,358032,Cyril Ngonge,Right Winger,26,26/27,26/27,Loan fee:€1.0M,1000000.0
+departure,132,662261,Rafa Marín,Centre-Back,23,25/26,25/26,Loan fee:€1.0M,1000000.0
+departure,133,377042,Michael Folorunsho,Central Midfield,26,24/25,24/25,Loan fee:€1.0M,1000000.0
+departure,134,936229,Emanuele Rao,Left Winger,20,26/27,26/27,Loan fee:€1.0M,1000000.0
+departure,135,31067,Jonathan de Guzmán,Central Midfield,29,17/18,17/18,€1.0M,1000000.0
+departure,136,21901,Francesco Baldini,Centre-Back,29,03/04,03/04,€1.0M,1000000.0
+departure,137,5858,Paolo Cannavaro,Centre-Back,18,99/00,99/00,€1.0M,1000000.0
+departure,138,224922,Ciro Muro,Attacking Midfield,23,87/88,87/88,€1.0M,1000000.0
+departure,139,56817,Fabiano Santacroce,Centre-Back,25,12/13,12/13,€900K,900000.0
+departure,140,112591,Ramón Díaz,Centre-Forward,23,83/84,83/84,€850K,850000.0
+departure,141,118256,Francesco Romano,Central Midfield,29,89/90,89/90,€800K,800000.0
+departure,142,96167,Amin Younes,Left Winger,27,20/21,20/21,Loan fee:€750K,750000.0
+departure,143,99254,Luigi Sepe,Goalkeeper,24,15/16,15/16,Loan fee:€750K,750000.0
+departure,144,140559,Raffaele Maiello,Defensive Midfield,24,15/16,15/16,Loan fee:€750K,750000.0
+departure,145,21883,Marco Ferrante,Centre-Forward,21,92/93,92/93,€700K,700000.0
+departure,146,21690,Daniele Mannini,Right Midfield,27,11/12,11/12,€650K,650000.0
+departure,147,33624,Angelo Paradiso,Midfielder,22,99/00,99/00,€650K,650000.0
+departure,148,30759,Jesús Dátolo,Left Midfield,25,09/10,09/10,Loan fee:€600K,600000.0
+departure,149,21988,Leandro Rinaudo,Centre-Back,27,10/11,10/11,Loan fee:€600K,600000.0
+departure,150,5836,Francesco Colonnese,Centre-Back,25,97/98,97/98,€505K,505000.0

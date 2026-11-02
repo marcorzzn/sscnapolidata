@@ -1,0 +1,9 @@
+﻿id,from_squadra_id,to_squadra_id,rel_type,effective_date,inherits_legal,inherits_sporting_record,source,confidence,note
+1,267,269,merger,1922-01-01,1,0,manuale,media,
+2,268,269,merger,1922-01-01,1,0,manuale,media,
+3,269,1,rename_new_entity,1926-08-01,1,0,manuale,media,
+4,270,31,merger,1927-07-22,1,0,manuale,media,
+5,271,31,merger,1927-07-22,1,0,manuale,media,
+6,272,31,merger,1927-07-22,1,0,manuale,media,
+7,24,273,rename_new_entity,1928-08-31,1,1,manuale,media,
+8,273,24,rename_new_entity,1945-10-27,1,1,manuale,media,

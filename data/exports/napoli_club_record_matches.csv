@@ -1,0 +1,46 @@
+﻿category,rank,match_date,season,matchday,competition,venue,opponent,attendance,result
+highest_wins,1,1955-10-16,55/56,5,Serie A,H,Pro Patria et Libertate,-,8:1
+highest_wins,2,1950-10-29,50/51,8,Serie A,H,AS Como,-,7:0
+highest_wins,3,1988-10-23,88/89,3,Serie A,H,Pescara Calcio,57.624,8:2
+highest_wins,4,2017-02-04,16/17,23,Serie A,A,Bologna FC 1909,23.297,1:7
+highest_wins,5,1975-04-13,74/75,26,Serie A,H,Ternana Calcio,-,7:1
+highest_wins,6,1952-05-11,51/52,33,Serie A,H,AS Como,-,7:1
+highest_wins,7,2021-01-17,20/21,18,Serie A,H,ACF Fiorentina,-,6:0
+highest_wins,8,2020-09-27,20/21,2,Serie A,H,Genoa CFC,1.000,6:0
+highest_wins,9,2017-09-17,17/18,4,Serie A,H,Benevento Calcio,49.137,6:0
+highest_wins,10,2016-04-19,15/16,34,Serie A,H,Bologna FC 1909,22.533,6:0
+highest_wins,11,1987-10-11,87/88,5,Serie A,H,Pescara Calcio,69.494,6:0
+highest_wins,12,1957-10-06,57/58,5,Serie A,H,AC Verona,-,6:0
+highest_wins,13,1934-12-02,34/35,8,Serie A,H,AC Palermo,-,6:0
+highest_wins,14,1928-10-28,1929,4,DN,H,AC Fiorentina,-,7:2
+highest_wins,15,2024-02-28,23/24,21,Serie A,A,US Sassuolo,17.085,1:6
+highest_defeats,1,1955-10-16,55/56,5,Serie A,H,Pro Patria et Libertate,-,8:1
+highest_defeats,2,1950-10-29,50/51,8,Serie A,H,AS Como,-,7:0
+highest_defeats,3,1988-10-23,88/89,3,Serie A,H,Pescara Calcio,57.624,8:2
+highest_defeats,4,2017-02-04,16/17,23,Serie A,A,Bologna FC 1909,23.297,1:7
+highest_defeats,5,1975-04-13,74/75,26,Serie A,H,Ternana Calcio,-,7:1
+highest_defeats,6,1952-05-11,51/52,33,Serie A,H,AS Como,-,7:1
+highest_defeats,7,2021-01-17,20/21,18,Serie A,H,ACF Fiorentina,-,6:0
+highest_defeats,8,2020-09-27,20/21,2,Serie A,H,Genoa CFC,1.000,6:0
+highest_defeats,9,2017-09-17,17/18,4,Serie A,H,Benevento Calcio,49.137,6:0
+highest_defeats,10,2016-04-19,15/16,34,Serie A,H,Bologna FC 1909,22.533,6:0
+highest_defeats,11,1987-10-11,87/88,5,Serie A,H,Pescara Calcio,69.494,6:0
+highest_defeats,12,1957-10-06,57/58,5,Serie A,H,AC Verona,-,6:0
+highest_defeats,13,1934-12-02,34/35,8,Serie A,H,AC Palermo,-,6:0
+highest_defeats,14,1928-10-28,1929,4,DN,H,AC Fiorentina,-,7:2
+highest_defeats,15,2024-02-28,23/24,21,Serie A,A,US Sassuolo,17.085,1:6
+highest_scoring,1,1955-10-16,55/56,5,Serie A,H,Pro Patria et Libertate,-,8:1
+highest_scoring,2,1950-10-29,50/51,8,Serie A,H,AS Como,-,7:0
+highest_scoring,3,1988-10-23,88/89,3,Serie A,H,Pescara Calcio,57.624,8:2
+highest_scoring,4,2017-02-04,16/17,23,Serie A,A,Bologna FC 1909,23.297,1:7
+highest_scoring,5,1975-04-13,74/75,26,Serie A,H,Ternana Calcio,-,7:1
+highest_scoring,6,1952-05-11,51/52,33,Serie A,H,AS Como,-,7:1
+highest_scoring,7,2021-01-17,20/21,18,Serie A,H,ACF Fiorentina,-,6:0
+highest_scoring,8,2020-09-27,20/21,2,Serie A,H,Genoa CFC,1.000,6:0
+highest_scoring,9,2017-09-17,17/18,4,Serie A,H,Benevento Calcio,49.137,6:0
+highest_scoring,10,2016-04-19,15/16,34,Serie A,H,Bologna FC 1909,22.533,6:0
+highest_scoring,11,1987-10-11,87/88,5,Serie A,H,Pescara Calcio,69.494,6:0
+highest_scoring,12,1957-10-06,57/58,5,Serie A,H,AC Verona,-,6:0
+highest_scoring,13,1934-12-02,34/35,8,Serie A,H,AC Palermo,-,6:0
+highest_scoring,14,1928-10-28,1929,4,DN,H,AC Fiorentina,-,7:2
+highest_scoring,15,2024-02-28,23/24,21,Serie A,A,US Sassuolo,17.085,1:6

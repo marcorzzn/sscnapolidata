@@ -147,7 +147,7 @@ export const ArchitectureAuditSection: React.FC<ArchitectureAuditProps> = ({ lan
       </div>
 
       {/* 6 Architectural Pillars Summary */}
-      <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+      <div className="grid grid-cols-1 md:grid-cols-4 gap-4">
         {[
           {
             num: '01',
@@ -176,6 +176,15 @@ export const ArchitectureAuditSection: React.FC<ArchitectureAuditProps> = ({ lan
             descEn:
               'confidence (alta/media/bassa) decoupled from verificato (0/1). Importers never overwrite verificato=1, logging to conflitti_import.',
           },
+          {
+            num: '04',
+            titleIt: 'Scraper & Delta Update Resiliente',
+            titleEn: 'Resilient Scraper & Delta Update',
+            descIt:
+              'Pipeline idempotente con 46 tabelle relazionali, cache gzip su disco, tassonomia medica UEFA e aggiornamento settimanale delta con run_update.py.',
+            descEn:
+              'Idempotent pipeline with 46 relational tables, disk gzip cache, UEFA injury taxonomy, and periodic delta updater via run_update.py.',
+          },
         ].map((item) => (
           <div
             key={item.num}
@@ -192,6 +201,56 @@ export const ArchitectureAuditSection: React.FC<ArchitectureAuditProps> = ({ lan
             </p>
           </div>
         ))}
+      </div>
+
+      {/* PIPELINE & SCRAPER ARCHITECTURE PANEL */}
+      <div className="p-6 bg-[var(--bg-secondary)] border border-[var(--border-hairline)] space-y-4">
+        <div className="flex flex-wrap items-center justify-between gap-4 border-b border-[var(--border-hairline)] pb-3">
+          <div className="flex items-center gap-2">
+            <ShieldCheck className="w-5 h-5 text-[#01A0E8]" />
+            <h3 className="text-base font-display font-bold">
+              {lang === 'it'
+                ? 'Architettura di Scraping & Aggiornamento Periodico (run_update.py)'
+                : 'Scraper Architecture & Periodic Delta Updates (run_update.py)'}
+            </h3>
+          </div>
+          <span className="text-xs font-mono-tabular text-[#01A0E8] font-bold">
+            python dn.py update --mode delta
+          </span>
+        </div>
+
+        <p className="text-xs text-[var(--text-secondary)] leading-relaxed">
+          {lang === 'it'
+            ? "L'architettura del dataset unificato si basa sull'integrazione di un motore di estrazione dati e aggiornamento periodico da Transfermarkt e fonti ufficiali. L'intero database di 46 tabelle viene gestito in modo atomico, con idempotenza totale su chiavi primarie composite e checkpoint di avanzamento in scrape_progress."
+            : 'The unified dataset architecture integrates an automated periodic extraction and update engine from official and archival sources. The 46-table database is managed atomically with composite PK idempotency and scrape_progress checkpointing.'}
+        </p>
+
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-3 text-xs font-mono-tabular pt-2">
+          <div className="p-3 bg-[var(--bg-primary)] border border-[var(--border-hairline)]">
+            <div className="text-[#01A0E8] font-bold">1. ACID & Idempotenza</div>
+            <div className="text-[11px] text-[var(--text-secondary)] mt-1">
+              INSERT OR REPLACE / INSERT OR IGNORE garantisce 0 duplicati a ogni riesecuzione.
+            </div>
+          </div>
+          <div className="p-3 bg-[var(--bg-primary)] border border-[var(--border-hairline)]">
+            <div className="text-[#01A0E8] font-bold">2. Cache Gzip su Disco</div>
+            <div className="text-[11px] text-[var(--text-secondary)] mt-1">
+              Ogni richiesta di rete viene salvata compressa: riesportazioni istantanee senza toccare il web.
+            </div>
+          </div>
+          <div className="p-3 bg-[var(--bg-primary)] border border-[var(--border-hairline)]">
+            <div className="text-[#01A0E8] font-bold">3. Tassonomia Clinica UEFA</div>
+            <div className="text-[11px] text-[var(--text-secondary)] mt-1">
+              1.530 infortuni categorizzati in lesioni muscolari (flessori, adduttori), ginocchio, caviglia.
+            </div>
+          </div>
+          <div className="p-3 bg-[var(--bg-primary)] border border-[var(--border-hairline)]">
+            <div className="text-[#01A0E8] font-bold">4. Sync Live con il Sito</div>
+            <div className="text-[11px] text-[var(--text-secondary)] mt-1">
+              Ogni run_update.py riesporta immediatamente tutti i JSON in src/data/generated per Vite.
+            </div>
+          </div>
+        </div>
       </div>
 
       {/* Interactive Audit & CLI Simulator */}

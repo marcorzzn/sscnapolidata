@@ -1,0 +1,1386 @@
+[
+  {
+    "id": "3229273",
+    "season": 2019,
+    "match_date": "2019-11-02",
+    "competition": "Serie A",
+    "matchday": "11",
+    "venue": "A",
+    "home_team": "Roma",
+    "away_team": "Napoli",
+    "home_goals": 2,
+    "away_goals": 1,
+    "attendance": 34502,
+    "referee": "Gianluca Rocchi",
+    "system_of_play": "4-4-2 double 6",
+    "events": [
+      {
+        "type": "goal",
+        "min": "3'",
+        "scorer": "Nicolò Zaniolo",
+        "assist": "Leonardo Spinazzola",
+        "desc": "1:0 Nicolò Zaniolo , Left-footed shot, 3. Goal of the Season Assist: Leonardo Spinazzola , Pass, 1. Assist of the Season"
+      },
+      {
+        "type": "goal",
+        "min": "1'",
+        "scorer": "Jordan Veretout",
+        "assist": "Mário Rui",
+        "desc": "2:0 Jordan Veretout , Penalty, 1. Goal of the Season Assist: Handball by Mário Rui"
+      },
+      {
+        "type": "goal",
+        "min": "5'",
+        "scorer": "Arkadiusz Milik",
+        "assist": "Hirving Lozano",
+        "desc": "2:1 Arkadiusz Milik , Left-footed shot, 5. Goal of the Season Assist: Hirving Lozano , Cross, 1. Assist of the Season"
+      },
+      {
+        "type": "card",
+        "min": "1'",
+        "player": "Justin Kluivert",
+        "card": "Yellow card"
+      },
+      {
+        "type": "card",
+        "min": "3'",
+        "player": "Giovanni Di Lorenzo",
+        "card": "Yellow card"
+      },
+      {
+        "type": "card",
+        "min": "2'",
+        "player": "Mário Rui",
+        "card": "Yellow card"
+      },
+      {
+        "type": "card",
+        "min": "1'",
+        "player": "Leonardo Spinazzola",
+        "card": "Yellow card"
+      },
+      {
+        "type": "card",
+        "min": "1'",
+        "player": "Arkadiusz Milik",
+        "card": "Yellow card"
+      },
+      {
+        "type": "card",
+        "min": "1'",
+        "player": "Cengiz Ünder",
+        "card": "Yellow card"
+      },
+      {
+        "type": "card",
+        "min": "",
+        "player": "Mert Çetin",
+        "card": "Second yellow"
+      },
+      {
+        "type": "substitution",
+        "min": "",
+        "sub_in": "Hirving Lozano",
+        "sub_out": "José Callejón",
+        "reason": "Tactical"
+      },
+      {
+        "type": "substitution",
+        "min": "",
+        "sub_in": "Fernando Llorente",
+        "sub_out": "Dries Mertens",
+        "reason": "Tactical"
+      },
+      {
+        "type": "substitution",
+        "min": "",
+        "sub_in": "Diego Perotti",
+        "sub_out": "Justin Kluivert",
+        "reason": "Tactical"
+      },
+      {
+        "type": "substitution",
+        "min": "",
+        "sub_in": "Cengiz Ünder",
+        "sub_out": "Nicolò Zaniolo",
+        "reason": "Tactical"
+      },
+      {
+        "type": "substitution",
+        "min": "",
+        "sub_in": "Amin Younes",
+        "sub_out": "Lorenzo Insigne",
+        "reason": "Tactical"
+      },
+      {
+        "type": "substitution",
+        "min": "",
+        "sub_in": "Davide Santon",
+        "sub_out": "Javier Pastore",
+        "reason": "Tactical"
+      }
+    ],
+    "scorers": "Nicolò Zaniolo 3', Jordan Veretout 1', Arkadiusz Milik 5'",
+    "notes": "Assetto: 4-4-2 double 6",
+    "ricorrenza_it": "2 Novembre 2019: Roma 2-1 Napoli (Serie A)",
+    "ricorrenza_en": "2 November 2019: Roma 2-1 Napoli (Serie A)"
+  },
+  {
+    "id": "3081137",
+    "season": 2018,
+    "match_date": "2018-11-02",
+    "competition": "Serie A",
+    "matchday": "11",
+    "venue": "H",
+    "home_team": "Napoli",
+    "away_team": "FC Empoli",
+    "home_goals": 5,
+    "away_goals": 1,
+    "attendance": 31370,
+    "referee": "Luca Pairetto",
+    "system_of_play": "4-4-2 double 6",
+    "events": [
+      {
+        "type": "goal",
+        "min": "7'",
+        "scorer": "Lorenzo Insigne",
+        "assist": "Kalidou Koulibaly",
+        "desc": "1:0 Lorenzo Insigne , Left-footed shot, 7. Goal of the Season Assist: Kalidou Koulibaly , Pass, 1. Assist of the Season"
+      },
+      {
+        "type": "goal",
+        "min": "5'",
+        "scorer": "Dries Mertens",
+        "assist": "Lorenzo Insigne",
+        "desc": "2:0 Dries Mertens , Right-footed shot, 5. Goal of the Season Assist: Lorenzo Insigne , Pass, 2. Assist of the Season"
+      },
+      {
+        "type": "goal",
+        "min": "5'",
+        "scorer": "Francesco Caputo",
+        "assist": "Rade Krunic",
+        "desc": "2:1 Francesco Caputo , Right-footed shot, 5. Goal of the Season Assist: Rade Krunic , Pass, 1. Assist of the Season"
+      },
+      {
+        "type": "goal",
+        "min": "6'",
+        "scorer": "Dries Mertens",
+        "assist": "José Callejón",
+        "desc": "3:1 Dries Mertens , Right-footed shot, 6. Goal of the Season Assist: José Callejón , Pass, 5. Assist of the Season"
+      },
+      {
+        "type": "goal",
+        "min": "4'",
+        "scorer": "Arkadiusz Milik",
+        "assist": "Dries Mertens",
+        "desc": "4:1 Arkadiusz Milik , Left-footed shot, 4. Goal of the Season Assist: Dries Mertens , Cross, 3. Assist of the Season"
+      },
+      {
+        "type": "goal",
+        "min": "7'",
+        "scorer": "Dries Mertens",
+        "assist": "Lorenzo Insigne",
+        "desc": "+3 5:1 Dries Mertens , Right-footed shot, 7. Goal of the Season Assist: Lorenzo Insigne , Pass, 3. Assist of the Season"
+      },
+      {
+        "type": "card",
+        "min": "4'",
+        "player": "Ismaël Bennacer",
+        "card": "Yellow card"
+      },
+      {
+        "type": "card",
+        "min": "3'",
+        "player": "Giovanni Di Lorenzo",
+        "card": "Yellow card"
+      },
+      {
+        "type": "substitution",
+        "min": "",
+        "sub_in": "José Callejón",
+        "sub_out": "Fabián Ruiz",
+        "reason": "Tactical"
+      },
+      {
+        "type": "substitution",
+        "min": "",
+        "sub_in": "Allan",
+        "sub_out": "Marko Rog",
+        "reason": "Tactical"
+      },
+      {
+        "type": "substitution",
+        "min": "",
+        "sub_in": "Miha Zajc",
+        "sub_out": "Afriyie Acquah",
+        "reason": "Tactical"
+      },
+      {
+        "type": "substitution",
+        "min": "",
+        "sub_in": "Manuel Pasqual",
+        "sub_out": "Rade Krunic",
+        "reason": "Tactical"
+      },
+      {
+        "type": "substitution",
+        "min": "",
+        "sub_in": "Antonino La Gumina",
+        "sub_out": "Salih Uçan",
+        "reason": "Tactical"
+      },
+      {
+        "type": "substitution",
+        "min": "",
+        "sub_in": "Arkadiusz Milik",
+        "sub_out": "Piotr Zieliński",
+        "reason": "Unknown"
+      }
+    ],
+    "scorers": "Lorenzo Insigne 7', Dries Mertens 5', Francesco Caputo 5', Dries Mertens 6', Arkadiusz Milik 4', Dries Mertens 7'",
+    "notes": "Grande vittoria con goleada azzurra · Assetto: 4-4-2 double 6",
+    "ricorrenza_it": "2 Novembre 2018: Napoli 5-1 FC Empoli (Serie A)",
+    "ricorrenza_en": "2 November 2018: Napoli 5-1 FC Empoli (Serie A)"
+  },
+  {
+    "id": "2359310",
+    "season": 2013,
+    "match_date": "2013-11-02",
+    "competition": "Serie A",
+    "matchday": "11",
+    "venue": "H",
+    "home_team": "Napoli",
+    "away_team": "Catania",
+    "home_goals": 2,
+    "away_goals": 1,
+    "attendance": 47609,
+    "referee": "Massimiliano Irrati",
+    "system_of_play": "4-2-3-1",
+    "events": [
+      {
+        "type": "goal",
+        "min": "6'",
+        "scorer": "José Callejón",
+        "assist": "Blerim Dzemaili",
+        "desc": "1:0 José Callejón , Left-footed shot, 6. Goal of the Season Assist: Blerim Dzemaili , Pass, 2. Assist of the Season"
+      },
+      {
+        "type": "goal",
+        "min": "6'",
+        "scorer": "Marek Hamsik",
+        "assist": "Lorenzo Insigne",
+        "desc": "2:0 Marek Hamsik , Left-footed shot, 6. Goal of the Season Assist: Lorenzo Insigne , Pass, 5. Assist of the Season"
+      },
+      {
+        "type": "goal",
+        "min": "2'",
+        "scorer": "Lucas Castro",
+        "assist": "Cristiano Biraghi",
+        "desc": "2:1 Lucas Castro , Left-footed shot, 2. Goal of the Season Assist: Cristiano Biraghi , Pass, 1. Assist of the Season"
+      },
+      {
+        "type": "substitution",
+        "min": "",
+        "sub_in": "Bruno Uvini",
+        "sub_out": "Giandomenico Mesto",
+        "reason": "Injury"
+      },
+      {
+        "type": "substitution",
+        "min": "",
+        "sub_in": "Keko Gontán",
+        "sub_out": "Cristiano Biraghi",
+        "reason": "Unknown"
+      },
+      {
+        "type": "substitution",
+        "min": "",
+        "sub_in": "Bruno Petkovic",
+        "sub_out": "Mariano Izco",
+        "reason": "Unknown"
+      },
+      {
+        "type": "substitution",
+        "min": "",
+        "sub_in": "Duván Zapata",
+        "sub_out": "Gonzalo Higuaín",
+        "reason": "Unknown"
+      },
+      {
+        "type": "substitution",
+        "min": "",
+        "sub_in": "Alexis Rolín",
+        "sub_out": "Pablo Álvarez",
+        "reason": "Unknown"
+      },
+      {
+        "type": "substitution",
+        "min": "",
+        "sub_in": "Dries Mertens",
+        "sub_out": "Lorenzo Insigne",
+        "reason": "Unknown"
+      }
+    ],
+    "scorers": "José Callejón 6', Marek Hamsik 6', Lucas Castro 2'",
+    "notes": "Oltre 47,609 tifosi presenti allo stadio · Assetto: 4-2-3-1",
+    "ricorrenza_it": "2 Novembre 2013: Napoli 2-1 Catania (Serie A)",
+    "ricorrenza_en": "2 November 2013: Napoli 2-1 Catania (Serie A)"
+  },
+  {
+    "id": "1141896",
+    "season": 2011,
+    "match_date": "2011-11-02",
+    "competition": "UEFA Champions League",
+    "matchday": "Group A",
+    "venue": "A",
+    "home_team": "Bayern Munich",
+    "away_team": "Napoli",
+    "home_goals": 3,
+    "away_goals": 2,
+    "attendance": 66000,
+    "referee": "Björn Kuipers",
+    "system_of_play": "3-4-2-1",
+    "events": [
+      {
+        "type": "goal",
+        "min": "3'",
+        "scorer": "Mario Gómez",
+        "assist": "Bastian Schweinsteiger",
+        "desc": "1:0 Mario Gómez , Left-footed shot, 3. Tournament Goal Assist: Bastian Schweinsteiger , Pass, 1. Tournament Assist"
+      },
+      {
+        "type": "goal",
+        "min": "4'",
+        "scorer": "Mario Gómez",
+        "assist": "Toni Kroos",
+        "desc": "2:0 Mario Gómez , Right-footed shot, 4. Tournament Goal Assist: Toni Kroos , Cross, 2. Tournament Assist"
+      },
+      {
+        "type": "goal",
+        "min": "5'",
+        "scorer": "Mario Gómez",
+        "assist": "Toni Kroos",
+        "desc": "3:0 Mario Gómez , Tap-in, 5. Tournament Goal Assist: Toni Kroos , Shot on goal, 3. Tournament Assist"
+      },
+      {
+        "type": "goal",
+        "min": "1'",
+        "scorer": "Federico Fernández",
+        "assist": "Ezequiel Lavezzi",
+        "desc": "3:1 Federico Fernández , Header, 1. Tournament Goal Assist: Ezequiel Lavezzi , Free kick, 3. Tournament Assist"
+      },
+      {
+        "type": "goal",
+        "min": "2'",
+        "scorer": "Federico Fernández",
+        "assist": "Gökhan Inler",
+        "desc": "3:2 Federico Fernández , Header, 2. Tournament Goal Assist: Gökhan Inler , Free kick, 1. Tournament Assist"
+      },
+      {
+        "type": "card",
+        "min": "1'",
+        "player": "Blerim Dzemaili",
+        "card": "Yellow card"
+      },
+      {
+        "type": "card",
+        "min": "1'",
+        "player": "Federico Fernández",
+        "card": "Yellow card"
+      },
+      {
+        "type": "card",
+        "min": "1'",
+        "player": "Edinson Cavani",
+        "card": "Yellow card"
+      },
+      {
+        "type": "card",
+        "min": "",
+        "player": "Camilo Zúñiga",
+        "card": "Second yellow"
+      },
+      {
+        "type": "card",
+        "min": "1'",
+        "player": "Jérôme Boateng",
+        "card": "Yellow card"
+      },
+      {
+        "type": "card",
+        "min": "",
+        "player": "Holger Badstuber",
+        "card": "Second yellow"
+      },
+      {
+        "type": "substitution",
+        "min": "",
+        "sub_in": "Andrea Dossena",
+        "sub_out": "Salvatore Aronica",
+        "reason": "Injury"
+      },
+      {
+        "type": "substitution",
+        "min": "",
+        "sub_in": "Anatoliy Tymoshchuk",
+        "sub_out": "Bastian Schweinsteiger",
+        "reason": "Injury"
+      },
+      {
+        "type": "substitution",
+        "min": "",
+        "sub_in": "David Alaba",
+        "sub_out": "Franck Ribéry",
+        "reason": "Tactical"
+      },
+      {
+        "type": "substitution",
+        "min": "",
+        "sub_in": "Goran Pandev",
+        "sub_out": "Blerim Dzemaili",
+        "reason": "Tactical"
+      }
+    ],
+    "scorers": "Mario Gómez 3', Mario Gómez 4', Mario Gómez 5', Federico Fernández 1', Federico Fernández 2'",
+    "notes": "Oltre 66,000 tifosi presenti allo stadio · Assetto: 3-4-2-1",
+    "ricorrenza_it": "2 Novembre 2011: Bayern Munich 3-2 Napoli (UEFA Champions League)",
+    "ricorrenza_en": "2 November 2011: Bayern Munich 3-2 Napoli (UEFA Champions League)"
+  },
+  {
+    "id": "928485",
+    "season": 2008,
+    "match_date": "2008-11-02",
+    "competition": "Serie A",
+    "matchday": "10",
+    "venue": "A",
+    "home_team": "AC Milan",
+    "away_team": "Napoli",
+    "home_goals": 1,
+    "away_goals": 0,
+    "attendance": 54079,
+    "referee": "Gianluca Rocchi",
+    "system_of_play": "3-5-2 flat",
+    "events": [
+      {
+        "type": "goal",
+        "min": "4'",
+        "scorer": "Ronaldinho",
+        "assist": null,
+        "desc": "1:0 Ronaldinho , Direct free kick, 4. Goal of the Season Assist: Without assist"
+      },
+      {
+        "type": "card",
+        "min": "3'",
+        "player": "Massimo Ambrosini",
+        "card": "Yellow card"
+      },
+      {
+        "type": "card",
+        "min": "2'",
+        "player": "Germán Denis",
+        "card": "Yellow card"
+      },
+      {
+        "type": "card",
+        "min": "3'",
+        "player": "Kaká",
+        "card": "Yellow card"
+      },
+      {
+        "type": "card",
+        "min": "",
+        "player": "Christian Maggio",
+        "card": "Yellow card"
+      },
+      {
+        "type": "card",
+        "min": "3'",
+        "player": "Paolo Cannavaro",
+        "card": "Yellow card"
+      },
+      {
+        "type": "substitution",
+        "min": "",
+        "sub_in": "Salvatore Aronica",
+        "sub_out": "Marek Hamsik",
+        "reason": "Unknown"
+      },
+      {
+        "type": "substitution",
+        "min": "",
+        "sub_in": "Michele Pazienza",
+        "sub_out": "Fabiano Santacroce",
+        "reason": "Unknown"
+      },
+      {
+        "type": "substitution",
+        "min": "",
+        "sub_in": "Alexandre Pato",
+        "sub_out": "Massimo Ambrosini",
+        "reason": "Unknown"
+      },
+      {
+        "type": "substitution",
+        "min": "",
+        "sub_in": "Filippo Inzaghi",
+        "sub_out": "Marco Borriello",
+        "reason": "Unknown"
+      },
+      {
+        "type": "substitution",
+        "min": "",
+        "sub_in": "Kakhaber Kaladze",
+        "sub_out": "Giuseppe Favalli",
+        "reason": "Unknown"
+      },
+      {
+        "type": "substitution",
+        "min": "",
+        "sub_in": "Andrea Russotto",
+        "sub_out": "Manuele Blasi",
+        "reason": "Unknown"
+      }
+    ],
+    "scorers": "Ronaldinho 4'",
+    "notes": "Oltre 54,079 tifosi presenti allo stadio · Assetto: 3-5-2 flat",
+    "ricorrenza_it": "2 Novembre 2008: AC Milan 1-0 Napoli (Serie A)",
+    "ricorrenza_en": "2 November 2008: AC Milan 1-0 Napoli (Serie A)"
+  },
+  {
+    "id": "2366262",
+    "season": 2003,
+    "match_date": "2003-11-02",
+    "competition": "Serie B",
+    "matchday": "12",
+    "venue": "A",
+    "home_team": "Cagliari",
+    "away_team": "Napoli",
+    "home_goals": 1,
+    "away_goals": 1,
+    "attendance": 7500,
+    "referee": "Andrea De Marco",
+    "system_of_play": "3-4-2-1",
+    "events": [
+      {
+        "type": "goal",
+        "min": "1'",
+        "scorer": "Rubens Pasino",
+        "assist": "Francesco Montervino",
+        "desc": "0:1 Rubens Pasino , Left-footed shot, 1. Goal of the Season Assist: Francesco Montervino , Pass, 1. Assist of the Season"
+      },
+      {
+        "type": "goal",
+        "min": "3'",
+        "scorer": "Simone Loria",
+        "assist": "Gianfranco Zola",
+        "desc": "1:1 Simone Loria , Header, 3. Goal of the Season Assist: Gianfranco Zola , Corner, 5. Assist of the Season"
+      },
+      {
+        "type": "card",
+        "min": "4'",
+        "player": "Mauro Bonomi",
+        "card": "Yellow card"
+      },
+      {
+        "type": "card",
+        "min": "3'",
+        "player": "Sean Sogliano",
+        "card": "Yellow card"
+      },
+      {
+        "type": "card",
+        "min": "",
+        "player": "Daniele Conti",
+        "card": "Red card"
+      },
+      {
+        "type": "card",
+        "min": "4'",
+        "player": "Simone Loria",
+        "card": "Yellow card"
+      },
+      {
+        "type": "card",
+        "min": "2'",
+        "player": "Massimo Brambilla",
+        "card": "Yellow card"
+      },
+      {
+        "type": "card",
+        "min": "",
+        "player": "François Modesto",
+        "card": "Second yellow"
+      },
+      {
+        "type": "card",
+        "min": "2'",
+        "player": "Rubens Pasino",
+        "card": "Yellow card"
+      },
+      {
+        "type": "substitution",
+        "min": "",
+        "sub_in": "Antonio Floro Flores",
+        "sub_out": "Nicola Zanini",
+        "reason": "Unknown"
+      },
+      {
+        "type": "substitution",
+        "min": "",
+        "sub_in": "Antonio Langella",
+        "sub_out": "Mauro Esposito",
+        "reason": "Unknown"
+      },
+      {
+        "type": "substitution",
+        "min": "",
+        "sub_in": "Massimiliano Vieri",
+        "sub_out": "Davide Dionigi",
+        "reason": "Unknown"
+      },
+      {
+        "type": "substitution",
+        "min": "",
+        "sub_in": "Andrea Capone",
+        "sub_out": "Marcello Albino",
+        "reason": "Unknown"
+      },
+      {
+        "type": "substitution",
+        "min": "",
+        "sub_in": "Fabrizio Cammarata",
+        "sub_out": "Fabio Macellari",
+        "reason": "Unknown"
+      },
+      {
+        "type": "substitution",
+        "min": "",
+        "sub_in": "Fábio César Montezine",
+        "sub_out": "Dario Marcolin",
+        "reason": "Unknown"
+      }
+    ],
+    "scorers": "Rubens Pasino 1', Simone Loria 3'",
+    "notes": "Assetto: 3-4-2-1",
+    "ricorrenza_it": "2 Novembre 2003: Cagliari 1-1 Napoli (Serie B)",
+    "ricorrenza_en": "2 November 2003: Cagliari 1-1 Napoli (Serie B)"
+  },
+  {
+    "id": "2366943",
+    "season": 2002,
+    "match_date": "2002-11-02",
+    "competition": "Serie B",
+    "matchday": "10",
+    "venue": "H",
+    "home_team": "Napoli",
+    "away_team": "AC Siena",
+    "home_goals": 1,
+    "away_goals": 2,
+    "attendance": 18000,
+    "referee": "Diego Preschern",
+    "system_of_play": "4-4-2 double 6",
+    "events": [
+      {
+        "type": "goal",
+        "min": "1'",
+        "scorer": "Davide Dionigi",
+        "assist": null,
+        "desc": "1:0 Davide Dionigi , 1. Goal of the Season Assist:"
+      },
+      {
+        "type": "goal",
+        "min": "1'",
+        "scorer": "Vincenzo Riccio",
+        "assist": null,
+        "desc": "1:1 Vincenzo Riccio , 1. Goal of the Season Assist:"
+      },
+      {
+        "type": "goal",
+        "min": "1'",
+        "scorer": "Raffaele Rubino",
+        "assist": null,
+        "desc": "+1 1:2 Raffaele Rubino , 1. Goal of the Season Assist:"
+      },
+      {
+        "type": "card",
+        "min": "1'",
+        "player": "Claudio Ferrarese",
+        "card": "Yellow card"
+      },
+      {
+        "type": "card",
+        "min": "2'",
+        "player": "Fábio César Montezine",
+        "card": "Yellow card"
+      },
+      {
+        "type": "card",
+        "min": "2'",
+        "player": "Simone Tiribocchi",
+        "card": "Yellow card"
+      },
+      {
+        "type": "card",
+        "min": "2'",
+        "player": "Vincenzo Riccio",
+        "card": "Yellow card"
+      },
+      {
+        "type": "substitution",
+        "min": "",
+        "sub_in": "Antonio Floro Flores",
+        "sub_out": "Roberto Stellone",
+        "reason": "Unknown"
+      },
+      {
+        "type": "substitution",
+        "min": "",
+        "sub_in": "Raffaele Rubino",
+        "sub_out": "Christian Scalzo",
+        "reason": "Unknown"
+      },
+      {
+        "type": "substitution",
+        "min": "",
+        "sub_in": "Luigi Martinelli",
+        "sub_out": "Francesco Carbone",
+        "reason": "Unknown"
+      },
+      {
+        "type": "substitution",
+        "min": "",
+        "sub_in": "Claudio Ferrarese",
+        "sub_out": "Fábio César Montezine",
+        "reason": "Unknown"
+      },
+      {
+        "type": "substitution",
+        "min": "",
+        "sub_in": "David Sesa",
+        "sub_out": "Davide Dionigi",
+        "reason": "Unknown"
+      },
+      {
+        "type": "substitution",
+        "min": "",
+        "sub_in": "Andrea Ardito",
+        "sub_out": "André Pinga",
+        "reason": "Unknown"
+      }
+    ],
+    "scorers": "Davide Dionigi 1', Vincenzo Riccio 1', Raffaele Rubino 1'",
+    "notes": "Assetto: 4-4-2 double 6",
+    "ricorrenza_it": "2 Novembre 2002: Napoli 1-2 AC Siena (Serie B)",
+    "ricorrenza_en": "2 November 2002: Napoli 1-2 AC Siena (Serie B)"
+  },
+  {
+    "id": "2214579",
+    "season": 1997,
+    "match_date": "1997-11-02",
+    "competition": "Serie A",
+    "matchday": "7",
+    "venue": "A",
+    "home_team": "Bologna",
+    "away_team": "Napoli",
+    "home_goals": 5,
+    "away_goals": 1,
+    "attendance": 31186,
+    "referee": "Pasquale Rodomonti",
+    "system_of_play": "3-5-2 flat",
+    "events": [
+      {
+        "type": "goal",
+        "min": "1'",
+        "scorer": "Roberto Goretti",
+        "assist": "Claudio Bellucci",
+        "desc": "0:1 Roberto Goretti , Right-footed shot, 1. Goal of the Season Assist: Claudio Bellucci , Shot on goal, 1. Assist of the Season"
+      },
+      {
+        "type": "goal",
+        "min": "4'",
+        "scorer": "Roberto Baggio",
+        "assist": null,
+        "desc": "1:1 Roberto Baggio , Penalty, 4. Goal of the Season"
+      },
+      {
+        "type": "goal",
+        "min": "2'",
+        "scorer": "Kennet Andersson",
+        "assist": "Davide Fontolan",
+        "desc": "2:1 Kennet Andersson , Header, 2. Goal of the Season Assist: Davide Fontolan , Header, 1. Assist of the Season"
+      },
+      {
+        "type": "goal",
+        "min": "5'",
+        "scorer": "Roberto Baggio",
+        "assist": "Kennet Andersson",
+        "desc": "3:1 Roberto Baggio , Right-footed shot, 5. Goal of the Season Assist: Kennet Andersson , Pass, 1. Assist of the Season"
+      },
+      {
+        "type": "goal",
+        "min": "3'",
+        "scorer": "Kennet Andersson",
+        "assist": "Roberto Baggio",
+        "desc": "+3 4:1 Kennet Andersson , Right-footed shot, 3. Goal of the Season Assist: Roberto Baggio , Pass, 1. Assist of the Season"
+      },
+      {
+        "type": "goal",
+        "min": "6'",
+        "scorer": "Roberto Baggio",
+        "assist": null,
+        "desc": "+5 5:1 Roberto Baggio , Penalty, 6. Goal of the Season"
+      },
+      {
+        "type": "card",
+        "min": "1'",
+        "player": "Daniele Carnasciali",
+        "card": "Yellow card"
+      },
+      {
+        "type": "card",
+        "min": "3'",
+        "player": "Amedeo Mangone",
+        "card": "Yellow card"
+      },
+      {
+        "type": "card",
+        "min": "3'",
+        "player": "Oscar Magoni",
+        "card": "Yellow card"
+      },
+      {
+        "type": "card",
+        "min": "3'",
+        "player": "Roberto Goretti",
+        "card": "Yellow card"
+      },
+      {
+        "type": "card",
+        "min": "1'",
+        "player": "Claudio Bellucci",
+        "card": "Yellow card"
+      },
+      {
+        "type": "card",
+        "min": "",
+        "player": "Marco Zamboni",
+        "card": "Red card"
+      },
+      {
+        "type": "substitution",
+        "min": "",
+        "sub_in": "Davide Fontolan",
+        "sub_out": "Oscar Magoni",
+        "reason": "Unknown"
+      },
+      {
+        "type": "substitution",
+        "min": "",
+        "sub_in": "Raffaele Di Fusco",
+        "sub_out": "Giuseppe Taglialatela",
+        "reason": "Unknown"
+      },
+      {
+        "type": "substitution",
+        "min": "",
+        "sub_in": "Luigi Panarelli",
+        "sub_out": "Mirko Conte",
+        "reason": "Unknown"
+      },
+      {
+        "type": "substitution",
+        "min": "",
+        "sub_in": "Raffaele Longo",
+        "sub_out": "Giuseppe Giannini",
+        "reason": "Unknown"
+      },
+      {
+        "type": "substitution",
+        "min": "",
+        "sub_in": "Giuliano Gentilini",
+        "sub_out": "Giancarlo Marocchi",
+        "reason": "Unknown"
+      }
+    ],
+    "scorers": "Roberto Goretti 1', Roberto Baggio 4', Kennet Andersson 2', Roberto Baggio 5', Kennet Andersson 3', Roberto Baggio 6'",
+    "notes": "Assetto: 3-5-2 flat",
+    "ricorrenza_it": "2 Novembre 1997: Bologna 5-1 Napoli (Serie A)",
+    "ricorrenza_en": "2 November 1997: Bologna 5-1 Napoli (Serie A)"
+  },
+  {
+    "id": "1169728",
+    "season": 1994,
+    "match_date": "1994-11-02",
+    "competition": "UEFA-Cup (- 2009)",
+    "matchday": "Second Round 2nd leg",
+    "venue": "H",
+    "home_team": "Napoli",
+    "away_team": "Boavista",
+    "home_goals": 2,
+    "away_goals": 1,
+    "attendance": 27656,
+    "referee": "Urs Meier",
+    "system_of_play": null,
+    "events": [
+      {
+        "type": "goal",
+        "min": "1'",
+        "scorer": "Massimo Agostini",
+        "assist": "Benny Carbone",
+        "desc": "1:0 Massimo Agostini , Right-footed shot, 1. Tournament Goal Assist: Benny Carbone , Pass, 1. Tournament Assist"
+      },
+      {
+        "type": "goal",
+        "min": "2'",
+        "scorer": "Massimo Agostini",
+        "assist": "Renato Buso",
+        "desc": "2:0 Massimo Agostini , Right-footed shot, 2. Tournament Goal Assist: Renato Buso , Cross, 2. Tournament Assist"
+      },
+      {
+        "type": "goal",
+        "min": "1'",
+        "scorer": "Luciano",
+        "assist": null,
+        "desc": "2:1 Luciano , 1. Tournament Goal"
+      },
+      {
+        "type": "substitution",
+        "min": "",
+        "sub_in": "Gabriele Grossi",
+        "sub_out": "Massimo Tarantino",
+        "reason": "Unknown"
+      },
+      {
+        "type": "substitution",
+        "min": "",
+        "sub_in": "Nuno Gomes",
+        "sub_out": "Martelinho",
+        "reason": "Unknown"
+      },
+      {
+        "type": "substitution",
+        "min": "",
+        "sub_in": "Eugenio Corini",
+        "sub_out": "Freddy Rincón",
+        "reason": "Unknown"
+      }
+    ],
+    "scorers": "Massimo Agostini 1', Massimo Agostini 2', Luciano 1'",
+    "notes": null,
+    "ricorrenza_it": "2 Novembre 1994: Napoli 2-1 Boavista (UEFA-Cup (- 2009))",
+    "ricorrenza_en": "2 November 1994: Napoli 2-1 Boavista (UEFA-Cup (- 2009))"
+  },
+  {
+    "id": "2287037",
+    "season": 1986,
+    "match_date": "1986-11-02",
+    "competition": "Serie A",
+    "matchday": "8",
+    "venue": "H",
+    "home_team": "Napoli",
+    "away_team": "Inter",
+    "home_goals": 0,
+    "away_goals": 0,
+    "attendance": null,
+    "referee": "Claudio Pieri",
+    "system_of_play": null,
+    "events": [
+      {
+        "type": "substitution",
+        "min": "",
+        "sub_in": "Luciano Sola",
+        "sub_out": "Giuseppe Bruscolotti",
+        "reason": "Unknown"
+      },
+      {
+        "type": "substitution",
+        "min": "",
+        "sub_in": "Marco Tardelli",
+        "sub_out": "Karl-Heinz Rummenigge",
+        "reason": "Unknown"
+      }
+    ],
+    "scorers": "",
+    "notes": null,
+    "ricorrenza_it": "2 Novembre 1986: Napoli 0-0 Inter (Serie A)",
+    "ricorrenza_en": "2 November 1986: Napoli 0-0 Inter (Serie A)"
+  },
+  {
+    "id": "2379896",
+    "season": 1975,
+    "match_date": "1975-11-02",
+    "competition": "Serie A",
+    "matchday": "4",
+    "venue": "A",
+    "home_team": "Hellas Verona",
+    "away_team": "Napoli",
+    "home_goals": 2,
+    "away_goals": 4,
+    "attendance": 72381,
+    "referee": "Gino Menicucci",
+    "system_of_play": null,
+    "events": [
+      {
+        "type": "goal",
+        "min": "1'",
+        "scorer": "Livio Luppi",
+        "assist": null,
+        "desc": "1:0 Livio Luppi , Penalty, 1. Goal of the Season"
+      },
+      {
+        "type": "goal",
+        "min": "1'",
+        "scorer": "Antonio Juliano",
+        "assist": null,
+        "desc": "1:1 Antonio Juliano , 1. Goal of the Season"
+      },
+      {
+        "type": "goal",
+        "min": "1'",
+        "scorer": "Antonio La Palma",
+        "assist": null,
+        "desc": "1:2 Antonio La Palma , 1. Goal of the Season"
+      },
+      {
+        "type": "goal",
+        "min": "2'",
+        "scorer": "Giorgio Braglia",
+        "assist": null,
+        "desc": "1:3 Giorgio Braglia , 2. Goal of the Season"
+      },
+      {
+        "type": "goal",
+        "min": "2'",
+        "scorer": "Adelio Moro",
+        "assist": null,
+        "desc": "2:3 Adelio Moro , 2. Goal of the Season"
+      },
+      {
+        "type": "goal",
+        "min": "3'",
+        "scorer": "Giuseppe Savoldi",
+        "assist": null,
+        "desc": "2:4 Giuseppe Savoldi , 3. Goal of the Season"
+      },
+      {
+        "type": "substitution",
+        "min": "",
+        "sub_in": "Emiliano Macchi",
+        "sub_out": "Gianfranco Zigoni",
+        "reason": "Unknown"
+      },
+      {
+        "type": "substitution",
+        "min": "",
+        "sub_in": "Luigi Punziano",
+        "sub_out": "Giuseppe Massa",
+        "reason": "Unknown"
+      }
+    ],
+    "scorers": "Livio Luppi 1', Antonio Juliano 1', Antonio La Palma 1', Giorgio Braglia 2', Adelio Moro 2', Giuseppe Savoldi 3'",
+    "notes": "Oltre 72,381 tifosi presenti allo stadio · Grande vittoria con goleada azzurra",
+    "ricorrenza_it": "2 Novembre 1975: Hellas Verona 2-4 Napoli (Serie A)",
+    "ricorrenza_en": "2 November 1975: Hellas Verona 2-4 Napoli (Serie A)"
+  },
+  {
+    "id": "3316584",
+    "season": 1966,
+    "match_date": "1966-11-02",
+    "competition": "Inter-Cities Fairs Cup (-1971)",
+    "matchday": "Second Round 2nd leg",
+    "venue": "H",
+    "home_team": "Napoli",
+    "away_team": "B1909 Odense",
+    "home_goals": 2,
+    "away_goals": 1,
+    "attendance": 25000,
+    "referee": "Kurt Tschenscher",
+    "system_of_play": null,
+    "events": [
+      {
+        "type": "goal",
+        "min": "2'",
+        "scorer": "Mogens Haastrup",
+        "assist": null,
+        "desc": "0:1 Mogens Haastrup , 2. Tournament Goal"
+      },
+      {
+        "type": "goal",
+        "min": "1'",
+        "scorer": "Paolo Braca",
+        "assist": null,
+        "desc": "1:1 Paolo Braca , 1. Tournament Goal"
+      },
+      {
+        "type": "goal",
+        "min": "2'",
+        "scorer": "José Altafini",
+        "assist": null,
+        "desc": "2:1 José Altafini , 2. Tournament Goal"
+      },
+      {
+        "type": "substitution",
+        "min": "",
+        "sub_in": "Svend Aage Rask",
+        "sub_out": "Erik Bertelsen",
+        "reason": "Unknown"
+      },
+      {
+        "type": "substitution",
+        "min": "",
+        "sub_in": "Claudio Bandoni",
+        "sub_out": "Pacifico Cuman",
+        "reason": "Unknown"
+      }
+    ],
+    "scorers": "Mogens Haastrup 2', Paolo Braca 1', José Altafini 2'",
+    "notes": null,
+    "ricorrenza_it": "2 Novembre 1966: Napoli 2-1 B1909 Odense (Inter-Cities Fairs Cup (-1971))",
+    "ricorrenza_en": "2 November 1966: Napoli 2-1 B1909 Odense (Inter-Cities Fairs Cup (-1971))"
+  },
+  {
+    "id": "2393297",
+    "season": 1958,
+    "match_date": "1958-11-02",
+    "competition": "Serie A",
+    "matchday": "7",
+    "venue": "H",
+    "home_team": "Napoli",
+    "away_team": "Padova",
+    "home_goals": 2,
+    "away_goals": 1,
+    "attendance": null,
+    "referee": "Giulio Campanati",
+    "system_of_play": null,
+    "events": [
+      {
+        "type": "goal",
+        "min": "1'",
+        "scorer": "Rodolfo Beltrandi",
+        "assist": null,
+        "desc": "1:0 Rodolfo Beltrandi , 1. Goal of the Season"
+      },
+      {
+        "type": "goal",
+        "min": "1'",
+        "scorer": "Luís Vinício",
+        "assist": null,
+        "desc": "2:0 Luís Vinício , 1. Goal of the Season"
+      },
+      {
+        "type": "goal",
+        "min": "4'",
+        "scorer": "Amos Mariani",
+        "assist": null,
+        "desc": "2:1 Amos Mariani , 4. Goal of the Season"
+      }
+    ],
+    "scorers": "Rodolfo Beltrandi 1', Luís Vinício 1', Amos Mariani 4'",
+    "notes": null,
+    "ricorrenza_it": "2 Novembre 1958: Napoli 2-1 Padova (Serie A)",
+    "ricorrenza_en": "2 November 1958: Napoli 2-1 Padova (Serie A)"
+  },
+  {
+    "id": "2395417",
+    "season": 1952,
+    "match_date": "1952-11-02",
+    "competition": "Serie A",
+    "matchday": "7",
+    "venue": "A",
+    "home_team": "Fiorentina",
+    "away_team": "Napoli",
+    "home_goals": 2,
+    "away_goals": 1,
+    "attendance": null,
+    "referee": "Luigi Valsecchi",
+    "system_of_play": null,
+    "events": [
+      {
+        "type": "goal",
+        "min": "4'",
+        "scorer": "Amos Mariani",
+        "assist": null,
+        "desc": "1:0 Amos Mariani , 4. Goal of the Season"
+      },
+      {
+        "type": "goal",
+        "min": "3'",
+        "scorer": "Hasse Jeppson",
+        "assist": null,
+        "desc": "1:1 Hasse Jeppson , 3. Goal of the Season"
+      },
+      {
+        "type": "goal",
+        "min": "",
+        "scorer": "Giancarlo Vitali",
+        "assist": null,
+        "desc": "2:1 Giancarlo Vitali , Own-goal"
+      }
+    ],
+    "scorers": "Amos Mariani 4', Hasse Jeppson 3', Giancarlo Vitali",
+    "notes": null,
+    "ricorrenza_it": "2 Novembre 1952: Fiorentina 2-1 Napoli (Serie A)",
+    "ricorrenza_en": "2 November 1952: Fiorentina 2-1 Napoli (Serie A)"
+  },
+  {
+    "id": "2397263",
+    "season": 1947,
+    "match_date": "1947-11-02",
+    "competition": "Serie A",
+    "matchday": "8",
+    "venue": "A",
+    "home_team": "Salernitana",
+    "away_team": "Napoli",
+    "home_goals": 3,
+    "away_goals": 3,
+    "attendance": null,
+    "referee": "Giuseppe Zelocchi",
+    "system_of_play": null,
+    "events": [
+      {
+        "type": "goal",
+        "min": "1'",
+        "scorer": "Carlo Barbieri",
+        "assist": null,
+        "desc": "0:1 Carlo Barbieri , 1. Goal of the Season"
+      },
+      {
+        "type": "goal",
+        "min": "2'",
+        "scorer": "Dante Di Benedetti",
+        "assist": null,
+        "desc": "0:2 Dante Di Benedetti , 2. Goal of the Season"
+      },
+      {
+        "type": "goal",
+        "min": "2'",
+        "scorer": "Elio Onorato",
+        "assist": null,
+        "desc": "1:2 Elio Onorato , 2. Goal of the Season"
+      },
+      {
+        "type": "goal",
+        "min": "1'",
+        "scorer": "Ivo Buzzegoli",
+        "assist": null,
+        "desc": "2:2 Ivo Buzzegoli , Penalty, 1. Goal of the Season"
+      },
+      {
+        "type": "goal",
+        "min": "2'",
+        "scorer": "Sebastiano Vaschetto",
+        "assist": null,
+        "desc": "3:2 Sebastiano Vaschetto , 2. Goal of the Season"
+      },
+      {
+        "type": "goal",
+        "min": "3'",
+        "scorer": "Dante Di Benedetti",
+        "assist": null,
+        "desc": "3:3 Dante Di Benedetti , 3. Goal of the Season"
+      }
+    ],
+    "scorers": "Carlo Barbieri 1', Dante Di Benedetti 2', Elio Onorato 2', Ivo Buzzegoli 1', Sebastiano Vaschetto 2', Dante Di Benedetti 3'",
+    "notes": null,
+    "ricorrenza_it": "2 Novembre 1947: Salernitana 3-3 Napoli (Serie A)",
+    "ricorrenza_en": "2 November 1947: Salernitana 3-3 Napoli (Serie A)"
+  },
+  {
+    "id": "2398652",
+    "season": 1941,
+    "match_date": "1941-11-02",
+    "competition": "Serie A",
+    "matchday": "2",
+    "venue": "H",
+    "home_team": "Napoli",
+    "away_team": "Milan",
+    "home_goals": 2,
+    "away_goals": 1,
+    "attendance": 15000,
+    "referee": "Renzo Curradi",
+    "system_of_play": null,
+    "events": [
+      {
+        "type": "goal",
+        "min": "1'",
+        "scorer": "Bruno Gramaglia",
+        "assist": null,
+        "desc": "1:0 Bruno Gramaglia , 1. Goal of the Season"
+      },
+      {
+        "type": "goal",
+        "min": "1'",
+        "scorer": "Umberto Busani",
+        "assist": null,
+        "desc": "2:0 Umberto Busani , 1. Goal of the Season"
+      },
+      {
+        "type": "goal",
+        "min": "3'",
+        "scorer": "Angelo Bollano",
+        "assist": null,
+        "desc": "2:1 Angelo Bollano , Penalty, 3. Goal of the Season"
+      }
+    ],
+    "scorers": "Bruno Gramaglia 1', Umberto Busani 1', Angelo Bollano 3'",
+    "notes": null,
+    "ricorrenza_it": "2 Novembre 1941: Napoli 2-1 Milan (Serie A)",
+    "ricorrenza_en": "2 November 1941: Napoli 2-1 Milan (Serie A)"
+  },
+  {
+    "id": "2400917",
+    "season": 1930,
+    "match_date": "1930-11-02",
+    "competition": "Serie A",
+    "matchday": "6",
+    "venue": "H",
+    "home_team": "Napoli",
+    "away_team": "Modena",
+    "home_goals": 4,
+    "away_goals": 1,
+    "attendance": null,
+    "referee": "Carlo Dani",
+    "system_of_play": null,
+    "events": [
+      {
+        "type": "goal",
+        "min": "1'",
+        "scorer": "Marcello Mihalic",
+        "assist": null,
+        "desc": "1:0 Marcello Mihalic , 1. Goal of the Season"
+      },
+      {
+        "type": "goal",
+        "min": "2'",
+        "scorer": "Attila Sallustro",
+        "assist": null,
+        "desc": "2:0 Attila Sallustro , 2. Goal of the Season"
+      },
+      {
+        "type": "goal",
+        "min": "2'",
+        "scorer": "Marcello Mihalic",
+        "assist": null,
+        "desc": "3:0 Marcello Mihalic , 2. Goal of the Season"
+      },
+      {
+        "type": "goal",
+        "min": "3'",
+        "scorer": "Attila Sallustro",
+        "assist": null,
+        "desc": "4:0 Attila Sallustro , 3. Goal of the Season"
+      },
+      {
+        "type": "goal",
+        "min": "2'",
+        "scorer": "Angelo Piccaluga",
+        "assist": null,
+        "desc": "4:1 Angelo Piccaluga , 2. Goal of the Season"
+      }
+    ],
+    "scorers": "Marcello Mihalic 1', Attila Sallustro 2', Marcello Mihalic 2', Attila Sallustro 3', Angelo Piccaluga 2'",
+    "notes": "Grande vittoria con goleada azzurra",
+    "ricorrenza_it": "2 Novembre 1930: Napoli 4-1 Modena (Serie A)",
+    "ricorrenza_en": "2 November 1930: Napoli 4-1 Modena (Serie A)"
+  }
+]

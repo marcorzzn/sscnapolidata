@@ -1,0 +1,390 @@
+{
+  "by_category": [
+    {
+      "uefa_category": "Altro/Non specificato",
+      "count": 313,
+      "total_days": 8611,
+      "total_games": 1155
+    },
+    {
+      "uefa_category": "Muscolare: Altro/Coscia",
+      "count": 312,
+      "total_days": 6694,
+      "total_games": 965
+    },
+    {
+      "uefa_category": "Patologia Medica/Covid/Influenza",
+      "count": 156,
+      "total_days": 2045,
+      "total_games": 322
+    },
+    {
+      "uefa_category": "Articolare: Ginocchio",
+      "count": 147,
+      "total_days": 10796,
+      "total_games": 1306
+    },
+    {
+      "uefa_category": "Articolare: Caviglia/Piede",
+      "count": 126,
+      "total_days": 4775,
+      "total_games": 569
+    },
+    {
+      "uefa_category": "Muscolare: Flessori",
+      "count": 112,
+      "total_days": 4178,
+      "total_games": 696
+    },
+    {
+      "uefa_category": "Muscolare: Adduttori/Inguine",
+      "count": 76,
+      "total_days": 2657,
+      "total_games": 353
+    },
+    {
+      "uefa_category": "Muscolare: Polpaccio",
+      "count": 71,
+      "total_days": 1490,
+      "total_games": 221
+    },
+    {
+      "uefa_category": "Contusione/Trauma Diretto",
+      "count": 68,
+      "total_days": 1023,
+      "total_games": 161
+    },
+    {
+      "uefa_category": "Condizionamento/Riposo",
+      "count": 57,
+      "total_days": 642,
+      "total_games": 98
+    },
+    {
+      "uefa_category": "Articolare: Spalla/Braccio",
+      "count": 30,
+      "total_days": 953,
+      "total_games": 152
+    },
+    {
+      "uefa_category": "Trauma Osseo/Frattura",
+      "count": 29,
+      "total_days": 896,
+      "total_games": 120
+    },
+    {
+      "uefa_category": "Rachide/Lombalgia",
+      "count": 28,
+      "total_days": 627,
+      "total_games": 102
+    },
+    {
+      "uefa_category": "Tendinopatia/Tendine",
+      "count": 5,
+      "total_days": 66,
+      "total_games": 10
+    }
+  ],
+  "top_injured_players": [
+    {
+      "player_id": "401530",
+      "injury_count": 15,
+      "total_days": 889,
+      "total_games": 168
+    },
+    {
+      "player_id": "342046",
+      "injury_count": 14,
+      "total_days": 828,
+      "total_games": 126
+    },
+    {
+      "player_id": "238989",
+      "injury_count": 8,
+      "total_days": 809,
+      "total_games": 92
+    },
+    {
+      "player_id": "64793",
+      "injury_count": 15,
+      "total_days": 806,
+      "total_games": 79
+    },
+    {
+      "player_id": "317482",
+      "injury_count": 8,
+      "total_days": 803,
+      "total_games": 112
+    },
+    {
+      "player_id": "168933",
+      "injury_count": 4,
+      "total_days": 710,
+      "total_games": 90
+    },
+    {
+      "player_id": "73794",
+      "injury_count": 15,
+      "total_days": 659,
+      "total_games": 66
+    },
+    {
+      "player_id": "124715",
+      "injury_count": 15,
+      "total_days": 658,
+      "total_games": 89
+    },
+    {
+      "player_id": "463603",
+      "injury_count": 15,
+      "total_days": 649,
+      "total_games": 77
+    },
+    {
+      "player_id": "111347",
+      "injury_count": 14,
+      "total_days": 645,
+      "total_games": 79
+    },
+    {
+      "player_id": "123261",
+      "injury_count": 15,
+      "total_days": 638,
+      "total_games": 96
+    },
+    {
+      "player_id": "33218",
+      "injury_count": 14,
+      "total_days": 606,
+      "total_games": 69
+    },
+    {
+      "player_id": "391065",
+      "injury_count": 12,
+      "total_days": 594,
+      "total_games": 71
+    },
+    {
+      "player_id": "469822",
+      "injury_count": 15,
+      "total_days": 557,
+      "total_games": 68
+    },
+    {
+      "player_id": "73396",
+      "injury_count": 15,
+      "total_days": 550,
+      "total_games": 91
+    },
+    {
+      "player_id": "126711",
+      "injury_count": 15,
+      "total_days": 541,
+      "total_games": 75
+    },
+    {
+      "player_id": "12563",
+      "injury_count": 8,
+      "total_days": 526,
+      "total_games": 33
+    },
+    {
+      "player_id": "73097",
+      "injury_count": 15,
+      "total_days": 505,
+      "total_games": 90
+    },
+    {
+      "player_id": "144143",
+      "injury_count": 15,
+      "total_days": 489,
+      "total_games": 73
+    },
+    {
+      "player_id": "112343",
+      "injury_count": 15,
+      "total_days": 482,
+      "total_games": 70
+    },
+    {
+      "player_id": "386446",
+      "injury_count": 15,
+      "total_days": 477,
+      "total_games": 59
+    },
+    {
+      "player_id": "88755",
+      "injury_count": 15,
+      "total_days": 462,
+      "total_games": 104
+    },
+    {
+      "player_id": "126656",
+      "injury_count": 15,
+      "total_days": 451,
+      "total_games": 63
+    },
+    {
+      "player_id": "6016",
+      "injury_count": 2,
+      "total_days": 448,
+      "total_games": 56
+    },
+    {
+      "player_id": "96341",
+      "injury_count": 15,
+      "total_days": 432,
+      "total_games": 88
+    },
+    {
+      "player_id": "316889",
+      "injury_count": 15,
+      "total_days": 420,
+      "total_games": 51
+    },
+    {
+      "player_id": "12351",
+      "injury_count": 9,
+      "total_days": 417,
+      "total_games": 55
+    },
+    {
+      "player_id": "89718",
+      "injury_count": 13,
+      "total_days": 405,
+      "total_games": 64
+    },
+    {
+      "player_id": "423744",
+      "injury_count": 7,
+      "total_days": 395,
+      "total_games": 62
+    },
+    {
+      "player_id": "339332",
+      "injury_count": 15,
+      "total_days": 394,
+      "total_games": 65
+    },
+    {
+      "player_id": "6234",
+      "injury_count": 15,
+      "total_days": 392,
+      "total_games": 48
+    },
+    {
+      "player_id": "16745",
+      "injury_count": 7,
+      "total_days": 390,
+      "total_games": 47
+    },
+    {
+      "player_id": "513245",
+      "injury_count": 15,
+      "total_days": 389,
+      "total_games": 54
+    },
+    {
+      "player_id": "82070",
+      "injury_count": 15,
+      "total_days": 387,
+      "total_games": 48
+    },
+    {
+      "player_id": "5974",
+      "injury_count": 12,
+      "total_days": 384,
+      "total_games": 41
+    },
+    {
+      "player_id": "703245",
+      "injury_count": 7,
+      "total_days": 382,
+      "total_games": 51
+    },
+    {
+      "player_id": "182618",
+      "injury_count": 11,
+      "total_days": 379,
+      "total_games": 58
+    },
+    {
+      "player_id": "450936",
+      "injury_count": 15,
+      "total_days": 379,
+      "total_games": 47
+    },
+    {
+      "player_id": "31067",
+      "injury_count": 15,
+      "total_days": 372,
+      "total_games": 40
+    },
+    {
+      "player_id": "92880",
+      "injury_count": 6,
+      "total_days": 368,
+      "total_games": 59
+    },
+    {
+      "player_id": "32113",
+      "injury_count": 15,
+      "total_days": 361,
+      "total_games": 51
+    },
+    {
+      "player_id": "354361",
+      "injury_count": 15,
+      "total_days": 351,
+      "total_games": 59
+    },
+    {
+      "player_id": "502670",
+      "injury_count": 15,
+      "total_days": 348,
+      "total_games": 20
+    },
+    {
+      "player_id": "397225",
+      "injury_count": 8,
+      "total_days": 343,
+      "total_games": 36
+    },
+    {
+      "player_id": "877620",
+      "injury_count": 5,
+      "total_days": 338,
+      "total_games": 55
+    },
+    {
+      "player_id": "703240",
+      "injury_count": 5,
+      "total_days": 336,
+      "total_games": 44
+    },
+    {
+      "player_id": "93128",
+      "injury_count": 12,
+      "total_days": 334,
+      "total_games": 57
+    },
+    {
+      "player_id": "199258",
+      "injury_count": 15,
+      "total_days": 329,
+      "total_games": 38
+    },
+    {
+      "player_id": "39799",
+      "injury_count": 11,
+      "total_days": 324,
+      "total_games": 43
+    },
+    {
+      "player_id": "62920",
+      "injury_count": 15,
+      "total_days": 322,
+      "total_games": 53
+    }
+  ]
+}

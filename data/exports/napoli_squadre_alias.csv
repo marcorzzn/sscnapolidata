@@ -1,0 +1,1127 @@
+﻿id,squadra_id,alias,alias_norm,alias_key,alias_type,valid_from,valid_to,source_scope,source,confidence
+1,1,Napoli,napoli,napoli,official,,,,manuale,media
+2,1,SSC Napoli,ssc napoli,napoli,official,,,,manuale,media
+3,1,Associazione Calcio Napoli,associazione calcio napoli,associazione napoli,official,,,,manuale,media
+4,1,AC Napoli,ac napoli,napoli,official,,,,manuale,media
+5,1,Societa Sportiva Calcio Napoli,societa sportiva calcio napoli,societa sportiva napoli,official,,,,manuale,media
+6,269,Internaples,internaples,internaples,official,,,,manuale,media
+7,269,FBC Internaples,fbc internaples,internaples,official,,,,manuale,media
+8,269,Foot-Ball Club Internazionale-Naples,foot ball club internazionale naples,foot ball internazionale naples,official,,,,manuale,media
+9,267,Naples FBC,naples fbc,naples,official,,,,manuale,media
+10,267,Naples,naples,naples,official,,,,manuale,media
+11,267,Naples Foot-Ball Club,naples foot ball club,naples foot ball,official,,,,manuale,media
+12,268,Internazionale Napoli,internazionale napoli,internazionale napoli,official,,,,manuale,media
+13,268,US Internazionale Napoli,us internazionale napoli,internazionale napoli,official,,,,manuale,media
+14,31,Roma,roma,roma,official,,,,manuale,media
+15,31,AS Roma,as roma,roma,official,,,,manuale,media
+16,31,Associazione Sportiva Roma,associazione sportiva roma,associazione sportiva roma,official,,,,manuale,media
+17,270,Alba-Audace,alba audace,alba audace,official,,,,manuale,media
+18,270,Alba Roma,alba roma,alba roma,official,,,,manuale,media
+19,270,Alba-Roma,alba roma,alba roma,official,,,,manuale,media
+20,270,Audace,audace,audace,official,,,,manuale,media
+21,271,Fortitudo-Pro Roma,fortitudo pro roma,fortitudo pro roma,official,,,,manuale,media
+22,271,Fortitudo,fortitudo,fortitudo,official,,,,manuale,media
+23,271,Pro Roma,pro roma,pro roma,official,,,,manuale,media
+24,272,Roman,roman,roman,official,,,,manuale,media
+25,272,Roman FC,roman fc,roman,official,,,,manuale,media
+26,24,Inter,inter,inter,official,,,,manuale,media
+27,24,FC Internazionale Milano,fc internazionale milano,internazionale milano,official,,,,manuale,media
+28,24,Internazionale,internazionale,internazionale,official,,,,manuale,media
+29,24,FC Internazionale,fc internazionale,internazionale,official,,,,manuale,media
+30,273,Ambrosiana,ambrosiana,ambrosiana,official,,,,manuale,media
+31,273,Ambrosiana-Inter,ambrosiana inter,ambrosiana inter,official,,,,manuale,media
+32,273,AS Ambrosiana,as ambrosiana,ambrosiana,official,,,,manuale,media
+33,273,AS Ambrosiana-Inter,as ambrosiana inter,ambrosiana inter,official,,,,manuale,media
+34,34,Juventus,juventus,juventus,official,,,,manuale,media
+35,34,Juventus FC,juventus fc,juventus,official,,,,manuale,media
+36,18,Milan,milan,milan,official,,,,manuale,media
+37,18,AC Milan,ac milan,milan,official,,,,manuale,media
+38,285,Sassuolo Calcio,sassuolo calcio,sassuolo calcio,common,,,,seed,alta
+39,285,Sassuolo,sassuolo,sassuolo,common,,,,seed,alta
+40,285,US Sassuolo Calcio,us sassuolo calcio,us sassuolo calcio,common,,,,seed,alta
+41,278,Chievo Verona,chievo verona,chievo verona,common,,,,seed,alta
+42,278,Chievo,chievo,chievo,common,,,,seed,alta
+43,278,AC ChievoVerona,ac chievoverona,ac chievoverona,common,,,,seed,alta
+44,14,Empoli FC,empoli fc,empoli fc,common,,,,seed,alta
+45,14,Empoli,empoli,empoli,common,,,,seed,alta
+46,14,Empoli FC,empoli fc,empoli fc,common,,,,seed,alta
+47,282,Hellas Verona FC,hellas verona fc,hellas verona fc,common,,,,seed,alta
+48,282,Hellas Verona,hellas verona,hellas verona,common,,,,seed,alta
+49,282,Hellas Verona FC,hellas verona fc,hellas verona fc,common,,,,seed,alta
+50,15,Bologna FC 1909,bologna fc 1909,bologna fc 1909,common,,,,seed,alta
+51,15,Bologna,bologna,bologna,common,,,,seed,alta
+52,15,Bologna FC 1909,bologna fc 1909,bologna fc 1909,common,,,,seed,alta
+53,10,Torino FC,torino fc,torino fc,common,,,,seed,alta
+54,10,Torino,torino,torino,common,,,,seed,alta
+55,10,Torino FC,torino fc,torino fc,common,,,,seed,alta
+56,6,Genoa CFC,genoa cfc,genoa cfc,common,,,,seed,alta
+57,6,Genoa,genoa,genoa,common,,,,seed,alta
+58,6,Genoa CFC,genoa cfc,genoa cfc,common,,,,seed,alta
+59,93,UC Sampdoria,uc sampdoria,uc sampdoria,common,,,,seed,alta
+60,93,Sampdoria,sampdoria,sampdoria,common,,,,seed,alta
+61,93,UC Sampdoria,uc sampdoria,uc sampdoria,common,,,,seed,alta
+62,7,US Lecce,us lecce,us lecce,common,,,,seed,alta
+63,7,Lecce,lecce,lecce,common,,,,seed,alta
+64,7,US Lecce,us lecce,us lecce,common,,,,seed,alta
+65,2,Cagliari Calcio,cagliari calcio,cagliari calcio,common,,,,seed,alta
+66,2,Cagliari,cagliari,cagliari,common,,,,seed,alta
+67,2,Cagliari Calcio,cagliari calcio,cagliari calcio,common,,,,seed,alta
+68,30,Udinese Calcio,udinese calcio,udinese calcio,common,,,,seed,alta
+69,30,Udinese,udinese,udinese,common,,,,seed,alta
+70,30,Udinese Calcio,udinese calcio,udinese calcio,common,,,,seed,alta
+71,27,SS Lazio,ss lazio,ss lazio,common,,,,seed,alta
+72,27,Lazio,lazio,lazio,common,,,,seed,alta
+73,27,SS Lazio,ss lazio,ss lazio,common,,,,seed,alta
+74,31,AS Roma,as roma,as roma,common,,,,seed,alta
+75,31,Roma,roma,roma,common,,,,seed,alta
+76,31,AS Roma,as roma,as roma,common,,,,seed,alta
+77,3,Parma Calcio 1913,parma calcio 1913,parma calcio 1913,common,,,,seed,alta
+78,3,Parma,parma,parma,common,,,,seed,alta
+79,3,Parma Calcio 1913,parma calcio 1913,parma calcio 1913,common,,,,seed,alta
+80,22,ACF Fiorentina,acf fiorentina,acf fiorentina,common,,,,seed,alta
+81,22,Fiorentina,fiorentina,fiorentina,common,,,,seed,alta
+82,22,ACF Fiorentina,acf fiorentina,acf fiorentina,common,,,,seed,alta
+83,35,Atalanta BC,atalanta bc,atalanta bc,common,,,,seed,alta
+84,35,Atalanta,atalanta,atalanta,common,,,,seed,alta
+85,35,Atalanta BC,atalanta bc,atalanta bc,common,,,,seed,alta
+86,280,FC Crotone,fc crotone,fc crotone,common,,,,seed,alta
+87,280,Crotone,crotone,crotone,common,,,,seed,alta
+88,280,FC Crotone,fc crotone,fc crotone,common,,,,seed,alta
+89,275,Benevento Calcio,benevento calcio,benevento calcio,common,,,,seed,alta
+90,275,Benevento,benevento,benevento,common,,,,seed,alta
+91,275,Benevento Calcio,benevento calcio,benevento calcio,common,,,,seed,alta
+92,284,SPAL,spal,spal,common,,,,seed,alta
+93,284,SPAL,spal,spal,common,,,,seed,alta
+94,284,SPAL 2013,spal 2013,spal 2013,common,,,,seed,alta
+95,281,Frosinone Calcio,frosinone calcio,frosinone calcio,common,,,,seed,alta
+96,281,Frosinone,frosinone,frosinone,common,,,,seed,alta
+97,281,Frosinone Calcio,frosinone calcio,frosinone calcio,common,,,,seed,alta
+98,197,Brescia Calcio,brescia calcio,brescia calcio,common,,,,seed,alta
+99,197,Brescia,brescia,brescia,common,,,,seed,alta
+100,197,Brescia Calcio,brescia calcio,brescia calcio,common,,,,seed,alta
+101,287,US Salernitana 1919,us salernitana 1919,us salernitana 1919,common,,,,seed,alta
+102,287,Salernitana,salernitana,salernitana,common,,,,seed,alta
+103,287,US Salernitana 1919,us salernitana 1919,us salernitana 1919,common,,,,seed,alta
+104,286,Spezia Calcio,spezia calcio,spezia calcio,common,,,,seed,alta
+105,286,Spezia,spezia,spezia,common,,,,seed,alta
+106,286,Spezia Calcio,spezia calcio,spezia calcio,common,,,,seed,alta
+107,19,Venezia FC,venezia fc,venezia fc,common,,,,seed,alta
+108,19,Venezia,venezia,venezia,common,,,,seed,alta
+109,19,Venezia FC,venezia fc,venezia fc,common,,,,seed,alta
+110,11,AC Monza,ac monza,ac monza,common,,,,seed,alta
+111,11,Monza,monza,monza,common,,,,seed,alta
+112,11,AC Monza,ac monza,ac monza,common,,,,seed,alta
+113,108,US Cremonese,us cremonese,us cremonese,common,,,,seed,alta
+114,108,Cremonese,cremonese,cremonese,common,,,,seed,alta
+115,108,US Cremonese,us cremonese,us cremonese,common,,,,seed,alta
+116,288,AS Cittadella,as cittadella,as cittadella,common,,,,seed,alta
+117,288,Cittadella,cittadella,cittadella,common,,,,seed,alta
+118,288,AS Cittadella,as cittadella,as cittadella,common,,,,seed,alta
+119,283,Pisa SC,pisa sc,pisa sc,common,,,,seed,alta
+120,283,Pisa,pisa,pisa,common,,,,seed,alta
+121,283,Pisa SC,pisa sc,pisa sc,common,,,,seed,alta
+122,25,Como 1907,como 1907,como 1907,common,,,,seed,alta
+123,25,Como,como,como,common,,,,seed,alta
+124,25,Como 1907,como 1907,como 1907,common,,,,seed,alta
+125,285,Sassuolo Calcio,sassuolo calcio,sassuolo calcio,common,,,,seed,alta
+126,285,Sassuolo,sassuolo,sassuolo,common,,,,seed,alta
+127,285,US Sassuolo Calcio,us sassuolo calcio,us sassuolo calcio,common,,,,seed,alta
+128,278,Chievo Verona,chievo verona,chievo verona,common,,,,seed,alta
+129,278,Chievo,chievo,chievo,common,,,,seed,alta
+130,278,AC ChievoVerona,ac chievoverona,ac chievoverona,common,,,,seed,alta
+131,14,Empoli FC,empoli fc,empoli fc,common,,,,seed,alta
+132,14,Empoli,empoli,empoli,common,,,,seed,alta
+133,14,Empoli FC,empoli fc,empoli fc,common,,,,seed,alta
+134,282,Hellas Verona FC,hellas verona fc,hellas verona fc,common,,,,seed,alta
+135,282,Hellas Verona,hellas verona,hellas verona,common,,,,seed,alta
+136,282,Hellas Verona FC,hellas verona fc,hellas verona fc,common,,,,seed,alta
+137,15,Bologna FC 1909,bologna fc 1909,bologna fc 1909,common,,,,seed,alta
+138,15,Bologna,bologna,bologna,common,,,,seed,alta
+139,15,Bologna FC 1909,bologna fc 1909,bologna fc 1909,common,,,,seed,alta
+140,10,Torino FC,torino fc,torino fc,common,,,,seed,alta
+141,10,Torino,torino,torino,common,,,,seed,alta
+142,10,Torino FC,torino fc,torino fc,common,,,,seed,alta
+143,6,Genoa CFC,genoa cfc,genoa cfc,common,,,,seed,alta
+144,6,Genoa,genoa,genoa,common,,,,seed,alta
+145,6,Genoa CFC,genoa cfc,genoa cfc,common,,,,seed,alta
+146,93,UC Sampdoria,uc sampdoria,uc sampdoria,common,,,,seed,alta
+147,93,Sampdoria,sampdoria,sampdoria,common,,,,seed,alta
+148,93,UC Sampdoria,uc sampdoria,uc sampdoria,common,,,,seed,alta
+149,7,US Lecce,us lecce,us lecce,common,,,,seed,alta
+150,7,Lecce,lecce,lecce,common,,,,seed,alta
+151,7,US Lecce,us lecce,us lecce,common,,,,seed,alta
+152,2,Cagliari Calcio,cagliari calcio,cagliari calcio,common,,,,seed,alta
+153,2,Cagliari,cagliari,cagliari,common,,,,seed,alta
+154,2,Cagliari Calcio,cagliari calcio,cagliari calcio,common,,,,seed,alta
+155,30,Udinese Calcio,udinese calcio,udinese calcio,common,,,,seed,alta
+156,30,Udinese,udinese,udinese,common,,,,seed,alta
+157,30,Udinese Calcio,udinese calcio,udinese calcio,common,,,,seed,alta
+158,27,SS Lazio,ss lazio,ss lazio,common,,,,seed,alta
+159,27,Lazio,lazio,lazio,common,,,,seed,alta
+160,27,SS Lazio,ss lazio,ss lazio,common,,,,seed,alta
+161,31,AS Roma,as roma,as roma,common,,,,seed,alta
+162,31,Roma,roma,roma,common,,,,seed,alta
+163,31,AS Roma,as roma,as roma,common,,,,seed,alta
+164,3,Parma Calcio 1913,parma calcio 1913,parma calcio 1913,common,,,,seed,alta
+165,3,Parma,parma,parma,common,,,,seed,alta
+166,3,Parma Calcio 1913,parma calcio 1913,parma calcio 1913,common,,,,seed,alta
+167,22,ACF Fiorentina,acf fiorentina,acf fiorentina,common,,,,seed,alta
+168,22,Fiorentina,fiorentina,fiorentina,common,,,,seed,alta
+169,22,ACF Fiorentina,acf fiorentina,acf fiorentina,common,,,,seed,alta
+170,35,Atalanta BC,atalanta bc,atalanta bc,common,,,,seed,alta
+171,35,Atalanta,atalanta,atalanta,common,,,,seed,alta
+172,35,Atalanta BC,atalanta bc,atalanta bc,common,,,,seed,alta
+173,280,FC Crotone,fc crotone,fc crotone,common,,,,seed,alta
+174,280,Crotone,crotone,crotone,common,,,,seed,alta
+175,280,FC Crotone,fc crotone,fc crotone,common,,,,seed,alta
+176,275,Benevento Calcio,benevento calcio,benevento calcio,common,,,,seed,alta
+177,275,Benevento,benevento,benevento,common,,,,seed,alta
+178,275,Benevento Calcio,benevento calcio,benevento calcio,common,,,,seed,alta
+179,284,SPAL,spal,spal,common,,,,seed,alta
+180,284,SPAL,spal,spal,common,,,,seed,alta
+181,284,SPAL 2013,spal 2013,spal 2013,common,,,,seed,alta
+182,281,Frosinone Calcio,frosinone calcio,frosinone calcio,common,,,,seed,alta
+183,281,Frosinone,frosinone,frosinone,common,,,,seed,alta
+184,281,Frosinone Calcio,frosinone calcio,frosinone calcio,common,,,,seed,alta
+185,197,Brescia Calcio,brescia calcio,brescia calcio,common,,,,seed,alta
+186,197,Brescia,brescia,brescia,common,,,,seed,alta
+187,197,Brescia Calcio,brescia calcio,brescia calcio,common,,,,seed,alta
+188,287,US Salernitana 1919,us salernitana 1919,us salernitana 1919,common,,,,seed,alta
+189,287,Salernitana,salernitana,salernitana,common,,,,seed,alta
+190,287,US Salernitana 1919,us salernitana 1919,us salernitana 1919,common,,,,seed,alta
+191,286,Spezia Calcio,spezia calcio,spezia calcio,common,,,,seed,alta
+192,286,Spezia,spezia,spezia,common,,,,seed,alta
+193,286,Spezia Calcio,spezia calcio,spezia calcio,common,,,,seed,alta
+194,19,Venezia FC,venezia fc,venezia fc,common,,,,seed,alta
+195,19,Venezia,venezia,venezia,common,,,,seed,alta
+196,19,Venezia FC,venezia fc,venezia fc,common,,,,seed,alta
+197,11,AC Monza,ac monza,ac monza,common,,,,seed,alta
+198,11,Monza,monza,monza,common,,,,seed,alta
+199,11,AC Monza,ac monza,ac monza,common,,,,seed,alta
+200,108,US Cremonese,us cremonese,us cremonese,common,,,,seed,alta
+201,108,Cremonese,cremonese,cremonese,common,,,,seed,alta
+202,108,US Cremonese,us cremonese,us cremonese,common,,,,seed,alta
+203,288,AS Cittadella,as cittadella,as cittadella,common,,,,seed,alta
+204,288,Cittadella,cittadella,cittadella,common,,,,seed,alta
+205,288,AS Cittadella,as cittadella,as cittadella,common,,,,seed,alta
+206,283,Pisa SC,pisa sc,pisa sc,common,,,,seed,alta
+207,283,Pisa,pisa,pisa,common,,,,seed,alta
+208,283,Pisa SC,pisa sc,pisa sc,common,,,,seed,alta
+209,25,Como 1907,como 1907,como 1907,common,,,,seed,alta
+210,25,Como,como,como,common,,,,seed,alta
+211,25,Como 1907,como 1907,como 1907,common,,,,seed,alta
+212,274,AS Livorno,as livorno,as livorno,common,,,,seed,alta
+213,274,Livorno,livorno,livorno,common,,,,seed,alta
+214,274,AS Livorno,as livorno,as livorno,common,,,,seed,alta
+215,276,Calcio Catania,calcio catania,calcio catania,common,,,,seed,alta
+216,276,Catania,catania,catania,common,,,,seed,alta
+217,276,Calcio Catania,calcio catania,calcio catania,common,,,,seed,alta
+218,27,Lazio Roma,lazio roma,lazio roma,common,,,,seed,alta
+219,27,Lazio,lazio,lazio,common,,,,seed,alta
+220,27,SS Lazio,ss lazio,ss lazio,common,,,,seed,alta
+221,70,US Palermo,us palermo,us palermo,common,,,,seed,alta
+222,70,Palermo,palermo,palermo,common,,,,seed,alta
+223,70,Palermo FC,palermo fc,palermo fc,common,,,,seed,alta
+224,118,AC Cesena,ac cesena,ac cesena,common,,,,seed,alta
+225,118,Cesena,cesena,cesena,common,,,,seed,alta
+226,118,AC Cesena,ac cesena,ac cesena,common,,,,seed,alta
+227,277,Carpi FC,carpi fc,carpi fc,common,,,,seed,alta
+228,277,Carpi,carpi,carpi,common,,,,seed,alta
+229,277,Carpi FC,carpi fc,carpi fc,common,,,,seed,alta
+230,279,Delfino Pescara,delfino pescara,delfino pescara,common,,,,seed,alta
+231,279,Pescara,pescara,pescara,common,,,,seed,alta
+232,279,Delfino Pescara 1936,delfino pescara 1936,delfino pescara 1936,common,,,,seed,alta
+233,284,SPAL 2013 Ferrara,spal 2013 ferrara,spal 2013 ferrara,common,,,,seed,alta
+234,284,SPAL,spal,spal,common,,,,seed,alta
+235,284,SPAL 2013,spal 2013,spal 2013,common,,,,seed,alta
+236,82,Modena FC,modena fc,modena fc,common,,,,seed,alta
+237,82,Modena,modena,modena,common,,,,seed,alta
+238,82,Modena FC,modena fc,modena fc,common,,,,seed,alta
+239,70,Palermo FC,palermo fc,palermo fc,common,,,,seed,alta
+240,70,Palermo,palermo,palermo,common,,,,seed,alta
+241,70,Palermo FC,palermo fc,palermo fc,common,,,,seed,alta
+242,285,Sassuolo Calcio,sassuolo calcio,sassuolo calcio,common,,,,seed,alta
+243,285,Sassuolo,sassuolo,sassuolo,common,,,,seed,alta
+244,285,US Sassuolo Calcio,us sassuolo calcio,us sassuolo calcio,common,,,,seed,alta
+245,278,Chievo Verona,chievo verona,chievo verona,common,,,,seed,alta
+246,278,Chievo,chievo,chievo,common,,,,seed,alta
+247,278,AC ChievoVerona,ac chievoverona,ac chievoverona,common,,,,seed,alta
+248,14,Empoli FC,empoli fc,empoli fc,common,,,,seed,alta
+249,14,Empoli,empoli,empoli,common,,,,seed,alta
+250,14,Empoli FC,empoli fc,empoli fc,common,,,,seed,alta
+251,282,Hellas Verona FC,hellas verona fc,hellas verona fc,common,,,,seed,alta
+252,282,Hellas Verona,hellas verona,hellas verona,common,,,,seed,alta
+253,282,Hellas Verona FC,hellas verona fc,hellas verona fc,common,,,,seed,alta
+254,15,Bologna FC 1909,bologna fc 1909,bologna fc 1909,common,,,,seed,alta
+255,15,Bologna,bologna,bologna,common,,,,seed,alta
+256,15,Bologna FC 1909,bologna fc 1909,bologna fc 1909,common,,,,seed,alta
+257,10,Torino FC,torino fc,torino fc,common,,,,seed,alta
+258,10,Torino,torino,torino,common,,,,seed,alta
+259,10,Torino FC,torino fc,torino fc,common,,,,seed,alta
+260,6,Genoa CFC,genoa cfc,genoa cfc,common,,,,seed,alta
+261,6,Genoa,genoa,genoa,common,,,,seed,alta
+262,6,Genoa CFC,genoa cfc,genoa cfc,common,,,,seed,alta
+263,93,UC Sampdoria,uc sampdoria,uc sampdoria,common,,,,seed,alta
+264,93,Sampdoria,sampdoria,sampdoria,common,,,,seed,alta
+265,93,UC Sampdoria,uc sampdoria,uc sampdoria,common,,,,seed,alta
+266,7,US Lecce,us lecce,us lecce,common,,,,seed,alta
+267,7,Lecce,lecce,lecce,common,,,,seed,alta
+268,7,US Lecce,us lecce,us lecce,common,,,,seed,alta
+269,2,Cagliari Calcio,cagliari calcio,cagliari calcio,common,,,,seed,alta
+270,2,Cagliari,cagliari,cagliari,common,,,,seed,alta
+271,2,Cagliari Calcio,cagliari calcio,cagliari calcio,common,,,,seed,alta
+272,30,Udinese Calcio,udinese calcio,udinese calcio,common,,,,seed,alta
+273,30,Udinese,udinese,udinese,common,,,,seed,alta
+274,30,Udinese Calcio,udinese calcio,udinese calcio,common,,,,seed,alta
+275,27,SS Lazio,ss lazio,ss lazio,common,,,,seed,alta
+276,27,Lazio,lazio,lazio,common,,,,seed,alta
+277,27,SS Lazio,ss lazio,ss lazio,common,,,,seed,alta
+278,31,AS Roma,as roma,as roma,common,,,,seed,alta
+279,31,Roma,roma,roma,common,,,,seed,alta
+280,31,AS Roma,as roma,as roma,common,,,,seed,alta
+281,3,Parma Calcio 1913,parma calcio 1913,parma calcio 1913,common,,,,seed,alta
+282,3,Parma,parma,parma,common,,,,seed,alta
+283,3,Parma Calcio 1913,parma calcio 1913,parma calcio 1913,common,,,,seed,alta
+284,22,ACF Fiorentina,acf fiorentina,acf fiorentina,common,,,,seed,alta
+285,22,Fiorentina,fiorentina,fiorentina,common,,,,seed,alta
+286,22,ACF Fiorentina,acf fiorentina,acf fiorentina,common,,,,seed,alta
+287,35,Atalanta BC,atalanta bc,atalanta bc,common,,,,seed,alta
+288,35,Atalanta,atalanta,atalanta,common,,,,seed,alta
+289,35,Atalanta BC,atalanta bc,atalanta bc,common,,,,seed,alta
+290,280,FC Crotone,fc crotone,fc crotone,common,,,,seed,alta
+291,280,Crotone,crotone,crotone,common,,,,seed,alta
+292,280,FC Crotone,fc crotone,fc crotone,common,,,,seed,alta
+293,275,Benevento Calcio,benevento calcio,benevento calcio,common,,,,seed,alta
+294,275,Benevento,benevento,benevento,common,,,,seed,alta
+295,275,Benevento Calcio,benevento calcio,benevento calcio,common,,,,seed,alta
+296,284,SPAL,spal,spal,common,,,,seed,alta
+297,284,SPAL,spal,spal,common,,,,seed,alta
+298,284,SPAL 2013,spal 2013,spal 2013,common,,,,seed,alta
+299,281,Frosinone Calcio,frosinone calcio,frosinone calcio,common,,,,seed,alta
+300,281,Frosinone,frosinone,frosinone,common,,,,seed,alta
+301,281,Frosinone Calcio,frosinone calcio,frosinone calcio,common,,,,seed,alta
+302,197,Brescia Calcio,brescia calcio,brescia calcio,common,,,,seed,alta
+303,197,Brescia,brescia,brescia,common,,,,seed,alta
+304,197,Brescia Calcio,brescia calcio,brescia calcio,common,,,,seed,alta
+305,287,US Salernitana 1919,us salernitana 1919,us salernitana 1919,common,,,,seed,alta
+306,287,Salernitana,salernitana,salernitana,common,,,,seed,alta
+307,287,US Salernitana 1919,us salernitana 1919,us salernitana 1919,common,,,,seed,alta
+308,286,Spezia Calcio,spezia calcio,spezia calcio,common,,,,seed,alta
+309,286,Spezia,spezia,spezia,common,,,,seed,alta
+310,286,Spezia Calcio,spezia calcio,spezia calcio,common,,,,seed,alta
+311,19,Venezia FC,venezia fc,venezia fc,common,,,,seed,alta
+312,19,Venezia,venezia,venezia,common,,,,seed,alta
+313,19,Venezia FC,venezia fc,venezia fc,common,,,,seed,alta
+314,11,AC Monza,ac monza,ac monza,common,,,,seed,alta
+315,11,Monza,monza,monza,common,,,,seed,alta
+316,11,AC Monza,ac monza,ac monza,common,,,,seed,alta
+317,108,US Cremonese,us cremonese,us cremonese,common,,,,seed,alta
+318,108,Cremonese,cremonese,cremonese,common,,,,seed,alta
+319,108,US Cremonese,us cremonese,us cremonese,common,,,,seed,alta
+320,288,AS Cittadella,as cittadella,as cittadella,common,,,,seed,alta
+321,288,Cittadella,cittadella,cittadella,common,,,,seed,alta
+322,288,AS Cittadella,as cittadella,as cittadella,common,,,,seed,alta
+323,283,Pisa SC,pisa sc,pisa sc,common,,,,seed,alta
+324,283,Pisa,pisa,pisa,common,,,,seed,alta
+325,283,Pisa SC,pisa sc,pisa sc,common,,,,seed,alta
+326,25,Como 1907,como 1907,como 1907,common,,,,seed,alta
+327,25,Como,como,como,common,,,,seed,alta
+328,25,Como 1907,como 1907,como 1907,common,,,,seed,alta
+329,274,AS Livorno,as livorno,as livorno,common,,,,seed,alta
+330,274,Livorno,livorno,livorno,common,,,,seed,alta
+331,274,AS Livorno,as livorno,as livorno,common,,,,seed,alta
+332,276,Calcio Catania,calcio catania,calcio catania,common,,,,seed,alta
+333,276,Catania,catania,catania,common,,,,seed,alta
+334,276,Calcio Catania,calcio catania,calcio catania,common,,,,seed,alta
+335,27,Lazio Roma,lazio roma,lazio roma,common,,,,seed,alta
+336,27,Lazio,lazio,lazio,common,,,,seed,alta
+337,27,SS Lazio,ss lazio,ss lazio,common,,,,seed,alta
+338,70,US Palermo,us palermo,us palermo,common,,,,seed,alta
+339,70,Palermo,palermo,palermo,common,,,,seed,alta
+340,70,Palermo FC,palermo fc,palermo fc,common,,,,seed,alta
+341,118,AC Cesena,ac cesena,ac cesena,common,,,,seed,alta
+342,118,Cesena,cesena,cesena,common,,,,seed,alta
+343,118,AC Cesena,ac cesena,ac cesena,common,,,,seed,alta
+344,277,Carpi FC,carpi fc,carpi fc,common,,,,seed,alta
+345,277,Carpi,carpi,carpi,common,,,,seed,alta
+346,277,Carpi FC,carpi fc,carpi fc,common,,,,seed,alta
+347,279,Delfino Pescara,delfino pescara,delfino pescara,common,,,,seed,alta
+348,279,Pescara,pescara,pescara,common,,,,seed,alta
+349,279,Delfino Pescara 1936,delfino pescara 1936,delfino pescara 1936,common,,,,seed,alta
+350,284,SPAL 2013 Ferrara,spal 2013 ferrara,spal 2013 ferrara,common,,,,seed,alta
+351,284,SPAL,spal,spal,common,,,,seed,alta
+352,284,SPAL 2013,spal 2013,spal 2013,common,,,,seed,alta
+353,82,Modena FC,modena fc,modena fc,common,,,,seed,alta
+354,82,Modena,modena,modena,common,,,,seed,alta
+355,82,Modena FC,modena fc,modena fc,common,,,,seed,alta
+356,70,Palermo FC,palermo fc,palermo fc,common,,,,seed,alta
+357,70,Palermo,palermo,palermo,common,,,,seed,alta
+358,70,Palermo FC,palermo fc,palermo fc,common,,,,seed,alta
+359,285,Sassuolo Calcio,sassuolo calcio,sassuolo calcio,common,,,,seed,alta
+360,285,Sassuolo,sassuolo,sassuolo,common,,,,seed,alta
+361,285,US Sassuolo Calcio,us sassuolo calcio,us sassuolo calcio,common,,,,seed,alta
+362,278,Chievo Verona,chievo verona,chievo verona,common,,,,seed,alta
+363,278,Chievo,chievo,chievo,common,,,,seed,alta
+364,278,AC ChievoVerona,ac chievoverona,ac chievoverona,common,,,,seed,alta
+365,14,Empoli FC,empoli fc,empoli fc,common,,,,seed,alta
+366,14,Empoli,empoli,empoli,common,,,,seed,alta
+367,14,Empoli FC,empoli fc,empoli fc,common,,,,seed,alta
+368,282,Hellas Verona FC,hellas verona fc,hellas verona fc,common,,,,seed,alta
+369,282,Hellas Verona,hellas verona,hellas verona,common,,,,seed,alta
+370,282,Hellas Verona FC,hellas verona fc,hellas verona fc,common,,,,seed,alta
+371,15,Bologna FC 1909,bologna fc 1909,bologna fc 1909,common,,,,seed,alta
+372,15,Bologna,bologna,bologna,common,,,,seed,alta
+373,15,Bologna FC 1909,bologna fc 1909,bologna fc 1909,common,,,,seed,alta
+374,10,Torino FC,torino fc,torino fc,common,,,,seed,alta
+375,10,Torino,torino,torino,common,,,,seed,alta
+376,10,Torino FC,torino fc,torino fc,common,,,,seed,alta
+377,6,Genoa CFC,genoa cfc,genoa cfc,common,,,,seed,alta
+378,6,Genoa,genoa,genoa,common,,,,seed,alta
+379,6,Genoa CFC,genoa cfc,genoa cfc,common,,,,seed,alta
+380,93,UC Sampdoria,uc sampdoria,uc sampdoria,common,,,,seed,alta
+381,93,Sampdoria,sampdoria,sampdoria,common,,,,seed,alta
+382,93,UC Sampdoria,uc sampdoria,uc sampdoria,common,,,,seed,alta
+383,7,US Lecce,us lecce,us lecce,common,,,,seed,alta
+384,7,Lecce,lecce,lecce,common,,,,seed,alta
+385,7,US Lecce,us lecce,us lecce,common,,,,seed,alta
+386,2,Cagliari Calcio,cagliari calcio,cagliari calcio,common,,,,seed,alta
+387,2,Cagliari,cagliari,cagliari,common,,,,seed,alta
+388,2,Cagliari Calcio,cagliari calcio,cagliari calcio,common,,,,seed,alta
+389,30,Udinese Calcio,udinese calcio,udinese calcio,common,,,,seed,alta
+390,30,Udinese,udinese,udinese,common,,,,seed,alta
+391,30,Udinese Calcio,udinese calcio,udinese calcio,common,,,,seed,alta
+392,27,SS Lazio,ss lazio,ss lazio,common,,,,seed,alta
+393,27,Lazio,lazio,lazio,common,,,,seed,alta
+394,27,SS Lazio,ss lazio,ss lazio,common,,,,seed,alta
+395,31,AS Roma,as roma,as roma,common,,,,seed,alta
+396,31,Roma,roma,roma,common,,,,seed,alta
+397,31,AS Roma,as roma,as roma,common,,,,seed,alta
+398,3,Parma Calcio 1913,parma calcio 1913,parma calcio 1913,common,,,,seed,alta
+399,3,Parma,parma,parma,common,,,,seed,alta
+400,3,Parma Calcio 1913,parma calcio 1913,parma calcio 1913,common,,,,seed,alta
+401,22,ACF Fiorentina,acf fiorentina,acf fiorentina,common,,,,seed,alta
+402,22,Fiorentina,fiorentina,fiorentina,common,,,,seed,alta
+403,22,ACF Fiorentina,acf fiorentina,acf fiorentina,common,,,,seed,alta
+404,35,Atalanta BC,atalanta bc,atalanta bc,common,,,,seed,alta
+405,35,Atalanta,atalanta,atalanta,common,,,,seed,alta
+406,35,Atalanta BC,atalanta bc,atalanta bc,common,,,,seed,alta
+407,280,FC Crotone,fc crotone,fc crotone,common,,,,seed,alta
+408,280,Crotone,crotone,crotone,common,,,,seed,alta
+409,280,FC Crotone,fc crotone,fc crotone,common,,,,seed,alta
+410,275,Benevento Calcio,benevento calcio,benevento calcio,common,,,,seed,alta
+411,275,Benevento,benevento,benevento,common,,,,seed,alta
+412,275,Benevento Calcio,benevento calcio,benevento calcio,common,,,,seed,alta
+413,284,SPAL,spal,spal,common,,,,seed,alta
+414,284,SPAL,spal,spal,common,,,,seed,alta
+415,284,SPAL 2013,spal 2013,spal 2013,common,,,,seed,alta
+416,281,Frosinone Calcio,frosinone calcio,frosinone calcio,common,,,,seed,alta
+417,281,Frosinone,frosinone,frosinone,common,,,,seed,alta
+418,281,Frosinone Calcio,frosinone calcio,frosinone calcio,common,,,,seed,alta
+419,197,Brescia Calcio,brescia calcio,brescia calcio,common,,,,seed,alta
+420,197,Brescia,brescia,brescia,common,,,,seed,alta
+421,197,Brescia Calcio,brescia calcio,brescia calcio,common,,,,seed,alta
+422,287,US Salernitana 1919,us salernitana 1919,us salernitana 1919,common,,,,seed,alta
+423,287,Salernitana,salernitana,salernitana,common,,,,seed,alta
+424,287,US Salernitana 1919,us salernitana 1919,us salernitana 1919,common,,,,seed,alta
+425,286,Spezia Calcio,spezia calcio,spezia calcio,common,,,,seed,alta
+426,286,Spezia,spezia,spezia,common,,,,seed,alta
+427,286,Spezia Calcio,spezia calcio,spezia calcio,common,,,,seed,alta
+428,19,Venezia FC,venezia fc,venezia fc,common,,,,seed,alta
+429,19,Venezia,venezia,venezia,common,,,,seed,alta
+430,19,Venezia FC,venezia fc,venezia fc,common,,,,seed,alta
+431,11,AC Monza,ac monza,ac monza,common,,,,seed,alta
+432,11,Monza,monza,monza,common,,,,seed,alta
+433,11,AC Monza,ac monza,ac monza,common,,,,seed,alta
+434,108,US Cremonese,us cremonese,us cremonese,common,,,,seed,alta
+435,108,Cremonese,cremonese,cremonese,common,,,,seed,alta
+436,108,US Cremonese,us cremonese,us cremonese,common,,,,seed,alta
+437,288,AS Cittadella,as cittadella,as cittadella,common,,,,seed,alta
+438,288,Cittadella,cittadella,cittadella,common,,,,seed,alta
+439,288,AS Cittadella,as cittadella,as cittadella,common,,,,seed,alta
+440,283,Pisa SC,pisa sc,pisa sc,common,,,,seed,alta
+441,283,Pisa,pisa,pisa,common,,,,seed,alta
+442,283,Pisa SC,pisa sc,pisa sc,common,,,,seed,alta
+443,25,Como 1907,como 1907,como 1907,common,,,,seed,alta
+444,25,Como,como,como,common,,,,seed,alta
+445,25,Como 1907,como 1907,como 1907,common,,,,seed,alta
+446,274,AS Livorno,as livorno,as livorno,common,,,,seed,alta
+447,274,Livorno,livorno,livorno,common,,,,seed,alta
+448,274,AS Livorno,as livorno,as livorno,common,,,,seed,alta
+449,276,Calcio Catania,calcio catania,calcio catania,common,,,,seed,alta
+450,276,Catania,catania,catania,common,,,,seed,alta
+451,276,Calcio Catania,calcio catania,calcio catania,common,,,,seed,alta
+452,27,Lazio Roma,lazio roma,lazio roma,common,,,,seed,alta
+453,27,Lazio,lazio,lazio,common,,,,seed,alta
+454,27,SS Lazio,ss lazio,ss lazio,common,,,,seed,alta
+455,70,US Palermo,us palermo,us palermo,common,,,,seed,alta
+456,70,Palermo,palermo,palermo,common,,,,seed,alta
+457,70,Palermo FC,palermo fc,palermo fc,common,,,,seed,alta
+458,118,AC Cesena,ac cesena,ac cesena,common,,,,seed,alta
+459,118,Cesena,cesena,cesena,common,,,,seed,alta
+460,118,AC Cesena,ac cesena,ac cesena,common,,,,seed,alta
+461,277,Carpi FC,carpi fc,carpi fc,common,,,,seed,alta
+462,277,Carpi,carpi,carpi,common,,,,seed,alta
+463,277,Carpi FC,carpi fc,carpi fc,common,,,,seed,alta
+464,279,Delfino Pescara,delfino pescara,delfino pescara,common,,,,seed,alta
+465,279,Pescara,pescara,pescara,common,,,,seed,alta
+466,279,Delfino Pescara 1936,delfino pescara 1936,delfino pescara 1936,common,,,,seed,alta
+467,284,SPAL 2013 Ferrara,spal 2013 ferrara,spal 2013 ferrara,common,,,,seed,alta
+468,284,SPAL,spal,spal,common,,,,seed,alta
+469,284,SPAL 2013,spal 2013,spal 2013,common,,,,seed,alta
+470,82,Modena FC,modena fc,modena fc,common,,,,seed,alta
+471,82,Modena,modena,modena,common,,,,seed,alta
+472,82,Modena FC,modena fc,modena fc,common,,,,seed,alta
+473,70,Palermo FC,palermo fc,palermo fc,common,,,,seed,alta
+474,70,Palermo,palermo,palermo,common,,,,seed,alta
+475,70,Palermo FC,palermo fc,palermo fc,common,,,,seed,alta
+476,285,Sassuolo Calcio,sassuolo calcio,sassuolo calcio,common,,,,seed,alta
+477,285,Sassuolo,sassuolo,sassuolo,common,,,,seed,alta
+478,285,US Sassuolo Calcio,us sassuolo calcio,us sassuolo calcio,common,,,,seed,alta
+479,278,Chievo Verona,chievo verona,chievo verona,common,,,,seed,alta
+480,278,Chievo,chievo,chievo,common,,,,seed,alta
+481,278,AC ChievoVerona,ac chievoverona,ac chievoverona,common,,,,seed,alta
+482,14,Empoli FC,empoli fc,empoli fc,common,,,,seed,alta
+483,14,Empoli,empoli,empoli,common,,,,seed,alta
+484,14,Empoli FC,empoli fc,empoli fc,common,,,,seed,alta
+485,282,Hellas Verona FC,hellas verona fc,hellas verona fc,common,,,,seed,alta
+486,282,Hellas Verona,hellas verona,hellas verona,common,,,,seed,alta
+487,282,Hellas Verona FC,hellas verona fc,hellas verona fc,common,,,,seed,alta
+488,15,Bologna FC 1909,bologna fc 1909,bologna fc 1909,common,,,,seed,alta
+489,15,Bologna,bologna,bologna,common,,,,seed,alta
+490,15,Bologna FC 1909,bologna fc 1909,bologna fc 1909,common,,,,seed,alta
+491,10,Torino FC,torino fc,torino fc,common,,,,seed,alta
+492,10,Torino,torino,torino,common,,,,seed,alta
+493,10,Torino FC,torino fc,torino fc,common,,,,seed,alta
+494,6,Genoa CFC,genoa cfc,genoa cfc,common,,,,seed,alta
+495,6,Genoa,genoa,genoa,common,,,,seed,alta
+496,6,Genoa CFC,genoa cfc,genoa cfc,common,,,,seed,alta
+497,93,UC Sampdoria,uc sampdoria,uc sampdoria,common,,,,seed,alta
+498,93,Sampdoria,sampdoria,sampdoria,common,,,,seed,alta
+499,93,UC Sampdoria,uc sampdoria,uc sampdoria,common,,,,seed,alta
+500,7,US Lecce,us lecce,us lecce,common,,,,seed,alta
+501,7,Lecce,lecce,lecce,common,,,,seed,alta
+502,7,US Lecce,us lecce,us lecce,common,,,,seed,alta
+503,2,Cagliari Calcio,cagliari calcio,cagliari calcio,common,,,,seed,alta
+504,2,Cagliari,cagliari,cagliari,common,,,,seed,alta
+505,2,Cagliari Calcio,cagliari calcio,cagliari calcio,common,,,,seed,alta
+506,30,Udinese Calcio,udinese calcio,udinese calcio,common,,,,seed,alta
+507,30,Udinese,udinese,udinese,common,,,,seed,alta
+508,30,Udinese Calcio,udinese calcio,udinese calcio,common,,,,seed,alta
+509,27,SS Lazio,ss lazio,ss lazio,common,,,,seed,alta
+510,27,Lazio,lazio,lazio,common,,,,seed,alta
+511,27,SS Lazio,ss lazio,ss lazio,common,,,,seed,alta
+512,31,AS Roma,as roma,as roma,common,,,,seed,alta
+513,31,Roma,roma,roma,common,,,,seed,alta
+514,31,AS Roma,as roma,as roma,common,,,,seed,alta
+515,3,Parma Calcio 1913,parma calcio 1913,parma calcio 1913,common,,,,seed,alta
+516,3,Parma,parma,parma,common,,,,seed,alta
+517,3,Parma Calcio 1913,parma calcio 1913,parma calcio 1913,common,,,,seed,alta
+518,22,ACF Fiorentina,acf fiorentina,acf fiorentina,common,,,,seed,alta
+519,22,Fiorentina,fiorentina,fiorentina,common,,,,seed,alta
+520,22,ACF Fiorentina,acf fiorentina,acf fiorentina,common,,,,seed,alta
+521,35,Atalanta BC,atalanta bc,atalanta bc,common,,,,seed,alta
+522,35,Atalanta,atalanta,atalanta,common,,,,seed,alta
+523,35,Atalanta BC,atalanta bc,atalanta bc,common,,,,seed,alta
+524,280,FC Crotone,fc crotone,fc crotone,common,,,,seed,alta
+525,280,Crotone,crotone,crotone,common,,,,seed,alta
+526,280,FC Crotone,fc crotone,fc crotone,common,,,,seed,alta
+527,275,Benevento Calcio,benevento calcio,benevento calcio,common,,,,seed,alta
+528,275,Benevento,benevento,benevento,common,,,,seed,alta
+529,275,Benevento Calcio,benevento calcio,benevento calcio,common,,,,seed,alta
+530,284,SPAL,spal,spal,common,,,,seed,alta
+531,284,SPAL,spal,spal,common,,,,seed,alta
+532,284,SPAL 2013,spal 2013,spal 2013,common,,,,seed,alta
+533,281,Frosinone Calcio,frosinone calcio,frosinone calcio,common,,,,seed,alta
+534,281,Frosinone,frosinone,frosinone,common,,,,seed,alta
+535,281,Frosinone Calcio,frosinone calcio,frosinone calcio,common,,,,seed,alta
+536,197,Brescia Calcio,brescia calcio,brescia calcio,common,,,,seed,alta
+537,197,Brescia,brescia,brescia,common,,,,seed,alta
+538,197,Brescia Calcio,brescia calcio,brescia calcio,common,,,,seed,alta
+539,287,US Salernitana 1919,us salernitana 1919,us salernitana 1919,common,,,,seed,alta
+540,287,Salernitana,salernitana,salernitana,common,,,,seed,alta
+541,287,US Salernitana 1919,us salernitana 1919,us salernitana 1919,common,,,,seed,alta
+542,286,Spezia Calcio,spezia calcio,spezia calcio,common,,,,seed,alta
+543,286,Spezia,spezia,spezia,common,,,,seed,alta
+544,286,Spezia Calcio,spezia calcio,spezia calcio,common,,,,seed,alta
+545,19,Venezia FC,venezia fc,venezia fc,common,,,,seed,alta
+546,19,Venezia,venezia,venezia,common,,,,seed,alta
+547,19,Venezia FC,venezia fc,venezia fc,common,,,,seed,alta
+548,11,AC Monza,ac monza,ac monza,common,,,,seed,alta
+549,11,Monza,monza,monza,common,,,,seed,alta
+550,11,AC Monza,ac monza,ac monza,common,,,,seed,alta
+551,108,US Cremonese,us cremonese,us cremonese,common,,,,seed,alta
+552,108,Cremonese,cremonese,cremonese,common,,,,seed,alta
+553,108,US Cremonese,us cremonese,us cremonese,common,,,,seed,alta
+554,288,AS Cittadella,as cittadella,as cittadella,common,,,,seed,alta
+555,288,Cittadella,cittadella,cittadella,common,,,,seed,alta
+556,288,AS Cittadella,as cittadella,as cittadella,common,,,,seed,alta
+557,283,Pisa SC,pisa sc,pisa sc,common,,,,seed,alta
+558,283,Pisa,pisa,pisa,common,,,,seed,alta
+559,283,Pisa SC,pisa sc,pisa sc,common,,,,seed,alta
+560,25,Como 1907,como 1907,como 1907,common,,,,seed,alta
+561,25,Como,como,como,common,,,,seed,alta
+562,25,Como 1907,como 1907,como 1907,common,,,,seed,alta
+563,274,AS Livorno,as livorno,as livorno,common,,,,seed,alta
+564,274,Livorno,livorno,livorno,common,,,,seed,alta
+565,274,AS Livorno,as livorno,as livorno,common,,,,seed,alta
+566,276,Calcio Catania,calcio catania,calcio catania,common,,,,seed,alta
+567,276,Catania,catania,catania,common,,,,seed,alta
+568,276,Calcio Catania,calcio catania,calcio catania,common,,,,seed,alta
+569,27,Lazio Roma,lazio roma,lazio roma,common,,,,seed,alta
+570,27,Lazio,lazio,lazio,common,,,,seed,alta
+571,27,SS Lazio,ss lazio,ss lazio,common,,,,seed,alta
+572,70,US Palermo,us palermo,us palermo,common,,,,seed,alta
+573,70,Palermo,palermo,palermo,common,,,,seed,alta
+574,70,Palermo FC,palermo fc,palermo fc,common,,,,seed,alta
+575,118,AC Cesena,ac cesena,ac cesena,common,,,,seed,alta
+576,118,Cesena,cesena,cesena,common,,,,seed,alta
+577,118,AC Cesena,ac cesena,ac cesena,common,,,,seed,alta
+578,277,Carpi FC,carpi fc,carpi fc,common,,,,seed,alta
+579,277,Carpi,carpi,carpi,common,,,,seed,alta
+580,277,Carpi FC,carpi fc,carpi fc,common,,,,seed,alta
+581,279,Delfino Pescara,delfino pescara,delfino pescara,common,,,,seed,alta
+582,279,Pescara,pescara,pescara,common,,,,seed,alta
+583,279,Delfino Pescara 1936,delfino pescara 1936,delfino pescara 1936,common,,,,seed,alta
+584,284,SPAL 2013 Ferrara,spal 2013 ferrara,spal 2013 ferrara,common,,,,seed,alta
+585,284,SPAL,spal,spal,common,,,,seed,alta
+586,284,SPAL 2013,spal 2013,spal 2013,common,,,,seed,alta
+587,82,Modena FC,modena fc,modena fc,common,,,,seed,alta
+588,82,Modena,modena,modena,common,,,,seed,alta
+589,82,Modena FC,modena fc,modena fc,common,,,,seed,alta
+590,70,Palermo FC,palermo fc,palermo fc,common,,,,seed,alta
+591,70,Palermo,palermo,palermo,common,,,,seed,alta
+592,70,Palermo FC,palermo fc,palermo fc,common,,,,seed,alta
+593,285,Sassuolo Calcio,sassuolo calcio,sassuolo calcio,common,,,,seed,alta
+594,285,Sassuolo,sassuolo,sassuolo,common,,,,seed,alta
+595,285,US Sassuolo Calcio,us sassuolo calcio,us sassuolo calcio,common,,,,seed,alta
+596,278,Chievo Verona,chievo verona,chievo verona,common,,,,seed,alta
+597,278,Chievo,chievo,chievo,common,,,,seed,alta
+598,278,AC ChievoVerona,ac chievoverona,ac chievoverona,common,,,,seed,alta
+599,14,Empoli FC,empoli fc,empoli fc,common,,,,seed,alta
+600,14,Empoli,empoli,empoli,common,,,,seed,alta
+601,14,Empoli FC,empoli fc,empoli fc,common,,,,seed,alta
+602,282,Hellas Verona FC,hellas verona fc,hellas verona fc,common,,,,seed,alta
+603,282,Hellas Verona,hellas verona,hellas verona,common,,,,seed,alta
+604,282,Hellas Verona FC,hellas verona fc,hellas verona fc,common,,,,seed,alta
+605,15,Bologna FC 1909,bologna fc 1909,bologna fc 1909,common,,,,seed,alta
+606,15,Bologna,bologna,bologna,common,,,,seed,alta
+607,15,Bologna FC 1909,bologna fc 1909,bologna fc 1909,common,,,,seed,alta
+608,10,Torino FC,torino fc,torino fc,common,,,,seed,alta
+609,10,Torino,torino,torino,common,,,,seed,alta
+610,10,Torino FC,torino fc,torino fc,common,,,,seed,alta
+611,6,Genoa CFC,genoa cfc,genoa cfc,common,,,,seed,alta
+612,6,Genoa,genoa,genoa,common,,,,seed,alta
+613,6,Genoa CFC,genoa cfc,genoa cfc,common,,,,seed,alta
+614,93,UC Sampdoria,uc sampdoria,uc sampdoria,common,,,,seed,alta
+615,93,Sampdoria,sampdoria,sampdoria,common,,,,seed,alta
+616,93,UC Sampdoria,uc sampdoria,uc sampdoria,common,,,,seed,alta
+617,7,US Lecce,us lecce,us lecce,common,,,,seed,alta
+618,7,Lecce,lecce,lecce,common,,,,seed,alta
+619,7,US Lecce,us lecce,us lecce,common,,,,seed,alta
+620,2,Cagliari Calcio,cagliari calcio,cagliari calcio,common,,,,seed,alta
+621,2,Cagliari,cagliari,cagliari,common,,,,seed,alta
+622,2,Cagliari Calcio,cagliari calcio,cagliari calcio,common,,,,seed,alta
+623,30,Udinese Calcio,udinese calcio,udinese calcio,common,,,,seed,alta
+624,30,Udinese,udinese,udinese,common,,,,seed,alta
+625,30,Udinese Calcio,udinese calcio,udinese calcio,common,,,,seed,alta
+626,27,SS Lazio,ss lazio,ss lazio,common,,,,seed,alta
+627,27,Lazio,lazio,lazio,common,,,,seed,alta
+628,27,SS Lazio,ss lazio,ss lazio,common,,,,seed,alta
+629,31,AS Roma,as roma,as roma,common,,,,seed,alta
+630,31,Roma,roma,roma,common,,,,seed,alta
+631,31,AS Roma,as roma,as roma,common,,,,seed,alta
+632,3,Parma Calcio 1913,parma calcio 1913,parma calcio 1913,common,,,,seed,alta
+633,3,Parma,parma,parma,common,,,,seed,alta
+634,3,Parma Calcio 1913,parma calcio 1913,parma calcio 1913,common,,,,seed,alta
+635,22,ACF Fiorentina,acf fiorentina,acf fiorentina,common,,,,seed,alta
+636,22,Fiorentina,fiorentina,fiorentina,common,,,,seed,alta
+637,22,ACF Fiorentina,acf fiorentina,acf fiorentina,common,,,,seed,alta
+638,35,Atalanta BC,atalanta bc,atalanta bc,common,,,,seed,alta
+639,35,Atalanta,atalanta,atalanta,common,,,,seed,alta
+640,35,Atalanta BC,atalanta bc,atalanta bc,common,,,,seed,alta
+641,280,FC Crotone,fc crotone,fc crotone,common,,,,seed,alta
+642,280,Crotone,crotone,crotone,common,,,,seed,alta
+643,280,FC Crotone,fc crotone,fc crotone,common,,,,seed,alta
+644,275,Benevento Calcio,benevento calcio,benevento calcio,common,,,,seed,alta
+645,275,Benevento,benevento,benevento,common,,,,seed,alta
+646,275,Benevento Calcio,benevento calcio,benevento calcio,common,,,,seed,alta
+647,284,SPAL,spal,spal,common,,,,seed,alta
+648,284,SPAL,spal,spal,common,,,,seed,alta
+649,284,SPAL 2013,spal 2013,spal 2013,common,,,,seed,alta
+650,281,Frosinone Calcio,frosinone calcio,frosinone calcio,common,,,,seed,alta
+651,281,Frosinone,frosinone,frosinone,common,,,,seed,alta
+652,281,Frosinone Calcio,frosinone calcio,frosinone calcio,common,,,,seed,alta
+653,197,Brescia Calcio,brescia calcio,brescia calcio,common,,,,seed,alta
+654,197,Brescia,brescia,brescia,common,,,,seed,alta
+655,197,Brescia Calcio,brescia calcio,brescia calcio,common,,,,seed,alta
+656,287,US Salernitana 1919,us salernitana 1919,us salernitana 1919,common,,,,seed,alta
+657,287,Salernitana,salernitana,salernitana,common,,,,seed,alta
+658,287,US Salernitana 1919,us salernitana 1919,us salernitana 1919,common,,,,seed,alta
+659,286,Spezia Calcio,spezia calcio,spezia calcio,common,,,,seed,alta
+660,286,Spezia,spezia,spezia,common,,,,seed,alta
+661,286,Spezia Calcio,spezia calcio,spezia calcio,common,,,,seed,alta
+662,19,Venezia FC,venezia fc,venezia fc,common,,,,seed,alta
+663,19,Venezia,venezia,venezia,common,,,,seed,alta
+664,19,Venezia FC,venezia fc,venezia fc,common,,,,seed,alta
+665,11,AC Monza,ac monza,ac monza,common,,,,seed,alta
+666,11,Monza,monza,monza,common,,,,seed,alta
+667,11,AC Monza,ac monza,ac monza,common,,,,seed,alta
+668,108,US Cremonese,us cremonese,us cremonese,common,,,,seed,alta
+669,108,Cremonese,cremonese,cremonese,common,,,,seed,alta
+670,108,US Cremonese,us cremonese,us cremonese,common,,,,seed,alta
+671,288,AS Cittadella,as cittadella,as cittadella,common,,,,seed,alta
+672,288,Cittadella,cittadella,cittadella,common,,,,seed,alta
+673,288,AS Cittadella,as cittadella,as cittadella,common,,,,seed,alta
+674,283,Pisa SC,pisa sc,pisa sc,common,,,,seed,alta
+675,283,Pisa,pisa,pisa,common,,,,seed,alta
+676,283,Pisa SC,pisa sc,pisa sc,common,,,,seed,alta
+677,25,Como 1907,como 1907,como 1907,common,,,,seed,alta
+678,25,Como,como,como,common,,,,seed,alta
+679,25,Como 1907,como 1907,como 1907,common,,,,seed,alta
+680,274,AS Livorno,as livorno,as livorno,common,,,,seed,alta
+681,274,Livorno,livorno,livorno,common,,,,seed,alta
+682,274,AS Livorno,as livorno,as livorno,common,,,,seed,alta
+683,276,Calcio Catania,calcio catania,calcio catania,common,,,,seed,alta
+684,276,Catania,catania,catania,common,,,,seed,alta
+685,276,Calcio Catania,calcio catania,calcio catania,common,,,,seed,alta
+686,27,Lazio Roma,lazio roma,lazio roma,common,,,,seed,alta
+687,27,Lazio,lazio,lazio,common,,,,seed,alta
+688,27,SS Lazio,ss lazio,ss lazio,common,,,,seed,alta
+689,70,US Palermo,us palermo,us palermo,common,,,,seed,alta
+690,70,Palermo,palermo,palermo,common,,,,seed,alta
+691,70,Palermo FC,palermo fc,palermo fc,common,,,,seed,alta
+692,118,AC Cesena,ac cesena,ac cesena,common,,,,seed,alta
+693,118,Cesena,cesena,cesena,common,,,,seed,alta
+694,118,AC Cesena,ac cesena,ac cesena,common,,,,seed,alta
+695,277,Carpi FC,carpi fc,carpi fc,common,,,,seed,alta
+696,277,Carpi,carpi,carpi,common,,,,seed,alta
+697,277,Carpi FC,carpi fc,carpi fc,common,,,,seed,alta
+698,279,Delfino Pescara,delfino pescara,delfino pescara,common,,,,seed,alta
+699,279,Pescara,pescara,pescara,common,,,,seed,alta
+700,279,Delfino Pescara 1936,delfino pescara 1936,delfino pescara 1936,common,,,,seed,alta
+701,284,SPAL 2013 Ferrara,spal 2013 ferrara,spal 2013 ferrara,common,,,,seed,alta
+702,284,SPAL,spal,spal,common,,,,seed,alta
+703,284,SPAL 2013 Ferrara,spal 2013 ferrara,spal 2013 ferrara,common,,,,seed,alta
+704,82,Modena FC,modena fc,modena fc,common,,,,seed,alta
+705,82,Modena,modena,modena,common,,,,seed,alta
+706,82,Modena FC,modena fc,modena fc,common,,,,seed,alta
+707,70,Palermo FC,palermo fc,palermo fc,common,,,,seed,alta
+708,70,Palermo,palermo,palermo,common,,,,seed,alta
+709,70,Palermo FC,palermo fc,palermo fc,common,,,,seed,alta
+710,289,Pro Vercelli,pro vercelli,pro vercelli,common,,,,seed,alta
+711,289,Pro Vercelli,pro vercelli,pro vercelli,common,,,,seed,alta
+712,289,FC Pro Vercelli 1892,fc pro vercelli 1892,fc pro vercelli 1892,common,,,,seed,alta
+713,290,Sampierdarenese,sampierdarenese,sampierdarenese,common,,,,seed,alta
+714,290,Sampierdarenese,sampierdarenese,sampierdarenese,common,,,,seed,alta
+715,290,AC Sampierdarenese,ac sampierdarenese,ac sampierdarenese,common,,,,seed,alta
+716,291,Liguria,liguria,liguria,common,,,,seed,alta
+717,291,Liguria,liguria,liguria,common,,,,seed,alta
+718,291,AC Liguria,ac liguria,ac liguria,common,,,,seed,alta
+719,292,Novese,novese,novese,common,,,,seed,alta
+720,292,Novese,novese,novese,common,,,,seed,alta
+721,292,US Novese,us novese,us novese,common,,,,seed,alta
+722,293,Casale,casale,casale,common,,,,seed,alta
+723,293,Casale,casale,casale,common,,,,seed,alta
+724,293,AS Casale,as casale,as casale,common,,,,seed,alta
+725,294,Stoccarda,stoccarda,stoccarda,common,,,,seed,alta
+726,294,Stoccarda,stoccarda,stoccarda,common,,,,seed,alta
+727,294,VfB Stuttgart,vfb stuttgart,vfb stuttgart,common,,,,seed,alta
+728,295,Porto,porto,porto,common,,,,seed,alta
+729,295,Porto,porto,porto,common,,,,seed,alta
+730,295,FC Porto,fc porto,fc porto,common,,,,seed,alta
+731,296,Real Sociedad,real sociedad,real sociedad,common,,,,seed,alta
+732,296,Real Sociedad,real sociedad,real sociedad,common,,,,seed,alta
+733,296,Real Sociedad,real sociedad,real sociedad,common,,,,seed,alta
+734,297,Burnley,burnley,burnley,common,,,,seed,alta
+735,297,Burnley,burnley,burnley,common,,,,seed,alta
+736,297,Burnley FC,burnley fc,burnley fc,common,,,,seed,alta
+737,298,Spartak Mosca,spartak mosca,spartak mosca,common,,,,seed,alta
+738,298,Spartak Mosca,spartak mosca,spartak mosca,common,,,,seed,alta
+739,298,Spartak Mosca,spartak mosca,spartak mosca,common,,,,seed,alta
+740,299,AIK,aik,aik,common,,,,seed,alta
+741,299,AIK,aik,aik,common,,,,seed,alta
+742,299,AIK Solna,aik solna,aik solna,common,,,,seed,alta
+743,300,APOEL,apoel,apoel,common,,,,seed,alta
+744,300,APOEL,apoel,apoel,common,,,,seed,alta
+745,300,APOEL FC,apoel fc,apoel fc,common,,,,seed,alta
+746,301,AZ,az,az,common,,,,seed,alta
+747,301,AZ Alkmaar,az alkmaar,az alkmaar,common,,,,seed,alta
+748,301,AZ Alkmaar,az alkmaar,az alkmaar,common,,,,seed,alta
+749,302,Admira Vienna,admira vienna,admira vienna,common,,,,seed,alta
+750,302,Admira Vienna,admira vienna,admira vienna,common,,,,seed,alta
+751,302,FC Admira Wacker Modling,fc admira wacker modling,fc admira wacker modling,common,,,,seed,alta
+752,303,Ajax,ajax,ajax,common,,,,seed,alta
+753,303,Ajax,ajax,ajax,common,,,,seed,alta
+754,303,AFC Ajax,afc ajax,afc ajax,common,,,,seed,alta
+755,304,AlbinoLeffe,albinoleffe,albinoleffe,common,,,,seed,alta
+756,304,AlbinoLeffe,albinoleffe,albinoleffe,common,,,,seed,alta
+757,304,UC AlbinoLeffe,uc albinoleffe,uc albinoleffe,common,,,,seed,alta
+758,305,Alessandria,alessandria,alessandria,common,,,,seed,alta
+759,305,Alessandria,alessandria,alessandria,common,,,,seed,alta
+760,305,US Alessandria Calcio 1912,us alessandria calcio 1912,us alessandria calcio 1912,common,,,,seed,alta
+761,306,Alzano Virescit,alzano virescit,alzano virescit,common,,,,seed,alta
+762,306,Alzano Virescit,alzano virescit,alzano virescit,common,,,,seed,alta
+763,306,Alzano Virescit,alzano virescit,alzano virescit,common,,,,seed,alta
+764,307,Ancona,ancona,ancona,common,,,,seed,alta
+765,307,Ancona,ancona,ancona,common,,,,seed,alta
+766,307,US Ancona,us ancona,us ancona,common,,,,seed,alta
+767,307,Anconitana,anconitana,anconitana,common,,,,seed,alta
+768,307,Ancona,ancona,ancona,common,,,,seed,alta
+769,307,US Ancona,us ancona,us ancona,common,,,,seed,alta
+770,307,Anconitana-Bianchi,anconitana bianchi,anconitana bianchi,common,,,,seed,alta
+771,307,Ancona,ancona,ancona,common,,,,seed,alta
+772,307,US Ancona,us ancona,us ancona,common,,,,seed,alta
+773,308,Anderlecht,anderlecht,anderlecht,common,,,,seed,alta
+774,308,Anderlecht,anderlecht,anderlecht,common,,,,seed,alta
+775,308,RSC Anderlecht,rsc anderlecht,rsc anderlecht,common,,,,seed,alta
+776,309,Andrea Doria,andrea doria,andrea doria,common,,,,seed,alta
+777,309,Andrea Doria,andrea doria,andrea doria,common,,,,seed,alta
+778,309,SG Andrea Doria,sg andrea doria,sg andrea doria,common,,,,seed,alta
+779,310,Arezzo,arezzo,arezzo,common,,,,seed,alta
+780,310,Arezzo,arezzo,arezzo,common,,,,seed,alta
+781,310,US Arezzo,us arezzo,us arezzo,common,,,,seed,alta
+782,259,Arsenaltaranto,arsenaltaranto,arsenaltaranto,common,,,,seed,alta
+783,259,Taranto,taranto,taranto,common,,,,seed,alta
+784,259,Taranto FC 1927,taranto fc 1927,taranto fc 1927,common,,,,seed,alta
+785,124,Ascoli,ascoli,ascoli,common,,,,seed,alta
+786,124,Ascoli,ascoli,ascoli,common,,,,seed,alta
+787,124,Ascoli Calcio 1898 FC,ascoli calcio 1898 fc,ascoli calcio 1898 fc,common,,,,seed,alta
+788,216,Avellino,avellino,avellino,common,,,,seed,alta
+789,216,Avellino,avellino,avellino,common,,,,seed,alta
+790,216,US Avellino 1912,us avellino 1912,us avellino 1912,common,,,,seed,alta
+791,311,Bangor City,bangor city,bangor city,common,,,,seed,alta
+792,311,Bangor City,bangor city,bangor city,common,,,,seed,alta
+793,311,Bangor City FC,bangor city fc,bangor city fc,common,,,,seed,alta
+794,312,Bank Ostrava OKD,bank ostrava okd,bank ostrava okd,common,,,,seed,alta
+795,312,Banik Ostrava,banik ostrava,banik ostrava,common,,,,seed,alta
+796,312,FC Banik Ostrava,fc banik ostrava,fc banik ostrava,common,,,,seed,alta
+797,312,Baník Ostrava OKD,banik ostrava okd,banik ostrava okd,common,,,,seed,alta
+798,312,Banik Ostrava,banik ostrava,banik ostrava,common,,,,seed,alta
+799,312,FC Banik Ostrava,fc banik ostrava,fc banik ostrava,common,,,,seed,alta
+800,88,Bari,bari,bari,common,,,,seed,alta
+801,88,Bari,bari,bari,common,,,,seed,alta
+802,88,SSC Bari,ssc bari,ssc bari,common,,,,seed,alta
+803,313,Barletta,barletta,barletta,common,,,,seed,alta
+804,313,Barletta,barletta,barletta,common,,,,seed,alta
+805,313,Barletta 1922,barletta 1922,barletta 1922,common,,,,seed,alta
+806,314,Bayern Monaco,bayern monaco,bayern monaco,common,,,,seed,alta
+807,314,Bayern Monaco,bayern monaco,bayern monaco,common,,,,seed,alta
+808,314,FC Bayern Monaco,fc bayern monaco,fc bayern monaco,common,,,,seed,alta
+809,315,Benfica,benfica,benfica,common,,,,seed,alta
+810,315,Benfica,benfica,benfica,common,,,,seed,alta
+811,315,SL Benfica,sl benfica,sl benfica,common,,,,seed,alta
+812,316,Biellese,biellese,biellese,common,,,,seed,alta
+813,316,Biellese,biellese,biellese,common,,,,seed,alta
+814,316,AS Biellese,as biellese,as biellese,common,,,,seed,alta
+815,317,Boavista,boavista,boavista,common,,,,seed,alta
+816,317,Boavista,boavista,boavista,common,,,,seed,alta
+817,317,Boavista FC,boavista fc,boavista fc,common,,,,seed,alta
+818,318,Bod/Glimt,bod/glimt,bod/glimt,common,,,,seed,alta
+819,318,Bodo/Glimt,bodo/glimt,bodo/glimt,common,,,,seed,alta
+820,318,FK Bodo/Glimt,fk bodo/glimt,fk bodo/glimt,common,,,,seed,alta
+821,318,Bodø/Glimt,bodo/glimt,bodo/glimt,common,,,,seed,alta
+822,318,Bodo/Glimt,bodo/glimt,bodo/glimt,common,,,,seed,alta
+823,318,FK Bodo/Glimt,fk bodo/glimt,fk bodo/glimt,common,,,,seed,alta
+824,319,Bordeaux,bordeaux,bordeaux,common,,,,seed,alta
+825,319,Bordeaux,bordeaux,bordeaux,common,,,,seed,alta
+826,319,FC Girondins de Bordeaux,fc girondins de bordeaux,fc girondins de bordeaux,common,,,,seed,alta
+827,320,Brindisi,brindisi,brindisi,common,,,,seed,alta
+828,320,Brindisi,brindisi,brindisi,common,,,,seed,alta
+829,320,Brindisi FC,brindisi fc,brindisi fc,common,,,,seed,alta
+830,321,Casertana,casertana,casertana,common,,,,seed,alta
+831,321,Casertana,casertana,casertana,common,,,,seed,alta
+832,321,Casertana FC,casertana fc,casertana fc,common,,,,seed,alta
+833,322,Catanzaro,catanzaro,catanzaro,common,,,,seed,alta
+834,322,Catanzaro,catanzaro,catanzaro,common,,,,seed,alta
+835,322,US Catanzaro 1929,us catanzaro 1929,us catanzaro 1929,common,,,,seed,alta
+836,323,Cavese,cavese,cavese,common,,,,seed,alta
+837,323,Cavese,cavese,cavese,common,,,,seed,alta
+838,323,Cavese 1919,cavese 1919,cavese 1919,common,,,,seed,alta
+839,324,Chelsea,chelsea,chelsea,common,,,,seed,alta
+840,324,Chelsea,chelsea,chelsea,common,,,,seed,alta
+841,324,Chelsea FC,chelsea fc,chelsea fc,common,,,,seed,alta
+842,325,Cosenza,cosenza,cosenza,common,,,,seed,alta
+843,325,Cosenza,cosenza,cosenza,common,,,,seed,alta
+844,325,Cosenza Calcio,cosenza calcio,cosenza calcio,common,,,,seed,alta
+845,326,Dinamo Tbilisi,dinamo tbilisi,dinamo tbilisi,common,,,,seed,alta
+846,326,Dinamo Tbilisi,dinamo tbilisi,dinamo tbilisi,common,,,,seed,alta
+847,326,FC Dinamo Tbilisi,fc dinamo tbilisi,fc dinamo tbilisi,common,,,,seed,alta
+848,327,Dnipro,dnipro,dnipro,common,,,,seed,alta
+849,327,Dnipro,dnipro,dnipro,common,,,,seed,alta
+850,327,FC Dnipro,fc dnipro,fc dnipro,common,,,,seed,alta
+851,328,Eintracht Francoforte,eintracht francoforte,eintracht francoforte,common,,,,seed,alta
+852,328,Eintracht Francoforte,eintracht francoforte,eintracht francoforte,common,,,,seed,alta
+853,328,Eintracht Francoforte,eintracht francoforte,eintracht francoforte,common,,,,seed,alta
+854,329,Elfsborg,elfsborg,elfsborg,common,,,,seed,alta
+855,329,Elfsborg,elfsborg,elfsborg,common,,,,seed,alta
+856,329,IF Elfsborg,if elfsborg,if elfsborg,common,,,,seed,alta
+857,330,Fanfulla,fanfulla,fanfulla,common,,,,seed,alta
+858,330,Fanfulla,fanfulla,fanfulla,common,,,,seed,alta
+859,330,ASD Fanfulla,asd fanfulla,asd fanfulla,common,,,,seed,alta
+860,331,Fermana,fermana,fermana,common,,,,seed,alta
+861,331,Fermana,fermana,fermana,common,,,,seed,alta
+862,331,Fermana FC,fermana fc,fermana fc,common,,,,seed,alta
+863,332,Fidelis Andria,fidelis andria,fidelis andria,common,,,,seed,alta
+864,332,Fidelis Andria,fidelis andria,fidelis andria,common,,,,seed,alta
+865,332,Fidelis Andria 2018,fidelis andria 2018,fidelis andria 2018,common,,,,seed,alta
+866,333,Fiumana,fiumana,fiumana,common,,,,seed,alta
+867,333,Fiumana,fiumana,fiumana,common,,,,seed,alta
+868,333,CS Fiumana,cs fiumana,cs fiumana,common,,,,seed,alta
+869,334,Foggia,foggia,foggia,common,,,,seed,alta
+870,334,Foggia,foggia,foggia,common,,,,seed,alta
+871,334,Calcio Foggia 1920,calcio foggia 1920,calcio foggia 1920,common,,,,seed,alta
+872,334,Foggia & Incedit,foggia & incedit,foggia & incedit,common,,,,seed,alta
+873,334,Foggia,foggia,foggia,common,,,,seed,alta
+874,334,Calcio Foggia 1920,calcio foggia 1920,calcio foggia 1920,common,,,,seed,alta
+875,6,Genova 1893,genova 1893,genova 1893,common,,,,seed,alta
+876,6,Genoa,genoa,genoa,common,,,,seed,alta
+877,6,Genoa CFC,genoa cfc,genoa cfc,common,,,,seed,alta
+878,335,Granada,granada,granada,common,,,,seed,alta
+879,335,Granada,granada,granada,common,,,,seed,alta
+880,335,Granada CF,granada cf,granada cf,common,,,,seed,alta
+881,336,Grasshopper,grasshopper,grasshopper,common,,,,seed,alta
+882,336,Grasshopper,grasshopper,grasshopper,common,,,,seed,alta
+883,336,Grasshopper Club Zurich,grasshopper club zurich,grasshopper club zurich,common,,,,seed,alta
+884,337,Kaiserslautern,kaiserslautern,kaiserslautern,common,,,,seed,alta
+885,337,Kaiserslautern,kaiserslautern,kaiserslautern,common,,,,seed,alta
+886,337,1. FC Kaiserslautern,1 fc kaiserslautern,1 fc kaiserslautern,common,,,,seed,alta
+887,258,L.R. Vicenza,l r vicenza,l r vicenza,common,,,,seed,alta
+888,258,Vicenza,vicenza,vicenza,common,,,,seed,alta
+889,258,LR Vicenza,lr vicenza,lr vicenza,common,,,,seed,alta
+890,258,Lanerossi Vicenza,lanerossi vicenza,lanerossi vicenza,common,,,,seed,alta
+891,258,Vicenza,vicenza,vicenza,common,,,,seed,alta
+892,258,LR Vicenza,lr vicenza,lr vicenza,common,,,,seed,alta
+893,338,La Dominante,la dominante,la dominante,common,,,,seed,alta
+894,338,La Dominante,la dominante,la dominante,common,,,,seed,alta
+895,338,FBC La Dominante,fbc la dominante,fbc la dominante,common,,,,seed,alta
+896,339,Lanciano,lanciano,lanciano,common,,,,seed,alta
+897,339,Virtus Lanciano,virtus lanciano,virtus lanciano,common,,,,seed,alta
+898,339,SS Virtus Lanciano 1924,ss virtus lanciano 1924,ss virtus lanciano 1924,common,,,,seed,alta
+899,340,Lecco,lecco,lecco,common,,,,seed,alta
+900,340,Lecco,lecco,lecco,common,,,,seed,alta
+901,340,Calcio Lecco 1912,calcio lecco 1912,calcio lecco 1912,common,,,,seed,alta
+902,341,Leeds Utd,leeds utd,leeds utd,common,,,,seed,alta
+903,341,Leeds Utd,leeds utd,leeds utd,common,,,,seed,alta
+904,341,Leeds United FC,leeds united fc,leeds united fc,common,,,,seed,alta
+905,342,Legnano,legnano,legnano,common,,,,seed,alta
+906,342,Legnano,legnano,legnano,common,,,,seed,alta
+907,342,AC Legnano,ac legnano,ac legnano,common,,,,seed,alta
+908,343,Liverpool,liverpool,liverpool,common,,,,seed,alta
+909,343,Liverpool,liverpool,liverpool,common,,,,seed,alta
+910,343,Liverpool FC,liverpool fc,liverpool fc,common,,,,seed,alta
+911,344,Lokomotive Lipsia,lokomotive lipsia,lokomotive lipsia,common,,,,seed,alta
+912,344,Lokomotive Lipsia,lokomotive lipsia,lokomotive lipsia,common,,,,seed,alta
+913,344,1. FC Lokomotive Lipsia,1 fc lokomotive lipsia,1 fc lokomotive lipsia,common,,,,seed,alta
+914,345,Lucchese,lucchese,lucchese,common,,,,seed,alta
+915,345,Lucchese,lucchese,lucchese,common,,,,seed,alta
+916,345,Lucchese 1905,lucchese 1905,lucchese 1905,common,,,,seed,alta
+917,346,MATER,mater,mater,common,,,,seed,alta
+918,346,MATER,mater,mater,common,,,,seed,alta
+919,346,MATER Roma,mater roma,mater roma,common,,,,seed,alta
+920,347,Manchester City,manchester city,manchester city,common,,,,seed,alta
+921,347,Manchester City,manchester city,manchester city,common,,,,seed,alta
+922,347,Manchester City FC,manchester city fc,manchester city fc,common,,,,seed,alta
+923,348,Mantova,mantova,mantova,common,,,,seed,alta
+924,348,Mantova,mantova,mantova,common,,,,seed,alta
+925,348,Mantova 1911,mantova 1911,mantova 1911,common,,,,seed,alta
+926,349,Messina,messina,messina,common,,,,seed,alta
+927,349,Messina,messina,messina,common,,,,seed,alta
+928,349,ACR Messina,acr messina,acr messina,common,,,,seed,alta
+929,350,Metz,metz,metz,common,,,,seed,alta
+930,350,Metz,metz,metz,common,,,,seed,alta
+931,350,FC Metz,fc metz,fc metz,common,,,,seed,alta
+932,18,Milano,milano,milano,common,,,,seed,alta
+933,18,Milan,milan,milan,common,,,,seed,alta
+934,18,AC Milan,ac milan,ac milan,common,,,,seed,alta
+935,351,Novara,novara,novara,common,,,,seed,alta
+936,351,Novara,novara,novara,common,,,,seed,alta
+937,351,Novara FC,novara fc,novara fc,common,,,,seed,alta
+938,352,OFK Belgrado,ofk belgrado,ofk belgrado,common,,,,seed,alta
+939,352,OFK Belgrado,ofk belgrado,ofk belgrado,common,,,,seed,alta
+940,352,OFK Belgrado,ofk belgrado,ofk belgrado,common,,,,seed,alta
+941,353,Odense,odense,odense,common,,,,seed,alta
+942,353,Odense,odense,odense,common,,,,seed,alta
+943,353,Odense Boldklub,odense boldklub,odense boldklub,common,,,,seed,alta
+944,354,Olympiakos,olympiakos,olympiakos,common,,,,seed,alta
+945,354,Olympiakos,olympiakos,olympiakos,common,,,,seed,alta
+946,354,Olympiakos FC,olympiakos fc,olympiakos fc,common,,,,seed,alta
+947,355,PAOK,paok,paok,common,,,,seed,alta
+948,355,PAOK,paok,paok,common,,,,seed,alta
+949,355,PAOK FC,paok fc,paok fc,common,,,,seed,alta
+950,356,PSV,psv,psv,common,,,,seed,alta
+951,356,PSV,psv,psv,common,,,,seed,alta
+952,356,PSV Eindhoven,psv eindhoven,psv eindhoven,common,,,,seed,alta
+953,357,Padova,padova,padova,common,,,,seed,alta
+954,357,Padova,padova,padova,common,,,,seed,alta
+955,357,Calcio Padova,calcio padova,calcio padova,common,,,,seed,alta
+956,70,Palermo-Juventina,palermo juventina,palermo juventina,common,,,,seed,alta
+957,70,Palermo,palermo,palermo,common,,,,seed,alta
+958,70,Palermo FC,palermo fc,palermo fc,common,,,,seed,alta
+959,358,Paniōnios,panionios,panionios,common,,,,seed,alta
+960,358,Panionios,panionios,panionios,common,,,,seed,alta
+961,358,Panionios GSS,panionios gss,panionios gss,common,,,,seed,alta
+962,359,Paris Saint-Germain,paris saint germain,paris saint germain,common,,,,seed,alta
+963,359,Paris Saint-Germain,paris saint germain,paris saint germain,common,,,,seed,alta
+964,359,Paris Saint-Germain FC,paris saint germain fc,paris saint germain fc,common,,,,seed,alta
+965,360,Perugia,perugia,perugia,common,,,,seed,alta
+966,360,Perugia,perugia,perugia,common,,,,seed,alta
+967,360,AC Perugia Calcio,ac perugia calcio,ac perugia calcio,common,,,,seed,alta
+968,361,Piacenza,piacenza,piacenza,common,,,,seed,alta
+969,361,Piacenza,piacenza,piacenza,common,,,,seed,alta
+970,361,Piacenza Calcio 1919,piacenza calcio 1919,piacenza calcio 1919,common,,,,seed,alta
+971,362,Pistoiese,pistoiese,pistoiese,common,,,,seed,alta
+972,362,Pistoiese,pistoiese,pistoiese,common,,,,seed,alta
+973,362,US Pistoiese 1921,us pistoiese 1921,us pistoiese 1921,common,,,,seed,alta
+974,363,Potenza,potenza,potenza,common,,,,seed,alta
+975,363,Potenza,potenza,potenza,common,,,,seed,alta
+976,363,Potenza Calcio,potenza calcio,potenza calcio,common,,,,seed,alta
+977,364,Prato,prato,prato,common,,,,seed,alta
+978,364,Prato,prato,prato,common,,,,seed,alta
+979,364,AC Prato,ac prato,ac prato,common,,,,seed,alta
+980,365,Pro Livorno,pro livorno,pro livorno,common,,,,seed,alta
+981,365,Pro Livorno,pro livorno,pro livorno,common,,,,seed,alta
+982,365,Pro Livorno 1919,pro livorno 1919,pro livorno 1919,common,,,,seed,alta
+983,366,Pro Patria,pro patria,pro patria,common,,,,seed,alta
+984,366,Pro Patria,pro patria,pro patria,common,,,,seed,alta
+985,366,Aurora Pro Patria 1919,aurora pro patria 1919,aurora pro patria 1919,common,,,,seed,alta
+986,367,Pro Sesto,pro sesto,pro sesto,common,,,,seed,alta
+987,367,Pro Sesto,pro sesto,pro sesto,common,,,,seed,alta
+988,367,Pro Sesto 1913,pro sesto 1913,pro sesto 1913,common,,,,seed,alta
+989,368,Radnički Niš,radnicki nis,radnicki nis,common,,,,seed,alta
+990,368,Radnicki Nis,radnicki nis,radnicki nis,common,,,,seed,alta
+991,368,Radnicki Nis,radnicki nis,radnicki nis,common,,,,seed,alta
+992,369,Rapid Bucarest,rapid bucarest,rapid bucarest,common,,,,seed,alta
+993,369,Rapid Bucarest,rapid bucarest,rapid bucarest,common,,,,seed,alta
+994,369,FC Rapid Bucarest,fc rapid bucarest,fc rapid bucarest,common,,,,seed,alta
+995,370,Ravenna,ravenna,ravenna,common,,,,seed,alta
+996,370,Ravenna,ravenna,ravenna,common,,,,seed,alta
+997,370,Ravenna FC 1913,ravenna fc 1913,ravenna fc 1913,common,,,,seed,alta
+998,371,Real Madrid,real madrid,real madrid,common,,,,seed,alta
+999,371,Real Madrid,real madrid,real madrid,common,,,,seed,alta
+1000,371,Real Madrid CF,real madrid cf,real madrid cf,common,,,,seed,alta
+1001,372,Reggiana,reggiana,reggiana,common,,,,seed,alta
+1002,372,Reggiana,reggiana,reggiana,common,,,,seed,alta
+1003,372,AC Reggiana 1919,ac reggiana 1919,ac reggiana 1919,common,,,,seed,alta
+1004,170,Reggina,reggina,reggina,common,,,,seed,alta
+1005,170,Reggina,reggina,reggina,common,,,,seed,alta
+1006,170,Reggina 1914,reggina 1914,reggina 1914,common,,,,seed,alta
+1007,373,Rijeka,rijeka,rijeka,common,,,,seed,alta
+1008,373,Rijeka,rijeka,rijeka,common,,,,seed,alta
+1009,373,HNK Rijeka,hnk rijeka,hnk rijeka,common,,,,seed,alta
+1010,374,Rimini,rimini,rimini,common,,,,seed,alta
+1011,374,Rimini,rimini,rimini,common,,,,seed,alta
+1012,374,Rimini FC,rimini fc,rimini fc,common,,,,seed,alta
+1013,284,SPAL 2013 Ferrara,spal 2013 ferrara,spal 2013 ferrara,common,,,,seed,alta
+1014,284,SPAL,spal,spal,common,,,,seed,alta
+1015,284,SPAL 2013 Ferrara,spal 2013 ferrara,spal 2013 ferrara,common,,,,seed,alta
+1016,375,Sambenedettese,sambenedettese,sambenedettese,common,,,,seed,alta
+1017,375,Sambenedettese,sambenedettese,sambenedettese,common,,,,seed,alta
+1018,375,AS Sambenedettese,as sambenedettese,as sambenedettese,common,,,,seed,alta
+1019,376,Savoia,savoia,savoia,common,,,,seed,alta
+1020,376,Savoia,savoia,savoia,common,,,,seed,alta
+1021,376,US Savoia 1908,us savoia 1908,us savoia 1908,common,,,,seed,alta
+1022,377,Savona,savona,savona,common,,,,seed,alta
+1023,377,Savona,savona,savona,common,,,,seed,alta
+1024,377,Savona FBC,savona fbc,savona fbc,common,,,,seed,alta
+1025,378,Seregno,seregno,seregno,common,,,,seed,alta
+1026,378,Seregno,seregno,seregno,common,,,,seed,alta
+1027,378,Seregno Calcio,seregno calcio,seregno calcio,common,,,,seed,alta
+1028,379,Sestrese,sestrese,sestrese,common,,,,seed,alta
+1029,379,Sestrese,sestrese,sestrese,common,,,,seed,alta
+1030,379,FS Sestrese Calcio 1919,fs sestrese calcio 1919,fs sestrese calcio 1919,common,,,,seed,alta
+1031,380,Siena,siena,siena,common,,,,seed,alta
+1032,380,Siena,siena,siena,common,,,,seed,alta
+1033,380,ACN Siena 1904,acn siena 1904,acn siena 1904,common,,,,seed,alta
+1034,11,Simmenthal-Monza,simmenthal monza,simmenthal monza,common,,,,seed,alta
+1035,11,Monza,monza,monza,common,,,,seed,alta
+1036,11,AC Monza,ac monza,ac monza,common,,,,seed,alta
+1037,381,Siracusa,siracusa,siracusa,common,,,,seed,alta
+1038,381,Siracusa,siracusa,siracusa,common,,,,seed,alta
+1039,381,Siracusa Calcio 1924,siracusa calcio 1924,siracusa calcio 1924,common,,,,seed,alta
+1040,382,Skonto,skonto,skonto,common,,,,seed,alta
+1041,382,Skonto,skonto,skonto,common,,,,seed,alta
+1042,382,Skonto Riga,skonto riga,skonto riga,common,,,,seed,alta
+1043,383,Sorrento,sorrento,sorrento,common,,,,seed,alta
+1044,383,Sorrento,sorrento,sorrento,common,,,,seed,alta
+1045,383,Sorrento Calcio 1945,sorrento calcio 1945,sorrento calcio 1945,common,,,,seed,alta
+1046,384,Southampton,southampton,southampton,common,,,,seed,alta
+1047,384,Southampton,southampton,southampton,common,,,,seed,alta
+1048,384,Southampton FC,southampton fc,southampton fc,common,,,,seed,alta
+1049,385,Sporting Lisbona,sporting lisbona,sporting lisbona,common,,,,seed,alta
+1050,385,Sporting Lisbona,sporting lisbona,sporting lisbona,common,,,,seed,alta
+1051,385,Sporting CP,sporting cp,sporting cp,common,,,,seed,alta
+1052,386,Standard Liegi,standard liegi,standard liegi,common,,,,seed,alta
+1053,386,Standard Liegi,standard liegi,standard liegi,common,,,,seed,alta
+1054,386,Standard Liegi,standard liegi,standard liegi,common,,,,seed,alta
+1055,387,Steaua Bucarest,steaua bucarest,steaua bucarest,common,,,,seed,alta
+1056,387,Steaua Bucarest,steaua bucarest,steaua bucarest,common,,,,seed,alta
+1057,387,FCSB,fcsb,fcsb,common,,,,seed,alta
+1058,10,Talmone Torino,talmone torino,talmone torino,common,,,,seed,alta
+1059,10,Torino,torino,torino,common,,,,seed,alta
+1060,10,Torino FC,torino fc,torino fc,common,,,,seed,alta
+1061,259,Taranto,taranto,taranto,common,,,,seed,alta
+1062,259,Taranto,taranto,taranto,common,,,,seed,alta
+1063,259,Taranto FC 1927,taranto fc 1927,taranto fc 1927,common,,,,seed,alta
+1064,388,Ternana,ternana,ternana,common,,,,seed,alta
+1065,388,Ternana,ternana,ternana,common,,,,seed,alta
+1066,388,Ternana Calcio,ternana calcio,ternana calcio,common,,,,seed,alta
+1067,245,Tolosa,tolosa,tolosa,common,,,,seed,alta
+1068,245,Tolosa,tolosa,tolosa,common,,,,seed,alta
+1069,245,Toulouse FC,toulouse fc,toulouse fc,common,,,,seed,alta
+1070,389,Torpedo Mosca,torpedo mosca,torpedo mosca,common,,,,seed,alta
+1071,389,Torpedo Mosca,torpedo mosca,torpedo mosca,common,,,,seed,alta
+1072,389,Torpedo Mosca,torpedo mosca,torpedo mosca,common,,,,seed,alta
+1073,390,Trani,trani,trani,common,,,,seed,alta
+1074,390,Trani,trani,trani,common,,,,seed,alta
+1075,390,Vigor Trani Calcio,vigor trani calcio,vigor trani calcio,common,,,,seed,alta
+1076,391,Treviso,treviso,treviso,common,,,,seed,alta
+1077,391,Treviso,treviso,treviso,common,,,,seed,alta
+1078,391,Treviso FBC 1993,treviso fbc 1993,treviso fbc 1993,common,,,,seed,alta
+1079,392,Triestina,triestina,triestina,common,,,,seed,alta
+1080,392,Triestina,triestina,triestina,common,,,,seed,alta
+1081,392,US Triestina Calcio 1918,us triestina calcio 1918,us triestina calcio 1918,common,,,,seed,alta
+1082,393,Utrecht,utrecht,utrecht,common,,,,seed,alta
+1083,393,Utrecht,utrecht,utrecht,common,,,,seed,alta
+1084,393,FC Utrecht,fc utrecht,fc utrecht,common,,,,seed,alta
+1085,394,Valencia,valencia,valencia,common,,,,seed,alta
+1086,394,Valencia,valencia,valencia,common,,,,seed,alta
+1087,394,Valencia CF,valencia cf,valencia cf,common,,,,seed,alta
+1088,395,Varese,varese,varese,common,,,,seed,alta
+1089,395,Varese,varese,varese,common,,,,seed,alta
+1090,395,Citta di Varese,citta di varese,citta di varese,common,,,,seed,alta
+1091,282,Verona,verona,verona,common,,,,seed,alta
+1092,282,Hellas Verona,hellas verona,hellas verona,common,,,,seed,alta
+1093,282,Hellas Verona FC,hellas verona fc,hellas verona fc,common,,,,seed,alta
+1094,258,Vicenza,vicenza,vicenza,common,,,,seed,alta
+1095,258,Vicenza,vicenza,vicenza,common,,,,seed,alta
+1096,258,LR Vicenza,lr vicenza,lr vicenza,common,,,,seed,alta
+1097,396,Videoton,videoton,videoton,common,,,,seed,alta
+1098,396,Videoton,videoton,videoton,common,,,,seed,alta
+1099,396,Fehervar FC,fehervar fc,fehervar fc,common,,,,seed,alta
+1100,397,Viktoria Plzeň,viktoria plzen,viktoria plzen,common,,,,seed,alta
+1101,397,Viktoria Plzen,viktoria plzen,viktoria plzen,common,,,,seed,alta
+1102,397,FC Viktoria Plzen,fc viktoria plzen,fc viktoria plzen,common,,,,seed,alta
+1103,398,Villarreal,villarreal,villarreal,common,,,,seed,alta
+1104,398,Villarreal,villarreal,villarreal,common,,,,seed,alta
+1105,398,Villarreal CF,villarreal cf,villarreal cf,common,,,,seed,alta
+1106,399,Vllaznia,vllaznia,vllaznia,common,,,,seed,alta
+1107,399,Vllaznia,vllaznia,vllaznia,common,,,,seed,alta
+1108,399,KF Vllaznia,kf vllaznia,kf vllaznia,common,,,,seed,alta
+1109,131,Werder Brema,werder brema,werder brema,common,,,,seed,alta
+1110,131,Werder Brema,werder brema,werder brema,common,,,,seed,alta
+1111,131,SV Werder Brema,sv werder brema,sv werder brema,common,,,,seed,alta
+1112,144,Wettingen,wettingen,wettingen,common,,,,seed,alta
+1113,144,Wettingen,wettingen,wettingen,common,,,,seed,alta
+1114,144,FC Wettingen,fc wettingen,fc wettingen,common,,,,seed,alta
+1115,400,Wiener SK,wiener sk,wiener sk,common,,,,seed,alta
+1116,400,Wiener SK,wiener sk,wiener sk,common,,,,seed,alta
+1117,400,Wiener Sport-Club,wiener sport club,wiener sport club,common,,,,seed,alta
+1118,401,jpesti Dzsa,jpesti dzsa,jpesti dzsa,common,,,,seed,alta
+1119,401,Ujpest,ujpest,ujpest,common,,,,seed,alta
+1120,401,Ujpest FC,ujpest fc,ujpest fc,common,,,,seed,alta
+1121,401,Újpesti Dózsa,ujpesti dozsa,ujpesti dozsa,common,,,,seed,alta
+1122,401,Ujpest,ujpest,ujpest,common,,,,seed,alta
+1123,401,Ujpest FC,ujpest fc,ujpest fc,common,,,,seed,alta
+1124,402,Śląsk Breslavia,slask breslavia,slask breslavia,common,,,,seed,alta
+1125,402,Slask Breslavia,slask breslavia,slask breslavia,common,,,,seed,alta
+1126,402,WKS Slask Breslavia,wks slask breslavia,wks slask breslavia,common,,,,seed,alta

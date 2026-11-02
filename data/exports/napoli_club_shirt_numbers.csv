@@ -1,0 +1,1416 @@
+﻿shirt_number,player_id,player_name,seasons_worn,is_current
+1,240414,Alex Meret,since 18/19,1
+1,103916,Rafael Cabral,13/14 - 17/18,0
+1,5880,Morgan De Sanctis,11/12 - 12/13,0
+1,20738,Gennaro Iezzo,05/06 - 10/11,0
+1,6060,Emanuele Belardi,04/05,0
+1,24327,Emanuele Manitta,03/04,0
+1,224936,Francesco Mancini,01/02 - 02/03,0
+1,5986,Ferdinando Coppola,00/01,0
+1,30646,Luca Mondini,99/00,0
+1,6806,Giuseppe Taglialatela,93/94 - 98/99,0
+1,86766,Raffaele Di Fusco,93/94,0
+1,176434,Marco Sansonetti,92/93,0
+1,23282,Angelo Pagotto,92/93,0
+1,6806,Giuseppe Taglialatela,90/91,0
+1,116706,Giovanni Galli,90/91 - 92/93,0
+1,120386,Giuliano Giuliani,88/89 - 89/90,0
+1,86766,Raffaele Di Fusco,86/87,0
+1,216653,Claudio Garella,85/86 - 87/88,0
+1,145376,Luciano Castellini,79/80 - 84/85,0
+1,354044,Nevio Favaro,76/77,0
+1,341225,Pasquale Fiore,75/76,0
+1,354044,Nevio Favaro,74/75,0
+1,412255,Pietro Carmignani,73/74 - 76/77,0
+1,89229,Dino Zoff,67/68 - 69/70,0
+1,483291,Pacifico Cuman,66/67,0
+1,372169,Claudio Bandoni,66/67,0
+1,293086,Ottavio Bugatti,55/56,0
+1,523484,Biagio Dreossi,51/52,0
+1,301114,Giuseppe Casari,51/52,0
+2,820635,Costantino Favasuli,since 26/27,1
+2,126711,Kévin Malcuit,18/19 - 21/22,0
+2,200056,Elseid Hysaj,15/16 - 16/17,0
+2,5668,Anthony Réveillère,13/14,0
+2,8207,Gianluca Grava,05/06 - 12/13,0
+2,21757,Alberto Savino,04/05,0
+2,88317,Alessandro Del Grosso,03/04,0
+2,14147,Abdelilah Saber,00/01 - 03/04,0
+2,5837,Massimo Oddo,99/00,0
+2,15458,Daniele Daino,98/99,0
+2,6979,William Prunier,97/98,0
+2,7565,Roberto Ayala,95/96 - 97/98,0
+2,22288,Alessandro Sbrizzo,94/95,0
+2,224935,Luca Luzardi,94/95,0
+2,224531,Salvatore Matrecano,94/95,0
+2,181052,Fausto Pari,93/94 - 94/95,0
+2,5775,Fabio Cannavaro,93/94 - 94/95,0
+2,152724,Giovanni Bia,93/94,0
+2,223009,Carlo Cornacchia,92/93,0
+2,120381,Giancarlo Corradini,92/93 - 93/94,0
+2,180551,Ivan Rizzardi,90/91,0
+2,120381,Giancarlo Corradini,90/91,0
+2,120381,Giancarlo Corradini,88/89,0
+2,120429,Giuseppe Volpecina,86/87,0
+2,228856,Massimo Filardi,85/86,0
+2,5749,Ciro Ferrara,85/86 - 93/94,0
+2,222969,Simone Boldini,84/85,0
+2,224921,Raimondo Marino,82/83,0
+2,216655,Giuseppe Bruscolotti,80/81 - 87/88,0
+2,335144,Claudio Vinazzani,79/80,0
+2,294779,Andrea Orlandini,75/76,0
+2,447987,Antonio La Palma,75/76,0
+2,145342,Tarcisio Burgnich,74/75,0
+2,235935,Spartaco Landini,74/75 - 75/76,0
+2,469102,Luigi Pogliana,74/75,0
+2,216655,Giuseppe Bruscolotti,73/74 - 76/77,0
+2,479799,Luciano Monticolo,69/70,0
+2,469102,Luigi Pogliana,69/70,0
+2,355729,Pietro Adorni,66/67,0
+2,173844,Stelio Nardin,66/67 - 69/70,0
+2,523821,Remo Bertoni,55/56,0
+2,415771,Giovanni Ciccarelli,55/56,0
+2,415775,Luciano Comaschi,55/56,0
+2,422616,Alberto Delfrati,51/52,0
+3,525299,Miguel Gutiérrez,25/26,0
+3,735568,Natan,23/24 - 24/25,0
+3,503482,Min-jae Kim,22/23,0
+3,342046,Axel Tuanzebe,21/22,0
+3,612065,Karim Zedadka,20/21,0
+3,612065,Karim Zedadka,18/19,0
+3,39799,Ivan Strinic,14/15 - 17/18,0
+3,147396,Bruno Uvini,12/13 - 13/14,0
+3,66960,Ignacio Fideleff,11/12,0
+3,80158,Luigi Vitale,10/11,0
+3,80158,Luigi Vitale,08/09,0
+3,6444,Erminio Rullo,06/07 - 07/08,0
+3,21155,Mirko Savini,05/06,0
+3,30649,Nicola Mora,04/05,0
+3,6036,Marco Zamboni,03/04,0
+3,21964,Matteo Villa,01/02 - 02/03,0
+3,13834,Facundo Quiroga,00/01,0
+3,228558,Mauro Facci,99/00,0
+3,224538,Raffaele Sergio,97/98 - 98/99,0
+3,6086,Mauro Milanese,96/97,0
+3,28873,Massimo Tarantino,94/95 - 95/96,0
+3,222760,Roberto Policano,94/95,0
+3,142521,Enzo Gambaro,93/94,0
+3,28873,Massimo Tarantino,92/93,0
+3,5775,Fabio Cannavaro,92/93,0
+3,120377,Massimo Crippa,92/93,0
+3,222760,Roberto Policano,92/93,0
+3,180554,Giorgio Venturin,90/91,0
+3,120385,Alessandro Renica,90/91,0
+3,180551,Ivan Rizzardi,90/91,0
+3,120381,Giancarlo Corradini,89/90 - 90/91,0
+3,120379,Marco Baroni,89/90,0
+3,226105,Antonio Carannante,88/89,0
+3,118252,Giovanni Francini,87/88 - 93/94,0
+3,120429,Giuseppe Volpecina,86/87,0
+3,5749,Ciro Ferrara,86/87 - 87/88,0
+3,228856,Massimo Filardi,85/86,0
+3,224921,Raimondo Marino,85/86,0
+3,5749,Ciro Ferrara,84/85,0
+3,337213,Marco De Simone,84/85,0
+3,226105,Antonio Carannante,84/85 - 85/86,0
+3,222969,Simone Boldini,84/85,0
+3,336128,Angelo Frappampina,83/84,0
+3,216654,Moreno Ferrario,82/83,0
+3,224921,Raimondo Marino,81/82,0
+3,243800,Filippo Citterio,81/82 - 82/83,0
+3,338293,Armando Cascione,80/81,0
+3,166539,Attilio Tesser,79/80,0
+3,370731,Giovanni Vavassori,76/77,0
+3,447987,Antonio La Palma,75/76 - 76/77,0
+3,216655,Giuseppe Bruscolotti,74/75,0
+3,294779,Andrea Orlandini,74/75 - 76/77,0
+3,145342,Tarcisio Burgnich,74/75,0
+3,469102,Luigi Pogliana,73/74 - 75/76,0
+3,482013,Salvatore Albano,69/70,0
+3,478850,Dino Panzanato,68/69,0
+3,316251,Romano Micelli,68/69,0
+3,469102,Luigi Pogliana,67/68 - 69/70,0
+3,484436,Antonio Girardo,66/67,0
+3,316251,Romano Micelli,66/67,0
+3,415774,Elia Greco,55/56,0
+3,415771,Giovanni Ciccarelli,55/56,0
+3,415775,Luciano Comaschi,55/56,0
+3,415775,Luciano Comaschi,51/52,0
+3,516140,Manlio Scopigno,51/52,0
+3,422617,Jenő Eugen Vinyei,51/52,0
+3,516137,Bruno Gramaglia,51/52,0
+4,386446,Alessandro Buongiorno,since 24/25,1
+4,82070,Diego Demme,19/20 - 23/24,0
+4,84835,Emanuele Giaccherini,16/17,0
+4,52513,Henrique,13/14 - 15/16,0
+4,6427,Marco Donadel,11/12 - 13/14,0
+4,62920,Víctor Ruiz,10/11,0
+4,30647,Francesco Montervino,05/06 - 09/10,0
+4,30648,Cataldo Montesanto,04/05,0
+4,17407,José Luís Vidigal,02/03 - 03/04,0
+4,15453,Dario Baccin,00/01 - 01/02,0
+4,220720,Emiliano Bigica,99/00 - 00/01,0
+4,6296,Fabio Rossitto,97/98 - 98/99,0
+4,102163,Freddy Rincón,94/95,0
+4,16871,Fabio Pecchia,94/95,0
+4,199545,Roberto Bordin,93/94 - 96/97,0
+4,5921,Eugenio Corini,93/94,0
+4,152724,Giovanni Bia,93/94,0
+4,142521,Enzo Gambaro,93/94,0
+4,5775,Fabio Cannavaro,92/93,0
+4,120383,Massimo Mauro,92/93,0
+4,181052,Fausto Pari,92/93 - 94/95,0
+4,120381,Giancarlo Corradini,92/93,0
+4,28873,Massimo Tarantino,91/92,0
+4,223104,Stefano De Agostini,91/92,0
+4,180551,Ivan Rizzardi,90/91,0
+4,120379,Marco Baroni,89/90,0
+4,116755,Fernando De Napoli,88/89,0
+4,120381,Giancarlo Corradini,88/89,0
+4,120377,Massimo Crippa,88/89 - 92/93,0
+4,118253,Luca Fusi,88/89,0
+4,118252,Giovanni Francini,87/88,0
+4,228856,Massimo Filardi,85/86,0
+4,224921,Raimondo Marino,85/86,0
+4,116682,Salvatore Bagni,84/85 - 87/88,0
+4,226421,Costanzo Celestini,84/85 - 85/86,0
+4,336129,Marco Masi,83/84,0
+4,216654,Moreno Ferrario,82/83,0
+4,224921,Raimondo Marino,82/83,0
+4,226421,Costanzo Celestini,82/83,0
+4,474416,Mario Guidetti,81/82,0
+4,226421,Costanzo Celestini,80/81,0
+4,228872,Luciano Marangon,80/81,0
+4,135782,Mauro Bellugi,79/80,0
+4,447987,Antonio La Palma,76/77,0
+4,235935,Spartaco Landini,74/75,0
+4,469102,Luigi Pogliana,74/75,0
+4,216655,Giuseppe Bruscolotti,74/75,0
+4,447987,Antonio La Palma,74/75,0
+4,294779,Andrea Orlandini,74/75,0
+4,145342,Tarcisio Burgnich,74/75 - 76/77,0
+4,476627,Mario Zurlini,73/74,0
+4,479799,Luciano Monticolo,69/70,0
+4,216031,Aristide Guarneri,68/69,0
+4,476627,Mario Zurlini,68/69 - 69/70,0
+4,480858,Amedeo Stenti,66/67 - 68/69,0
+4,77011,Celso Posio,55/56,0
+4,415771,Giovanni Ciccarelli,55/56,0
+4,387595,Rodolfo Beltrandi,55/56,0
+4,415773,Giulio Castelli,55/56,0
+4,516137,Bruno Gramaglia,51/52,0
+4,516140,Manlio Scopigno,51/52,0
+4,415775,Luciano Comaschi,51/52,0
+4,514460,Giorgio Granata,51/52,0
+4,422617,Jenő Eugen Vinyei,51/52,0
+4,415773,Giulio Castelli,51/52,0
+5,463603,Benoît Badiashile,since 26/27,1
+5,121985,Juan Jesus,21/22 - 25/26,0
+5,182618,Tiemoué Bakayoko,20/21,0
+5,126422,Allan,15/16 - 19/20,0
+5,76799,Miguel Britos,12/13 - 14/15,0
+5,17130,Michele Pazienza,07/08 - 10/11,0
+5,22804,Fabio Gatti,06/07 - 07/08,0
+5,30655,Tommaso Romito,05/06,0
+5,21758,Gennaro Scarlato,04/05,0
+5,22216,Vittorio Tosto,03/04,0
+5,22314,Domenico Cristiano,02/03,0
+5,448930,Raffaele Rivetti,02/03,0
+5,222791,Gianluca Luppi,01/02,0
+5,216814,Oscar Magoni,00/01,0
+5,22288,Alessandro Sbrizzo,99/00,0
+5,216814,Oscar Magoni,98/99,0
+5,6002,Roberto Goretti,98/99,0
+5,228558,Mauro Facci,97/98,0
+5,4148,Alain Boghossian,96/97,0
+5,224531,Salvatore Matrecano,94/95 - 95/96,0
+5,181052,Fausto Pari,94/95,0
+5,5775,Fabio Cannavaro,93/94 - 94/95,0
+5,152724,Giovanni Bia,93/94,0
+5,116729,Sebastiano Nela,92/93,0
+5,118252,Giovanni Francini,92/93 - 93/94,0
+5,120381,Giancarlo Corradini,92/93 - 93/94,0
+5,28873,Massimo Tarantino,91/92 - 92/93,0
+5,118252,Giovanni Francini,90/91,0
+5,120379,Marco Baroni,89/90 - 90/91,0
+5,117634,Alemão,88/89 - 91/92,0
+5,120381,Giancarlo Corradini,88/89 - 90/91,0
+5,216657,Tebaldo Bigliardi,86/87 - 88/89,0
+5,5749,Ciro Ferrara,86/87,0
+5,224921,Raimondo Marino,85/86,0
+5,337213,Marco De Simone,84/85,0
+5,216654,Moreno Ferrario,83/84 - 87/88,0
+5,216654,Moreno Ferrario,81/82,0
+5,135621,Ruud Krol,80/81 - 82/83,0
+5,216654,Moreno Ferrario,79/80,0
+5,224007,Sauro Catellani,76/77,0
+5,216655,Giuseppe Bruscolotti,75/76,0
+5,370731,Giovanni Vavassori,75/76 - 76/77,0
+5,474532,Luigi Punziano,74/75 - 75/76,0
+5,235935,Spartaco Landini,74/75 - 75/76,0
+5,447987,Antonio La Palma,74/75 - 75/76,0
+5,370731,Giovanni Vavassori,73/74,0
+5,173844,Stelio Nardin,69/70,0
+5,478814,Giacomo Vianello,69/70,0
+5,216031,Aristide Guarneri,68/69,0
+5,478850,Dino Panzanato,66/67 - 69/70,0
+5,415774,Elia Greco,55/56,0
+5,415772,Armando Tre Re,55/56,0
+5,422617,Jenő Eugen Vinyei,51/52,0
+5,514460,Giorgio Granata,51/52,0
+5,516137,Bruno Gramaglia,51/52,0
+5,415773,Giulio Castelli,51/52,0
+6,423744,Billy Gilmour,since 24/25,1
+6,87884,Mário Rui,17/18 - 23/24,0
+6,84903,Mirko Valdifiori,15/16 - 16/17,0
+6,31067,Jonathan de Guzmán,14/15,0
+6,27300,Rolando,12/13,0
+6,19182,Salvatore Aronica,08/09 - 12/13,0
+6,6152,Rubén Maldonado,05/06 - 07/08,0
+6,22795,Giovanni Ignoffo,04/05,0
+6,12564,Marko Perovic,03/04,0
+6,16853,Sean Sogliano,03/04,0
+6,227780,Marco Quadrini,02/03,0
+6,220720,Emiliano Bigica,01/02,0
+6,5754,Salvatore Fresi,00/01,0
+6,151881,Giovanni Lopez,99/00,0
+6,6979,William Prunier,97/98,0
+6,7565,Roberto Ayala,97/98,0
+6,17558,André Cruz,94/95 - 96/97,0
+6,227658,Gabriele Grossi,94/95,0
+6,181052,Fausto Pari,94/95,0
+6,152724,Giovanni Bia,93/94,0
+6,228559,Luca Altomare,92/93,0
+6,116729,Sebastiano Nela,92/93 - 93/94,0
+6,228303,Paolo Ziliani,92/93,0
+6,222760,Roberto Policano,92/93,0
+6,181052,Fausto Pari,92/93,0
+6,3113,Laurent Blanc,91/92,0
+6,120381,Giancarlo Corradini,89/90 - 93/94,0
+6,120379,Marco Baroni,89/90 - 90/91,0
+6,118253,Luca Fusi,88/89,0
+6,120385,Alessandro Renica,85/86 - 90/91,0
+6,301770,Walter De Vecchi,84/85,0
+6,224921,Raimondo Marino,84/85,0
+6,216654,Moreno Ferrario,84/85 - 86/87,0
+6,224552,Paolo Dal Fiume,83/84,0
+6,135621,Ruud Krol,83/84,0
+6,226421,Costanzo Celestini,82/83,0
+6,243800,Filippo Citterio,82/83,0
+6,224921,Raimondo Marino,81/82,0
+6,216654,Moreno Ferrario,80/81 - 81/82,0
+6,474416,Mario Guidetti,79/80,0
+6,335144,Claudio Vinazzani,76/77,0
+6,145342,Tarcisio Burgnich,76/77,0
+6,447987,Antonio La Palma,76/77,0
+6,370731,Giovanni Vavassori,76/77,0
+6,256241,Salvatore Esposito,74/75 - 75/76,0
+6,466400,Rosario Rampanti,74/75,0
+6,294779,Andrea Orlandini,73/74 - 76/77,0
+6,478814,Giacomo Vianello,69/70,0
+6,476627,Mario Zurlini,68/69,0
+6,254422,Ottavio Bianchi,68/69 - 69/70,0
+6,484436,Antonio Girardo,67/68,0
+6,293092,Flavio Emoli,66/67,0
+6,254422,Ottavio Bianchi,66/67,0
+6,415771,Giovanni Ciccarelli,55/56,0
+6,77011,Celso Posio,55/56,0
+6,514460,Giorgio Granata,55/56,0
+6,514460,Giorgio Granata,51/52,0
+6,522518,Aldo Giovannini,51/52,0
+6,516137,Bruno Gramaglia,51/52,0
+6,415773,Giulio Castelli,51/52,0
+6,369591,Antonio Bacchetti,51/52,0
+6,518271,Paolo Todeschini,51/52,0
+7,469822,David Neres,since 24/25,1
+7,400489,Eljif Elmas,20/21 - 23/24,0
+7,61253,José Callejón,13/14 - 19/20,0
+7,48280,Edinson Cavani,10/11 - 12/13,0
+7,50570,Ezequiel Lavezzi,07/08 - 09/10,0
+7,30665,Ivano Trotta,06/07,0
+7,30648,Cataldo Montesanto,05/06,0
+7,16631,Ignazio Abate,04/05,0
+7,3896,David Sesa,02/03 - 03/04,0
+7,108638,Francesco Moriero,00/01 - 01/02,0
+7,227705,Francesco Turrini,96/97 - 99/00,0
+7,181052,Fausto Pari,94/95,0
+7,120392,Renato Buso,93/94 - 95/96,0
+7,3699,Paolo Di Canio,93/94,0
+7,222747,Giorgio Bresciani,93/94,0
+7,228559,Luca Altomare,92/93,0
+7,222760,Roberto Policano,92/93,0
+7,177667,Angelo Carbone,92/93,0
+7,120383,Massimo Mauro,92/93,0
+7,120377,Massimo Crippa,92/93,0
+7,223354,Vittorio Pusceddu,91/92,0
+7,180551,Ivan Rizzardi,90/91,0
+7,180554,Giorgio Venturin,90/91,0
+7,120383,Massimo Mauro,90/91,0
+7,118253,Luca Fusi,88/89 - 89/90,0
+7,226105,Antonio Carannante,88/89,0
+7,120381,Giancarlo Corradini,88/89 - 92/93,0
+7,120377,Massimo Crippa,88/89 - 89/90,0
+7,117626,Careca,87/88,0
+7,224578,Paolo Miano,87/88,0
+7,120380,Andrea Carnevale,86/87,0
+7,216656,Luciano Sola,86/87 - 87/88,0
+7,107802,Francesco Baiano,85/86,0
+7,169649,Luigi Caffarelli,85/86 - 86/87,0
+7,135804,Daniel Bertoni,84/85 - 85/86,0
+7,169649,Luigi Caffarelli,83/84,0
+7,336142,Claudio Vagheggi,82/83,0
+7,226421,Costanzo Celestini,82/83 - 84/85,0
+7,335144,Claudio Vinazzani,82/83,0
+7,226114,Paolo Benedetti,81/82,0
+7,335685,Enrico Nicolini,80/81,0
+7,255307,Oscar Damiani,79/80 - 81/82,0
+7,335144,Claudio Vinazzani,76/77,0
+7,145371,Antonio Juliano,74/75,0
+7,430420,Sergio Clerici,74/75,0
+7,224022,Giuseppe Massa,74/75 - 76/77,0
+7,466400,Rosario Rampanti,74/75,0
+7,475867,Giovanni Ferradini,73/74,0
+7,430843,Cané,73/74,0
+7,405003,Giovanni Improta,69/70,0
+7,182033,Kurt Hamrin,69/70,0
+7,476652,Pier Paolo Manservisi,69/70,0
+7,402579,Ivano Bosdaves,69/70,0
+7,135791,Claudio Sala,68/69,0
+7,481869,Egidio Salvi,68/69,0
+7,31571,José Altafini,68/69,0
+7,402579,Ivano Bosdaves,67/68,0
+7,145523,Alberto Bigon,67/68,0
+7,430843,Cané,66/67,0
+7,514464,Piero Golin,55/56,0
+7,505364,Giancarlo Vitali,55/56,0
+7,291419,István Mike,51/52,0
+7,516141,Silvio Formentin,51/52,0
+7,509237,Naim Kryeziu,51/52,0
+7,369262,Mario Astorri,51/52,0
+7,502399,Dionisio Arce,51/52,0
+8,315969,Scott McTominay,since 24/25,1
+8,391065,Hamed Traoré,23/24,0
+8,350219,Fabián Ruiz,18/19 - 21/22,0
+8,102017,Jorginho,13/14 - 17/18,0
+8,21863,Andrea Dossena,09/10 - 12/13,0
+8,6090,Manuele Blasi,07/08 - 09/10,0
+8,21695,Piá,06/07,0
+8,28819,Marco Capparella,05/06,0
+8,21813,Nicola Corrent,04/05,0
+8,3510,Dario Marcolin,03/04,0
+8,17407,José Luís Vidigal,03/04,0
+8,3416,Claudio Husaín,01/02 - 02/03,0
+8,17407,José Luís Vidigal,00/01,0
+8,164567,Cristiano Scapolo,99/00,0
+8,228558,Mauro Facci,98/99,0
+8,21986,Raffaele Longo,97/98,0
+8,3758,Caio Ribeiro,96/97,0
+8,4148,Alain Boghossian,94/95 - 95/96,0
+8,102163,Freddy Rincón,94/95,0
+8,5921,Eugenio Corini,93/94 - 94/95,0
+8,16871,Fabio Pecchia,93/94 - 94/95,0
+8,199545,Roberto Bordin,93/94 - 94/95,0
+8,228559,Luca Altomare,93/94,0
+8,34025,Jonas Thern,92/93 - 93/94,0
+8,120377,Massimo Crippa,92/93,0
+8,223104,Stefano De Agostini,91/92,0
+8,120383,Massimo Mauro,90/91,0
+8,180554,Giorgio Venturin,90/91,0
+8,118253,Luca Fusi,89/90,0
+8,117634,Alemão,88/89,0
+8,120377,Massimo Crippa,88/89 - 89/90,0
+8,226105,Antonio Carannante,88/89,0
+8,154731,Bruno Giordano,86/87,0
+8,118256,Francesco Romano,86/87,0
+8,116755,Fernando De Napoli,86/87 - 91/92,0
+8,135789,Eraldo Pecci,85/86,0
+8,215583,Ruben Buriani,85/86,0
+8,287420,Massimiliano Favo,84/85 - 85/86,0
+8,301770,Walter De Vecchi,84/85,0
+8,116682,Salvatore Bagni,84/85 - 85/86,0
+8,226421,Costanzo Celestini,84/85,0
+8,227544,Pasquale Casale,83/84,0
+8,224552,Paolo Dal Fiume,82/83 - 83/84,0
+8,226421,Costanzo Celestini,82/83,0
+8,226114,Paolo Benedetti,81/82,0
+8,335144,Claudio Vinazzani,80/81 - 82/83,0
+8,432165,Erasmo Lucido,79/80,0
+8,227544,Pasquale Casale,75/76,0
+8,256241,Salvatore Esposito,75/76 - 76/77,0
+8,357955,Antonio Albano,74/75,0
+8,430843,Cané,74/75,0
+8,145371,Antonio Juliano,73/74 - 76/77,0
+8,430843,Cané,68/69,0
+8,145371,Antonio Juliano,66/67 - 69/70,0
+8,387595,Rodolfo Beltrandi,55/56,0
+8,248636,Hasse Jeppson,55/56,0
+8,518271,Paolo Todeschini,51/52,0
+8,249219,Amedeo Amadei,51/52,0
+8,369262,Mario Astorri,51/52,0
+8,514460,Giorgio Granata,51/52,0
+8,516141,Silvio Formentin,51/52,0
+8,516140,Manlio Scopigno,51/52,0
+8,291419,István Mike,51/52,0
+8,369591,Antonio Bacchetti,51/52,0
+9,96341,Romelu Lukaku,25/26,0
+9,346890,Noah Okafor,24/25,0
+9,401923,Victor Osimhen,20/21 - 23/24,0
+9,35564,Fernando Llorente,19/20,0
+9,130360,Simone Verdi,18/19 - 19/20,0
+9,39153,Gonzalo Higuaín,13/14 - 15/16,0
+9,22268,Emanuele Calaiò,12/13,0
+9,89718,Eduardo Vargas,12/13,0
+9,22085,Giuseppe Mascara,10/11 - 11/12,0
+9,25785,Erwin Hoffer,09/10,0
+9,30873,Germán Denis,08/09,0
+9,19285,Roberto Sosa,06/07 - 07/08,0
+9,22268,Emanuele Calaiò,05/06,0
+9,23368,Massimiliano Varricchio,04/05,0
+9,6078,Gianluca Savoldi,03/04,0
+9,16745,Roberto Stellone,01/02 - 02/03,0
+9,4150,Nicola Amoruso,00/01,0
+9,22212,Stefan Schwoch,99/00,0
+9,169651,Roberto Murgita,98/99,0
+9,6008,Claudio Bellucci,97/98,0
+9,21817,Massimiliano Esposito,96/97,0
+9,180478,Massimo Agostini,94/95 - 95/96,0
+9,120392,Renato Buso,93/94,0
+9,32115,Cristian Baglieri,92/93,0
+9,222747,Giorgio Bresciani,92/93,0
+9,151825,Daniel Fonseca,92/93 - 93/94,0
+9,120383,Massimo Mauro,92/93,0
+9,180552,Andrea Silenzi,90/91,0
+9,120383,Massimo Mauro,89/90 - 90/91,0
+9,3177,Gianfranco Zola,89/90 - 90/91,0
+9,116682,Salvatore Bagni,87/88,0
+9,117626,Careca,87/88 - 92/93,0
+9,120380,Andrea Carnevale,86/87,0
+9,154731,Bruno Giordano,85/86 - 87/88,0
+9,169649,Luigi Caffarelli,84/85 - 85/86,0
+9,335136,Domenico Penzo,84/85 - 85/86,0
+9,224551,Antonino Criscimanni,82/83,0
+9,112591,Ramón Díaz,82/83,0
+9,336523,Gaetano Musella,80/81 - 81/82,0
+9,335145,Claudio Pellegrini,80/81 - 83/84,0
+9,338033,Antonio Capone,79/80,0
+9,461044,Giannantonio Sperotto,75/76,0
+9,124325,Giuseppe Savoldi,75/76 - 76/77,0
+9,405303,Giorgio Braglia,74/75,0
+9,357955,Antonio Albano,74/75,0
+9,224022,Giuseppe Massa,74/75,0
+9,256241,Salvatore Esposito,74/75,0
+9,430420,Sergio Clerici,73/74 - 74/75,0
+9,476652,Pier Paolo Manservisi,69/70,0
+9,235928,Paolo Barison,69/70,0
+9,31571,José Altafini,69/70,0
+9,146173,Harald Nielsen,68/69,0
+9,135791,Claudio Sala,68/69,0
+9,146170,Alberto Orlando,67/68,0
+9,290162,Gastone Bean,66/67,0
+9,31571,José Altafini,66/67 - 67/68,0
+9,255789,Luís Vinício,55/56,0
+9,248636,Hasse Jeppson,55/56,0
+9,502399,Dionisio Arce,51/52,0
+9,522520,Salvatore Martire,51/52,0
+9,422617,Jenő Eugen Vinyei,51/52,0
+9,369262,Mario Astorri,51/52,0
+9,249219,Amedeo Amadei,51/52,0
+10,44394,Mariano Bogliacino,05/06,0
+10,6094,Emanuele Berrettoni,04/05,0
+10,6008,Claudio Bellucci,98/99 - 00/01,0
+10,21235,Igor Protti,97/98,0
+10,65220,Beto,96/97,0
+10,224590,Fausto Pizzi,95/96,0
+10,85271,Carmelo Imbriani,94/95,0
+10,3389,Benny Carbone,94/95,0
+10,16871,Fabio Pecchia,93/94,0
+10,34025,Jonas Thern,93/94,0
+10,120392,Renato Buso,93/94,0
+10,222760,Roberto Policano,93/94,0
+10,5921,Eugenio Corini,93/94,0
+10,120383,Massimo Mauro,92/93,0
+10,3177,Gianfranco Zola,90/91 - 92/93,0
+10,120383,Massimo Mauro,89/90 - 90/91,0
+10,118256,Francesco Romano,88/89,0
+10,169649,Luigi Caffarelli,85/86,0
+10,301770,Walter De Vecchi,84/85,0
+10,8024,Diego Maradona,84/85 - 90/91,0
+10,134979,Dirceu,83/84,0
+10,112591,Ramón Díaz,82/83,0
+10,224552,Paolo Dal Fiume,82/83,0
+10,335144,Claudio Vinazzani,82/83,0
+10,224551,Antonino Criscimanni,81/82 - 82/83,0
+10,474416,Mario Guidetti,80/81,0
+10,227540,Andrea Agostinelli,79/80,0
+10,335144,Claudio Vinazzani,76/77,0
+10,294779,Andrea Orlandini,76/77,0
+10,396597,Luigi Boccolini,75/76,0
+10,357955,Antonio Albano,74/75,0
+10,430843,Cané,74/75,0
+10,466400,Rosario Rampanti,74/75,0
+10,405303,Giorgio Braglia,74/75,0
+10,430420,Sergio Clerici,74/75,0
+10,476695,Riccardo Mascheroni,73/74,0
+10,256241,Salvatore Esposito,73/74 - 76/77,0
+10,254422,Ottavio Bianchi,69/70,0
+10,31571,José Altafini,69/70,0
+10,405003,Giovanni Improta,69/70,0
+10,50816,Omar Sívori,68/69,0
+10,470228,Vincenzo Montefusco,67/68 - 69/70,0
+10,50816,Omar Sívori,66/67,0
+10,248636,Hasse Jeppson,55/56,0
+10,267867,Bruno Pesaola,55/56,0
+10,415773,Giulio Castelli,51/52,0
+10,516141,Silvio Formentin,51/52,0
+10,522518,Aldo Giovannini,51/52,0
+10,249219,Amedeo Amadei,51/52,0
+10,516140,Manlio Scopigno,51/52,0
+10,518271,Paolo Todeschini,51/52,0
+10,514460,Giorgio Granata,51/52,0
+10,473396,Flavio Cecconi,51/52,0
+11,88755,Kevin De Bruyne,since 25/26,1
+11,96341,Romelu Lukaku,24/25,0
+11,521407,Walid Cheddira,24/25,0
+11,316889,Hirving Lozano,19/20 - 23/24,0
+11,400485,Adam Ounas,18/19,0
+11,21151,Christian Maggio,08/09 - 17/18,0
+11,22268,Emanuele Calaiò,06/07 - 07/08,0
+11,21695,Piá,05/06,0
+11,52667,Leandro Guerreiro,04/05,0
+11,32099,Fábio César Montezine,02/03 - 03/04,0
+11,3532,Marek Jankulovski,01/02,0
+11,6008,Claudio Bellucci,00/01,0
+11,42116,Giuseppe Alessi,99/00,0
+11,21817,Massimiliano Esposito,98/99,0
+11,30870,José Luis Calderón,97/98,0
+11,102163,Freddy Rincón,94/95,0
+11,16871,Fabio Pecchia,93/94 - 96/97,0
+11,120392,Renato Buso,93/94,0
+11,222760,Roberto Policano,92/93 - 93/94,0
+11,151825,Daniel Fonseca,92/93,0
+11,21883,Marco Ferrante,92/93,0
+11,158112,Michele Padovano,91/92,0
+11,180556,Giuseppe Incocciati,90/91,0
+11,180554,Giorgio Venturin,90/91,0
+11,180552,Andrea Silenzi,90/91 - 91/92,0
+11,120383,Massimo Mauro,89/90,0
+11,3177,Gianfranco Zola,89/90 - 90/91,0
+11,118253,Luca Fusi,88/89,0
+11,120380,Andrea Carnevale,88/89 - 89/90,0
+11,226105,Antonio Carannante,88/89,0
+11,228856,Massimo Filardi,87/88,0
+11,120380,Andrea Carnevale,86/87,0
+11,118256,Francesco Romano,86/87 - 88/89,0
+11,228856,Massimo Filardi,85/86,0
+11,215583,Ruben Buriani,85/86,0
+11,226421,Costanzo Celestini,85/86,0
+11,169649,Luigi Caffarelli,84/85 - 86/87,0
+11,226105,Antonio Carannante,84/85,0
+11,224552,Paolo Dal Fiume,84/85,0
+11,226421,Costanzo Celestini,83/84,0
+11,336130,Massimo Palanca,83/84,0
+11,112591,Ramón Díaz,82/83,0
+11,224551,Antonino Criscimanni,82/83,0
+11,336130,Massimo Palanca,81/82,0
+11,387334,Enrico Maniero,81/82,0
+11,335145,Claudio Pellegrini,80/81 - 82/83,0
+11,255307,Oscar Damiani,80/81,0
+11,336912,Roberto Filippi,79/80,0
+11,338551,Walter Speggiorin,76/77,0
+11,251037,Luciano Chiarugi,76/77,0
+11,461044,Giannantonio Sperotto,75/76,0
+11,396597,Luigi Boccolini,75/76,0
+11,224022,Giuseppe Massa,74/75,0
+11,475867,Giovanni Ferradini,74/75,0
+11,430420,Sergio Clerici,74/75,0
+11,466400,Rosario Rampanti,74/75,0
+11,405303,Giorgio Braglia,73/74 - 75/76,0
+11,470228,Vincenzo Montefusco,69/70,0
+11,454409,Virginio Canzi,69/70,0
+11,235928,Paolo Barison,67/68 - 69/70,0
+11,404325,Paolo Braca,66/67,0
+11,146170,Alberto Orlando,66/67 - 67/68,0
+11,267867,Bruno Pesaola,55/56,0
+11,500442,Vincenzo Di Mauro,55/56,0
+11,518271,Paolo Todeschini,51/52,0
+11,509237,Naim Kryeziu,51/52,0
+11,516141,Silvio Formentin,51/52,0
+11,291419,István Mike,51/52,0
+11,516140,Manlio Scopigno,51/52,0
+11,249219,Amedeo Amadei,51/52,0
+11,369262,Mario Astorri,51/52,0
+11,502399,Dionisio Arce,51/52,0
+11,518309,Farnese Masoni,51/52,0
+12,1270926,Claudio Pugliese,since 26/27,1
+12,724099,Claudio Turi,24/25,0
+12,417414,Davide Marfella,21/22 - 22/23,0
+12,400489,Eljif Elmas,19/20,0
+12,604914,João Pedro Piai,18/19,0
+12,250683,Nikita Contini,18/19,0
+12,250683,Nikita Contini,13/14 - 14/15,0
+12,200168,Diamante Crispino,12/13,0
+12,87052,Nicolao Cardoso,10/11,0
+12,21695,Piá,08/09 - 09/10,0
+12,59635,Biagio Del Giudice,07/08,0
+12,368990,Giuseppe Marino,06/07,0
+12,21686,Matteo Gianello,05/06,0
+12,61354,Raffaele Gragnaniello,02/03,0
+12,5986,Ferdinando Coppola,98/99 - 99/00,0
+12,228556,Luigi Malafronte,96/97,0
+12,735095,Sabatino Nese,94/95,0
+12,86766,Raffaele Di Fusco,93/94 - 97/98,0
+12,23282,Angelo Pagotto,92/93 - 93/94,0
+12,116706,Giovanni Galli,92/93,0
+12,6806,Giuseppe Taglialatela,92/93,0
+12,176434,Marco Sansonetti,91/92 - 92/93,0
+12,116706,Giovanni Galli,90/91,0
+12,6806,Giuseppe Taglialatela,90/91,0
+12,216656,Luciano Sola,87/88,0
+12,86766,Raffaele Di Fusco,86/87 - 89/90,0
+12,216653,Claudio Garella,86/87,0
+12,345982,Enrico Zazzaro,85/86,0
+12,86766,Raffaele Di Fusco,83/84 - 84/85,0
+12,357559,Massimo Assante,83/84,0
+12,366726,Raffaele Ceriello,81/82 - 82/83,0
+12,341225,Pasquale Fiore,79/80 - 82/83,0
+12,472605,Aniello Esposito,76/77,0
+12,412255,Pietro Carmignani,76/77,0
+12,341225,Pasquale Fiore,74/75 - 75/76,0
+12,354044,Nevio Favaro,74/75 - 76/77,0
+12,476628,Mario Da Pozzo,73/74,0
+12,479802,Marcello Trevisan,69/70,0
+12,483291,Pacifico Cuman,68/69,0
+13,257732,Amir Rrahmani,since 21/22,1
+13,278531,Sebastiano Luperto,18/19 - 20/21,0
+13,465003,Michael Scarf,17/18,0
+13,120458,Davide Bariti,13/14,0
+13,73097,Omar El Kaddouri,12/13,0
+13,56817,Fabiano Santacroce,07/08 - 10/11,0
+13,21832,David Giubilato,05/06,0
+13,24641,Mario Cvitanovic,03/04,0
+13,24331,Mariano Stendardo,02/03,0
+13,20896,Raffaele Ametrano,01/02,0
+13,3532,Marek Jankulovski,00/01,0
+13,192381,Antonino Asta,99/00,0
+13,102633,Luigi Panarelli,96/97 - 98/99,0
+13,22288,Alessandro Sbrizzo,95/96,0
+13,224531,Salvatore Matrecano,94/95,0
+13,227658,Gabriele Grossi,94/95,0
+13,224935,Luca Luzardi,94/95,0
+13,116729,Sebastiano Nela,93/94,0
+13,82694,Giovanni Langella,93/94,0
+13,222760,Roberto Policano,93/94 - 94/95,0
+13,152724,Giovanni Bia,93/94,0
+13,5775,Fabio Cannavaro,92/93 - 93/94,0
+13,223009,Carlo Cornacchia,92/93,0
+13,118252,Giovanni Francini,92/93,0
+13,120381,Giancarlo Corradini,92/93 - 93/94,0
+13,5749,Ciro Ferrara,92/93,0
+13,180552,Andrea Silenzi,91/92,0
+13,223354,Vittorio Pusceddu,91/92,0
+13,28873,Massimo Tarantino,91/92 - 92/93,0
+13,228856,Massimo Filardi,91/92,0
+13,254988,Gianfranco Germoni,90/91,0
+13,300550,Leo Flavio,90/91,0
+13,223464,Gianluca Francesconi,90/91,0
+13,180551,Ivan Rizzardi,90/91,0
+13,120385,Alessandro Renica,90/91,0
+13,180554,Giorgio Venturin,90/91,0
+13,118252,Giovanni Francini,90/91,0
+13,120379,Marco Baroni,89/90 - 90/91,0
+13,248344,Simone Airoldi,89/90,0
+13,28873,Massimo Tarantino,89/90,0
+13,120381,Giancarlo Corradini,89/90 - 90/91,0
+13,227381,Giovanni Di Rocco,88/89,0
+13,228856,Massimo Filardi,88/89,0
+13,226105,Antonio Carannante,88/89,0
+13,224578,Paolo Miano,87/88,0
+13,216657,Tebaldo Bigliardi,86/87 - 89/90,0
+13,216654,Moreno Ferrario,85/86,0
+13,216655,Giuseppe Bruscolotti,85/86 - 87/88,0
+13,224921,Raimondo Marino,85/86,0
+13,257239,Ciro Ferrara,85/86,0
+13,486112,Andrea Maggiotto,85/86,0
+13,135804,Daniel Bertoni,85/86,0
+13,337213,Marco De Simone,84/85,0
+13,5749,Ciro Ferrara,84/85 - 86/87,0
+13,226105,Antonio Carannante,84/85 - 85/86,0
+13,222969,Simone Boldini,83/84 - 84/85,0
+13,338526,Carmine Della Pietra,83/84,0
+13,226104,Roberto Amodio,81/82 - 82/83,0
+13,338293,Armando Cascione,80/81,0
+13,406995,Francesco Ciccarelli,80/81,0
+13,432167,Francesco Bomben,79/80,0
+13,368811,Salvatore Armidoro,76/77,0
+13,474224,Sandro Coco,76/77,0
+13,447987,Antonio La Palma,76/77,0
+13,224022,Giuseppe Massa,76/77,0
+13,256241,Salvatore Esposito,75/76 - 76/77,0
+13,370731,Giovanni Vavassori,75/76,0
+13,461044,Giannantonio Sperotto,75/76,0
+13,396597,Luigi Boccolini,75/76,0
+13,466400,Rosario Rampanti,74/75,0
+13,469102,Luigi Pogliana,74/75 - 76/77,0
+13,474532,Luigi Punziano,74/75 - 75/76,0
+13,476133,Ezio Vendrame,74/75,0
+13,405303,Giorgio Braglia,74/75,0
+13,430843,Cané,74/75,0
+13,224022,Giuseppe Massa,74/75,0
+13,357955,Antonio Albano,73/74 - 74/75,0
+13,476695,Riccardo Mascheroni,73/74,0
+13,475867,Giovanni Ferradini,73/74 - 74/75,0
+13,235935,Spartaco Landini,73/74 - 76/77,0
+13,454409,Virginio Canzi,69/70,0
+13,405003,Giovanni Improta,69/70,0
+13,173844,Stelio Nardin,69/70,0
+13,354723,Alessandro Abbondanza,68/69,0
+13,470228,Vincenzo Montefusco,68/69,0
+13,135791,Claudio Sala,68/69,0
+13,31571,José Altafini,67/68,0
+14,250683,Nikita Contini,since 23/24,1
+14,56416,Dries Mertens,13/14 - 21/22,0
+14,21782,Hugo Campagnaro,09/10 - 12/13,0
+14,23194,Roberto De Zerbi,08/09,0
+14,2926,György Garics,06/07 - 07/08,0
+14,26804,Andrea Briotti,05/06,0
+14,5998,Renato Olive,03/04,0
+14,32104,Vincenzo Platone,02/03,0
+14,17407,José Luís Vidigal,01/02,0
+14,110651,Gaetano Avolio,00/01,0
+14,104998,Massimo Russo,99/00 - 00/01,0
+14,228559,Luca Altomare,97/98 - 98/99,0
+14,166879,Alfredo Aglietti,96/97,0
+14,181052,Fausto Pari,95/96,0
+14,4148,Alain Boghossian,94/95,0
+14,227658,Gabriele Grossi,94/95,0
+14,224935,Luca Luzardi,94/95,0
+14,224531,Salvatore Matrecano,94/95,0
+14,256562,Roberto Vezzosi,94/95,0
+14,229202,Mario Massimo Caruso,93/94,0
+14,116729,Sebastiano Nela,93/94,0
+14,28873,Massimo Tarantino,93/94,0
+14,228559,Luca Altomare,92/93,0
+14,181052,Fausto Pari,92/93,0
+14,228303,Paolo Ziliani,92/93,0
+14,223009,Carlo Cornacchia,92/93,0
+14,222760,Roberto Policano,92/93 - 94/95,0
+14,118252,Giovanni Francini,92/93,0
+14,22106,Gaetano De Rosa,92/93,0
+14,120383,Massimo Mauro,92/93,0
+14,120381,Giancarlo Corradini,92/93 - 93/94,0
+14,120377,Massimo Crippa,92/93,0
+14,223104,Stefano De Agostini,91/92,0
+14,223354,Vittorio Pusceddu,91/92,0
+14,28873,Massimo Tarantino,91/92,0
+14,228559,Luca Altomare,90/91,0
+14,22106,Gaetano De Rosa,90/91,0
+14,300550,Leo Flavio,90/91,0
+14,223464,Gianluca Francesconi,90/91,0
+14,180554,Giorgio Venturin,90/91,0
+14,117634,Alemão,90/91,0
+14,180551,Ivan Rizzardi,90/91,0
+14,180552,Andrea Silenzi,90/91,0
+14,180556,Giuseppe Incocciati,90/91,0
+14,120377,Massimo Crippa,90/91,0
+14,120383,Massimo Mauro,89/90 - 90/91,0
+14,116755,Fernando De Napoli,89/90,0
+14,216657,Tebaldo Bigliardi,89/90,0
+14,120385,Alessandro Renica,89/90 - 90/91,0
+14,228851,Antonio Bucciarelli,89/90,0
+14,120381,Giancarlo Corradini,89/90,0
+14,118253,Luca Fusi,89/90,0
+14,28873,Massimo Tarantino,89/90,0
+14,120377,Massimo Crippa,88/89,0
+14,118256,Francesco Romano,88/89,0
+14,227381,Giovanni Di Rocco,88/89,0
+14,226105,Antonio Carannante,88/89,0
+14,228856,Massimo Filardi,87/88 - 88/89,0
+14,216656,Luciano Sola,86/87 - 87/88,0
+14,224922,Ciro Muro,86/87,0
+14,120429,Giuseppe Volpecina,86/87,0
+14,216655,Giuseppe Bruscolotti,86/87,0
+14,226421,Costanzo Celestini,85/86,0
+14,226105,Antonio Carannante,85/86,0
+14,287420,Massimiliano Favo,85/86,0
+14,228856,Massimo Filardi,85/86,0
+14,334966,Giuseppe Cimmaruta,85/86,0
+14,215583,Ruben Buriani,85/86,0
+14,169649,Luigi Caffarelli,85/86,0
+14,224921,Raimondo Marino,85/86,0
+14,337213,Marco De Simone,84/85,0
+14,222969,Simone Boldini,84/85,0
+14,322794,Ugo Napolitano,84/85,0
+14,5749,Ciro Ferrara,84/85 - 85/86,0
+14,224552,Paolo Dal Fiume,84/85,0
+14,338526,Carmine Della Pietra,83/84,0
+14,169649,Luigi Caffarelli,83/84,0
+14,224552,Paolo Dal Fiume,82/83,0
+14,224921,Raimondo Marino,82/83,0
+14,224565,Agostino Iacobelli,81/82 - 82/83,0
+14,406995,Francesco Ciccarelli,80/81,0
+14,338033,Antonio Capone,80/81,0
+14,405003,Giovanni Improta,79/80,0
+14,474224,Sandro Coco,76/77,0
+14,368811,Salvatore Armidoro,76/77,0
+14,338551,Walter Speggiorin,76/77,0
+14,256241,Salvatore Esposito,76/77,0
+14,251037,Luciano Chiarugi,76/77,0
+14,470228,Vincenzo Montefusco,76/77,0
+14,335144,Claudio Vinazzani,76/77,0
+14,469102,Luigi Pogliana,76/77,0
+14,405303,Giorgio Braglia,75/76,0
+14,396597,Luigi Boccolini,75/76,0
+14,227544,Pasquale Casale,75/76,0
+14,370731,Giovanni Vavassori,75/76,0
+14,474532,Luigi Punziano,75/76,0
+14,461044,Giannantonio Sperotto,75/76,0
+14,466400,Rosario Rampanti,74/75,0
+14,476133,Ezio Vendrame,74/75,0
+14,357955,Antonio Albano,74/75,0
+14,235935,Spartaco Landini,74/75 - 75/76,0
+14,475867,Giovanni Ferradini,73/74 - 74/75,0
+14,476695,Riccardo Mascheroni,73/74,0
+14,430843,Cané,73/74 - 74/75,0
+14,402579,Ivano Bosdaves,69/70,0
+14,482013,Salvatore Albano,69/70,0
+14,316251,Romano Micelli,68/69,0
+15,320411,Philip Billing,24/25,0
+15,240357,Luca Palmiero,21/22,0
+15,618502,Antonio Pio Daniele,19/20,0
+15,84835,Emanuele Giaccherini,17/18,0
+15,31067,Jonathan de Guzmán,16/17,0
+15,87052,Nicolao Cardoso,15/16,0
+15,43411,Roberto Colombo,11/12 - 14/15,0
+15,30759,Jesús Dátolo,08/09 - 09/10,0
+15,44393,Nicolás Amodio,05/06,0
+15,21901,Francesco Baldini,02/03,0
+15,227780,Marco Quadrini,01/02,0
+15,21901,Francesco Baldini,95/96 - 00/01,0
+15,3389,Benny Carbone,94/95,0
+15,102163,Freddy Rincón,94/95,0
+15,222760,Roberto Policano,94/95,0
+15,34025,Jonas Thern,93/94,0
+15,24321,Domenico De Simone,93/94,0
+15,116729,Sebastiano Nela,93/94,0
+15,5921,Eugenio Corini,93/94,0
+15,86766,Raffaele Di Fusco,93/94,0
+15,22288,Alessandro Sbrizzo,93/94 - 94/95,0
+15,229202,Mario Massimo Caruso,93/94,0
+15,16871,Fabio Pecchia,93/94,0
+15,181052,Fausto Pari,92/93 - 93/94,0
+15,177667,Angelo Carbone,92/93,0
+15,21883,Marco Ferrante,92/93,0
+15,222760,Roberto Policano,92/93,0
+15,120377,Massimo Crippa,92/93,0
+15,228559,Luca Altomare,92/93 - 94/95,0
+15,223104,Stefano De Agostini,91/92,0
+15,28873,Massimo Tarantino,91/92,0
+15,180551,Ivan Rizzardi,90/91,0
+15,180556,Giuseppe Incocciati,90/91,0
+15,8024,Diego Maradona,90/91,0
+15,228559,Luca Altomare,90/91,0
+15,180552,Andrea Silenzi,90/91,0
+15,116755,Fernando De Napoli,90/91,0
+15,180554,Giorgio Venturin,90/91,0
+15,3177,Gianfranco Zola,89/90 - 90/91,0
+15,117626,Careca,89/90,0
+15,120383,Massimo Mauro,89/90 - 92/93,0
+15,228851,Antonio Bucciarelli,89/90,0
+15,16686,Simone Giacchetta,88/89,0
+15,118256,Francesco Romano,88/89,0
+15,224941,Maurizio Neri,88/89,0
+15,228856,Massimo Filardi,88/89,0
+15,227381,Giovanni Di Rocco,88/89,0
+15,120380,Andrea Carnevale,87/88,0
+15,224578,Paolo Miano,87/88,0
+15,216656,Luciano Sola,86/87,0
+15,224922,Ciro Muro,86/87,0
+15,226421,Costanzo Celestini,85/86,0
+15,154731,Bruno Giordano,85/86,0
+15,107802,Francesco Baiano,85/86,0
+15,287420,Massimiliano Favo,84/85 - 85/86,0
+15,484962,Massimiliano Maddaloni,84/85,0
+15,169649,Luigi Caffarelli,84/85 - 86/87,0
+15,313469,Giovanni De Rosa,83/84,0
+15,227544,Pasquale Casale,83/84,0
+15,224565,Agostino Iacobelli,82/83,0
+15,224551,Antonino Criscimanni,82/83,0
+15,338033,Antonio Capone,82/83,0
+15,255307,Oscar Damiani,81/82,0
+15,335144,Claudio Vinazzani,81/82,0
+15,169649,Luigi Caffarelli,81/82,0
+15,335685,Enrico Nicolini,80/81,0
+15,336523,Gaetano Musella,80/81,0
+15,256241,Salvatore Esposito,76/77,0
+15,338551,Walter Speggiorin,76/77,0
+15,470228,Vincenzo Montefusco,76/77,0
+15,461044,Giannantonio Sperotto,75/76,0
+15,396597,Luigi Boccolini,75/76,0
+15,235928,Paolo Barison,69/70,0
+16,662261,Rafa Marín,since 26/27,1
+16,662261,Rafa Marín,24/25,0
+16,555557,Hubert Idasiak,21/22 - 23/24,0
+16,250683,Nikita Contini,20/21,0
+16,555557,Hubert Idasiak,19/20,0
+16,31067,Jonathan de Guzmán,15/16,0
+16,16744,Giandomenico Mesto,12/13 - 14/15,0
+16,89718,Eduardo Vargas,11/12,0
+16,37941,Camilo Zúñiga,09/10,0
+16,6016,Andrea Cupi,06/07 - 07/08,0
+16,6032,Gaetano Grieco,05/06,0
+16,28015,Davide Dionigi,02/03 - 03/04,0
+16,228852,Ciro Caruso,01/02,0
+16,30646,Luca Mondini,00/01,0
+16,21758,Gennaro Scarlato,99/00,0
+16,228556,Luigi Malafronte,97/98 - 98/99,0
+16,5836,Francesco Colonnese,95/96 - 96/97,0
+16,21758,Gennaro Scarlato,94/95,0
+16,228559,Luca Altomare,94/95,0
+16,85271,Carmelo Imbriani,94/95,0
+16,166913,Franco Lerda,94/95,0
+16,222760,Roberto Policano,94/95,0
+16,102163,Freddy Rincón,94/95,0
+16,487707,Alessandro Castellano,93/94,0
+16,120392,Renato Buso,93/94,0
+16,5921,Eugenio Corini,93/94 - 94/95,0
+16,16871,Fabio Pecchia,93/94,0
+16,253296,Fabrizio Carli,92/93,0
+16,222747,Giorgio Bresciani,92/93 - 93/94,0
+16,5775,Fabio Cannavaro,92/93,0
+16,21883,Marco Ferrante,92/93,0
+16,120383,Massimo Mauro,92/93,0
+16,32115,Cristian Baglieri,92/93,0
+16,117626,Careca,92/93,0
+16,3177,Gianfranco Zola,92/93,0
+16,158112,Michele Padovano,91/92,0
+16,253609,Firmino Elia,91/92,0
+16,296670,Salvatore Calemme,90/91,0
+16,180552,Andrea Silenzi,90/91,0
+16,180556,Giuseppe Incocciati,90/91,0
+16,117626,Careca,89/90,0
+16,3177,Gianfranco Zola,89/90 - 90/91,0
+16,120380,Andrea Carnevale,89/90,0
+16,8024,Diego Maradona,88/89 - 89/90,0
+16,224941,Maurizio Neri,88/89 - 89/90,0
+16,16686,Simone Giacchetta,88/89,0
+16,107802,Francesco Baiano,87/88,0
+16,154731,Bruno Giordano,87/88,0
+16,224922,Ciro Muro,86/87,0
+16,120380,Andrea Carnevale,86/87 - 87/88,0
+16,169649,Luigi Caffarelli,86/87,0
+16,256217,Pietro Puzone,86/87,0
+16,287420,Massimiliano Favo,85/86,0
+16,335136,Domenico Penzo,85/86,0
+16,107802,Francesco Baiano,85/86,0
+16,154731,Bruno Giordano,85/86,0
+16,135804,Daniel Bertoni,85/86,0
+16,5749,Ciro Ferrara,85/86,0
+16,169649,Luigi Caffarelli,84/85,0
+16,256217,Pietro Puzone,84/85,0
+16,313469,Giovanni De Rosa,83/84 - 84/85,0
+16,336130,Massimo Palanca,83/84,0
+16,301980,Roberto Scarnecchia,82/83,0
+16,224553,Antonio De Vitis,82/83,0
+16,338033,Antonio Capone,82/83,0
+16,336523,Gaetano Musella,81/82,0
+16,336130,Massimo Palanca,81/82,0
+16,430584,Francesco Palo,80/81,0
+16,338551,Walter Speggiorin,80/81,0
+16,368811,Salvatore Armidoro,76/77,0
+16,251037,Luciano Chiarugi,76/77,0
+16,461044,Giannantonio Sperotto,75/76,0
+16,224022,Giuseppe Massa,74/75,0
+16,476652,Pier Paolo Manservisi,69/70,0
+17,376514,Mathías Olivera,since 22/23,1
+17,38593,Marek Hamsik,07/08 - 18/19,0
+17,28819,Marco Capparella,06/07,0
+17,80158,Luigi Vitale,05/06,0
+17,32104,Vincenzo Platone,03/04,0
+17,41064,Andrea Gaveglia,02/03,0
+17,104991,Bruno Di Napoli,01/02,0
+17,109297,Alessandro Troise,00/01,0
+17,19817,Paquito,00/01,0
+17,21795,Salvatore Miceli,99/00,0
+17,30646,Luca Mondini,98/99,0
+17,228853,Angelo Cimadomo,97/98,0
+17,21758,Gennaro Scarlato,95/96,0
+17,120392,Renato Buso,93/94,0
+18,1231248,Francisco Baridó,26/27,0
+18,282388,Giovanni Simeone,22/23 - 24/25,0
+18,35564,Fernando Llorente,20/21,0
+18,358008,Gianluca Gaetano,18/19,0
+18,351898,Leandrinho,16/17 - 17/18,0
+18,72274,Vasco Regini,15/16,0
+18,37941,Camilo Zúñiga,10/11 - 15/16,0
+18,44394,Mariano Bogliacino,06/07 - 09/10,0
+18,19285,Roberto Sosa,05/06,0
+18,86074,Nunzio Di Roberto,03/04,0
+18,16893,Antonio Floro Flores,01/02 - 03/04,0
+18,16871,Fabio Pecchia,00/01,0
+18,21792,Giorgio Lucenti,99/00,0
+18,225437,Gianluca Triuzzi,98/99,0
+18,6002,Roberto Goretti,97/98,0
+18,21912,Nicola Caccia,96/97,0
+18,21986,Raffaele Longo,95/96,0
+18,116706,Giovanni Galli,92/93,0
+19,610442,Rasmus Højlund,since 25/26,1
+19,1061825,Mattia Esposito,24/25,0
+19,144143,Bartosz Bereszyński,22/23,0
+19,46423,Hrvoje Milic,17/18,0
+19,124715,Nikola Maksimović,16/17 - 20/21,0
+19,129444,David López,14/15 - 16/17,0
+19,12563,Goran Pandev,12/13 - 14/15,0
+19,6721,Mario Santana,11/12,0
+19,30873,Germán Denis,09/10,0
+19,21155,Mirko Savini,06/07 - 08/09,0
+19,6054,Rubens Pasino,03/04,0
+19,25500,Nicola Mancino,02/03,0
+19,79946,Youssouf Kamara,01/02,0
+19,6234,Amauri,00/01,0
+19,228852,Ciro Caruso,00/01,0
+19,30649,Nicola Mora,98/99 - 99/00,0
+19,21758,Gennaro Scarlato,97/98,0
+19,85271,Carmelo Imbriani,95/96 - 96/97,0
+20,572265,Lorenzo Lucca,since 26/27,1
+20,400489,Eljif Elmas,25/26,0
+20,181136,Piotr Zieliński,16/17 - 23/24,0
+20,165531,Jacopo Dezi,15/16,0
+20,9967,Blerim Dzemaili,11/12 - 14/15,0
+20,20590,Andrea Russotto,08/09,0
+20,23194,Roberto De Zerbi,06/07 - 07/08,0
+20,22218,Nicola Zanini,03/04,0
+20,21757,Alberto Savino,02/03,0
+20,28852,Claudio Ferrarese,02/03,0
+20,6077,Massimo Rastelli,02/03,0
+20,42116,Giuseppe Alessi,01/02,0
+20,5974,Matuzalém,99/00 - 00/01,0
+20,21971,Davide Mezzanotti,98/99,0
+20,21758,Gennaro Scarlato,98/99,0
+20,21817,Massimiliano Esposito,97/98,0
+20,19123,Arturo Di Napoli,95/96 - 96/97,0
+20,3177,Gianfranco Zola,92/93,0
+21,165895,Matteo Politano,since 19/20,1
+21,123261,Vlad Chiricheș,15/16 - 19/20,0
+21,70789,Michu,14/15,0
+21,85475,Federico Fernández,11/12 - 13/14,0
+21,12351,Hassan Yebda,10/11,0
+21,33218,Luca Cigarini,09/10,0
+21,6750,Maurizio Domizzi,07/08,0
+21,44393,Nicolás Amodio,06/07,0
+21,6148,Massimiliano Vieri,03/04,0
+21,16874,Emanuele Troise,98/99 - 02/03,0
+21,22288,Alessandro Sbrizzo,97/98 - 98/99,0
+21,222760,Roberto Policano,95/96 - 96/97,0
+22,169880,Giovanni Di Lorenzo,since 19/20,1
+22,392331,Alessandro D'Andrea,18/19,0
+22,417414,Davide Marfella,18/19,0
+22,99254,Luigi Sepe,16/17 - 17/18,0
+22,79242,Gabriel,15/16,0
+22,160506,Josip Radosevic,13/14 - 14/15,0
+22,6442,Antonio Rosati,12/13,0
+22,50570,Ezequiel Lavezzi,10/11 - 11/12,0
+22,21686,Matteo Gianello,06/07 - 09/10,0
+22,227780,Marco Quadrini,03/04,0
+22,401298,Luigi Piccirillo,02/03,0
+22,61354,Raffaele Gragnaniello,01/02,0
+22,343683,Marco Incoronato,00/01,0
+22,107356,Damir Stojak,00/01,0
+22,16745,Roberto Stellone,99/00,0
+22,33624,Angelo Paradiso,98/99,0
+22,13046,Bertrand Crasson,96/97 - 97/98,0
+22,256923,Federico Infanti,95/96,0
+23,1005165,Giovane,since 25/26,1
+23,433584,Alessio Zerbin,22/23 - 24/25,0
+23,200056,Elseid Hysaj,17/18 - 20/21,0
+23,433584,Alessio Zerbin,16/17,0
+23,112343,Manolo Gabbiadini,14/15 - 16/17,0
+23,52266,Walter Gargano,07/08 - 12/13,0
+23,21832,David Giubilato,06/07,0
+23,28830,Andrea Bernini,03/04,0
+23,5885,Gonzalo Martínez,02/03,0
+23,42116,Giuseppe Alessi,02/03,0
+23,16745,Roberto Stellone,00/01,0
+23,15462,Stefano Lombardi,99/00,0
+23,164567,Cristiano Scapolo,98/99,0
+23,5986,Ferdinando Coppola,97/98,0
+23,21986,Raffaele Longo,96/97,0
+24,468066,Jens Cajuste,23/24,0
+24,133964,Lorenzo Insigne,12/13 - 21/22,0
+24,4291,Samuele Dalla Bona,06/07 - 08/09,0
+24,30648,Cataldo Montesanto,06/07,0
+24,30648,Cataldo Montesanto,03/04,0
+24,22823,Gennaro Esposito,02/03,0
+24,6395,Mattia Graffiedi,01/02,0
+24,16893,Antonio Floro Flores,00/01,0
+24,72449,Gabriel Bordi,99/00,0
+24,88150,Igor Shalimov,98/99,0
+24,6748,Mirko Conte,97/98,0
+24,228559,Luca Altomare,95/96 - 96/97,0
+25,1195798,Mathias Ferrante,25/26,0
+25,421873,Elia Caprile,24/25,0
+25,73396,David Ospina,18/19 - 21/22,0
+25,7825,Pepe Reina,15/16 - 17/18,0
+25,70789,Michu,14/15,0
+25,7825,Pepe Reina,13/14,0
+25,160506,Josip Radosevic,12/13,0
+25,27300,Rolando,12/13,0
+25,6017,Cribari,10/11,0
+25,61511,Camillo Ciano,10/11,0
+25,5767,Marcelo Zalayeta,07/08 - 08/09,0
+25,80158,Luigi Vitale,06/07,0
+25,401298,Luigi Piccirillo,03/04,0
+25,38645,Dario Bova,02/03,0
+25,228554,Esteban Lopez,01/02,0
+25,139633,Vincenzo Maisto,00/01,0
+25,6426,Giorgio Di Vicino,00/01,0
+25,6816,Anselmo Robbiati,99/00,0
+25,5858,Paolo Cannavaro,98/99,0
+25,85271,Carmelo Imbriani,98/99,0
+25,5594,Reynald Pedros,97/98,0
+25,102646,Mirko Taccola,95/96 - 96/97,0
+26,703245,Antonio Vergara,since 25/26,1
+26,358032,Cyril Ngonge,23/24 - 24/25,0
+26,93128,Kalidou Koulibaly,14/15 - 21/22,0
+26,5880,Morgan De Sanctis,09/10 - 10/11,0
+26,133961,Mario D'Urso,07/08,0
+26,6750,Maurizio Domizzi,06/07,0
+26,292414,Raffaele Pianese,03/04,0
+26,24327,Emanuele Manitta,02/03,0
+26,228941,Giampiero Buonocore,02/03,0
+26,511071,Ferdinando Salvati,01/02,0
+26,17170,Giacomo Tedesco,00/01,0
+26,228556,Luigi Malafronte,99/00 - 00/01,0
+26,151881,Giovanni Lopez,98/99,0
+26,6036,Marco Zamboni,97/98,0
+26,228852,Ciro Caruso,95/96,0
+27,830365,Alisson Santos,since 25/26,1
+27,572265,Lorenzo Lucca,25/26,0
+27,16408,Orestis Karnezis,18/19 - 19/20,0
+27,146143,Zinédine Machach,17/18,0
+27,73786,Pablo Armero,12/13 - 13/14,0
+27,22328,Fabio Quagliarella,09/10 - 10/11,0
+27,28819,Marco Capparella,07/08,0
+27,22747,Pierluigi Brivio,03/04,0
+27,3896,David Sesa,03/04,0
+27,7099,Andrea D'Agostino,02/03,0
+27,24331,Mariano Stendardo,01/02,0
+27,3896,David Sesa,00/01,0
+27,5840,Emanuele Pesaresi,98/99,0
+27,118254,Giuseppe Giannini,97/98,0
+27,21758,Gennaro Scarlato,96/97,0
+27,338179,Ernesto Verolino,95/96,0
+28,5858,Paolo Cannavaro,06/07 - 13/14,0
+28,35362,Carlos Pavón,02/03,0
+28,496776,Angelo Cerbone,01/02,0
+28,4829,Rabiu Afolabi,00/01,0
+28,6002,Roberto Goretti,99/00,0
+28,1540,Thorsten Flick,98/99,0
+28,163501,Massimiliano Allegri,97/98,0
+28,278366,Antonio Pietropaolo,96/97,0
+29,724178,Luis Hasa,24/25 - 25/26,0
+29,513245,Jesper Lindstrøm,23/24,0
+29,64793,Leonardo Pavoletti,17/18,0
+29,12563,Goran Pandev,11/12 - 12/13,0
+29,16846,Cristian Bucchi,10/11,0
+29,16846,Cristian Bucchi,06/07,0
+29,22314,Domenico Cristiano,01/02,0
+29,601633,Thomas Urso,00/01,0
+29,7108,Salvatore Bruno,97/98,0
+30,250153,Pasquale Mazzocchi,23/24 - 25/26,0
+30,25508,Salvatore Sirigu,22/23,0
+30,317482,Marko Rog,16/17 - 18/19,0
+30,26727,Nicolás Navarro,07/08 - 09/10,0
+30,24331,Mariano Stendardo,03/04,0
+30,6054,Rubens Pasino,02/03,0
+30,35362,Carlos Pavón,01/02,0
+30,106109,Mauricio Pineda,00/01,0
+30,104991,Bruno Di Napoli,00/01,0
+30,228806,Alessio Bandieri,99/00,0
+30,22212,Stefan Schwoch,98/99,0
+30,103806,Aljosa Asanovic,97/98,0
+31,433984,Sam Beukema,since 25/26,1
+31,612065,Karim Zedadka,22/23 - 23/24,0
+31,126656,Faouzi Ghoulam,13/14 - 21/22,0
+31,165531,Jacopo Dezi,11/12,0
+31,110651,Gaetano Avolio,03/04,0
+31,30647,Francesco Montervino,02/03 - 03/04,0
+31,32099,Fábio César Montezine,01/02,0
+31,228557,Valerio Visconti,00/01,0
+31,107356,Damir Stojak,97/98,0
+32,257474,Vanja Milinković-Savić,since 25/26,1
+32,168157,Leander Dendoncker,23/24,0
+32,64793,Leonardo Pavoletti,16/17,0
+32,70132,Cristian Chávez,11/12,0
+32,44393,Nicolás Amodio,08/09 - 09/10,0
+32,3510,Dario Marcolin,02/03,0
+32,6077,Massimo Rastelli,01/02,0
+32,224936,Francesco Mancini,00/01,0
+32,216814,Oscar Magoni,99/00,0
+32,227708,Sebastiano Vecchiola,98/99,0
+32,22093,Guglielmo Stendardo,97/98,0
+33,400485,Adam Ounas,21/22 - 22/23,0
+33,257732,Amir Rrahmani,20/21,0
+33,15452,Raúl Albiol,13/14 - 18/19,0
+33,22268,Emanuele Calaiò,12/13,0
+33,21988,Leandro Rinaudo,11/12,0
+33,21686,Matteo Gianello,10/11,0
+33,6444,Erminio Rullo,09/10,0
+33,133961,Mario D'Urso,06/07,0
+33,5911,Maurizio D'Angelo,02/03,0
+33,6817,Marco Roccati,01/02 - 02/03,0
+33,26288,Steinar Nilsen,98/99 - 00/01,0
+34,96167,Amin Younes,18/19 - 19/20,0
+34,6427,Marco Donadel,11/12,0
+34,133964,Lorenzo Insigne,09/10,0
+34,48019,Francesco Bruno,08/09,0
+35,814446,Luca Marianucci,since 25/26,1
+35,87052,Nicolao Cardoso,16/17,0
+35,110492,Crescenzo Liccardo,09/10,0
+35,25500,Nicola Mancino,01/02,0
+35,3416,Claudio Husaín,00/01,0
+36,1258531,Milton Pereyra,26/27,0
+36,102628,Michele Iorio,03/04,0
+36,32104,Vincenzo Platone,01/02,0
+37,118689,Leonardo Spinazzola,since 24/25,1
+37,199258,Andrea Petagna,20/21 - 21/22,0
+37,400485,Adam Ounas,17/18,0
+37,336192,Luigi Numerato,01/02,0
+38,1311269,Andrea Chiummariello,26/27,0
+38,885236,Lorenzo Russo,23/24,0
+38,618505,Davide Costanzo,20/21,0
+38,41064,Andrea Gaveglia,01/02,0
+39,1259760,Mykyta Melnyk,26/27,0
+39,102750,Pietro De Giorgio,01/02,0
+40,1234563,Claudio Lieto,26/27,0
+40,92888,Emanuele Allegra,12/13,0
+40,23348,Massimo Carrera,03/04,0
+41,1314016,David Spinelli,26/27,0
+41,200167,Daniele Celiento,12/13,0
+41,534408,Nicola Stroffolino,03/04,0
+42,355501,Amadou Diawara,16/17 - 18/19,0
+42,200174,Roberto Insigne,12/13,0
+42,39800,Pasquale Iadaresta,03/04,0
+44,104752,Konstantinos Manolas,19/20 - 21/22,0
+44,147396,Bruno Uvini,14/15,0
+44,200177,Giuseppe Nicolao,12/13,0
+44,99254,Luigi Sepe,08/09,0
+45,35491,Mariano Andújar,14/15 - 15/16,0
+45,200182,Francesco Savarise,12/13,0
+46,555557,Hubert Idasiak,20/21 - 21/22,0
+47,989006,Christian Garofalo,26/27,0
+50,885235,Luigi D'Avino,23/24,0
+52,979361,Emmanuele De Chiara,25/26,0
+52,809986,Valerio Boffelli,22/23,0
+55,1314016,David Spinelli,25/26,0
+55,367284,Leo Østigård,22/23 - 23/24,0
+55,877620,Moussa Mané,21/22,0
+55,315910,Alessio Gionta,15/16,0
+55,286276,Alfredo Bifulco,14/15,0
+55,16868,Alessandro Gamberini,12/13,0
+55,216814,Oscar Magoni,01/02,0
+56,989006,Christian Garofalo,25/26,0
+56,662562,Giuseppe D'Agostino,20/21,0
+58,1132043,Vincenzo Prisco,25/26,0
+58,566936,Antonio Cioffi,20/21,0
+58,316935,Antonio Negro,15/16,0
+58,445694,Paolo Iaboni,02/03,0
+59,397225,Alessandro Zanoli,25/26,0
+59,397225,Alessandro Zanoli,21/22 - 23/24,0
+60,815546,Francesco Gioielli,23/24 - 24/25,0
+60,238989,Antonio Romano,13/14 - 14/15,0
+61,1314016,David Spinelli,25/26,0
+61,421781,Valerio Labriola,20/21,0
+62,111347,Lorenzo Tonelli,19/20,0
+62,111347,Lorenzo Tonelli,16/17 - 17/18,0
+64,401014,Marcello D'Angelo,03/04,0
+65,22823,Gennaro Esposito,03/04,0
+67,5770,Alberto Fontana,00/01,0
+68,192735,Stanislav Lobotka,since 19/20,1
+69,707295,Giuseppe Ambrosino,25/26,0
+70,339332,Noa Lang,since 25/26,1
+70,358008,Gianluca Gaetano,21/22 - 24/25,0
+70,616142,Jonathan Spedalieri,21/22,0
+70,707295,Giuseppe Ambrosino,21/22,0
+70,358008,Gianluca Gaetano,18/19 - 19/20,0
+70,6407,Luca Bucci,08/09,0
+72,809986,Valerio Boffelli,21/22,0
+72,355051,Luigi D'Ignazio,17/18,0
+73,566936,Antonio Cioffi,21/22,0
+73,392334,Giuseppe Esposito,17/18,0
+74,820633,Coli Saco,24/25,0
+74,618505,Davide Costanzo,21/22,0
+74,358008,Gianluca Gaetano,17/18,0
+77,521407,Walid Cheddira,25/26,0
+77,502670,Khvicha Kvaratskhelia,22/23 - 24/25,0
+77,393652,Raffaele Russo,17/18,0
+77,73097,Omar El Kaddouri,15/16 - 16/17,0
+77,52266,Walter Gargano,13/14 - 14/15,0
+77,120458,Davide Bariti,12/13,0
+77,20137,José Sosa,10/11,0
+77,21988,Leandro Rinaudo,09/10,0
+77,21690,Daniele Mannini,07/08 - 08/09,0
+77,5885,Gonzalo Martínez,03/04,0
+77,110651,Gaetano Avolio,01/02,0
+77,7978,Luciano Galletti,99/00,0
+78,703240,Gennaro Iaccarino,24/25,0
+78,397351,Pio Schiavi,17/18,0
+80,582354,Benedetto Barba,21/22,0
+80,7642,Toni Doblas,13/14,0
+80,6090,Manuele Blasi,10/11,0
+80,21779,Antonio Bocchetti,00/01 - 02/03,0
+81,405885,Giacomo Raspadori,22/23 - 24/25,0
+81,430764,Alberto Senese,17/18,0
+81,104998,Massimo Russo,01/02 - 02/03,0
+82,703245,Antonio Vergara,21/22,0
+82,22268,Emanuele Calaiò,13/14,0
+82,99254,Luigi Sepe,10/11,0
+83,6442,Antonio Rosati,14/15,0
+83,6442,Antonio Rosati,11/12 - 12/13,0
+83,21988,Leandro Rinaudo,08/09,0
+84,6444,Erminio Rullo,10/11,0
+84,292414,Raffaele Pianese,02/03,0
+84,25500,Nicola Mancino,02/03,0
+85,21905,Valon Behrami,12/13 - 13/14,0
+85,76799,Miguel Britos,11/12 - 12/13,0
+85,426023,Raffaele Corsale,03/04,0
+87,80158,Luigi Vitale,09/10,0
+87,102791,Raffaele Sorriso,03/04,0
+88,197473,Alberto Grassi,15/16 - 16/17,0
+88,19041,Gökhan Inler,11/12 - 14/15,0
+90,377042,Michael Folorunsho,24/25,0
+90,618502,Antonio Pio Daniele,18/19,0
+90,218227,Massimiliano Ammendola,11/12,0
+90,140559,Raffaele Maiello,10/11,0
+90,21696,Daniele Portanova,03/04,0
+90,29598,Edoardo Artistico,01/02,0
+91,450936,Tanguy Ndombélé,22/23,0
+91,73794,Duván Zapata,17/18,0
+91,73794,Duván Zapata,13/14 - 14/15,0
+91,140559,Raffaele Maiello,09/10 - 10/11,0
+91,24296,Mauro Bonomi,01/02 - 03/04,0
+94,820633,Coli Saco,25/26,0
+94,395190,Francesco Mezzoni,24/25,0
+94,200174,Roberto Insigne,16/17,0
+94,128900,Nathaniel Chalobah,15/16,0
+94,167904,Giuseppe Fornito,12/13,0
+95,1132043,Vincenzo Prisco,25/26,0
+95,244192,Pierluigi Gollini,22/23 - 23/24,0
+95,525287,Carlos Vinícius,18/19,0
+95,225874,Igor Łasicki,16/17,0
+95,225874,Igor Łasicki,13/14,0
+96,1231248,Francisco Baridó,25/26,0
+96,238993,Simone Scuffet,24/25,0
+96,278531,Sebastiano Luperto,14/15 - 16/17,0
+96,238989,Antonio Romano,13/14,0
+96,25318,Matteo Contini,07/08 - 09/10,0
+97,552283,Gennaro Sileno,03/04,0
+97,53219,Edmundo,00/01,0
+98,979361,Emmanuele De Chiara,25/26,0
+98,351898,Leandrinho,19/20,0
+98,415042,Marco Milanese,16/17,0
+99,354361,Frank Anguissa,since 21/22,1
+99,191891,Arkadiusz Milik,16/17 - 19/20,0
+99,89718,Eduardo Vargas,15/16,0
+99,21408,Cristiano Lucarelli,10/11 - 11/12,0
+99,19136,Marco Storari,02/03,0
+99,3896,David Sesa,01/02,0

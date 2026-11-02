@@ -1,0 +1,1531 @@
+﻿id,player_id,season,injury_raw,category,from_date,until_date,days_missed,games_missed,clubs_affected,is_napoli,uefa_category
+1,102017,25/26,Foot injury,Physical Injury,2026-05-24,2026-07-21,59,2,CR Flamengo,0,Articolare: Caviglia/Piede
+2,102017,25/26,Calf injury,Physical Injury,2026-04-06,2026-04-21,16,4,CR Flamengo,0,Muscolare: Polpaccio
+3,102017,25/26,Hamstring injury,Physical Injury,2026-02-07,2026-02-24,18,5,CR Flamengo,0,Muscolare: Flessori
+4,102017,25/26,Thigh problems,Physical Injury,2025-10-30,2025-11-18,20,4,CR Flamengo,0,Muscolare: Altro/Coscia
+5,102017,25/26,Hamstring injury,Physical Injury,2025-08-26,2025-09-24,30,4,CR Flamengo,0,Muscolare: Flessori
+6,102017,24/25,Chest injury,Other,2025-04-13,2025-05-06,24,5,Arsenal FC,0,Altro/Non specificato
+7,102017,21/22,unknown injury,Other,2022-05-01,2022-05-08,8,1,Chelsea FC,0,Altro/Non specificato
+8,102017,14/15,Muscle fatigue,Physical Injury,2014-09-29,2014-10-06,8,2,SSC Napoli,1,Muscolare: Altro/Coscia
+9,102017,13/14,Fever,Illness / Medical,2013-12-13,2013-12-16,4,1,Hellas Verona,0,Patologia Medica/Covid/Influenza
+10,104752,23/24,Muscle fatigue,Physical Injury,2024-05-24,2024-05-31,8,1,US Salernitana 1919,0,Muscolare: Altro/Coscia
+11,104752,23/24,unknown injury,Other,2024-05-10,2024-05-13,4,1,US Salernitana 1919,0,Altro/Non specificato
+12,104752,23/24,unknown injury,Other,2024-04-20,2024-04-25,6,1,US Salernitana 1919,0,Altro/Non specificato
+13,104752,23/24,muscular problems,Other,2024-04-05,2024-04-11,7,0,,0,Muscolare: Altro/Coscia
+14,104752,23/24,unknown injury,Other,2024-03-02,2024-03-09,8,0,,0,Altro/Non specificato
+15,104752,22/23,unknown injury,Other,2022-08-03,2022-08-10,8,1,Olympiacos Piraeus,0,Altro/Non specificato
+16,104752,21/22,Hip injury,Other,2022-04-26,2022-05-12,17,5,Olympiacos Piraeus,0,Altro/Non specificato
+17,104752,21/22,Ankle injury,Physical Injury,2022-01-23,2022-01-26,4,0,,1,Articolare: Caviglia/Piede
+18,104752,21/22,Stomach flu,Illness / Medical,2021-11-30,2021-12-05,6,2,SSC Napoli,1,Patologia Medica/Covid/Influenza
+19,104752,21/22,Fitness,Club Exclusion / Technical,2021-11-17,2021-11-22,6,1,SSC Napoli,1,Condizionamento/Riposo
+20,104752,21/22,Strain in the thigh and gluteal muscles,Physical Injury,2021-10-21,2021-11-16,27,5,SSC Napoli,1,Muscolare: Altro/Coscia
+21,104752,21/22,Ankle sprain,Physical Injury,2021-10-15,2021-10-19,5,1,SSC Napoli,1,Articolare: Caviglia/Piede
+22,104752,20/21,Fitness,Club Exclusion / Technical,2021-03-13,2021-03-15,3,1,SSC Napoli,1,Condizionamento/Riposo
+23,104752,20/21,Ankle sprain,Physical Injury,2021-02-07,2021-03-02,24,6,SSC Napoli,1,Articolare: Caviglia/Piede
+24,104752,20/21,Muscle strain,Physical Injury,2021-01-10,2021-01-15,6,1,SSC Napoli,1,Muscolare: Altro/Coscia
+25,1005165,26/27,Inguinal hernia,Physical Injury,2026-09-03,2026-10-08,36,4,SSC Napoli,1,Altro/Non specificato
+26,1005165,25/26,Ankle sprain,Physical Injury,2025-12-15,2025-12-27,13,0,,1,Articolare: Caviglia/Piede
+27,1005165,23/24,Hamstring injury,Physical Injury,2023-09-06,2023-10-16,41,7,Sport Club Corinthians Paulista,0,Muscolare: Flessori
+28,103916,21/22,Hand injury,Other,2021-09-12,2021-09-24,13,2,Reading FC,0,Articolare: Spalla/Braccio
+29,103916,13/14,Torn knee ligaments,Physical Injury,2014-02-20,2014-07-10,141,27,"SSC Napoli, Brazil",1,Articolare: Ginocchio
+30,111347,21/22,Cruciate ligament injury,Physical Injury,2022-04-03,2023-02-13,317,30,FC Empoli,0,Articolare: Ginocchio
+31,111347,21/22,unknown injury,Other,2021-11-22,2021-11-25,4,1,FC Empoli,0,Altro/Non specificato
+32,111347,21/22,Knee problems,Physical Injury,2021-09-16,2021-09-30,15,3,FC Empoli,0,Articolare: Ginocchio
+33,111347,20/21,Ankle problems,Physical Injury,2021-05-16,2021-05-26,11,2,UC Sampdoria,0,Articolare: Caviglia/Piede
+34,111347,20/21,unknown injury,Other,2021-01-14,2021-01-29,16,2,UC Sampdoria,0,Altro/Non specificato
+35,111347,19/20,Knee bruise,Physical Injury,2020-06-29,2020-07-16,18,0,,1,Articolare: Ginocchio
+36,111347,19/20,unknown injury,Other,2019-11-18,2019-12-31,44,7,SSC Napoli,1,Altro/Non specificato
+37,111347,19/20,unknown injury,Other,2019-08-23,2019-10-04,43,8,SSC Napoli,1,Altro/Non specificato
+38,111347,18/19,unknown injury,Other,2019-02-22,2019-03-04,11,2,UC Sampdoria,0,Altro/Non specificato
+39,111347,16/17,Knee problems,Physical Injury,2017-01-29,2017-04-24,86,16,SSC Napoli,1,Articolare: Ginocchio
+40,111347,16/17,Knee injury,Physical Injury,2016-08-01,2016-09-08,39,2,SSC Napoli,1,Articolare: Ginocchio
+41,111347,15/16,Muscle fatigue,Physical Injury,2016-04-18,2016-05-05,18,3,FC Empoli,0,Muscolare: Altro/Coscia
+42,111347,15/16,Patellar tendon problems,Physical Injury,2016-01-04,2016-01-14,11,2,FC Empoli,0,Tendinopatia/Tendine
+43,111347,14/15,bruise,Physical Injury,2015-01-29,2015-02-09,12,1,FC Empoli,0,Contusione/Trauma Diretto
+44,112343,22/23,Back problems,Physical Injury,2023-01-25,2023-01-28,4,0,,0,Rachide/Lombalgia
+45,112343,22/23,Muscle fatigue,Physical Injury,2023-01-08,2023-01-16,9,1,UC Sampdoria,0,Muscolare: Altro/Coscia
+46,112343,21/22,Cruciate ligament tear,Physical Injury,2022-02-07,2022-08-21,196,22,"UC Sampdoria, Italy",0,Articolare: Ginocchio
+47,112343,21/22,Ankle injury,Physical Injury,2021-08-23,2021-10-05,44,9,"UC Sampdoria, Italy",0,Articolare: Caviglia/Piede
+48,112343,20/21,Inguinal hernia,Physical Injury,2020-12-14,2021-02-13,62,10,UC Sampdoria,0,Altro/Non specificato
+49,112343,20/21,muscular problems,Other,2020-10-12,2020-11-19,39,9,"UC Sampdoria, Italy",0,Muscolare: Altro/Coscia
+50,112343,20/21,unknown injury,Other,2020-09-16,2020-09-25,10,1,UC Sampdoria,0,Altro/Non specificato
+51,112343,19/20,Corona virus,Illness / Medical,2020-03-12,2020-03-31,20,0,,0,Patologia Medica/Covid/Influenza
+52,112343,19/20,Muscle fatigue,Physical Injury,2019-09-26,2019-10-02,7,1,UC Sampdoria,0,Muscolare: Altro/Coscia
+53,112343,18/19,Hamstring injury,Physical Injury,2018-09-19,2018-09-28,10,1,Southampton FC,0,Muscolare: Flessori
+54,112343,16/17,Groin strain,Physical Injury,2017-03-19,2017-04-15,28,5,"Southampton FC, Italy",0,Muscolare: Adduttori/Inguine
+55,112343,16/17,Muscle fatigue,Physical Injury,2016-11-14,2016-11-19,6,1,Italy,0,Muscolare: Altro/Coscia
+56,112343,15/16,Ankle sprain,Physical Injury,2015-11-18,2015-12-18,31,7,SSC Napoli,1,Articolare: Caviglia/Piede
+57,112343,14/15,muscular problems,Other,2015-03-12,2015-03-14,3,1,SSC Napoli,1,Muscolare: Altro/Coscia
+58,112343,14/15,Adductor pain,Physical Injury,2014-08-25,2014-09-06,13,2,"UC Sampdoria, Italy",0,Muscolare: Adduttori/Inguine
+59,121985,26/27,Fitness,Club Exclusion / Technical,2026-09-02,2026-09-08,7,1,Venezia FC,0,Condizionamento/Riposo
+60,121985,25/26,Muscle fatigue,Physical Injury,2026-03-11,2026-03-14,4,0,,1,Muscolare: Altro/Coscia
+61,121985,25/26,Calf problems,Physical Injury,2025-12-11,2025-12-18,8,1,SSC Napoli,1,Muscolare: Polpaccio
+62,121985,24/25,Torn thigh muscle,Physical Injury,2025-04-14,2025-05-26,43,5,SSC Napoli,1,Muscolare: Altro/Coscia
+63,121985,23/24,Sciatica problems,Other,2024-04-13,2024-04-16,4,1,SSC Napoli,1,Altro/Non specificato
+64,121985,23/24,Hamstring muscle injury,Physical Injury,2023-09-23,2023-10-31,39,8,SSC Napoli,1,Muscolare: Flessori
+65,121985,22/23,bruise,Physical Injury,2023-01-20,2023-01-24,5,1,SSC Napoli,1,Contusione/Trauma Diretto
+66,121985,22/23,unknown injury,Other,2022-12-06,2022-12-08,3,0,,1,Altro/Non specificato
+67,121985,21/22,Knee problems,Physical Injury,2022-04-19,2022-04-21,3,0,,1,Articolare: Ginocchio
+68,121985,20/21,Corona virus,Illness / Medical,2021-03-10,2021-04-11,33,6,AS Roma,0,Patologia Medica/Covid/Influenza
+69,121985,19/20,Hip problems,Other,2020-07-01,2020-07-28,28,8,AS Roma,0,Altro/Non specificato
+70,121985,19/20,Thigh problems,Physical Injury,2019-10-29,2019-11-01,4,1,AS Roma,0,Muscolare: Altro/Coscia
+71,121985,18/19,Meniscus injury,Physical Injury,2019-01-14,2019-02-07,25,4,AS Roma,0,Articolare: Ginocchio
+72,121985,16/17,Hamstring muscle injury,Physical Injury,2017-02-01,2017-02-07,7,0,,0,Muscolare: Flessori
+73,121985,16/17,bruise,Physical Injury,2016-08-26,2016-09-05,11,1,AS Roma,0,Contusione/Trauma Diretto
+74,123261,25/26,Muscle tear,Physical Injury,2026-04-21,2026-06-30,71,6,FCSB,0,Muscolare: Altro/Coscia
+75,123261,25/26,unknown injury,Other,2026-01-21,2026-03-12,51,11,FCSB,0,Altro/Non specificato
+76,123261,25/26,unknown injury,Other,2025-10-17,2025-11-29,44,9,FCSB,0,Altro/Non specificato
+77,123261,23/24,Elbow injury,Physical Injury,2024-04-22,2024-05-03,12,2,FCSB,0,Articolare: Spalla/Braccio
+78,123261,23/24,fracture,Physical Injury,2024-04-21,2024-05-20,30,2,FCSB,0,Trauma Osseo/Frattura
+79,123261,23/24,Muscle injury,Physical Injury,2023-08-29,2024-03-01,186,31,"FCSB, Romania",0,Muscolare: Altro/Coscia
+80,123261,22/23,Muscle fatigue,Physical Injury,2023-05-20,2023-05-27,8,0,,0,Muscolare: Altro/Coscia
+81,123261,22/23,Adductor injury,Physical Injury,2023-03-06,2023-04-30,56,10,"US Cremonese, Romania",0,Muscolare: Adduttori/Inguine
+82,123261,22/23,unknown injury,Other,2023-02-19,2023-02-26,8,1,US Cremonese,0,Altro/Non specificato
+83,123261,22/23,muscular problems,Other,2022-09-18,2023-01-22,127,17,"US Cremonese, Romania",0,Muscolare: Altro/Coscia
+84,123261,22/23,muscular problems,Other,2022-08-27,2022-08-30,4,1,US Cremonese,0,Muscolare: Altro/Coscia
+85,123261,21/22,Muscle fatigue,Physical Injury,2021-11-12,2021-11-16,5,1,Romania,0,Muscolare: Altro/Coscia
+86,123261,20/21,unknown injury,Other,2021-03-02,2021-03-12,11,2,US Sassuolo,0,Altro/Non specificato
+87,123261,20/21,unknown injury,Other,2021-02-13,2021-02-19,7,1,US Sassuolo,0,Altro/Non specificato
+88,123261,20/21,Hamstring injury,Physical Injury,2020-11-28,2020-12-15,18,2,US Sassuolo,0,Muscolare: Flessori
+89,12351,13/14,Knee bruise,Physical Injury,2014-01-05,2014-01-20,16,2,Granada CF,0,Articolare: Ginocchio
+90,12351,13/14,Thigh problems,Physical Injury,2013-12-22,2014-01-02,12,0,,0,Muscolare: Altro/Coscia
+91,12351,13/14,Knee problems,Physical Injury,2013-10-17,2013-11-01,16,2,Granada CF,0,Articolare: Ginocchio
+92,12351,12/13,Knee surgery,Physical Injury,2013-03-01,2013-04-20,51,7,"Granada CF, Algeria",0,Articolare: Ginocchio
+93,12351,12/13,Knee problems,Physical Injury,2012-08-20,2012-12-01,104,18,"Granada CF, Algeria",0,Articolare: Ginocchio
+94,12351,11/12,Cruciate ligament tear,Physical Injury,2012-02-19,2012-08-19,183,21,"Granada CF, Algeria",0,Articolare: Ginocchio
+95,12351,11/12,Adductor injury,Physical Injury,2011-12-12,2012-01-01,21,3,Granada CF,0,Muscolare: Adduttori/Inguine
+96,12351,10/11,Groin problems,Physical Injury,2010-11-17,2010-11-26,10,1,SSC Napoli,1,Muscolare: Adduttori/Inguine
+97,12351,08/09,muscle stiffness,Physical Injury,2008-10-22,2008-10-25,4,1,SL Benfica,0,Muscolare: Altro/Coscia
+98,124715,24/25,Hamstring injury,Physical Injury,2025-01-04,2025-06-30,178,18,Montpellier HSC,0,Muscolare: Flessori
+99,124715,23/24,unknown injury,Other,2024-04-27,2024-05-27,31,4,Hatayspor,0,Altro/Non specificato
+100,124715,21/22,unknown injury,Other,2022-04-23,2022-05-31,39,5,Genoa CFC,0,Altro/Non specificato
+101,124715,21/22,Adductor injury,Physical Injury,2022-02-25,2022-03-04,8,0,,0,Muscolare: Adduttori/Inguine
+102,124715,21/22,Muscle strain,Physical Injury,2021-10-09,2022-01-21,105,17,Genoa CFC,0,Muscolare: Altro/Coscia
+103,124715,20/21,Fitness,Club Exclusion / Technical,2021-05-20,2021-05-24,5,1,SSC Napoli,1,Condizionamento/Riposo
+104,124715,20/21,Corona virus,Illness / Medical,2021-05-04,2021-05-19,16,3,SSC Napoli,1,Patologia Medica/Covid/Influenza
+105,124715,19/20,Calf strain,Physical Injury,2020-03-09,2020-03-31,23,0,,1,Muscolare: Polpaccio
+106,124715,19/20,Hamstring injury,Physical Injury,2019-12-08,2020-01-25,49,8,SSC Napoli,1,Muscolare: Flessori
+107,124715,19/20,Hamstring muscle injury,Physical Injury,2019-09-30,2019-10-26,27,6,"SSC Napoli, Serbia",1,Muscolare: Flessori
+108,124715,18/19,Toe injury,Physical Injury,2019-04-19,2019-05-15,27,4,SSC Napoli,1,Altro/Non specificato
+109,124715,17/18,Groin problems,Physical Injury,2018-04-29,2018-05-09,11,1,Spartak Moscow,0,Muscolare: Adduttori/Inguine
+110,124715,15/16,Metatarsal fracture,Physical Injury,2015-09-10,2016-01-06,119,19,"Torino FC, Serbia",0,Articolare: Caviglia/Piede
+111,124715,14/15,Muscle fatigue,Physical Injury,2015-01-30,2015-02-06,8,1,Torino FC,0,Muscolare: Altro/Coscia
+112,124715,13/14,inflammation,Other,2013-10-08,2013-10-19,12,2,Serbia,0,Altro/Non specificato
+113,401530,25/26,Muscle injury,Physical Injury,2026-04-21,2026-10-17,180,16,Real Madrid,0,Muscolare: Altro/Coscia
+114,401530,25/26,Torn muscle fiber,Physical Injury,2025-12-08,2026-03-31,114,24,Real Madrid,0,Muscolare: Altro/Coscia
+115,401530,25/26,Muscle injury,Physical Injury,2025-11-19,2025-11-28,10,2,Real Madrid,0,Muscolare: Altro/Coscia
+116,401530,24/25,Cruciate ligament tear,Physical Injury,2024-11-09,2025-06-30,234,54,"Real Madrid, Brazil",0,Articolare: Ginocchio
+117,401530,24/25,Muscle injury,Physical Injury,2024-10-08,2024-10-18,11,2,Brazil,0,Muscolare: Altro/Coscia
+118,401530,24/25,muscular problems,Other,2024-09-06,2024-09-13,8,2,Brazil,0,Muscolare: Altro/Coscia
+119,401530,23/24,Fitness,Club Exclusion / Technical,2024-03-13,2024-03-30,18,3,"Real Madrid, Brazil",0,Condizionamento/Riposo
+120,401530,23/24,Cruciate ligament tear,Physical Injury,2023-08-13,2024-03-13,214,45,"Real Madrid, Brazil",0,Articolare: Ginocchio
+121,401530,22/23,Muscle injury,Physical Injury,2023-02-03,2023-02-09,7,2,Real Madrid,0,Muscolare: Altro/Coscia
+122,401530,22/23,Ill,Other,2022-12-29,2022-12-31,3,1,Real Madrid,0,Patologia Medica/Covid/Influenza
+123,401530,22/23,Hamstring injury,Physical Injury,2022-09-06,2022-09-16,11,2,Real Madrid,0,Muscolare: Flessori
+124,401530,21/22,flu,Illness / Medical,2022-03-14,2022-03-18,5,1,Real Madrid,0,Patologia Medica/Covid/Influenza
+125,401530,20/21,Knock,Physical Injury,2021-02-07,2021-03-05,27,5,Real Madrid,0,Contusione/Trauma Diretto
+126,401530,20/21,Corona virus,Illness / Medical,2020-11-02,2020-11-17,16,3,"Real Madrid, Brazil",0,Patologia Medica/Covid/Influenza
+127,401530,20/21,Knock,Physical Injury,2020-09-16,2020-10-16,31,6,"Real Madrid, Brazil",0,Contusione/Trauma Diretto
+128,502670,26/27,Cruciate ligament tear,Physical Injury,2026-10-21,2027-05-31,223,2,Paris Saint-Germain,0,Articolare: Ginocchio
+129,502670,25/26,Ankle sprain,Physical Injury,2026-01-29,2026-02-05,8,1,Paris Saint-Germain,0,Articolare: Caviglia/Piede
+130,502670,25/26,Muscle injury,Physical Injury,2025-09-28,2025-10-08,11,2,Paris Saint-Germain,0,Muscolare: Altro/Coscia
+131,502670,25/26,muscular problems,Other,2025-08-20,2025-08-27,8,1,Paris Saint-Germain,0,Muscolare: Altro/Coscia
+132,502670,24/25,Muscle fatigue,Physical Injury,2025-01-03,2025-01-13,11,2,SSC Napoli,1,Muscolare: Altro/Coscia
+133,502670,24/25,Inner ligament injury,Physical Injury,2024-12-09,2024-12-19,11,1,SSC Napoli,1,Altro/Non specificato
+134,502670,23/24,Thigh problems,Physical Injury,2024-05-03,2024-05-09,7,1,SSC Napoli,1,Muscolare: Altro/Coscia
+135,502670,23/24,Stomach flu,Illness / Medical,2024-04-17,2024-04-18,2,0,,1,Patologia Medica/Covid/Influenza
+136,502670,23/24,Adductor pain,Physical Injury,2024-03-26,2024-04-05,11,1,SSC Napoli,1,Muscolare: Adduttori/Inguine
+137,502670,23/24,Muscle fatigue,Physical Injury,2023-08-18,2023-08-21,4,1,SSC Napoli,1,Muscolare: Altro/Coscia
+138,502670,23/24,Knee bruise,Physical Injury,2023-08-02,2023-08-07,6,0,,1,Articolare: Ginocchio
+139,502670,22/23,bruise,Physical Injury,2023-05-18,2023-05-20,3,0,,1,Contusione/Trauma Diretto
+140,502670,22/23,flu,Illness / Medical,2023-01-17,2023-01-25,9,2,SSC Napoli,1,Patologia Medica/Covid/Influenza
+141,502670,22/23,Lumbago,Physical Injury,2022-11-04,2022-11-21,18,4,"SSC Napoli, Georgia",1,Rachide/Lombalgia
+142,502670,21/22,Muscle injury,Physical Injury,2021-08-15,2021-08-30,16,2,Rubin Kazan,0,Muscolare: Altro/Coscia
+143,192735,26/27,Injury to the ankle,Physical Injury,2026-10-29,2026-12-09,42,0,,0,Articolare: Caviglia/Piede
+144,192735,25/26,unknown injury,Other,2026-05-25,2026-06-15,22,2,Slovakia,0,Altro/Non specificato
+145,192735,25/26,Thigh problems,Physical Injury,2026-02-28,2026-03-17,18,2,SSC Napoli,1,Muscolare: Altro/Coscia
+146,192735,25/26,muscular problems,Other,2025-12-03,2025-12-13,11,2,SSC Napoli,1,Muscolare: Altro/Coscia
+147,192735,25/26,Adductor injury,Physical Injury,2025-10-06,2025-10-31,26,6,"SSC Napoli, Slovakia",1,Muscolare: Adduttori/Inguine
+148,192735,24/25,Ankle sprain,Physical Injury,2025-05-11,2025-05-25,15,1,SSC Napoli,1,Articolare: Caviglia/Piede
+149,192735,24/25,Ankle sprain,Physical Injury,2025-05-04,2025-05-09,6,0,,1,Articolare: Caviglia/Piede
+150,192735,24/25,Hamstring injury,Physical Injury,2024-10-15,2024-11-04,21,4,SSC Napoli,1,Muscolare: Flessori
+151,192735,23/24,Bruised ribs,Physical Injury,2023-12-23,2023-12-28,6,0,,1,Contusione/Trauma Diretto
+152,192735,21/22,Hamstring muscle injury,Physical Injury,2022-04-19,2022-05-02,14,2,SSC Napoli,1,Muscolare: Flessori
+153,192735,21/22,Hamstring muscle injury,Physical Injury,2022-02-13,2022-02-26,14,3,SSC Napoli,1,Muscolare: Flessori
+154,192735,21/22,Quarantine,Club Exclusion / Technical,2022-01-05,2022-01-08,4,0,,1,Condizionamento/Riposo
+155,192735,21/22,Dead leg,Other,2021-12-04,2021-12-16,13,2,SSC Napoli,1,Contusione/Trauma Diretto
+156,192735,21/22,Muscle injury,Physical Injury,2021-09-08,2021-10-15,38,9,"SSC Napoli, Slovakia",1,Muscolare: Altro/Coscia
+157,192735,20/21,Tonsillitis,Illness / Medical,2021-05-04,2021-05-19,16,3,SSC Napoli,1,Patologia Medica/Covid/Influenza
+158,181136,24/25,muscular problems,Other,2025-06-12,2025-08-08,58,4,Inter Milan,0,Muscolare: Altro/Coscia
+159,181136,24/25,Ankle problems,Physical Injury,2025-05-22,2025-05-29,8,1,Inter Milan,0,Articolare: Caviglia/Piede
+160,181136,24/25,Calf muscle tear,Physical Injury,2025-03-08,2025-04-24,48,12,"Inter Milan, Poland",0,Muscolare: Polpaccio
+161,181136,24/25,Thigh problems,Physical Injury,2024-10-15,2024-10-21,7,1,Inter Milan,0,Muscolare: Altro/Coscia
+162,181136,24/25,muscular problems,Other,2024-08-02,2024-08-21,20,1,Inter Milan,0,Muscolare: Altro/Coscia
+163,181136,23/24,Calf injury,Physical Injury,2024-04-26,2024-05-30,35,5,SSC Napoli,1,Muscolare: Polpaccio
+164,181136,23/24,Muscle fatigue,Physical Injury,2024-02-02,2024-02-09,8,1,SSC Napoli,1,Muscolare: Altro/Coscia
+165,181136,23/24,Muscle fatigue,Physical Injury,2024-01-13,2024-01-17,5,1,SSC Napoli,1,Muscolare: Altro/Coscia
+166,181136,23/24,Knee problems,Physical Injury,2023-12-16,2023-12-20,5,2,SSC Napoli,1,Articolare: Ginocchio
+167,181136,23/24,angina,Other,2023-11-16,2023-11-24,9,1,Poland,0,Altro/Non specificato
+168,181136,22/23,Calf problems,Physical Injury,2022-10-05,2022-10-06,2,0,,1,Muscolare: Polpaccio
+169,181136,21/22,Corona virus,Illness / Medical,2022-01-08,2022-01-14,7,2,SSC Napoli,1,Patologia Medica/Covid/Influenza
+170,181136,21/22,bronchitis,Illness / Medical,2021-12-12,2021-12-16,5,0,,1,Patologia Medica/Covid/Influenza
+171,181136,21/22,unknown injury,Other,2021-10-17,2021-10-22,6,1,SSC Napoli,1,Altro/Non specificato
+172,181136,21/22,Dead leg,Other,2021-08-23,2021-09-09,18,4,"SSC Napoli, Poland",1,Contusione/Trauma Diretto
+173,400485,22/23,Muscle injury,Physical Injury,2023-04-03,2023-05-01,29,3,LOSC Lille,0,Muscolare: Altro/Coscia
+174,400485,22/23,Dead leg,Other,2023-01-16,2023-03-05,49,14,"LOSC Lille, Algeria",0,Contusione/Trauma Diretto
+175,400485,22/23,flu,Illness / Medical,2022-12-27,2023-01-01,6,1,LOSC Lille,0,Patologia Medica/Covid/Influenza
+176,400485,22/23,Hamstring injury,Physical Injury,2022-08-27,2022-09-01,6,2,SSC Napoli,1,Muscolare: Flessori
+177,400485,21/22,unknown injury,Other,2022-05-21,2022-05-25,5,1,SSC Napoli,1,Altro/Non specificato
+178,400485,21/22,Adductor pain,Physical Injury,2022-05-21,2022-05-25,5,1,SSC Napoli,1,Muscolare: Adduttori/Inguine
+179,400485,21/22,influenza,Illness / Medical,2022-04-27,2022-05-02,6,1,SSC Napoli,1,Patologia Medica/Covid/Influenza
+180,400485,21/22,Thigh problems,Physical Injury,2022-03-18,2022-04-13,27,5,"SSC Napoli, Algeria",1,Muscolare: Altro/Coscia
+181,400485,21/22,Fitness,Club Exclusion / Technical,2022-02-03,2022-02-08,6,1,SSC Napoli,1,Condizionamento/Riposo
+182,400485,21/22,unknown injury,Other,2022-01-20,2022-02-06,18,3,"SSC Napoli, Algeria",1,Altro/Non specificato
+183,400485,21/22,Corona virus,Illness / Medical,2022-01-10,2022-01-20,11,5,"SSC Napoli, Algeria",1,Patologia Medica/Covid/Influenza
+184,400485,21/22,influenza,Illness / Medical,2021-11-26,2021-11-29,4,1,SSC Napoli,1,Patologia Medica/Covid/Influenza
+185,400485,21/22,Muscle injury,Physical Injury,2021-11-15,2021-11-29,15,4,"SSC Napoli, Algeria",1,Muscolare: Altro/Coscia
+186,400485,21/22,Hamstring strain,Physical Injury,2021-10-02,2021-11-02,32,8,"SSC Napoli, Algeria",1,Muscolare: Flessori
+187,400485,21/22,Ankle injury,Physical Injury,2021-07-31,2021-08-09,10,0,,1,Articolare: Caviglia/Piede
+188,386446,26/27,Knee surgery,Physical Injury,2026-07-17,2027-01-01,169,12,SSC Napoli,1,Articolare: Ginocchio
+189,386446,25/26,Knee bruise,Physical Injury,2026-05-23,2026-05-29,7,1,SSC Napoli,1,Articolare: Ginocchio
+190,386446,25/26,Adductor injury,Physical Injury,2025-09-23,2025-10-15,23,5,"SSC Napoli, Italy",1,Muscolare: Adduttori/Inguine
+191,386446,25/26,surgery,Other,2025-07-14,2025-08-03,21,0,,1,Altro/Non specificato
+192,386446,24/25,Adductor injury,Physical Injury,2025-04-27,2025-06-11,46,5,"SSC Napoli, Italy",1,Muscolare: Adduttori/Inguine
+193,386446,24/25,Adductor injury,Physical Injury,2025-04-07,2025-04-25,19,2,SSC Napoli,1,Muscolare: Adduttori/Inguine
+194,386446,24/25,Lumbar vertebra fracture,Physical Injury,2024-12-16,2025-01-28,44,6,SSC Napoli,1,Trauma Osseo/Frattura
+195,386446,24/25,Ankle sprain,Physical Injury,2024-08-17,2024-08-22,6,1,SSC Napoli,1,Articolare: Caviglia/Piede
+196,386446,23/24,Shoulder injury,Physical Injury,2024-03-28,2024-03-30,3,0,,0,Articolare: Spalla/Braccio
+197,386446,23/24,Shoulder injury,Physical Injury,2024-01-26,2024-03-02,37,5,Torino FC,0,Articolare: Spalla/Braccio
+198,386446,23/24,Adductor injury,Physical Injury,2023-09-27,2023-10-28,32,5,"Torino FC, Italy",0,Muscolare: Adduttori/Inguine
+199,386446,21/22,Calf muscle tear,Physical Injury,2022-05-07,2022-05-19,13,2,Torino FC,0,Muscolare: Polpaccio
+200,386446,20/21,Corona virus,Illness / Medical,2021-02-18,2021-03-06,17,1,Torino FC,0,Patologia Medica/Covid/Influenza
+201,386446,20/21,unknown injury,Other,2021-01-01,2021-01-06,6,1,Torino FC,0,Altro/Non specificato
+202,386446,17/18,Elbow injury,Physical Injury,2018-04-05,2018-05-08,34,13,"Torino FC, Torino Primavera",0,Articolare: Spalla/Braccio
+203,397225,26/27,unknown injury,Other,2026-10-23,2026-11-16,25,2,Udinese Calcio,0,Altro/Non specificato
+204,397225,26/27,Muscle fatigue,Physical Injury,2026-10-11,2026-10-16,6,1,Udinese Calcio,0,Muscolare: Altro/Coscia
+205,397225,25/26,Cruciate ligament tear,Physical Injury,2026-01-28,2026-09-18,234,22,Udinese Calcio,0,Articolare: Ginocchio
+206,397225,24/25,flu,Illness / Medical,2025-01-26,2025-01-28,3,1,Genoa CFC,0,Patologia Medica/Covid/Influenza
+207,397225,24/25,muscular problems,Other,2024-08-26,2024-09-16,22,2,Genoa CFC,0,Muscolare: Altro/Coscia
+208,397225,23/24,Lumbago,Physical Injury,2023-12-02,2023-12-07,6,1,SSC Napoli,1,Rachide/Lombalgia
+209,397225,22/23,unknown injury,Other,2023-06-09,2023-06-30,22,0,,1,Altro/Non specificato
+210,397225,21/22,Corona virus,Illness / Medical,2021-11-20,2021-12-14,25,7,SSC Napoli,1,Patologia Medica/Covid/Influenza
+211,433584,25/26,unknown injury,Other,2025-10-28,2025-11-26,30,4,US Cremonese,0,Altro/Non specificato
+212,433584,20/21,Corona virus,Illness / Medical,2020-12-17,2021-01-13,28,3,FC Pro Vercelli 1892,0,Patologia Medica/Covid/Influenza
+213,433584,19/20,unknown injury,Other,2019-08-01,2019-08-24,24,2,Cesena FC,0,Altro/Non specificato
+214,433584,18/19,Rest,Club Exclusion / Technical,2019-04-30,2019-05-06,7,2,AS Viterbese Castrense,0,Condizionamento/Riposo
+215,433584,18/19,Broken foot,Physical Injury,2018-11-06,2018-12-25,50,8,AS Viterbese Castrense,0,Articolare: Caviglia/Piede
+216,433584,17/18,flu,Illness / Medical,2018-01-19,2018-01-24,6,1,Napoli Primavera,1,Patologia Medica/Covid/Influenza
+217,240414,26/27,Adductor injury,Physical Injury,2026-09-10,2026-10-08,29,2,SSC Napoli,1,Muscolare: Adduttori/Inguine
+218,240414,25/26,Shoulder injury,Physical Injury,2026-01-12,2026-01-22,11,3,SSC Napoli,1,Articolare: Spalla/Braccio
+219,240414,25/26,Metatarsal fracture,Physical Injury,2025-10-24,2026-01-03,72,17,"SSC Napoli, Italy",1,Articolare: Caviglia/Piede
+220,240414,25/26,Muscle fatigue,Physical Injury,2025-09-12,2025-09-17,6,1,SSC Napoli,1,Muscolare: Altro/Coscia
+221,240414,24/25,flu,Illness / Medical,2025-04-07,2025-04-10,4,0,,1,Patologia Medica/Covid/Influenza
+222,240414,24/25,Adductor injury,Physical Injury,2024-09-21,2024-10-23,33,6,"SSC Napoli, Italy",1,Muscolare: Adduttori/Inguine
+223,240414,23/24,Stomach flu,Illness / Medical,2024-02-11,2024-02-14,4,1,SSC Napoli,1,Patologia Medica/Covid/Influenza
+224,240414,23/24,Hamstring injury,Physical Injury,2023-12-29,2024-02-10,44,6,SSC Napoli,1,Muscolare: Flessori
+225,240414,23/24,muscular problems,Other,2023-11-13,2023-11-24,12,2,Italy,0,Muscolare: Altro/Coscia
+226,240414,23/24,Calf injury,Physical Injury,2023-11-12,2023-11-24,13,3,"SSC Napoli, Italy",1,Muscolare: Polpaccio
+227,240414,22/23,Wrist injury,Physical Injury,2023-03-11,2023-03-14,4,0,,1,Articolare: Spalla/Braccio
+228,240414,21/22,Lumbar vertebra fracture,Physical Injury,2022-03-11,2022-04-04,25,5,"SSC Napoli, Italy",1,Trauma Osseo/Frattura
+229,240414,21/22,Corona virus,Illness / Medical,2022-01-05,2022-01-12,8,2,SSC Napoli,1,Patologia Medica/Covid/Influenza
+230,240414,21/22,Lumbar vertebra fracture,Physical Injury,2021-08-29,2021-09-19,22,5,"SSC Napoli, Italy",1,Trauma Osseo/Frattura
+231,240414,19/20,Abdominal problems,Other,2020-08-01,2020-08-04,4,1,SSC Napoli,1,Altro/Non specificato
+232,830365,26/27,Hamstring muscle injury,Physical Injury,2026-10-18,2026-11-23,37,3,SSC Napoli,1,Muscolare: Flessori
+233,830365,26/27,Hamstring muscle injury,Physical Injury,2026-09-10,2026-10-15,36,4,SSC Napoli,1,Muscolare: Flessori
+234,257732,26/27,Fever,Illness / Medical,2026-10-22,2026-10-26,5,1,SSC Napoli,1,Patologia Medica/Covid/Influenza
+235,257732,25/26,Hamstring muscle injury,Physical Injury,2026-02-15,2026-04-17,62,7,SSC Napoli,1,Muscolare: Flessori
+236,257732,25/26,Strain in the thigh and gluteal muscles,Physical Injury,2026-01-18,2026-02-02,16,4,SSC Napoli,1,Muscolare: Altro/Coscia
+237,257732,25/26,Hamstring muscle injury,Physical Injury,2025-09-06,2025-10-27,52,11,"SSC Napoli, Kosovo",1,Muscolare: Flessori
+238,257732,23/24,Tendon irritation,Physical Injury,2024-05-22,2024-05-25,4,0,,1,Tendinopatia/Tendine
+239,257732,23/24,Adductor pain,Physical Injury,2024-03-03,2024-03-07,5,0,,1,Muscolare: Adduttori/Inguine
+240,257732,23/24,Hamstring injury,Physical Injury,2023-09-20,2023-10-15,26,6,"SSC Napoli, Kosovo",1,Muscolare: Flessori
+241,257732,22/23,Ankle sprain,Physical Injury,2023-04-18,2023-04-22,5,0,,1,Articolare: Caviglia/Piede
+242,257732,22/23,Fitness,Club Exclusion / Technical,2022-12-20,2022-12-22,3,0,,1,Condizionamento/Riposo
+243,257732,22/23,Adductor injury,Physical Injury,2022-10-10,2022-12-20,72,11,"SSC Napoli, Kosovo",1,Muscolare: Adduttori/Inguine
+244,257732,21/22,Quarantine,Club Exclusion / Technical,2022-01-05,2022-01-08,4,0,,1,Condizionamento/Riposo
+245,257732,20/21,Thigh problems,Physical Injury,2021-03-13,2021-03-31,19,4,"SSC Napoli, Kosovo",1,Muscolare: Altro/Coscia
+246,257732,20/21,Fitness,Club Exclusion / Technical,2020-12-11,2020-12-14,4,1,SSC Napoli,1,Condizionamento/Riposo
+247,257732,20/21,Quarantine,Club Exclusion / Technical,2020-12-10,2020-12-11,2,1,SSC Napoli,1,Condizionamento/Riposo
+248,257732,20/21,Corona virus,Illness / Medical,2020-12-10,2020-12-11,2,1,SSC Napoli,1,Patologia Medica/Covid/Influenza
+249,199258,24/25,unknown injury,Other,2024-12-06,2024-12-24,19,3,AC Monza,0,Altro/Non specificato
+250,199258,24/25,pneumonia,Illness / Medical,2024-09-21,2024-11-09,50,8,AC Monza,0,Altro/Non specificato
+251,199258,23/24,Calf injury,Physical Injury,2024-03-01,2024-04-27,58,7,Cagliari Calcio,0,Muscolare: Polpaccio
+252,199258,23/24,muscular problems,Other,2023-09-02,2023-09-22,21,1,Cagliari Calcio,0,Muscolare: Altro/Coscia
+253,199258,22/23,Muscle fatigue,Physical Injury,2023-05-01,2023-05-06,6,1,AC Monza,0,Muscolare: Altro/Coscia
+254,199258,22/23,muscular problems,Other,2022-09-16,2022-10-14,29,3,AC Monza,0,Muscolare: Altro/Coscia
+255,199258,21/22,Hamstring injury,Physical Injury,2022-03-14,2022-04-15,33,3,SSC Napoli,1,Muscolare: Flessori
+256,199258,21/22,Quarantine,Club Exclusion / Technical,2022-01-01,2022-01-03,3,0,,1,Condizionamento/Riposo
+257,199258,21/22,Adductor pain,Physical Injury,2021-10-13,2021-10-16,4,0,,1,Muscolare: Adduttori/Inguine
+258,199258,21/22,Inflammation in the knee,Physical Injury,2021-07-24,2021-08-11,19,0,,1,Articolare: Ginocchio
+259,199258,20/21,Thigh problems,Physical Injury,2021-02-16,2021-03-31,44,8,SSC Napoli,1,Muscolare: Altro/Coscia
+260,199258,19/20,unknown injury,Other,2020-08-01,2020-08-05,5,0,,0,Altro/Non specificato
+261,199258,19/20,Muscle fatigue,Physical Injury,2020-01-13,2020-01-18,6,1,SPAL,0,Muscolare: Altro/Coscia
+262,199258,17/18,Inguinal hernia,Physical Injury,2018-05-09,2018-06-01,24,2,Atalanta BC,0,Altro/Non specificato
+263,199258,17/18,Adductor pain,Physical Injury,2018-04-30,2018-05-07,8,1,Atalanta BC,0,Muscolare: Adduttori/Inguine
+264,566936,25/26,Ankle problems,Physical Injury,2025-10-10,2025-10-16,7,1,US Livorno 1915,0,Articolare: Caviglia/Piede
+265,566936,24/25,flu,Illness / Medical,2025-04-20,2025-04-26,7,1,Rimini FC,0,Patologia Medica/Covid/Influenza
+266,566936,24/25,flu,Illness / Medical,2025-01-17,2025-01-23,7,2,Rimini FC,0,Patologia Medica/Covid/Influenza
+267,566936,24/25,Muscle injury,Physical Injury,2024-09-08,2024-11-08,62,9,Rimini FC,0,Muscolare: Altro/Coscia
+268,566936,23/24,unknown injury,Other,2024-01-02,2024-01-08,7,1,Ancona Calcio,0,Altro/Non specificato
+269,566936,23/24,unknown injury,Other,2023-09-22,2023-09-30,9,1,Ancona Calcio,0,Altro/Non specificato
+270,566936,22/23,Back problems,Physical Injury,2023-03-31,2023-04-04,5,1,US Città di Pontedera,0,Rachide/Lombalgia
+271,566936,22/23,unknown injury,Other,2023-01-06,2023-01-13,8,1,US Città di Pontedera,0,Altro/Non specificato
+272,566936,22/23,unknown injury,Other,2022-11-25,2022-12-02,8,2,US Città di Pontedera,0,Altro/Non specificato
+273,566936,22/23,Intestinal virus,Illness / Medical,2022-10-28,2022-11-03,7,2,US Città di Pontedera,0,Patologia Medica/Covid/Influenza
+274,566936,22/23,unknown injury,Other,2022-10-13,2022-10-18,6,1,US Città di Pontedera,0,Altro/Non specificato
+275,566936,21/22,Scaphoid fracture,Physical Injury,2022-04-30,2022-06-30,62,8,"SSC Napoli, Napoli Primavera",1,Trauma Osseo/Frattura
+276,566936,21/22,Knee injury,Physical Injury,2021-11-26,2021-12-03,8,2,SSC Napoli,1,Articolare: Ginocchio
+277,566936,21/22,Corona virus,Illness / Medical,2021-08-17,2021-09-13,28,2,Napoli Primavera,1,Patologia Medica/Covid/Influenza
+278,566936,20/21,Hamstring muscle injury,Physical Injury,2021-05-07,2021-05-28,22,7,"SSC Napoli, Napoli Primavera",1,Muscolare: Flessori
+279,703245,26/27,Calf injury,Physical Injury,2026-10-05,2026-10-22,18,4,SSC Napoli,1,Muscolare: Polpaccio
+280,703245,25/26,Partial tear of the plantar fascia,Physical Injury,2026-03-07,2026-05-05,60,7,SSC Napoli,1,Altro/Non specificato
+281,703245,25/26,Muscle fatigue,Physical Injury,2026-01-03,2026-01-08,6,2,SSC Napoli,1,Muscolare: Altro/Coscia
+282,703245,24/25,Knee injury,Physical Injury,2025-05-12,2025-05-18,7,1,AC Reggiana 1919,0,Articolare: Ginocchio
+283,703245,24/25,muscular problems,Other,2025-04-05,2025-04-15,11,1,AC Reggiana 1919,0,Muscolare: Altro/Coscia
+284,703245,23/24,Cruciate ligament tear,Physical Injury,2023-09-17,2024-04-24,221,30,AC Reggiana 1919,0,Articolare: Ginocchio
+285,703245,21/22,Hip problems,Other,2021-09-23,2021-11-20,59,6,Napoli Primavera,1,Altro/Non specificato
+286,342046,25/26,Achilles tendon problems,Physical Injury,2026-02-06,2026-04-30,84,12,"Burnley FC, Democratic Republic of the Congo",0,Patologia Medica/Covid/Influenza
+287,342046,25/26,unknown injury,Other,2025-11-30,2025-12-20,21,2,Burnley FC,0,Altro/Non specificato
+288,342046,25/26,Fitness,Club Exclusion / Technical,2025-08-25,2025-09-28,35,6,"Burnley FC, Democratic Republic of the Congo",0,Condizionamento/Riposo
+289,342046,25/26,muscular problems,Other,2025-08-10,2025-08-25,16,4,"Burnley FC, Democratic Republic of the Congo",0,Muscolare: Altro/Coscia
+290,342046,24/25,Thigh problems,Physical Injury,2025-04-25,2025-04-28,4,1,Ipswich Town,0,Muscolare: Altro/Coscia
+291,342046,24/25,Broken thumb,Physical Injury,2025-03-04,2025-03-17,14,2,Ipswich Town,0,Trauma Osseo/Frattura
+292,342046,24/25,Hamstring injury,Physical Injury,2024-11-30,2025-01-18,50,9,Ipswich Town,0,Muscolare: Flessori
+293,342046,24/25,Thumb injury,Other,2024-10-04,2024-11-04,32,6,"Ipswich Town, Democratic Republic of the Congo",0,Altro/Non specificato
+294,342046,22/23,unknown injury,Other,2022-07-13,2023-01-23,195,30,Manchester United,0,Altro/Non specificato
+295,342046,21/22,Lumbago,Physical Injury,2022-02-03,2022-03-14,40,8,SSC Napoli,1,Rachide/Lombalgia
+296,342046,20/21,Ankle injury,Physical Injury,2020-06-18,2020-10-19,124,4,Manchester United,0,Articolare: Caviglia/Piede
+297,342046,19/20,Hamstring strain,Physical Injury,2019-12-18,2020-03-05,79,18,Manchester United,0,Muscolare: Flessori
+298,342046,19/20,Hip injury,Other,2019-10-19,2019-11-23,36,7,Manchester United,0,Altro/Non specificato
+299,342046,18/19,Metatarsal fracture,Physical Injury,2018-12-22,2019-03-29,98,17,Aston Villa,0,Articolare: Caviglia/Piede
+300,144143,24/25,muscular problems,Other,2024-11-15,2025-02-12,90,14,"UC Sampdoria, Poland",0,Muscolare: Altro/Coscia
+301,144143,23/24,muscular problems,Other,2023-12-11,2024-01-12,33,4,FC Empoli,0,Muscolare: Altro/Coscia
+302,144143,23/24,unknown injury,Other,2023-09-27,2023-10-22,26,3,"FC Empoli, Poland",0,Altro/Non specificato
+303,144143,22/23,Knee injury,Physical Injury,2023-03-22,2023-04-04,14,3,"SSC Napoli, Poland",1,Articolare: Ginocchio
+304,144143,21/22,Muscle injury,Physical Injury,2022-01-08,2022-01-11,4,1,UC Sampdoria,0,Muscolare: Altro/Coscia
+305,144143,21/22,Muscle injury,Physical Injury,2021-09-03,2021-09-09,7,2,Poland,0,Muscolare: Altro/Coscia
+306,144143,20/21,Muscle fatigue,Physical Injury,2021-04-19,2021-04-23,5,1,UC Sampdoria,0,Muscolare: Altro/Coscia
+307,144143,20/21,strain,Physical Injury,2020-12-06,2021-01-01,27,4,UC Sampdoria,0,Muscolare: Altro/Coscia
+308,144143,19/20,Muscle injury,Physical Injury,2020-07-25,2020-07-28,4,1,UC Sampdoria,0,Muscolare: Altro/Coscia
+309,144143,19/20,Meniscus injury,Physical Injury,2019-11-15,2019-12-29,45,7,"UC Sampdoria, Poland",0,Articolare: Ginocchio
+310,144143,18/19,Muscle injury,Physical Injury,2018-12-11,2019-01-25,46,5,UC Sampdoria,0,Muscolare: Altro/Coscia
+311,144143,17/18,Muscle injury,Physical Injury,2018-03-18,2018-04-02,16,3,"UC Sampdoria, Poland",0,Muscolare: Altro/Coscia
+312,144143,17/18,Ankle sprain,Physical Injury,2018-02-25,2018-03-12,16,1,UC Sampdoria,0,Articolare: Caviglia/Piede
+313,144143,16/17,Calf injury,Physical Injury,2017-05-07,2017-05-14,8,0,,0,Muscolare: Polpaccio
+314,144143,14/15,Metatarsal fracture,Physical Injury,2014-09-10,2015-02-04,148,24,"Legia Warszawa, Poland",0,Articolare: Caviglia/Piede
+315,423744,25/26,Knee injury,Physical Injury,2026-05-30,2026-08-03,66,4,Scotland,0,Articolare: Ginocchio
+316,423744,25/26,Pubalgia,Other,2025-11-02,2026-02-15,106,25,"SSC Napoli, Scotland",1,Muscolare: Adduttori/Inguine
+317,423744,25/26,Adductor injury,Physical Injury,2025-07-16,2025-08-04,20,0,,1,Muscolare: Adduttori/Inguine
+318,423744,23/24,Knee injury,Physical Injury,2024-03-27,2024-04-26,31,5,Brighton & Hove Albion,0,Articolare: Ginocchio
+319,423744,21/22,Ankle injury,Physical Injury,2022-01-08,2022-02-05,29,4,Norwich City,0,Articolare: Caviglia/Piede
+320,423744,20/21,Corona virus,Illness / Medical,2021-06-21,2021-07-01,11,1,Scotland,0,Patologia Medica/Covid/Influenza
+321,423744,20/21,Knee injury,Physical Injury,2020-07-09,2020-11-17,132,23,"Chelsea FC, Scotland U21",0,Articolare: Ginocchio
+322,989006,26/27,unknown injury,Other,2026-09-02,,60,11,Dolomiti Bellunesi,0,Altro/Non specificato
+323,358032,25/26,flu,Illness / Medical,2026-09-02,2026-09-17,16,2,AC Monza,0,Patologia Medica/Covid/Influenza
+324,358032,23/24,Muscle contusion,Physical Injury,2026-01-02,2026-01-05,4,1,Torino FC,0,Muscolare: Altro/Coscia
+325,358032,23/24,muscular problems,Other,2024-04-03,2024-04-05,3,0,,1,Muscolare: Altro/Coscia
+326,358032,22/23,Injury to the ankle,Physical Injury,2024-02-20,2024-03-11,21,5,SSC Napoli,1,Articolare: Caviglia/Piede
+327,358032,20/21,Ankle injury,Physical Injury,2023-03-05,2023-03-31,27,2,Hellas Verona,0,Articolare: Caviglia/Piede
+328,358032,20/21,Ankle injury,Physical Injury,2020-12-29,2021-02-19,53,8,RKC Waalwijk,0,Articolare: Caviglia/Piede
+329,469822,26/27,Hamstring injury,Physical Injury,2026-10-14,2026-11-10,28,4,SSC Napoli,1,Muscolare: Flessori
+330,469822,25/26,Fitness,Club Exclusion / Technical,2026-05-12,2026-08-18,99,2,SSC Napoli,1,Condizionamento/Riposo
+331,469822,25/26,Ankle surgery,Physical Injury,2026-01-15,2026-05-12,118,19,SSC Napoli,1,Articolare: Caviglia/Piede
+332,469822,25/26,Ankle sprain,Physical Injury,2026-01-05,2026-01-13,9,2,SSC Napoli,1,Articolare: Caviglia/Piede
+333,469822,25/26,Muscle fatigue,Physical Injury,2025-08-29,2025-09-10,13,1,SSC Napoli,1,Muscolare: Altro/Coscia
+334,469822,24/25,Calf muscle tear,Physical Injury,2025-04-18,2025-05-09,22,3,SSC Napoli,1,Muscolare: Polpaccio
+335,469822,24/25,Fitness,Club Exclusion / Technical,2025-03-13,2025-03-17,5,1,SSC Napoli,1,Condizionamento/Riposo
+336,469822,24/25,Hamstring injury,Physical Injury,2025-02-10,2025-03-13,32,4,SSC Napoli,1,Muscolare: Flessori
+337,469822,23/24,Muscle injury,Physical Injury,2024-05-11,2024-06-30,51,2,SL Benfica,0,Muscolare: Altro/Coscia
+338,469822,23/24,Meniscus injury,Physical Injury,2023-10-29,2024-01-15,79,15,SL Benfica,0,Articolare: Ginocchio
+339,469822,23/24,Knock,Physical Injury,2023-08-08,2023-08-11,4,1,SL Benfica,0,Contusione/Trauma Diretto
+340,469822,22/23,unknown injury,Other,2022-12-15,2023-01-04,21,2,SL Benfica,0,Altro/Non specificato
+341,469822,22/23,minor knock,Physical Injury,2022-10-06,2022-10-19,14,2,SL Benfica,0,Contusione/Trauma Diretto
+342,469822,22/23,minor knock,Physical Injury,2022-08-04,2022-08-18,15,2,SL Benfica,0,Contusione/Trauma Diretto
+343,469822,20/21,Ankle injury,Physical Injury,2020-12-03,2021-01-18,47,8,Ajax Amsterdam,0,Articolare: Caviglia/Piede
+344,73396,24/25,Leg injury,Other,2025-01-29,2025-03-03,34,5,Atlético Nacional,0,Altro/Non specificato
+345,73396,24/25,Muscle injury,Physical Injury,2024-08-05,2024-10-18,75,13,"Atlético Nacional, Colombia",0,Muscolare: Altro/Coscia
+346,73396,23/24,Torn thigh muscle,Physical Injury,2024-02-01,2024-02-26,26,4,Al-Nassr FC,0,Muscolare: Altro/Coscia
+347,73396,22/23,Elbow injury,Physical Injury,2023-01-14,2023-11-30,321,53,"Al-Nassr FC, Colombia",0,Articolare: Spalla/Braccio
+348,73396,21/22,influenza,Illness / Medical,2022-04-17,2022-04-20,4,1,SSC Napoli,1,Patologia Medica/Covid/Influenza
+349,73396,21/22,Stomach flu,Illness / Medical,2022-01-31,2022-02-03,4,1,Colombia,0,Patologia Medica/Covid/Influenza
+350,73396,21/22,Calf injury,Physical Injury,2022-01-13,2022-01-21,9,2,"SSC Napoli, Colombia",1,Muscolare: Polpaccio
+351,73396,20/21,Muscle injury,Physical Injury,2021-04-11,2021-05-06,26,4,SSC Napoli,1,Muscolare: Altro/Coscia
+352,73396,20/21,Finger injury,Other,2021-03-30,2021-04-03,5,0,,1,Altro/Non specificato
+353,73396,20/21,Adductor pain,Physical Injury,2021-02-13,2021-02-26,14,3,SSC Napoli,1,Muscolare: Adduttori/Inguine
+354,73396,20/21,muscular problems,Other,2020-11-14,2020-11-20,7,0,,1,Muscolare: Altro/Coscia
+355,73396,19/20,Muscle fatigue,Physical Injury,2020-07-21,2020-07-24,4,1,SSC Napoli,1,Muscolare: Altro/Coscia
+356,73396,19/20,Head injury,Physical Injury,2020-07-02,2020-07-07,6,1,SSC Napoli,1,Altro/Non specificato
+357,73396,19/20,Stomach flu,Illness / Medical,2020-01-25,2020-01-29,5,1,SSC Napoli,1,Patologia Medica/Covid/Influenza
+358,73396,18/19,concussion,Physical Injury,2019-03-18,2019-03-27,10,2,Colombia,0,Altro/Non specificato
+359,618505,21/22,unknown injury,Other,2021-11-21,2021-12-04,14,1,Napoli Primavera,1,Altro/Non specificato
+360,417414,22/23,Tendon irritation,Physical Injury,2023-03-18,2023-03-24,7,1,SSC Napoli,1,Tendinopatia/Tendine
+361,82070,25/26,Head injury,Physical Injury,2026-01-01,2026-03-11,70,9,Hertha BSC,0,Altro/Non specificato
+362,82070,25/26,Head injury,Physical Injury,2025-08-05,2025-10-05,62,8,Hertha BSC,0,Altro/Non specificato
+363,82070,24/25,concussion,Physical Injury,2025-01-18,2025-02-09,23,4,Hertha BSC,0,Altro/Non specificato
+364,82070,24/25,concussion,Physical Injury,2024-09-15,2024-11-25,72,6,Hertha BSC,0,Altro/Non specificato
+365,82070,23/24,muscular problems,Other,2024-01-15,2024-01-21,7,1,SSC Napoli,1,Muscolare: Altro/Coscia
+366,82070,23/24,Calf problems,Physical Injury,2023-12-27,2023-12-31,5,1,SSC Napoli,1,Muscolare: Polpaccio
+367,82070,23/24,Thigh problems,Physical Injury,2023-11-11,2023-11-15,5,1,SSC Napoli,1,Muscolare: Altro/Coscia
+368,82070,22/23,Muscle fatigue,Physical Injury,2023-03-17,2023-03-30,14,1,SSC Napoli,1,Muscolare: Altro/Coscia
+369,82070,22/23,Muscle fatigue,Physical Injury,2022-12-20,2022-12-28,9,0,,1,Muscolare: Altro/Coscia
+370,82070,22/23,Muscle fatigue,Physical Injury,2022-12-08,2022-12-12,5,0,,1,Muscolare: Altro/Coscia
+371,82070,22/23,Foot injury,Physical Injury,2022-08-18,2022-09-22,36,8,SSC Napoli,1,Articolare: Caviglia/Piede
+372,82070,21/22,Quarantine,Club Exclusion / Technical,2021-11-24,2021-11-25,2,1,SSC Napoli,1,Condizionamento/Riposo
+373,82070,21/22,Corona virus,Illness / Medical,2021-11-12,2021-11-24,13,2,SSC Napoli,1,Patologia Medica/Covid/Influenza
+374,82070,21/22,Fitness,Club Exclusion / Technical,2021-09-21,2021-09-25,5,1,SSC Napoli,1,Condizionamento/Riposo
+375,82070,21/22,Knee medial ligament tear,Physical Injury,2021-07-25,2021-09-21,59,5,SSC Napoli,1,Articolare: Ginocchio
+376,56416,22/23,Inner ligament stretch of the knee,Physical Injury,2023-02-20,2023-03-22,31,3,Galatasaray,0,Articolare: Ginocchio
+377,56416,21/22,Fitness,Club Exclusion / Technical,2021-09-09,2021-09-25,17,4,SSC Napoli,1,Condizionamento/Riposo
+378,56416,21/22,Shoulder injury,Physical Injury,2021-07-05,2021-09-08,66,4,"SSC Napoli, Belgium",1,Articolare: Spalla/Braccio
+379,56416,20/21,Ankle injury,Physical Injury,2021-05-09,2021-05-10,2,0,,1,Articolare: Caviglia/Piede
+380,56416,20/21,Ankle injury,Physical Injury,2021-01-30,2021-02-23,25,7,SSC Napoli,1,Articolare: Caviglia/Piede
+381,56416,20/21,Ankle sprain,Physical Injury,2020-12-16,2021-01-11,27,5,SSC Napoli,1,Articolare: Caviglia/Piede
+382,56416,19/20,Adductor pain,Physical Injury,2019-12-30,2020-01-30,32,6,SSC Napoli,1,Muscolare: Adduttori/Inguine
+383,56416,18/19,muscular problems,Other,2019-05-10,2019-05-13,4,1,SSC Napoli,1,Muscolare: Altro/Coscia
+384,56416,15/16,Torn thigh muscle,Physical Injury,2015-11-02,2015-12-04,33,5,"SSC Napoli, Belgium",1,Muscolare: Altro/Coscia
+385,56416,15/16,Contracture,Other,2015-10-19,2015-10-26,8,1,SSC Napoli,1,Altro/Non specificato
+386,56416,14/15,Back problems,Physical Injury,2015-04-17,2015-04-17,1,0,,1,Rachide/Lombalgia
+387,56416,14/15,concussion,Physical Injury,2014-11-17,2014-11-25,9,1,SSC Napoli,1,Altro/Non specificato
+388,56416,13/14,Ankle sprain,Physical Injury,2014-03-24,2014-03-28,5,1,SSC Napoli,1,Articolare: Caviglia/Piede
+389,56416,12/13,Groin problems,Physical Injury,2012-12-07,2013-01-01,26,4,PSV Eindhoven,0,Muscolare: Adduttori/Inguine
+390,421873,24/25,Muscle strain,Physical Injury,2025-05-18,2025-05-26,9,1,Cagliari Calcio,0,Muscolare: Altro/Coscia
+391,421873,23/24,Ankle sprain,Physical Injury,2023-08-26,2023-10-06,42,6,FC Empoli,0,Articolare: Caviglia/Piede
+392,400489,24/25,Muscle fatigue,Physical Injury,2025-05-17,2025-05-21,5,1,Torino FC,0,Muscolare: Altro/Coscia
+393,400489,24/25,Torn muscle fiber,Physical Injury,2024-11-15,2025-01-02,49,9,"RB Leipzig, North Macedonia",0,Muscolare: Altro/Coscia
+394,400489,23/24,Hamstring muscle injury,Physical Injury,2023-12-15,2024-01-02,19,4,SSC Napoli,1,Muscolare: Flessori
+395,400489,23/24,unknown injury,Other,2023-10-20,2023-10-24,5,1,SSC Napoli,1,Altro/Non specificato
+396,400489,21/22,Hamstring muscle injury,Physical Injury,2022-04-22,2022-04-28,7,1,SSC Napoli,1,Muscolare: Flessori
+397,400489,21/22,Corona virus,Illness / Medical,2021-12-30,2022-01-05,7,0,,1,Patologia Medica/Covid/Influenza
+398,400489,21/22,Shin bruise,Physical Injury,2021-12-12,2021-12-14,3,0,,1,Contusione/Trauma Diretto
+399,400489,20/21,Muscle injury,Physical Injury,2020-11-16,2020-11-19,4,1,North Macedonia,0,Muscolare: Altro/Coscia
+400,400489,20/21,Fitness,Club Exclusion / Technical,2020-10-24,2020-10-26,3,1,SSC Napoli,1,Condizionamento/Riposo
+401,400489,20/21,Corona virus,Illness / Medical,2020-10-03,2020-10-23,21,5,"SSC Napoli, North Macedonia",1,Patologia Medica/Covid/Influenza
+402,400489,17/18,fatigue fracture,Physical Injury,2017-11-15,2018-01-15,62,9,Fenerbahce,0,Trauma Osseo/Frattura
+403,200056,25/26,unknown injury,Other,2026-02-28,2026-03-04,5,1,SS Lazio,0,Altro/Non specificato
+404,200056,25/26,Knee problems,Physical Injury,2025-10-29,2025-11-02,5,1,SS Lazio,0,Articolare: Ginocchio
+405,200056,24/25,Hamstring injury,Physical Injury,2025-02-03,2025-03-14,40,8,SS Lazio,0,Muscolare: Flessori
+406,200056,23/24,Ankle injury,Physical Injury,2024-02-14,2024-02-18,5,0,,0,Articolare: Caviglia/Piede
+407,200056,23/24,Fever,Illness / Medical,2023-12-01,2023-12-04,4,1,SS Lazio,0,Patologia Medica/Covid/Influenza
+408,200056,23/24,inflammation,Other,2023-08-14,2023-08-19,6,0,,0,Altro/Non specificato
+409,200056,22/23,Ankle injury,Physical Injury,2023-03-11,2023-03-18,8,1,SS Lazio,0,Articolare: Caviglia/Piede
+410,200056,22/23,Chest injury,Other,2022-08-30,2022-09-02,4,1,SS Lazio,0,Altro/Non specificato
+411,200056,21/22,Calf problems,Physical Injury,2022-04-28,2022-05-02,5,1,SS Lazio,0,Muscolare: Polpaccio
+412,200056,21/22,Adductor pain,Physical Injury,2021-12-17,2021-12-23,7,1,SS Lazio,0,Muscolare: Adduttori/Inguine
+413,200056,20/21,Calf problems,Physical Injury,2021-02-10,2021-02-26,17,4,SSC Napoli,1,Muscolare: Polpaccio
+414,200056,20/21,Fitness,Club Exclusion / Technical,2020-12-03,2020-12-14,12,4,SSC Napoli,1,Condizionamento/Riposo
+415,200056,20/21,Corona virus,Illness / Medical,2020-11-17,2020-12-02,16,4,"SSC Napoli, Albania",1,Patologia Medica/Covid/Influenza
+416,200056,19/20,fracture,Physical Injury,2019-10-06,2019-10-31,26,6,"SSC Napoli, Albania",1,Trauma Osseo/Frattura
+417,200056,19/20,Muscle fatigue,Physical Injury,2019-09-13,2019-09-18,6,2,SSC Napoli,1,Muscolare: Altro/Coscia
+418,350219,25/26,Knee injury,Physical Injury,2026-01-21,2026-04-15,85,19,"Paris Saint-Germain, Spain",0,Articolare: Ginocchio
+419,350219,25/26,Dead leg,Other,2025-10-02,2025-10-29,28,6,"Paris Saint-Germain, Spain",0,Contusione/Trauma Diretto
+420,350219,25/26,minor knock,Physical Injury,2025-09-26,2025-09-29,4,1,Paris Saint-Germain,0,Contusione/Trauma Diretto
+421,350219,25/26,muscular problems,Other,2025-09-01,2025-09-10,10,2,Spain,0,Muscolare: Altro/Coscia
+422,350219,23/24,Shoulder injury,Physical Injury,2023-12-04,2023-12-25,22,4,Paris Saint-Germain,0,Articolare: Spalla/Braccio
+423,350219,23/24,Thigh problems,Physical Injury,2023-09-13,2023-09-21,9,1,Paris Saint-Germain,0,Muscolare: Altro/Coscia
+424,350219,22/23,Adductor injury,Physical Injury,2023-05-22,2023-06-15,25,2,Paris Saint-Germain,0,Muscolare: Adduttori/Inguine
+425,350219,22/23,Virus,Illness / Medical,2023-02-10,2023-02-12,3,1,Paris Saint-Germain,0,Patologia Medica/Covid/Influenza
+426,350219,22/23,Adductor pain,Physical Injury,2022-11-05,2022-11-14,10,2,Paris Saint-Germain,0,Muscolare: Adduttori/Inguine
+427,350219,21/22,Corona virus,Illness / Medical,2021-12-26,2021-12-29,4,0,,1,Patologia Medica/Covid/Influenza
+428,350219,21/22,Adductor injury,Physical Injury,2021-12-01,2022-01-08,39,6,SSC Napoli,1,Muscolare: Adduttori/Inguine
+429,350219,21/22,unknown injury,Other,2021-11-23,2021-11-26,4,0,,1,Altro/Non specificato
+430,350219,21/22,Adductor pain,Physical Injury,2021-11-03,2021-11-05,3,1,SSC Napoli,1,Muscolare: Adduttori/Inguine
+431,350219,20/21,Fitness,Club Exclusion / Technical,2021-02-05,2021-02-07,3,1,SSC Napoli,1,Condizionamento/Riposo
+432,350219,20/21,Corona virus,Illness / Medical,2021-01-16,2021-02-04,20,6,SSC Napoli,1,Patologia Medica/Covid/Influenza
+433,126656,23/24,unknown injury,Other,2024-05-15,2024-05-27,13,2,Hatayspor,0,Altro/Non specificato
+434,126656,23/24,unknown injury,Other,2024-02-18,2024-02-27,10,1,Hatayspor,0,Altro/Non specificato
+435,126656,23/24,unknown injury,Other,2024-02-01,2024-02-03,3,1,Hatayspor,0,Altro/Non specificato
+436,126656,23/24,unknown injury,Other,2024-01-16,2024-01-24,9,2,Hatayspor,0,Altro/Non specificato
+437,126656,23/24,unknown injury,Other,2023-12-07,2023-12-22,16,2,Hatayspor,0,Altro/Non specificato
+438,126656,22/23,Achilles tendon contusion,Physical Injury,2023-04-17,2023-05-10,24,3,Angers SCO,0,Contusione/Trauma Diretto
+439,126656,22/23,Muscle injury,Physical Injury,2023-02-26,2023-03-25,28,3,Angers SCO,0,Muscolare: Altro/Coscia
+440,126656,21/22,muscular problems,Other,2022-05-06,2022-05-11,6,1,SSC Napoli,1,Muscolare: Altro/Coscia
+441,126656,21/22,Stress reaction of the bone,Other,2022-04-23,2022-04-26,4,1,SSC Napoli,1,Trauma Osseo/Frattura
+442,126656,21/22,Stomach flu,Illness / Medical,2021-11-07,2021-11-10,4,1,SSC Napoli,1,Patologia Medica/Covid/Influenza
+443,126656,21/22,Fitness,Club Exclusion / Technical,2021-09-01,2021-09-27,27,5,SSC Napoli,1,Condizionamento/Riposo
+444,126656,20/21,Cruciate ligament tear,Physical Injury,2021-03-07,2021-09-01,179,15,SSC Napoli,1,Articolare: Ginocchio
+445,126656,20/21,Corona virus,Illness / Medical,2021-02-05,2021-02-19,15,4,SSC Napoli,1,Patologia Medica/Covid/Influenza
+446,126656,19/20,Muscle injury,Physical Injury,2019-10-29,2020-02-13,108,20,SSC Napoli,1,Muscolare: Altro/Coscia
+447,126656,18/19,Knee problems,Physical Injury,2019-03-31,2019-04-04,5,2,SSC Napoli,1,Articolare: Ginocchio
+448,35564,21/22,Corona virus,Illness / Medical,2021-12-11,2021-12-22,12,3,SD Eibar,0,Patologia Medica/Covid/Influenza
+449,35564,20/21,Back problems,Physical Injury,2020-12-20,2020-12-22,3,0,,1,Rachide/Lombalgia
+450,35564,19/20,unknown injury,Other,2020-06-27,2020-07-26,30,9,SSC Napoli,1,Altro/Non specificato
+451,35564,19/20,flu,Illness / Medical,2020-02-17,2020-03-01,14,3,SSC Napoli,1,Patologia Medica/Covid/Influenza
+452,35564,18/19,concussion,Physical Injury,2019-04-01,2019-04-09,9,1,Tottenham Hotspur,0,Altro/Non specificato
+453,35564,17/18,Broken arm,Physical Injury,2017-06-28,2017-09-08,73,4,Swansea City,0,Trauma Osseo/Frattura
+454,35564,15/16,Ankle injury,Physical Injury,2015-07-27,2015-08-05,10,0,,0,Articolare: Caviglia/Piede
+455,35564,12/13,Thigh problems,Physical Injury,2012-09-01,2012-09-07,7,1,Athletic Bilbao,0,Muscolare: Altro/Coscia
+456,35564,11/12,Knee problems,Physical Injury,2011-12-03,2012-01-01,30,6,Athletic Bilbao,0,Articolare: Ginocchio
+457,35564,10/11,Hip problems,Other,2010-12-18,2011-01-01,15,1,Athletic Bilbao,0,Altro/Non specificato
+458,35564,09/10,Back problems,Physical Injury,2009-12-15,2009-12-17,3,1,Athletic Bilbao,0,Rachide/Lombalgia
+459,395190,24/25,Ankle sprain,Physical Injury,2025-01-27,2025-02-19,24,3,AC Perugia Calcio,0,Articolare: Caviglia/Piede
+460,395190,24/25,unknown injury,Other,2024-10-18,2024-10-20,3,1,AC Perugia Calcio,0,Altro/Non specificato
+461,395190,23/24,unknown injury,Other,2024-01-12,2024-01-20,9,1,AC Perugia Calcio,0,Altro/Non specificato
+462,395190,23/24,Rest,Club Exclusion / Technical,2023-10-04,2023-10-06,3,1,AC Perugia Calcio,0,Condizionamento/Riposo
+463,395190,22/23,Rest,Club Exclusion / Technical,2022-07-30,2022-08-01,3,0,,0,Condizionamento/Riposo
+464,395190,21/22,flu,Illness / Medical,2022-03-13,2022-03-18,6,1,US Pistoiese 1921,0,Patologia Medica/Covid/Influenza
+465,395190,21/22,unknown injury,Other,2021-11-01,2021-11-20,20,2,US Pistoiese 1921,0,Altro/Non specificato
+466,395190,20/21,Torn knee ligaments,Physical Injury,2021-04-22,2021-10-08,170,14,"FC Pro Vercelli 1892, SSC Napoli",1,Articolare: Ginocchio
+467,395190,20/21,unknown injury,Other,2021-01-16,2021-02-08,24,5,FC Pro Vercelli 1892,0,Altro/Non specificato
+468,395190,20/21,unknown injury,Other,2020-10-22,2020-10-30,9,1,Feralpisalò,0,Altro/Non specificato
+469,354361,26/27,Adductor pain,Physical Injury,2026-09-08,2026-10-15,38,4,SSC Napoli,1,Muscolare: Adduttori/Inguine
+470,354361,25/26,Back problems,Physical Injury,2026-01-27,2026-03-04,37,7,SSC Napoli,1,Rachide/Lombalgia
+471,354361,25/26,Hamstring injury,Physical Injury,2025-11-12,2026-01-27,77,17,SSC Napoli,1,Muscolare: Flessori
+472,354361,25/26,unknown injury,Other,2025-07-25,2025-07-30,6,0,,1,Altro/Non specificato
+473,354361,24/25,Calf injury,Physical Injury,2025-02-23,2025-03-14,20,2,SSC Napoli,1,Muscolare: Polpaccio
+474,354361,23/24,Foot bruise,Physical Injury,2023-12-18,2023-12-21,4,1,SSC Napoli,1,Articolare: Caviglia/Piede
+475,354361,23/24,Hamstring muscle injury,Physical Injury,2023-10-08,2023-10-27,20,4,"SSC Napoli, Cameroon",1,Muscolare: Flessori
+476,354361,23/24,Calf injury,Physical Injury,2023-08-04,2023-08-18,15,0,,1,Muscolare: Polpaccio
+477,354361,22/23,Hamstring strain,Physical Injury,2022-10-12,2022-10-25,14,2,SSC Napoli,1,Muscolare: Flessori
+478,354361,21/22,Thigh problems,Physical Injury,2022-03-21,2022-03-30,10,2,Cameroon,0,Muscolare: Altro/Coscia
+479,354361,21/22,Thigh problems,Physical Injury,2022-03-20,2022-03-31,12,2,Cameroon,0,Muscolare: Altro/Coscia
+480,354361,21/22,Adductor injury,Physical Injury,2022-02-17,2022-03-03,15,3,SSC Napoli,1,Muscolare: Adduttori/Inguine
+481,354361,21/22,Adductor injury,Physical Injury,2021-11-22,2021-12-11,20,5,SSC Napoli,1,Muscolare: Adduttori/Inguine
+482,354361,18/19,Knock,Physical Injury,2019-04-14,2019-04-19,6,0,,0,Contusione/Trauma Diretto
+483,354361,18/19,Ankle injury,Physical Injury,2018-12-14,2019-02-08,57,10,Fulham FC,0,Articolare: Caviglia/Piede
+484,703240,25/26,Muscle fatigue,Physical Injury,2026-01-04,2026-02-06,34,4,SS Arezzo,0,Muscolare: Altro/Coscia
+485,703240,24/25,unknown injury,Other,2025-02-10,2025-02-18,9,1,AS Gubbio 1910,0,Altro/Non specificato
+486,703240,23/24,unknown injury,Other,2023-10-24,2023-10-28,5,1,SS Monopoli 1966,0,Altro/Non specificato
+487,703240,22/23,Meniscus injury,Physical Injury,2023-01-06,2023-03-17,71,12,Napoli Primavera,1,Articolare: Ginocchio
+488,703240,21/22,Knee collateral ligament tear,Physical Injury,2021-08-28,2022-04-01,217,26,Napoli Primavera,1,Articolare: Ginocchio
+489,405885,26/27,Hamstring muscle injury,Physical Injury,2026-10-16,2026-11-03,19,4,Atalanta BC,0,Muscolare: Flessori
+490,405885,26/27,Hamstring injury,Physical Injury,2026-09-28,2026-10-11,14,2,Italy,0,Muscolare: Flessori
+491,405885,25/26,Muscle strain,Physical Injury,2026-02-15,2026-03-16,30,8,Atalanta BC,0,Muscolare: Altro/Coscia
+492,405885,23/24,Ankle injury,Physical Injury,2024-05-04,2024-05-10,7,1,SSC Napoli,1,Articolare: Caviglia/Piede
+493,405885,22/23,Hamstring injury,Physical Injury,2023-02-14,2023-03-29,44,9,"SSC Napoli, Italy",1,Muscolare: Flessori
+494,405885,20/21,unknown injury,Other,2021-04-24,2021-05-02,9,1,US Sassuolo,0,Altro/Non specificato
+495,405885,20/21,Hamstring injury,Physical Injury,2020-09-18,2020-10-02,15,2,US Sassuolo,0,Muscolare: Flessori
+496,405885,16/17,Ankle sprain,Physical Injury,2016-11-15,2016-12-05,21,2,Sassuolo Under 17,0,Articolare: Caviglia/Piede
+497,358008,25/26,Adductor pain,Physical Injury,2026-02-15,2026-03-12,26,4,Cagliari Calcio,0,Muscolare: Adduttori/Inguine
+498,358008,25/26,Thigh problems,Physical Injury,2025-10-01,2025-10-16,16,1,Cagliari Calcio,0,Muscolare: Altro/Coscia
+499,358008,24/25,Knee surgery,Physical Injury,2025-05-21,2025-08-11,83,1,Cagliari Calcio,0,Articolare: Ginocchio
+500,358008,24/25,Bruised knee,Physical Injury,2025-02-14,2025-02-20,7,1,Cagliari Calcio,0,Articolare: Ginocchio
+501,358008,23/24,Adductor pain,Physical Injury,2024-03-09,2024-03-30,22,1,Cagliari Calcio,0,Muscolare: Adduttori/Inguine
+502,358008,23/24,Fitness,Club Exclusion / Technical,2023-08-13,2023-08-21,9,1,SSC Napoli,1,Condizionamento/Riposo
+503,358008,22/23,Metatarsal fracture,Physical Injury,2023-06-04,2023-08-13,71,0,,1,Articolare: Caviglia/Piede
+504,358008,22/23,Tonsillitis,Illness / Medical,2023-04-13,2023-04-17,5,1,SSC Napoli,1,Patologia Medica/Covid/Influenza
+505,358008,22/23,Stomach flu,Illness / Medical,2023-01-03,2023-01-05,3,1,SSC Napoli,1,Patologia Medica/Covid/Influenza
+506,358008,22/23,influenza,Illness / Medical,2022-09-30,2022-10-03,4,1,SSC Napoli,1,Patologia Medica/Covid/Influenza
+510,169880,25/26,Knee injury,Physical Injury,2026-02-01,2026-04-30,89,14,"SSC Napoli, Italy",1,Articolare: Ginocchio
+511,169880,23/24,Stomach flu,Illness / Medical,2024-05-16,2024-05-18,3,1,SSC Napoli,1,Patologia Medica/Covid/Influenza
+512,169880,21/22,Knee injury,Physical Injury,2022-03-19,2022-04-25,38,6,"SSC Napoli, Italy",1,Articolare: Ginocchio
+513,282388,26/27,Back problems,Physical Injury,2026-09-11,2026-09-13,3,0,,0,Rachide/Lombalgia
+514,282388,25/26,bruise,Physical Injury,2026-01-14,2026-02-06,24,3,Torino FC,0,Contusione/Trauma Diretto
+515,282388,25/26,Hamstring muscle injury,Physical Injury,2025-11-13,2025-12-07,25,2,Torino FC,0,Muscolare: Flessori
+516,282388,25/26,muscular problems,Other,2025-07-22,2025-08-04,14,0,,0,Muscolare: Altro/Coscia
+517,282388,23/24,Muscle fatigue,Physical Injury,2023-08-03,2023-08-05,3,0,,1,Muscolare: Altro/Coscia
+518,282388,22/23,Hamstring muscle injury,Physical Injury,2023-04-07,2023-04-26,20,4,SSC Napoli,1,Muscolare: Flessori
+519,282388,20/21,bruise,Physical Injury,2021-03-03,2021-03-06,4,0,,0,Contusione/Trauma Diretto
+520,282388,20/21,Corona virus,Illness / Medical,2020-11-25,2020-12-12,18,3,Cagliari Calcio,0,Patologia Medica/Covid/Influenza
+521,282388,16/17,Shin bruise,Physical Injury,2017-05-07,2017-05-14,8,0,,0,Contusione/Trauma Diretto
+522,707295,25/26,Muscle fatigue,Physical Injury,2026-01-06,2026-01-09,4,1,SSC Napoli,1,Muscolare: Altro/Coscia
+523,707295,23/24,Muscle injury,Physical Injury,2024-05-01,2024-06-17,48,10,"US Catanzaro, Italy U21",0,Muscolare: Altro/Coscia
+524,707295,22/23,unknown injury,Other,2022-08-02,2022-08-23,22,2,SSC Napoli,1,Altro/Non specificato
+525,707295,21/22,unknown injury,Other,2021-11-06,2021-11-20,15,0,,1,Altro/Non specificato
+526,662562,25/26,unknown injury,Other,2025-12-13,2025-12-18,6,1,Giugliano Calcio 1928,0,Altro/Non specificato
+527,662562,24/25,unknown injury,Other,2025-03-22,2025-03-29,8,1,Giugliano Calcio 1928,0,Altro/Non specificato
+528,391065,25/26,Adductor pain,Physical Injury,2026-05-02,2026-09-04,126,5,"Olympique Marseille, Genoa CFC",0,Muscolare: Adduttori/Inguine
+529,391065,25/26,Dead leg,Other,2025-09-15,2025-12-31,108,19,Olympique Marseille,0,Contusione/Trauma Diretto
+530,391065,24/25,Hamstring injury,Physical Injury,2025-04-02,2025-05-05,34,5,AJ Auxerre,0,Muscolare: Flessori
+531,391065,24/25,Ill,Other,2024-12-13,2024-12-29,17,2,AJ Auxerre,0,Patologia Medica/Covid/Influenza
+532,391065,23/24,Fitness,Club Exclusion / Technical,2024-01-10,2024-02-01,23,7,"SSC Napoli, Ivory Coast",1,Condizionamento/Riposo
+533,391065,23/24,malaria,Other,2023-12-04,2024-01-10,38,6,AFC Bournemouth,0,Altro/Non specificato
+534,391065,22/23,Foot injury,Physical Injury,2023-04-05,2023-06-05,62,9,AFC Bournemouth,0,Articolare: Caviglia/Piede
+535,391065,22/23,Foot injury,Physical Injury,2023-02-26,2023-03-12,15,2,AFC Bournemouth,0,Articolare: Caviglia/Piede
+536,391065,22/23,Metatarsal fracture,Physical Injury,2022-06-30,2022-10-15,108,12,"US Sassuolo, Ivory Coast",0,Articolare: Caviglia/Piede
+537,391065,21/22,minor knock,Physical Injury,2022-04-28,2022-05-09,12,1,US Sassuolo,0,Contusione/Trauma Diretto
+538,391065,21/22,influenza,Illness / Medical,2021-10-14,2021-10-21,8,1,US Sassuolo,0,Patologia Medica/Covid/Influenza
+539,391065,19/20,Ankle sprain,Physical Injury,2020-02-10,2020-03-23,43,2,US Sassuolo,0,Articolare: Caviglia/Piede
+540,316889,25/26,Leg injury,Other,2025-08-11,2025-08-21,11,1,San Diego FC,0,Altro/Non specificato
+541,316889,24/25,Leg injury,Other,2025-06-02,2025-06-27,26,2,San Diego FC,0,Altro/Non specificato
+542,316889,24/25,Muscle injury,Physical Injury,2025-03-03,2025-03-28,26,3,San Diego FC,0,Muscolare: Altro/Coscia
+543,316889,24/25,Muscle injury,Physical Injury,2024-09-06,2024-11-17,73,12,PSV Eindhoven,0,Muscolare: Altro/Coscia
+544,316889,23/24,unknown injury,Other,2024-03-31,2024-04-10,11,2,PSV Eindhoven,0,Altro/Non specificato
+545,316889,23/24,Thigh problems,Physical Injury,2023-11-30,2024-01-15,47,5,"PSV Eindhoven, Mexico",0,Muscolare: Altro/Coscia
+546,316889,22/23,Knee injury,Physical Injury,2023-05-07,2023-07-22,77,4,SSC Napoli,1,Articolare: Ginocchio
+547,316889,22/23,muscular problems,Other,2023-03-08,2023-03-13,6,1,SSC Napoli,1,Muscolare: Altro/Coscia
+548,316889,22/23,influenza,Illness / Medical,2022-09-12,2022-09-16,5,1,SSC Napoli,1,Patologia Medica/Covid/Influenza
+549,316889,22/23,Head injury,Physical Injury,2022-09-04,2022-09-06,3,0,,1,Altro/Non specificato
+550,316889,21/22,Shoulder injury,Physical Injury,2022-05-18,2022-07-05,49,6,"SSC Napoli, Mexico",1,Articolare: Spalla/Braccio
+551,316889,21/22,Shoulder injury,Physical Injury,2022-02-03,2022-03-03,29,6,SSC Napoli,1,Articolare: Spalla/Braccio
+552,316889,21/22,Corona virus,Illness / Medical,2021-12-25,2022-01-11,18,2,SSC Napoli,1,Patologia Medica/Covid/Influenza
+553,316889,21/22,Toothache,Other,2021-12-09,2021-12-11,3,1,Mexico,0,Altro/Non specificato
+554,316889,21/22,Head injury,Physical Injury,2021-07-11,2021-08-15,36,5,Mexico,0,Altro/Non specificato
+555,468066,26/27,Hamstring injury,Physical Injury,2026-09-14,2026-10-12,29,3,Málaga CF,0,Muscolare: Flessori
+556,468066,24/25,Knee injury,Physical Injury,2024-09-25,2024-10-19,25,2,Ipswich Town,0,Articolare: Ginocchio
+557,468066,23/24,Hamstring strain,Physical Injury,2024-02-26,2024-03-11,15,3,SSC Napoli,1,Muscolare: Flessori
+558,468066,23/24,Thigh problems,Physical Injury,2024-01-13,2024-01-16,4,0,,1,Muscolare: Altro/Coscia
+559,468066,23/24,Knee bruise,Physical Injury,2023-12-09,2023-12-11,3,0,,1,Articolare: Ginocchio
+560,468066,23/24,Muscle fatigue,Physical Injury,2023-09-20,2023-09-23,4,1,SSC Napoli,1,Muscolare: Altro/Coscia
+561,468066,21/22,Hamstring injury,Physical Injury,2022-04-23,2022-05-30,38,4,Stade Reims,0,Muscolare: Flessori
+562,468066,21/22,Injury to the ankle,Physical Injury,2022-03-07,2022-03-21,15,2,Stade Reims,0,Articolare: Caviglia/Piede
+563,468066,21/22,Thigh problems,Physical Injury,2022-02-05,2022-02-28,24,4,Stade Reims,0,Muscolare: Altro/Coscia
+564,468066,21/22,unknown injury,Other,2021-07-01,2021-09-01,63,11,FC Midtjylland,0,Altro/Non specificato
+565,468066,20/21,Corona virus,Illness / Medical,2020-11-23,2020-12-07,15,4,FC Midtjylland,0,Patologia Medica/Covid/Influenza
+566,513245,26/27,muscular problems,Other,2026-10-30,,2,0,,0,Muscolare: Altro/Coscia
+567,513245,25/26,Ill,Other,2026-02-13,2026-02-23,11,2,VfL Wolfsburg,0,Patologia Medica/Covid/Influenza
+568,513245,25/26,Knock,Physical Injury,2026-01-02,2026-01-15,14,2,VfL Wolfsburg,0,Contusione/Trauma Diretto
+569,513245,25/26,Fitness,Club Exclusion / Technical,2025-11-25,2025-12-15,21,3,VfL Wolfsburg,0,Condizionamento/Riposo
+570,513245,25/26,Adductor injury,Physical Injury,2025-09-19,2025-11-24,67,13,"VfL Wolfsburg, Denmark",0,Muscolare: Adduttori/Inguine
+571,513245,25/26,Fitness,Club Exclusion / Technical,2025-08-15,2025-09-01,18,3,VfL Wolfsburg,0,Condizionamento/Riposo
+572,513245,24/25,Groin surgery,Physical Injury,2025-03-16,2025-08-14,152,11,"Everton FC, Denmark",0,Muscolare: Adduttori/Inguine
+573,513245,23/24,Lumbago,Physical Injury,2024-05-13,2024-05-15,3,0,,1,Rachide/Lombalgia
+574,513245,23/24,Lumbago,Physical Injury,2024-04-05,2024-04-08,4,1,SSC Napoli,1,Rachide/Lombalgia
+575,513245,23/24,Lumbago,Physical Injury,2023-12-22,2023-12-25,4,1,SSC Napoli,1,Rachide/Lombalgia
+576,513245,23/24,Shin injury,Other,2023-11-21,2023-12-01,11,2,SSC Napoli,1,Altro/Non specificato
+577,513245,22/23,Ankle injury,Physical Injury,2023-03-08,2023-04-24,48,10,"Eintracht Frankfurt, Denmark",0,Articolare: Caviglia/Piede
+578,513245,22/23,Thigh problems,Physical Injury,2023-02-05,2023-02-11,7,1,Eintracht Frankfurt,0,Muscolare: Altro/Coscia
+579,513245,22/23,cold,Illness / Medical,2022-09-15,2022-09-22,8,1,Eintracht Frankfurt,0,Altro/Non specificato
+580,513245,21/22,Hamstring injury,Physical Injury,2022-04-28,2022-05-16,19,4,Eintracht Frankfurt,0,Muscolare: Flessori
+581,616142,20/21,muscular problems,Other,2020-10-05,2020-10-22,18,4,Potenza Calcio,0,Muscolare: Altro/Coscia
+597,93128,25/26,Leg injury,Other,2026-04-10,2026-06-08,60,9,"Al-Hilal SFC, Senegal",0,Altro/Non specificato
+598,93128,22/23,Hamstring injury,Physical Injury,2023-04-12,2023-05-20,39,6,Chelsea FC,0,Muscolare: Flessori
+599,93128,21/22,Corona virus,Illness / Medical,2022-01-07,2022-01-16,10,4,"SSC Napoli, Senegal",1,Patologia Medica/Covid/Influenza
+600,93128,21/22,Hamstring muscle injury,Physical Injury,2021-12-01,2022-01-02,33,5,SSC Napoli,1,Muscolare: Flessori
+601,93128,20/21,Leg injury,Other,2021-05-04,2021-05-24,21,4,SSC Napoli,1,Altro/Non specificato
+602,93128,20/21,Corona virus,Illness / Medical,2021-02-05,2021-02-19,15,4,SSC Napoli,1,Patologia Medica/Covid/Influenza
+603,93128,20/21,Muscle injury,Physical Injury,2020-12-20,2021-01-09,21,3,SSC Napoli,1,Muscolare: Altro/Coscia
+604,93128,19/20,Thigh problems,Physical Injury,2020-02-15,2020-03-04,19,4,SSC Napoli,1,Muscolare: Altro/Coscia
+605,93128,19/20,Hamstring muscle injury,Physical Injury,2019-12-15,2020-01-30,47,7,SSC Napoli,1,Muscolare: Flessori
+606,93128,16/17,Knee collateral ligament strain,Physical Injury,2016-12-11,2016-12-26,16,2,SSC Napoli,1,Muscolare: Altro/Coscia
+607,93128,14/15,Knock,Physical Injury,2015-03-13,2015-03-20,8,2,SSC Napoli,1,Contusione/Trauma Diretto
+608,93128,11/12,Metatarsal fracture,Physical Injury,2012-04-11,2012-05-25,45,7,FC Metz,0,Articolare: Caviglia/Piede
+609,612065,24/25,Cruciate ligament tear,Physical Injury,2025-01-25,2025-06-30,157,15,FC Südtirol,0,Articolare: Ginocchio
+610,612065,24/25,Ankle problems,Physical Injury,2024-09-09,2024-09-14,6,0,,0,Articolare: Caviglia/Piede
+611,612065,20/21,unknown injury,Other,2020-11-20,2021-02-08,81,12,"SSC Napoli, Cavese 1919",1,Altro/Non specificato
+612,88755,25/26,Eye injury,Other,2026-05-10,2026-05-12,3,1,SSC Napoli,1,Altro/Non specificato
+613,88755,25/26,Hamstring muscle injury,Physical Injury,2025-10-26,2026-03-03,129,30,"SSC Napoli, Belgium",1,Muscolare: Flessori
+614,88755,24/25,Hamstring muscle injury,Physical Injury,2024-09-18,2024-10-31,44,11,"Manchester City, Belgium",0,Muscolare: Flessori
+615,88755,23/24,Stomach problems,Illness / Medical,2024-04-09,2024-04-10,2,0,,0,Patologia Medica/Covid/Influenza
+616,88755,23/24,Groin strain,Physical Injury,2024-03-10,2024-03-18,9,1,Manchester City,0,Muscolare: Adduttori/Inguine
+617,88755,23/24,Fitness,Club Exclusion / Technical,2023-12-18,2023-12-29,12,3,Manchester City,0,Condizionamento/Riposo
+618,88755,23/24,Hamstring muscle injury,Physical Injury,2023-08-12,2023-12-17,128,30,"Manchester City, Belgium",0,Muscolare: Flessori
+619,88755,22/23,Foot bruise,Physical Injury,2023-04-26,2023-05-04,9,2,Manchester City,0,Articolare: Caviglia/Piede
+620,88755,22/23,Ill,Other,2023-02-21,2023-02-24,4,1,Manchester City,0,Patologia Medica/Covid/Influenza
+621,88755,21/22,Corona virus,Illness / Medical,2021-11-19,2021-12-03,15,4,Manchester City,0,Patologia Medica/Covid/Influenza
+622,88755,21/22,Ankle injury,Physical Injury,2021-08-01,2021-09-10,41,6,"Manchester City, Belgium",0,Articolare: Caviglia/Piede
+623,88755,20/21,Facial fracture,Physical Injury,2021-05-29,2021-06-14,17,3,Belgium,0,Trauma Osseo/Frattura
+624,88755,20/21,muscular problems,Other,2021-05-05,2021-05-15,11,2,Manchester City,0,Muscolare: Altro/Coscia
+625,88755,20/21,Hamstring injury,Physical Injury,2021-01-21,2021-02-16,27,7,Manchester City,0,Muscolare: Flessori
+626,88755,20/21,Muscle injury,Physical Injury,2020-10-12,2020-10-22,11,3,"Manchester City, Belgium",0,Muscolare: Altro/Coscia
+657,126711,22/23,Calf muscle tear,Physical Injury,2023-03-11,2023-03-25,15,2,MKE Ankaragücü,0,Muscolare: Polpaccio
+658,126711,22/23,unknown injury,Other,2023-01-18,2023-02-05,19,3,MKE Ankaragücü,0,Altro/Non specificato
+659,126711,21/22,Leg injury,Other,2022-04-07,2022-04-13,7,1,SSC Napoli,1,Altro/Non specificato
+660,126711,21/22,Calf injury,Physical Injury,2022-02-22,2022-03-18,25,4,SSC Napoli,1,Muscolare: Polpaccio
+661,126711,21/22,Corona virus,Illness / Medical,2022-01-01,2022-01-12,12,2,SSC Napoli,1,Patologia Medica/Covid/Influenza
+662,126711,21/22,Muscle strain,Physical Injury,2021-10-08,2021-11-18,42,7,SSC Napoli,1,Muscolare: Altro/Coscia
+663,126711,20/21,unknown injury,Other,2021-04-01,2021-04-11,11,1,ACF Fiorentina,0,Altro/Non specificato
+664,126711,20/21,Calf problems,Physical Injury,2020-12-30,2021-01-25,27,7,SSC Napoli,1,Muscolare: Polpaccio
+665,126711,20/21,Knee problems,Physical Injury,2020-12-05,2020-12-11,7,2,SSC Napoli,1,Articolare: Ginocchio
+666,126711,19/20,Cruciate ligament tear,Physical Injury,2019-10-28,2020-06-30,247,28,SSC Napoli,1,Articolare: Ginocchio
+667,126711,17/18,Hamstring injury,Physical Injury,2018-01-06,2018-03-12,66,11,LOSC Lille,0,Muscolare: Flessori
+668,126711,17/18,Calf injury,Physical Injury,2017-09-21,2017-09-30,10,1,LOSC Lille,0,Muscolare: Polpaccio
+669,126711,16/17,Inguinal hernia,Physical Injury,2017-05-16,2017-05-31,16,2,AS Saint-Étienne,0,Altro/Non specificato
+670,126711,16/17,Inguinal hernia,Physical Injury,2017-03-17,2017-04-14,29,2,AS Saint-Étienne,0,Altro/Non specificato
+671,126711,16/17,Calf problems,Physical Injury,2016-12-13,2016-12-20,8,2,AS Saint-Étienne,0,Muscolare: Polpaccio
+672,168157,24/25,Ill,Other,2025-03-07,2025-03-11,5,1,RSC Anderlecht,0,Patologia Medica/Covid/Influenza
+673,168157,24/25,Ankle injury,Physical Injury,2024-10-28,2024-11-20,24,4,RSC Anderlecht,0,Articolare: Caviglia/Piede
+674,168157,24/25,Ill,Other,2024-10-01,2024-10-08,8,2,RSC Anderlecht,0,Patologia Medica/Covid/Influenza
+675,168157,23/24,influenza,Illness / Medical,2024-05-25,2024-05-28,4,1,SSC Napoli,1,Patologia Medica/Covid/Influenza
+676,168157,23/24,muscular problems,Other,2024-05-05,2024-05-09,5,1,SSC Napoli,1,Muscolare: Altro/Coscia
+677,168157,23/24,unknown injury,Other,2023-08-01,2023-09-01,32,4,Aston Villa,0,Altro/Non specificato
+678,168157,22/23,Hand injury,Other,2023-03-01,2023-03-23,23,3,Aston Villa,0,Articolare: Spalla/Braccio
+679,168157,20/21,Knock,Physical Injury,2020-12-16,2021-01-11,27,4,Wolverhampton Wanderers,0,Contusione/Trauma Diretto
+680,168157,19/20,Knock,Physical Injury,2019-08-31,2019-08-31,1,0,,0,Contusione/Trauma Diretto
+681,168157,18/19,Knock,Physical Injury,2018-08-09,2018-09-07,30,4,Wolverhampton Wanderers,0,Contusione/Trauma Diretto
+682,168157,16/17,Groin problems,Physical Injury,2016-10-04,2016-10-14,11,2,Belgium,0,Muscolare: Adduttori/Inguine
+683,168157,15/16,Hamstring injury,Physical Injury,2016-04-01,2016-04-08,8,1,RSC Anderlecht,0,Muscolare: Flessori
+684,168157,15/16,Adductor tear,Physical Injury,2016-01-11,2016-02-22,43,7,RSC Anderlecht,0,Muscolare: Adduttori/Inguine
+685,367284,25/26,Knock,Physical Injury,2026-05-14,2026-06-01,19,2,Genoa CFC,0,Contusione/Trauma Diretto
+686,367284,25/26,muscular problems,Other,2025-12-06,2025-12-20,15,2,Genoa CFC,0,Muscolare: Altro/Coscia
+687,367284,25/26,Bruised ribs,Physical Injury,2025-10-03,2025-10-15,13,3,"Genoa CFC, Norway",0,Contusione/Trauma Diretto
+688,367284,25/26,Bruised ribs,Physical Injury,2025-09-21,2025-09-26,6,1,Genoa CFC,0,Contusione/Trauma Diretto
+689,367284,24/25,muscular problems,Other,2025-03-22,2025-03-28,7,1,Norway,0,Muscolare: Altro/Coscia
+690,367284,24/25,Thigh problems,Physical Injury,2025-02-23,2025-02-27,5,1,TSG 1899 Hoffenheim,0,Muscolare: Altro/Coscia
+691,367284,23/24,Stomach flu,Illness / Medical,2024-01-06,2024-01-09,4,1,SSC Napoli,1,Patologia Medica/Covid/Influenza
+692,367284,22/23,influenza,Illness / Medical,2023-02-07,2023-02-08,2,0,,1,Patologia Medica/Covid/Influenza
+693,367284,21/22,unknown injury,Other,2022-01-22,2022-01-24,3,1,Genoa CFC,0,Altro/Non specificato
+694,367284,19/20,Torn muscle fiber,Physical Injury,2019-07-28,2019-08-20,24,6,"FC St. Pauli, Brighton & Hove Albion U23",0,Muscolare: Altro/Coscia
+695,118689,26/27,Hamstring muscle injury,Physical Injury,2026-10-25,2026-11-03,10,1,SSC Napoli,1,Muscolare: Flessori
+696,118689,26/27,Thigh problems,Physical Injury,2026-09-18,2026-10-08,21,1,SSC Napoli,1,Muscolare: Altro/Coscia
+697,118689,25/26,Knee bruise,Physical Injury,2026-05-23,2026-05-29,7,1,SSC Napoli,1,Articolare: Ginocchio
+698,118689,25/26,Pubic bone irritation,Physical Injury,2025-11-01,2025-11-28,28,6,"SSC Napoli, Italy",1,Trauma Osseo/Frattura
+699,118689,25/26,Muscle fatigue,Physical Injury,2025-09-27,2025-09-30,4,1,SSC Napoli,1,Muscolare: Altro/Coscia
+700,118689,24/25,Thigh problems,Physical Injury,2025-03-27,2025-04-08,13,2,SSC Napoli,1,Muscolare: Altro/Coscia
+701,118689,24/25,Strain in the thigh and gluteal muscles,Physical Injury,2025-02-08,2025-02-21,14,2,SSC Napoli,1,Muscolare: Altro/Coscia
+702,118689,24/25,Muscle fatigue,Physical Injury,2024-10-26,2024-10-28,3,1,SSC Napoli,1,Muscolare: Altro/Coscia
+703,118689,23/24,Muscle injury,Physical Injury,2024-05-09,2024-05-29,21,3,AS Roma,0,Muscolare: Altro/Coscia
+704,118689,23/24,Muscle injury,Physical Injury,2024-03-17,2024-04-01,16,2,Italy,0,Muscolare: Altro/Coscia
+705,118689,23/24,muscular problems,Other,2024-01-20,2024-02-09,21,2,AS Roma,0,Muscolare: Altro/Coscia
+706,118689,23/24,unknown injury,Other,2023-12-10,2023-12-15,6,1,AS Roma,0,Altro/Non specificato
+707,118689,23/24,Muscle injury,Physical Injury,2023-10-25,2023-11-10,17,4,AS Roma,0,Muscolare: Altro/Coscia
+708,118689,22/23,muscular problems,Other,2023-05-18,2023-05-29,12,2,AS Roma,0,Muscolare: Altro/Coscia
+709,118689,22/23,Hamstring strain,Physical Injury,2023-01-29,2023-02-13,16,3,AS Roma,0,Muscolare: Flessori
+710,133964,26/27,Hamstring injury,Physical Injury,2026-10-17,,15,3,UC Sampdoria,0,Muscolare: Flessori
+711,133964,26/27,Fitness,Club Exclusion / Technical,2026-07-12,2026-08-28,48,2,UC Sampdoria,0,Condizionamento/Riposo
+712,133964,24/25,Calf problems,Physical Injury,2024-09-30,2024-10-04,5,1,Toronto FC,0,Muscolare: Polpaccio
+713,133964,24/25,Calf problems,Physical Injury,2024-09-20,2024-09-24,5,1,Toronto FC,0,Muscolare: Polpaccio
+714,133964,24/25,Hamstring injury,Physical Injury,2024-08-10,2024-08-26,17,1,Toronto FC,0,Muscolare: Flessori
+715,133964,23/24,Hamstring injury,Physical Injury,2024-03-25,2024-05-10,47,8,Toronto FC,0,Muscolare: Flessori
+716,133964,23/24,Leg injury,Other,2023-09-21,2023-10-10,20,4,Toronto FC,0,Altro/Non specificato
+717,133964,23/24,Leg injury,Other,2023-07-03,2023-07-20,18,3,Toronto FC,0,Altro/Non specificato
+718,133964,22/23,Knock,Physical Injury,2023-05-19,2023-05-23,5,1,Toronto FC,0,Contusione/Trauma Diretto
+719,133964,22/23,Calf injury,Physical Injury,2023-02-27,2023-04-13,46,6,Toronto FC,0,Muscolare: Polpaccio
+720,133964,21/22,Calf problems,Physical Injury,2022-05-31,2022-07-20,51,3,Toronto FC,0,Muscolare: Polpaccio
+721,133964,21/22,Muscle fatigue,Physical Injury,2022-02-20,2022-02-22,3,1,SSC Napoli,1,Muscolare: Altro/Coscia
+722,133964,21/22,Adductor injury,Physical Injury,2022-01-09,2022-01-20,12,2,SSC Napoli,1,Muscolare: Adduttori/Inguine
+723,133964,21/22,Corona virus,Illness / Medical,2021-12-21,2021-12-29,9,1,SSC Napoli,1,Patologia Medica/Covid/Influenza
+724,133964,21/22,Calf problems,Physical Injury,2021-12-13,2021-12-20,8,1,SSC Napoli,1,Muscolare: Polpaccio
+725,572265,25/26,influenza,Illness / Medical,2026-01-03,2026-01-06,4,1,SSC Napoli,1,Patologia Medica/Covid/Influenza
+726,572265,24/25,Calf problems,Physical Injury,2025-04-19,2025-05-08,20,3,Udinese Calcio,0,Muscolare: Polpaccio
+727,572265,23/24,Hamstring injury,Physical Injury,2024-03-23,2024-04-10,19,1,Udinese Calcio,0,Muscolare: Flessori
+728,572265,20/21,Meniscus injury,Physical Injury,2021-05-10,2021-07-03,55,3,Palermo FC,0,Articolare: Ginocchio
+729,572265,20/21,Knee problems,Physical Injury,2021-04-08,2021-05-07,30,5,Palermo FC,0,Articolare: Ginocchio
+730,814446,26/27,Inner ligament injury,Physical Injury,2026-08-10,2026-10-05,57,6,SSC Napoli,1,Altro/Non specificato
+731,814446,25/26,Bruised knee,Physical Injury,2026-05-17,2026-07-01,46,1,Torino FC,0,Articolare: Ginocchio
+732,814446,24/25,flu,Illness / Medical,2025-01-11,2025-01-18,8,1,FC Empoli,0,Patologia Medica/Covid/Influenza
+733,240357,25/26,Muscle injury,Physical Injury,2025-08-12,2025-09-02,22,2,US Avellino 1912,0,Muscolare: Altro/Coscia
+734,240357,24/25,Leg injury,Other,2024-11-02,2024-11-16,15,1,US Avellino 1912,0,Altro/Non specificato
+735,240357,22/23,unknown injury,Other,2022-12-10,2023-01-06,28,3,Delfino Pescara 1936,0,Altro/Non specificato
+736,240357,21/22,Ankle sprain,Physical Injury,2021-07-19,2021-08-11,24,0,,1,Articolare: Caviglia/Piede
+737,240357,19/20,Knee injury,Physical Injury,2019-09-15,2019-10-15,31,4,Delfino Pescara 1936,0,Articolare: Ginocchio
+738,240357,18/19,Hamstring strain,Physical Injury,2019-03-09,2019-03-26,18,1,Cosenza Calcio,0,Muscolare: Flessori
+739,885235,25/26,unknown injury,Other,2025-11-24,2026-01-10,48,6,Giugliano Calcio 1928,0,Altro/Non specificato
+740,885235,25/26,unknown injury,Other,2025-09-12,2025-09-16,5,1,Giugliano Calcio 1928,0,Altro/Non specificato
+741,724178,26/27,cold,Illness / Medical,2026-10-01,2026-10-04,4,1,Albania,0,Altro/Non specificato
+742,724178,24/25,unknown injury,Other,2024-10-18,2024-11-11,25,5,US Lecce,0,Altro/Non specificato
+743,724178,23/24,Muscle injury,Physical Injury,2023-11-25,2023-12-12,18,4,Juventus Next Gen,0,Muscolare: Altro/Coscia
+744,724178,23/24,Foot bruise,Physical Injury,2023-09-22,2023-09-26,5,1,Juventus Next Gen,0,Articolare: Caviglia/Piede
+745,724178,21/22,Hamstring injury,Physical Injury,2021-10-25,2022-01-27,95,14,"Juventus Primavera, Juventus FC UEFA U19 , Italy U18",0,Muscolare: Flessori
+746,376514,26/27,Groin injury,Physical Injury,2026-10-02,2026-10-15,14,3,"SSC Napoli, Uruguay",1,Muscolare: Adduttori/Inguine
+747,376514,25/26,Muscle fatigue,Physical Injury,2026-05-01,2026-05-08,8,1,SSC Napoli,1,Muscolare: Altro/Coscia
+748,376514,25/26,Calf problems,Physical Injury,2025-12-23,2026-01-03,12,1,SSC Napoli,1,Muscolare: Polpaccio
+749,376514,25/26,Muscle fatigue,Physical Injury,2025-12-16,2025-12-18,3,0,,1,Muscolare: Altro/Coscia
+750,376514,25/26,Muscle fatigue,Physical Injury,2025-09-27,2025-09-30,4,1,SSC Napoli,1,Muscolare: Altro/Coscia
+751,376514,25/26,Calf injury,Physical Injury,2025-07-30,2025-08-07,9,0,,1,Muscolare: Polpaccio
+752,376514,24/25,Calf injury,Physical Injury,2025-01-24,2025-02-21,29,4,SSC Napoli,1,Muscolare: Polpaccio
+753,376514,24/25,Calf problems,Physical Injury,2025-01-04,2025-01-13,10,1,SSC Napoli,1,Muscolare: Polpaccio
+754,376514,23/24,Adductor injury,Physical Injury,2024-04-07,2024-04-27,21,2,SSC Napoli,1,Muscolare: Adduttori/Inguine
+755,376514,23/24,Knee injury,Physical Injury,2023-11-26,2024-02-09,76,14,SSC Napoli,1,Articolare: Ginocchio
+756,376514,22/23,bruise,Physical Injury,2023-06-01,2023-06-05,5,1,SSC Napoli,1,Contusione/Trauma Diretto
+757,376514,22/23,Lumbago,Physical Injury,2023-04-02,2023-04-06,5,1,SSC Napoli,1,Rachide/Lombalgia
+758,376514,21/22,Knee injury,Physical Injury,2022-06-12,2022-07-18,37,0,,0,Articolare: Ginocchio
+759,376514,21/22,Calf problems,Physical Injury,2022-03-26,2022-04-01,7,1,Uruguay,0,Muscolare: Polpaccio
+760,376514,21/22,Muscle injury,Physical Injury,2022-02-05,2022-02-22,18,2,Getafe CF,0,Muscolare: Altro/Coscia
+761,165895,25/26,Hamstring injury,Physical Injury,2026-01-18,2026-02-10,24,5,SSC Napoli,1,Muscolare: Flessori
+762,165895,25/26,Strain in the thigh and gluteal muscles,Physical Injury,2025-10-05,2025-10-16,12,2,Italy,0,Muscolare: Altro/Coscia
+763,165895,25/26,Muscle injury,Physical Injury,2025-07-21,2025-07-31,11,0,,1,Muscolare: Altro/Coscia
+764,165895,24/25,Calf problems,Physical Injury,2025-01-02,2025-01-08,7,1,SSC Napoli,1,Muscolare: Polpaccio
+765,165895,23/24,Muscle fatigue,Physical Injury,2024-01-03,2024-01-05,3,0,,1,Muscolare: Altro/Coscia
+766,165895,23/24,Calf problems,Physical Injury,2023-09-11,2023-09-15,5,1,Italy,0,Muscolare: Polpaccio
+767,165895,22/23,bruise,Physical Injury,2023-05-26,2023-06-05,11,2,SSC Napoli,1,Contusione/Trauma Diretto
+768,165895,22/23,Ankle sprain,Physical Injury,2023-04-18,2023-05-05,18,3,SSC Napoli,1,Articolare: Caviglia/Piede
+769,165895,22/23,Muscle fatigue,Physical Injury,2022-12-17,2022-12-19,3,0,,1,Muscolare: Altro/Coscia
+770,165895,22/23,Ankle sprain,Physical Injury,2022-09-19,2022-09-30,12,2,Italy,0,Articolare: Caviglia/Piede
+771,165895,22/23,Calf problems,Physical Injury,2022-08-03,2022-08-13,11,0,,1,Muscolare: Polpaccio
+772,165895,21/22,Calf injury,Physical Injury,2022-02-13,2022-02-22,10,2,SSC Napoli,1,Muscolare: Polpaccio
+773,165895,21/22,Quarantine,Club Exclusion / Technical,2021-11-29,2021-12-01,3,0,,1,Condizionamento/Riposo
+774,165895,21/22,Corona virus,Illness / Medical,2021-11-20,2021-11-29,10,3,SSC Napoli,1,Patologia Medica/Covid/Influenza
+775,165895,19/20,Ankle injury,Physical Injury,2019-11-06,2019-11-25,20,4,"Inter Milan, Italy",0,Articolare: Caviglia/Piede
+776,377042,26/27,Calf problems,Physical Injury,2026-10-27,2026-11-06,11,1,AC Monza,0,Muscolare: Polpaccio
+777,377042,25/26,Muscle fatigue,Physical Injury,2026-05-22,2026-06-01,11,1,Cagliari Calcio,0,Muscolare: Altro/Coscia
+778,377042,25/26,Internal ligament strain,Physical Injury,2025-12-22,2026-02-23,64,10,Cagliari Calcio,0,Muscolare: Altro/Coscia
+779,377042,25/26,unknown injury,Other,2025-12-01,2025-12-05,5,1,Cagliari Calcio,0,Altro/Non specificato
+780,377042,24/25,Knee problems,Physical Injury,2025-05-23,2025-07-14,53,1,ACF Fiorentina,0,Articolare: Ginocchio
+781,377042,24/25,Thigh problems,Physical Injury,2025-02-17,2025-03-11,23,3,ACF Fiorentina,0,Muscolare: Altro/Coscia
+782,377042,24/25,Ankle problems,Physical Injury,2024-12-14,2024-12-19,6,1,SSC Napoli,1,Articolare: Caviglia/Piede
+783,377042,24/25,muscular problems,Other,2024-11-03,2024-11-11,9,2,SSC Napoli,1,Muscolare: Altro/Coscia
+784,377042,24/25,influenza,Illness / Medical,2024-09-25,2024-09-28,4,1,SSC Napoli,1,Patologia Medica/Covid/Influenza
+785,377042,23/24,Rest,Club Exclusion / Technical,2024-05-25,2024-05-27,3,1,Hellas Verona,0,Condizionamento/Riposo
+786,377042,23/24,unknown injury,Other,2024-03-28,2024-04-01,5,0,,0,Altro/Non specificato
+787,377042,23/24,flu,Illness / Medical,2024-03-03,2024-03-07,5,1,Hellas Verona,0,Patologia Medica/Covid/Influenza
+788,377042,23/24,muscular problems,Other,2024-01-13,2024-01-19,7,0,,0,Muscolare: Altro/Coscia
+789,377042,23/24,flu,Illness / Medical,2023-12-23,2023-12-26,4,1,Hellas Verona,0,Patologia Medica/Covid/Influenza
+790,377042,23/24,unknown injury,Other,2023-09-18,2023-09-22,5,0,,0,Altro/Non specificato
+791,525299,25/26,Ankle sprain,Physical Injury,2025-11-23,2025-12-13,21,5,SSC Napoli,1,Articolare: Caviglia/Piede
+792,525299,25/26,Ankle surgery,Physical Injury,2025-07-10,2025-09-08,61,3,"SSC Napoli, Girona FC",1,Articolare: Caviglia/Piede
+793,525299,24/25,Injury to the ankle,Physical Injury,2025-05-04,2025-07-09,67,5,Girona FC,0,Articolare: Caviglia/Piede
+794,525299,24/25,Injury to the ankle,Physical Injury,2025-01-11,2025-01-30,20,4,Girona FC,0,Articolare: Caviglia/Piede
+795,525299,21/22,Meniscus injury,Physical Injury,2022-03-28,2022-05-21,55,22,"Real Madrid, Real Madrid Castilla, Spain U21",0,Articolare: Ginocchio
+796,503482,26/27,Groin problems,Physical Injury,2026-10-22,2026-10-27,6,1,FC Bayern Munich,0,Muscolare: Adduttori/Inguine
+797,503482,25/26,Knee problems,Physical Injury,2026-05-15,2026-05-21,7,1,FC Bayern Munich,0,Articolare: Ginocchio
+798,503482,25/26,muscular problems,Other,2026-01-11,2026-01-13,3,1,FC Bayern Munich,0,Muscolare: Altro/Coscia
+799,503482,25/26,Muscle injury,Physical Injury,2025-12-20,2025-12-31,12,1,FC Bayern Munich,0,Muscolare: Altro/Coscia
+800,503482,24/25,Achilles tendon problems,Physical Injury,2025-04-26,2025-06-26,62,8,"FC Bayern Munich, South Korea",0,Patologia Medica/Covid/Influenza
+801,503482,24/25,Achilles tendon irritation,Physical Injury,2025-03-14,2025-03-26,13,3,"FC Bayern Munich, South Korea",0,Patologia Medica/Covid/Influenza
+802,503482,23/24,Ankle problems,Physical Injury,2024-05-13,2024-06-13,32,3,"FC Bayern Munich, South Korea",0,Articolare: Caviglia/Piede
+803,503482,23/24,Hip bruise,Physical Injury,2023-11-28,2023-11-30,3,1,FC Bayern Munich,0,Contusione/Trauma Diretto
+804,503482,23/24,Knock,Physical Injury,2023-09-25,2023-09-29,5,1,FC Bayern Munich,0,Contusione/Trauma Diretto
+805,503482,22/23,Calf problems,Physical Injury,2023-03-11,2023-03-14,4,0,,1,Muscolare: Polpaccio
+806,503482,21/22,Arch problems,Other,2022-04-26,2022-06-21,57,8,"Fenerbahce, South Korea",0,Altro/Non specificato
+807,503482,21/22,muscle stiffness,Physical Injury,2022-02-17,2022-02-23,7,1,Fenerbahce,0,Muscolare: Altro/Coscia
+808,503482,21/22,Stomach flu,Illness / Medical,2022-01-28,2022-01-30,3,0,,0,Patologia Medica/Covid/Influenza
+809,503482,20/21,Fitness,Club Exclusion / Technical,2021-04-22,2021-04-23,2,0,,0,Condizionamento/Riposo
+810,503482,20/21,Foot injury,Physical Injury,2021-03-11,2021-04-21,42,1,South Korea,0,Articolare: Caviglia/Piede
+811,877620,24/25,unknown injury,Other,2024-11-21,2024-11-25,5,1,Altamura S.S.,0,Altro/Non specificato
+812,877620,23/24,Muscle injury,Physical Injury,2023-12-03,2024-06-03,184,24,US Recanatese,0,Muscolare: Altro/Coscia
+813,877620,23/24,Muscle injury,Physical Injury,2023-10-16,2023-11-11,27,4,US Recanatese,0,Muscolare: Altro/Coscia
+814,877620,23/24,muscular problems,Other,2023-09-18,2023-09-25,8,2,US Recanatese,0,Muscolare: Altro/Coscia
+815,877620,21/22,Adductor tear,Physical Injury,2022-03-09,2022-06-30,114,24,"SSC Napoli, Napoli Primavera",1,Muscolare: Adduttori/Inguine
+816,87884,23/24,Knee problems,Physical Injury,2024-05-13,2024-05-30,18,2,SSC Napoli,1,Articolare: Ginocchio
+817,87884,23/24,Foot injury,Physical Injury,2024-01-22,2024-01-22,1,0,,1,Articolare: Caviglia/Piede
+818,87884,23/24,Hamstring injury,Physical Injury,2023-11-12,2023-12-15,34,5,SSC Napoli,1,Muscolare: Flessori
+819,87884,23/24,Hamstring injury,Physical Injury,2023-07-24,2023-08-08,16,0,,1,Muscolare: Flessori
+820,87884,22/23,Thigh problems,Physical Injury,2023-05-27,2023-06-02,7,1,SSC Napoli,1,Muscolare: Altro/Coscia
+821,87884,22/23,Broken fibula,Physical Injury,2023-04-18,2023-05-19,32,5,SSC Napoli,1,Trauma Osseo/Frattura
+822,87884,21/22,Corona virus,Illness / Medical,2022-01-04,2022-01-14,11,3,SSC Napoli,1,Patologia Medica/Covid/Influenza
+823,87884,21/22,Muscle fatigue,Physical Injury,2021-12-13,2021-12-20,8,1,SSC Napoli,1,Muscolare: Altro/Coscia
+824,87884,21/22,Muscle fatigue,Physical Injury,2021-09-12,2021-09-17,6,1,SSC Napoli,1,Muscolare: Altro/Coscia
+825,87884,19/20,Rest,Club Exclusion / Technical,2020-07-24,2020-07-26,3,1,SSC Napoli,1,Condizionamento/Riposo
+826,87884,19/20,Thigh problems,Physical Injury,2019-11-19,2019-11-25,7,1,SSC Napoli,1,Muscolare: Altro/Coscia
+827,87884,19/20,Muscle fatigue,Physical Injury,2019-10-21,2019-10-28,8,2,SSC Napoli,1,Muscolare: Altro/Coscia
+828,87884,19/20,Hamstring strain,Physical Injury,2019-10-02,2019-10-09,8,1,SSC Napoli,1,Muscolare: Flessori
+829,87884,18/19,Hamstring strain,Physical Injury,2019-02-10,2019-02-25,16,4,SSC Napoli,1,Muscolare: Flessori
+830,87884,18/19,Adductor pain,Physical Injury,2018-12-15,2018-12-20,6,1,SSC Napoli,1,Muscolare: Adduttori/Inguine
+831,735568,24/25,Muscle injury,Physical Injury,2024-10-06,2024-10-18,13,0,,1,Muscolare: Altro/Coscia
+832,735568,23/24,Shoulder injury,Physical Injury,2023-12-24,2024-02-01,40,6,SSC Napoli,1,Articolare: Spalla/Braccio
+833,735568,22/23,Cruciate ligament injury,Physical Injury,2023-05-13,2023-07-05,54,10,Red Bull Bragantino,0,Articolare: Ginocchio
+834,250683,25/26,Broken hand,Physical Injury,2025-09-11,2025-10-27,47,9,SSC Napoli,1,Articolare: Spalla/Braccio
+835,250683,24/25,Hamstring muscle injury,Physical Injury,2025-03-25,2025-04-30,37,5,SSC Napoli,1,Muscolare: Flessori
+836,250683,24/25,Muscle fatigue,Physical Injury,2024-10-26,2024-11-01,7,2,SSC Napoli,1,Muscolare: Altro/Coscia
+837,250683,23/24,Knee problems,Physical Injury,2024-04-13,2024-04-19,7,1,SSC Napoli,1,Articolare: Ginocchio
+838,250683,23/24,influenza,Illness / Medical,2023-12-22,2023-12-25,4,1,SSC Napoli,1,Patologia Medica/Covid/Influenza
+839,250683,22/23,unknown injury,Other,2022-09-03,2022-09-12,10,2,UC Sampdoria,0,Altro/Non specificato
+840,250683,21/22,Calf problems,Physical Injury,2022-03-05,2022-04-10,37,5,LR Vicenza,0,Muscolare: Polpaccio
+841,250683,21/22,unknown injury,Other,2021-11-07,2021-12-03,27,3,FC Crotone,0,Altro/Non specificato
+842,250683,15/16,unknown injury,Other,2016-05-13,2016-05-24,12,2,SPAL 2013,0,Altro/Non specificato
+858,339332,25/26,Finger injury,Other,2026-03-18,2026-03-26,9,0,,1,Altro/Non specificato
+859,339332,25/26,bruise,Physical Injury,2026-01-20,2026-01-30,11,2,Galatasaray,0,Contusione/Trauma Diretto
+860,339332,24/25,Ill,Other,2025-01-24,2025-02-03,11,3,PSV Eindhoven,0,Patologia Medica/Covid/Influenza
+861,339332,24/25,Back problems,Physical Injury,2024-11-22,2024-11-25,4,1,PSV Eindhoven,0,Rachide/Lombalgia
+862,339332,24/25,Rest,Club Exclusion / Technical,2024-08-29,2024-09-02,5,1,PSV Eindhoven,0,Condizionamento/Riposo
+863,339332,23/24,Hamstring injury,Physical Injury,2024-01-27,2024-07-01,157,24,"PSV Eindhoven, Netherlands",0,Muscolare: Flessori
+864,339332,23/24,Hamstring injury,Physical Injury,2023-10-08,2023-12-31,85,15,"PSV Eindhoven, Netherlands",0,Muscolare: Flessori
+865,339332,23/24,Hamstring injury,Physical Injury,2023-08-17,2023-08-21,5,1,PSV Eindhoven,0,Muscolare: Flessori
+866,339332,22/23,Hamstring injury,Physical Injury,2022-12-21,2023-01-01,12,1,Club Brugge KV,0,Muscolare: Flessori
+867,339332,22/23,Ankle injury,Physical Injury,2022-08-21,2022-09-28,39,8,"Club Brugge KV, Netherlands",0,Articolare: Caviglia/Piede
+868,339332,21/22,Corona virus,Illness / Medical,2022-01-28,2022-02-05,9,2,Club Brugge KV,0,Patologia Medica/Covid/Influenza
+869,339332,20/21,Thigh problems,Physical Injury,2021-03-28,2021-04-09,13,1,Club Brugge KV,0,Muscolare: Altro/Coscia
+870,339332,20/21,Corona virus,Illness / Medical,2021-02-16,2021-02-27,12,3,Club Brugge KV,0,Patologia Medica/Covid/Influenza
+871,339332,19/20,Knee problems,Physical Injury,2020-01-10,2020-01-25,16,1,FC Twente Enschede,0,Articolare: Ginocchio
+872,339332,19/20,Knee problems,Physical Injury,2019-09-21,2019-09-26,6,2,Ajax Amsterdam,0,Articolare: Ginocchio
+873,346890,25/26,Calf injury,Physical Injury,2026-05-22,2026-05-28,7,1,Leeds United,0,Muscolare: Polpaccio
+874,346890,25/26,Hamstring injury,Physical Injury,2026-02-16,2026-03-16,29,5,Leeds United,0,Muscolare: Flessori
+875,346890,25/26,Adductor pain,Physical Injury,2025-10-16,2025-10-20,5,1,Leeds United,0,Muscolare: Adduttori/Inguine
+876,346890,24/25,Muscle fatigue,Physical Injury,2025-05-17,2025-06-15,30,3,"SSC Napoli, Switzerland",1,Muscolare: Altro/Coscia
+877,346890,24/25,muscular problems,Other,2025-03-25,2025-03-29,5,1,Switzerland,0,Muscolare: Altro/Coscia
+878,346890,24/25,Calf muscle tear,Physical Injury,2024-12-17,2025-01-21,36,7,AC Milan,0,Muscolare: Polpaccio
+879,346890,24/25,Lumbago,Physical Injury,2024-12-09,2024-12-14,6,1,AC Milan,0,Rachide/Lombalgia
+880,346890,24/25,Fever,Illness / Medical,2024-11-29,2024-12-02,4,1,AC Milan,0,Patologia Medica/Covid/Influenza
+881,346890,24/25,muscular problems,Other,2024-09-26,2024-10-02,7,1,AC Milan,0,Muscolare: Altro/Coscia
+882,346890,23/24,unknown injury,Other,2023-12-17,2024-01-11,26,5,AC Milan,0,Altro/Non specificato
+883,346890,23/24,Hamstring muscle injury,Physical Injury,2023-11-21,2023-12-13,23,4,AC Milan,0,Muscolare: Flessori
+884,346890,23/24,Muscle fatigue,Physical Injury,2023-10-24,2023-10-29,6,1,AC Milan,0,Muscolare: Altro/Coscia
+885,346890,23/24,Head injury,Physical Injury,2023-10-10,2023-10-19,10,1,Switzerland,0,Altro/Non specificato
+886,346890,22/23,Metatarsal fracture,Physical Injury,2023-04-16,2023-07-22,98,9,"Red Bull Salzburg, Switzerland",0,Articolare: Caviglia/Piede
+887,346890,22/23,Foot bruise,Physical Injury,2023-04-01,2023-04-08,8,1,Red Bull Salzburg,0,Articolare: Caviglia/Piede
+888,250153,26/27,unknown injury,Other,2026-09-18,2026-10-13,26,2,Venezia FC,0,Altro/Non specificato
+889,250153,26/27,Stress reaction of the bone,Other,2026-08-18,2026-08-25,8,1,SSC Napoli,1,Trauma Osseo/Frattura
+890,250153,25/26,bruise,Physical Injury,2026-01-24,2026-02-10,18,4,SSC Napoli,1,Contusione/Trauma Diretto
+891,250153,25/26,Muscle fatigue,Physical Injury,2025-09-21,2025-09-25,5,1,SSC Napoli,1,Muscolare: Altro/Coscia
+892,250153,24/25,Calf injury,Physical Injury,2025-02-21,2025-03-12,20,3,SSC Napoli,1,Muscolare: Polpaccio
+893,250153,24/25,Calf muscle tear,Physical Injury,2024-11-25,2024-12-19,25,4,SSC Napoli,1,Muscolare: Polpaccio
+894,250153,24/25,Ankle sprain,Physical Injury,2024-08-03,2024-08-06,4,0,,1,Articolare: Caviglia/Piede
+895,250153,22/23,muscular problems,Other,2023-03-30,2023-04-14,16,2,US Salernitana 1919,0,Muscolare: Altro/Coscia
+896,250153,22/23,Fitness,Club Exclusion / Technical,2023-02-19,2023-02-24,6,1,US Salernitana 1919,0,Condizionamento/Riposo
+897,250153,22/23,Knee surgery,Physical Injury,2022-11-17,2023-02-19,95,8,US Salernitana 1919,0,Articolare: Ginocchio
+898,250153,21/22,Ankle injury,Physical Injury,2022-03-09,2022-03-18,10,1,US Salernitana 1919,0,Articolare: Caviglia/Piede
+899,250153,21/22,unknown injury,Other,2022-01-16,2022-02-02,18,2,Venezia FC,0,Altro/Non specificato
+900,320411,26/27,Rest,Club Exclusion / Technical,2026-10-21,2026-10-24,4,1,FC Midtjylland,0,Condizionamento/Riposo
+901,320411,25/26,Achilles tendon problems,Physical Injury,2026-03-19,2026-04-21,34,4,FC Midtjylland,0,Patologia Medica/Covid/Influenza
+902,320411,24/25,Ill,Other,2024-10-18,2024-10-31,14,2,AFC Bournemouth,0,Patologia Medica/Covid/Influenza
+903,320411,24/25,Back problems,Physical Injury,2024-08-23,2024-09-02,11,3,AFC Bournemouth,0,Rachide/Lombalgia
+904,320411,20/21,Groin injury,Physical Injury,2021-03-03,2021-03-13,11,1,AFC Bournemouth,0,Muscolare: Adduttori/Inguine
+905,320411,19/20,Ankle injury,Physical Injury,2020-06-06,2020-06-23,18,1,AFC Bournemouth,0,Articolare: Caviglia/Piede
+906,320411,19/20,Back injury,Physical Injury,2020-01-23,2020-01-31,9,1,AFC Bournemouth,0,Rachide/Lombalgia
+907,320411,18/19,Back injury,Physical Injury,2019-03-28,2019-05-31,65,7,Huddersfield Town,0,Rachide/Lombalgia
+908,320411,18/19,Knee injury,Physical Injury,2019-01-13,2019-02-01,20,4,"Huddersfield Town, Denmark U21",0,Articolare: Ginocchio
+909,320411,18/19,Knock,Physical Injury,2018-10-13,2018-10-19,7,1,Denmark U21,0,Contusione/Trauma Diretto
+910,320411,17/18,Ankle surgery,Physical Injury,2017-10-14,2018-01-13,92,15,"Huddersfield Town, Denmark U21",0,Articolare: Caviglia/Piede
+911,244192,25/26,flu,Illness / Medical,2026-02-28,2026-03-03,4,1,AS Roma,0,Patologia Medica/Covid/Influenza
+912,244192,25/26,Hamstring injury,Physical Injury,2026-01-05,2026-01-19,15,4,AS Roma,0,Muscolare: Flessori
+913,244192,24/25,Shoulder injury,Physical Injury,2025-05-11,2025-05-15,5,1,AS Roma,0,Articolare: Spalla/Braccio
+914,244192,24/25,Hip injury,Other,2024-10-15,2024-11-20,37,5,Genoa CFC,0,Altro/Non specificato
+915,244192,23/24,Muscle fatigue,Physical Injury,2024-05-16,2024-05-21,6,1,SSC Napoli,1,Muscolare: Altro/Coscia
+916,244192,23/24,Shoulder injury,Physical Injury,2024-04-25,2024-05-07,13,2,SSC Napoli,1,Articolare: Spalla/Braccio
+917,244192,23/24,Calf problems,Physical Injury,2023-12-29,2023-12-31,3,1,SSC Napoli,1,Muscolare: Polpaccio
+918,244192,23/24,Hand injury,Other,2023-09-01,2023-10-13,43,8,SSC Napoli,1,Articolare: Spalla/Braccio
+919,244192,22/23,Muscle fatigue,Physical Injury,2022-11-08,2022-11-12,5,1,ACF Fiorentina,0,Muscolare: Altro/Coscia
+920,244192,20/21,Knee injury,Physical Injury,2020-11-29,2020-12-06,8,1,Atalanta BC,0,Articolare: Ginocchio
+921,244192,19/20,Cruciate ligament injury,Physical Injury,2020-08-02,2020-10-26,86,12,"Atalanta BC, Italy",0,Articolare: Ginocchio
+922,244192,19/20,Finger injury,Other,2020-03-10,2020-03-20,11,1,Atalanta BC,0,Altro/Non specificato
+938,662261,23/24,Stomach problems,Illness / Medical,2024-05-17,2024-05-25,9,1,Deportivo Alavés,0,Patologia Medica/Covid/Influenza
+939,662261,23/24,Nose injury,Other,2024-01-05,2024-01-10,6,1,Deportivo Alavés,0,Altro/Non specificato
+940,610442,25/26,Intestinal virus,Illness / Medical,2026-04-05,2026-04-08,4,1,SSC Napoli,1,Patologia Medica/Covid/Influenza
+941,610442,25/26,Ill,Other,2025-11-14,2025-11-16,3,1,Denmark,0,Patologia Medica/Covid/Influenza
+942,610442,25/26,Muscle fatigue,Physical Injury,2025-10-17,2025-10-27,11,3,SSC Napoli,1,Muscolare: Altro/Coscia
+943,610442,24/25,Hamstring injury,Physical Injury,2024-07-28,2024-09-16,51,7,"Manchester United, Denmark",0,Muscolare: Flessori
+944,610442,23/24,Muscle injury,Physical Injury,2024-02-23,2024-03-08,15,3,Manchester United,0,Muscolare: Altro/Coscia
+945,610442,23/24,Ill,Other,2023-12-29,2024-01-01,4,1,Manchester United,0,Patologia Medica/Covid/Influenza
+946,610442,23/24,Hamstring strain,Physical Injury,2023-11-11,2023-11-27,17,3,"Manchester United, Denmark",0,Muscolare: Flessori
+947,610442,23/24,Back injury,Physical Injury,2023-08-01,2023-08-31,31,3,Manchester United,0,Rachide/Lombalgia
+948,610442,22/23,Adductor pain,Physical Injury,2023-05-03,2023-05-12,10,1,Atalanta BC,0,Muscolare: Adduttori/Inguine
+949,96341,26/27,Fitness,Club Exclusion / Technical,2026-08-12,2026-08-16,5,1,Fenerbahce,0,Condizionamento/Riposo
+950,96341,25/26,muscular problems,Other,2026-03-30,2026-05-31,63,9,"SSC Napoli, Belgium",1,Muscolare: Altro/Coscia
+951,96341,25/26,Fitness,Club Exclusion / Technical,2025-12-14,2026-01-19,37,7,SSC Napoli,1,Condizionamento/Riposo
+952,96341,25/26,Hamstring injury,Physical Injury,2025-08-14,2025-12-14,123,28,"SSC Napoli, Belgium",1,Muscolare: Flessori
+953,96341,23/24,Thigh problems,Physical Injury,2024-04-18,2024-04-30,13,2,AS Roma,0,Muscolare: Altro/Coscia
+954,96341,23/24,Hip problems,Other,2024-03-13,2024-03-16,4,1,AS Roma,0,Altro/Non specificato
+955,96341,22/23,Inflammation in the knee,Physical Injury,2023-01-08,2023-01-17,10,2,Inter Milan,0,Articolare: Ginocchio
+956,96341,22/23,Hamstring muscle injury,Physical Injury,2022-10-31,2022-11-26,27,6,"Inter Milan, Belgium",0,Muscolare: Flessori
+957,96341,22/23,Hamstring injury,Physical Injury,2022-08-29,2022-10-25,58,14,"Inter Milan, Belgium",0,Muscolare: Flessori
+958,96341,21/22,Ankle injury,Physical Injury,2022-06-03,2022-06-30,28,3,Belgium,0,Articolare: Caviglia/Piede
+959,96341,21/22,Corona virus,Illness / Medical,2021-12-16,2021-12-25,10,3,Chelsea FC,0,Patologia Medica/Covid/Influenza
+960,96341,21/22,sprain,Physical Injury,2021-10-21,2021-11-21,32,8,"Chelsea FC, Belgium",0,Altro/Non specificato
+961,96341,20/21,Contracture,Other,2021-01-03,2021-01-06,4,0,,0,Altro/Non specificato
+962,96341,20/21,Adductor injury,Physical Injury,2020-10-29,2020-11-06,9,2,Inter Milan,0,Muscolare: Adduttori/Inguine
+963,96341,19/20,Adductor injury,Physical Injury,2020-07-10,2020-07-18,9,2,Inter Milan,0,Muscolare: Adduttori/Inguine
+964,25508,22/23,Achilles tendon rupture,Physical Injury,2023-03-25,2023-06-30,98,19,ACF Fiorentina,0,Patologia Medica/Covid/Influenza
+965,25508,22/23,unknown injury,Other,2022-12-02,2022-12-24,23,0,,1,Altro/Non specificato
+966,25508,22/23,Muscle fatigue,Physical Injury,2022-11-07,2022-11-13,7,2,SSC Napoli,1,Muscolare: Altro/Coscia
+967,25508,22/23,Muscle fatigue,Physical Injury,2022-10-20,2022-10-30,11,3,SSC Napoli,1,Muscolare: Altro/Coscia
+968,25508,21/22,unknown injury,Other,2022-05-29,2022-06-07,10,0,,0,Altro/Non specificato
+969,25508,21/22,flu,Illness / Medical,2021-11-14,2021-11-18,5,1,Italy,0,Patologia Medica/Covid/Influenza
+970,25508,20/21,Quarantine,Club Exclusion / Technical,2021-04-22,2021-04-25,4,0,,0,Condizionamento/Riposo
+971,25508,20/21,Corona virus,Illness / Medical,2021-04-05,2021-04-22,18,3,Torino FC,0,Patologia Medica/Covid/Influenza
+972,25508,18/19,unknown injury,Other,2018-12-15,2018-12-27,13,2,Torino FC,0,Altro/Non specificato
+973,25508,15/16,Groin injury,Physical Injury,2016-01-21,2016-02-01,12,3,Paris Saint-Germain,0,Muscolare: Adduttori/Inguine
+974,25508,14/15,Ankle injury,Physical Injury,2015-04-26,2015-05-01,6,1,Paris Saint-Germain,0,Articolare: Caviglia/Piede
+975,25508,14/15,Ankle injury,Physical Injury,2015-01-01,2015-01-12,12,2,Paris Saint-Germain,0,Articolare: Caviglia/Piede
+976,25508,12/13,Abdominal muscle strain,Physical Injury,2012-11-29,2012-12-03,5,1,Paris Saint-Germain,0,Muscolare: Altro/Coscia
+977,433984,26/27,Achilles tendon irritation,Physical Injury,2026-07-01,2026-08-21,52,0,,0,Patologia Medica/Covid/Influenza
+978,433984,25/26,Foot bruise,Physical Injury,2025-12-27,2026-01-10,15,3,SSC Napoli,1,Articolare: Caviglia/Piede
+979,433984,23/24,Tendonitis,Physical Injury,2024-03-29,2024-04-12,15,2,Bologna FC 1909,0,Tendinopatia/Tendine
+980,433984,23/24,unknown injury,Other,2023-10-28,2023-11-02,6,1,Bologna FC 1909,0,Altro/Non specificato
+981,433984,22/23,Knee injury,Physical Injury,2023-01-15,2023-03-09,54,10,AZ Alkmaar,0,Articolare: Ginocchio
+982,433984,20/21,Corona virus,Illness / Medical,2021-01-03,2021-01-08,6,1,Go Ahead Eagles,0,Patologia Medica/Covid/Influenza
+983,433984,19/20,Knee surgery,Physical Injury,2020-01-14,2020-02-12,30,5,Go Ahead Eagles,0,Articolare: Ginocchio
+984,433984,18/19,Calf muscle tear,Physical Injury,2018-08-20,2018-11-01,74,16,"Go Ahead Eagles Deventer U21, Go Ahead Eagles",0,Muscolare: Polpaccio
+985,315969,26/27,heart problems,Other,2026-09-01,2026-10-07,37,4,SSC Napoli,1,Altro/Non specificato
+986,315969,25/26,Tendonitis,Physical Injury,2026-02-09,2026-03-09,29,5,SSC Napoli,1,Tendinopatia/Tendine
+987,315969,25/26,Calf problems,Physical Injury,2026-02-07,2026-03-04,26,4,SSC Napoli,1,Muscolare: Polpaccio
+988,315969,25/26,Ankle problems,Physical Injury,2025-10-17,2025-10-19,3,1,SSC Napoli,1,Articolare: Caviglia/Piede
+989,315969,25/26,Muscle fatigue,Physical Injury,2025-07-22,2025-08-04,14,0,,1,Muscolare: Altro/Coscia
+990,315969,24/25,Knee problems,Physical Injury,2025-06-08,2025-06-14,7,1,Scotland,0,Articolare: Ginocchio
+991,315969,24/25,flu,Illness / Medical,2025-03-29,2025-04-02,5,1,SSC Napoli,1,Patologia Medica/Covid/Influenza
+992,315969,23/24,Knee injury,Physical Injury,2024-04-05,2024-06-13,70,4,"Manchester United, Scotland",0,Articolare: Ginocchio
+993,315969,23/24,unknown injury,Other,2024-04-05,2024-04-20,16,2,Manchester United,0,Altro/Non specificato
+994,315969,22/23,unknown injury,Other,2023-04-09,2023-05-11,33,8,Manchester United,0,Altro/Non specificato
+995,315969,22/23,unknown injury,Other,2023-01-27,2023-02-18,23,6,Manchester United,0,Altro/Non specificato
+996,315969,21/22,Foot injury,Physical Injury,2022-04-06,2022-04-18,13,2,Manchester United,0,Articolare: Caviglia/Piede
+997,315969,21/22,Ill,Other,2022-02-22,2022-03-02,9,2,Manchester United,0,Patologia Medica/Covid/Influenza
+998,315969,21/22,Groin injury,Physical Injury,2021-08-26,2021-09-16,22,6,"Manchester United, Scotland",0,Muscolare: Adduttori/Inguine
+999,315969,20/21,Knock,Physical Injury,2021-02-18,2021-02-26,9,2,Manchester United,0,Contusione/Trauma Diretto
+1000,278531,26/27,Intestinal virus,Illness / Medical,2026-09-18,2026-09-22,5,1,US Cremonese,0,Patologia Medica/Covid/Influenza
+1001,278531,25/26,Calf problems,Physical Injury,2025-08-14,2025-08-20,7,1,Cagliari Calcio,0,Muscolare: Polpaccio
+1002,278531,21/22,unknown injury,Other,2022-01-16,2022-02-19,35,5,FC Empoli,0,Altro/Non specificato
+1003,278531,20/21,Pubalgia,Other,2021-05-19,2021-05-31,13,1,FC Crotone,0,Muscolare: Adduttori/Inguine
+1004,278531,20/21,Pubalgia,Other,2021-03-18,2021-03-31,14,1,FC Crotone,0,Muscolare: Adduttori/Inguine
+1005,278531,20/21,Achilles tendon contusion,Physical Injury,2021-02-22,2021-02-28,7,0,,1,Contusione/Trauma Diretto
+1006,278531,20/21,Muscle fatigue,Physical Injury,2021-01-23,2021-01-29,7,0,,1,Muscolare: Altro/Coscia
+1007,278531,19/20,flu,Illness / Medical,2020-01-13,2020-01-15,3,1,SSC Napoli,1,Patologia Medica/Covid/Influenza
+1008,278531,18/19,Muscle fatigue,Physical Injury,2018-10-02,2018-11-08,38,9,"SSC Napoli, Italy U21",1,Muscolare: Altro/Coscia
+1009,238993,25/26,muscular problems,Other,2026-02-12,2026-03-30,47,6,Pisa Sporting Club,0,Muscolare: Altro/Coscia
+1010,238993,21/22,Muscle injury,Physical Injury,2022-03-13,2022-04-01,20,1,APOEL Nicosia,0,Muscolare: Altro/Coscia
+1011,238993,14/15,Ankle sprain,Physical Injury,2014-09-08,2014-10-06,29,6,"Udinese Calcio, Italy U19",0,Articolare: Caviglia/Piede
+1027,450936,25/26,Muscle injury,Physical Injury,2026-02-27,2026-02-28,2,0,,0,Muscolare: Altro/Coscia
+1028,450936,24/25,Pubalgia,Other,2025-02-27,2025-10-06,222,22,OGC Nice,0,Muscolare: Adduttori/Inguine
+1029,450936,24/25,Leg injury,Other,2024-11-11,2024-11-22,12,0,,0,Altro/Non specificato
+1030,450936,24/25,Hip injury,Other,2024-10-18,2024-10-31,14,3,OGC Nice,0,Altro/Non specificato
+1031,450936,24/25,Muscle injury,Physical Injury,2024-09-28,2024-10-02,5,1,OGC Nice,0,Muscolare: Altro/Coscia
+1032,450936,23/24,Knock,Physical Injury,2024-02-16,2024-02-27,12,3,Galatasaray,0,Contusione/Trauma Diretto
+1033,450936,23/24,Groin problems,Physical Injury,2023-10-24,2023-11-04,12,2,Galatasaray,0,Muscolare: Adduttori/Inguine
+1034,450936,23/24,Injury to the ankle,Physical Injury,2023-07-25,2023-08-27,34,3,Tottenham Hotspur,0,Articolare: Caviglia/Piede
+1035,450936,22/23,influenza,Illness / Medical,2023-02-01,2023-02-03,3,0,,1,Patologia Medica/Covid/Influenza
+1036,450936,21/22,Dead leg,Other,2022-04-15,2022-04-28,14,3,Olympique Lyon,0,Contusione/Trauma Diretto
+1037,450936,21/22,Dead leg,Other,2022-03-01,2022-03-08,8,1,Olympique Lyon,0,Contusione/Trauma Diretto
+1038,450936,21/22,Knock,Physical Injury,2021-08-08,2021-08-28,21,4,Tottenham Hotspur,0,Contusione/Trauma Diretto
+1039,450936,20/21,unknown injury,Other,2020-12-05,2020-12-08,4,1,Tottenham Hotspur,0,Altro/Non specificato
+1040,450936,20/21,Virus,Illness / Medical,2020-11-09,2020-11-20,12,3,France,0,Patologia Medica/Covid/Influenza
+1041,450936,20/21,Knock,Physical Injury,2020-10-28,2020-10-31,4,1,Tottenham Hotspur,0,Contusione/Trauma Diretto
+1042,182618,24/25,bruise,Physical Injury,2024-11-16,2024-12-30,45,9,PAOK Thessaloniki,0,Contusione/Trauma Diretto
+1043,182618,24/25,Rest,Club Exclusion / Technical,2024-11-02,2024-11-04,3,1,PAOK Thessaloniki,0,Condizionamento/Riposo
+1044,182618,23/24,Hamstring injury,Physical Injury,2023-12-03,2024-01-03,32,3,FC Lorient,0,Muscolare: Flessori
+1045,182618,21/22,Adductor injury,Physical Injury,2022-03-05,2022-03-18,14,2,AC Milan,0,Muscolare: Adduttori/Inguine
+1046,182618,21/22,Muscle injury,Physical Injury,2021-09-12,2021-10-17,36,7,AC Milan,0,Muscolare: Altro/Coscia
+1047,182618,20/21,Fever,Illness / Medical,2020-11-17,2020-11-18,2,0,,1,Patologia Medica/Covid/Influenza
+1048,182618,19/20,Ankle sprain,Physical Injury,2019-10-26,2019-11-20,26,3,AS Monaco,0,Articolare: Caviglia/Piede
+1049,182618,17/18,Knee surgery,Physical Injury,2017-05-25,2017-08-20,88,2,Chelsea FC,0,Articolare: Ginocchio
+1050,182618,16/17,Rest,Club Exclusion / Technical,2016-09-16,2016-09-18,3,1,AS Monaco,0,Condizionamento/Riposo
+1051,182618,15/16,Ankle injury,Physical Injury,2015-10-10,2015-11-16,38,9,"AS Monaco, France U21",0,Articolare: Caviglia/Piede
+1052,182618,14/15,Hamstring injury,Physical Injury,2015-01-14,2015-04-15,92,21,"AS Monaco, France U21",0,Muscolare: Flessori
+1053,809986,21/22,Corona virus,Illness / Medical,2022-01-04,2022-01-15,12,3,SSC Napoli,1,Patologia Medica/Covid/Influenza
+1054,421781,22/23,unknown injury,Other,2022-10-17,2022-10-21,5,1,Taranto SS,0,Altro/Non specificato
+1055,421781,20/21,Intestinal virus,Illness / Medical,2020-10-24,2020-10-26,3,1,Fermana FC,0,Patologia Medica/Covid/Influenza
+1056,421781,18/19,Cruciate ligament tear,Physical Injury,2018-07-25,2019-01-18,178,16,Napoli Primavera,1,Articolare: Ginocchio
+1057,257474,25/26,Hamstring muscle injury,Physical Injury,2026-01-24,2026-02-05,13,3,SSC Napoli,1,Muscolare: Flessori
+1058,257474,25/26,Back problems,Physical Injury,2025-10-06,2025-10-17,12,2,Serbia,0,Rachide/Lombalgia
+1059,257474,24/25,unknown injury,Other,2024-11-10,2024-11-19,10,2,Serbia,0,Altro/Non specificato
+1060,257474,24/25,Knee problems,Physical Injury,2024-10-08,2024-10-14,7,1,Serbia,0,Articolare: Ginocchio
+1061,257474,24/25,Knock,Physical Injury,2024-09-25,2024-10-01,7,1,Torino FC,0,Contusione/Trauma Diretto
+1062,257474,23/24,unknown injury,Other,2024-05-26,2024-05-31,6,1,Torino FC,0,Altro/Non specificato
+1063,257474,23/24,Hamstring muscle injury,Physical Injury,2023-07-24,2023-08-08,16,0,,0,Muscolare: Flessori
+1064,257474,21/22,Finger injury,Other,2022-03-03,2022-03-14,12,2,Torino FC,0,Altro/Non specificato
+1065,257474,21/22,Corona virus,Illness / Medical,2022-01-07,2022-01-15,9,1,Torino FC,0,Patologia Medica/Covid/Influenza
+1066,257474,20/21,Ankle problems,Physical Injury,2021-05-07,2021-05-18,12,3,Torino FC,0,Articolare: Caviglia/Piede
+1067,257474,20/21,Wrist injury,Physical Injury,2021-03-29,2021-04-02,5,0,,0,Articolare: Spalla/Braccio
+1068,257474,19/20,Calf problems,Physical Injury,2019-11-05,2019-11-14,10,2,Standard Liège,0,Muscolare: Polpaccio
+1069,257474,17/18,Hamstring injury,Physical Injury,2018-04-11,2018-04-20,10,2,Torino FC,0,Muscolare: Flessori
+1070,257474,16/17,unknown injury,Other,2016-08-19,2016-08-30,12,3,Lechia Gdansk,0,Altro/Non specificato
+1071,401923,26/27,Groin strain,Physical Injury,2026-09-04,2026-10-06,33,3,Galatasaray,0,Muscolare: Adduttori/Inguine
+1072,401923,25/26,Fitness,Club Exclusion / Technical,2026-04-15,2026-04-19,5,1,Galatasaray,0,Condizionamento/Riposo
+1073,401923,25/26,Forearm fracture,Physical Injury,2026-03-18,2026-04-15,29,3,Galatasaray,0,Trauma Osseo/Frattura
+1074,401923,25/26,Rest,Club Exclusion / Technical,2026-03-02,2026-03-04,3,1,Galatasaray,0,Condizionamento/Riposo
+1075,401923,25/26,Knee problems,Physical Injury,2026-02-17,2026-02-23,7,1,Galatasaray,0,Articolare: Ginocchio
+1076,401923,25/26,Hamstring strain,Physical Injury,2025-11-16,2025-11-28,13,2,Galatasaray,0,Muscolare: Flessori
+1077,401923,25/26,Fitness,Club Exclusion / Technical,2025-09-21,2025-09-23,3,1,Galatasaray,0,Condizionamento/Riposo
+1078,401923,25/26,Ankle sprain,Physical Injury,2025-09-07,2025-09-21,15,3,"Galatasaray, Nigeria",0,Articolare: Caviglia/Piede
+1079,401923,25/26,Fitness,Club Exclusion / Technical,2025-07-31,2025-08-09,10,2,"Galatasaray, Nigeria",0,Condizionamento/Riposo
+1080,401923,24/25,Fever,Illness / Medical,2025-01-07,2025-01-09,3,1,Galatasaray,0,Patologia Medica/Covid/Influenza
+1081,401923,24/25,Muscle strain,Physical Injury,2024-12-08,2024-12-15,8,1,Galatasaray,0,Muscolare: Altro/Coscia
+1082,401923,24/25,Muscle strain,Physical Injury,2024-09-28,2024-10-12,15,3,"Galatasaray, Nigeria",0,Muscolare: Altro/Coscia
+1083,401923,23/24,Muscle fatigue,Physical Injury,2024-05-13,2024-06-20,39,3,"SSC Napoli, Nigeria",1,Muscolare: Altro/Coscia
+1084,401923,23/24,muscular problems,Other,2024-03-13,2024-03-17,5,0,,1,Muscolare: Altro/Coscia
+1085,401923,23/24,Fitness,Club Exclusion / Technical,2024-02-15,2024-02-18,4,1,SSC Napoli,1,Condizionamento/Riposo
+1086,521407,16/17,Foot injury,Physical Injury,2016-08-01,2016-11-01,93,0,,0,Articolare: Caviglia/Piede
+1411,120458,26/27,Cruciate ligament injury,Physical Injury,2026-08-19,2027-02-28,194,10,Virtus Entella,0,Articolare: Ginocchio
+1412,120458,25/26,Muscle fatigue,Physical Injury,2025-08-05,2025-08-18,14,2,Virtus Entella,0,Muscolare: Altro/Coscia
+1413,120458,24/25,unknown injury,Other,2024-10-13,2024-10-31,19,3,Virtus Entella,0,Altro/Non specificato
+1414,120458,17/18,Ankle problems,Physical Injury,2018-03-12,2018-05-12,62,8,US Triestina,0,Articolare: Caviglia/Piede
+1415,120458,17/18,muscular problems,Other,2018-01-30,2018-02-08,10,1,US Triestina,0,Muscolare: Altro/Coscia
+1416,12563,20/21,muscular problems,Other,2021-03-05,2021-03-12,8,1,Genoa CFC,0,Muscolare: Altro/Coscia
+1417,12563,20/21,Muscle fatigue,Physical Injury,2020-12-23,2021-01-16,25,4,Genoa CFC,0,Muscolare: Altro/Coscia
+1418,12563,20/21,Lumbago,Physical Injury,2020-12-13,2020-12-19,7,1,Genoa CFC,0,Rachide/Lombalgia
+1419,12563,17/18,Muscle fatigue,Physical Injury,2017-09-10,2017-09-17,8,0,,0,Muscolare: Altro/Coscia
+1420,12563,15/16,Hamstring injury,Physical Injury,2016-04-03,2016-05-06,34,4,Genoa CFC,0,Muscolare: Flessori
+1421,12563,15/16,Hamstring muscle injury,Physical Injury,2015-10-22,2015-11-20,30,6,"Genoa CFC, Macedonia",0,Muscolare: Flessori
+1422,12563,12/13,Injury to the ankle,Physical Injury,2012-11-23,2012-12-05,13,2,SSC Napoli,1,Articolare: Caviglia/Piede
+1423,12563,10/11,Ankle injury,Physical Injury,2010-09-27,2011-11-01,401,15,"Inter Milan, SSC Napoli, Macedonia",1,Articolare: Caviglia/Piede
+1424,126422,25/26,Torn thigh muscle,Physical Injury,2026-05-03,2026-08-15,105,13,Botafogo de Futebol e Regatas,0,Muscolare: Altro/Coscia
+1425,126422,25/26,Hamstring injury,Physical Injury,2026-02-13,2026-03-09,25,7,Botafogo de Futebol e Regatas,0,Muscolare: Flessori
+1426,126422,25/26,muscular problems,Other,2025-07-17,2025-07-25,9,1,Botafogo de Futebol e Regatas,0,Muscolare: Altro/Coscia
+1427,126422,20/21,Muscle injury,Physical Injury,2020-12-17,2021-02-13,59,12,Everton FC,0,Muscolare: Altro/Coscia
+1428,126422,20/21,Groin injury,Physical Injury,2020-10-02,2020-10-16,15,3,"Everton FC, Brazil",0,Muscolare: Adduttori/Inguine
+1429,126422,19/20,Muscle fatigue,Physical Injury,2020-06-27,2020-07-06,10,3,SSC Napoli,1,Muscolare: Altro/Coscia
+1430,126422,19/20,Muscle fatigue,Physical Injury,2020-01-20,2020-02-02,14,2,SSC Napoli,1,Muscolare: Altro/Coscia
+1431,126422,19/20,Bruised ribs,Physical Injury,2019-11-28,2019-12-09,12,2,SSC Napoli,1,Contusione/Trauma Diretto
+1432,126422,19/20,Knee problems,Physical Injury,2019-11-08,2019-11-20,13,3,"SSC Napoli, Brazil",1,Articolare: Ginocchio
+1433,126422,19/20,Knee injury,Physical Injury,2019-10-31,2019-11-04,5,1,SSC Napoli,1,Articolare: Ginocchio
+1434,126422,19/20,flu,Illness / Medical,2019-09-21,2019-09-23,3,1,SSC Napoli,1,Patologia Medica/Covid/Influenza
+1435,126422,18/19,Stress reaction of the bone,Other,2019-04-27,2019-05-02,6,1,SSC Napoli,1,Trauma Osseo/Frattura
+1436,126422,18/19,Shoulder injury,Physical Injury,2018-12-21,2018-12-24,4,1,SSC Napoli,1,Articolare: Spalla/Braccio
+1437,126422,16/17,Muscle fatigue,Physical Injury,2017-05-14,2017-05-20,7,0,,1,Muscolare: Altro/Coscia
+1438,126422,16/17,Knock,Physical Injury,2017-02-20,2017-03-03,12,2,SSC Napoli,1,Contusione/Trauma Diretto
+1499,146143,20/21,Ankle injury,Physical Injury,2021-03-02,2021-03-30,29,4,VVV-Venlo,0,Articolare: Caviglia/Piede
+1500,146143,15/16,Shoulder injury,Physical Injury,2016-01-11,2016-01-21,11,2,FC Toulouse,0,Articolare: Spalla/Braccio
+1501,148824,22/23,concussion,Physical Injury,2023-03-01,2023-04-05,36,4,Vasas FC,0,Altro/Non specificato
+1502,15334,04/05,unknown injury,Other,2004-09-30,2004-10-04,5,1,Napoli Soccer,1,Altro/Non specificato
+1503,15452,25/26,muscular problems,Other,2026-01-04,2026-02-16,44,7,Pisa Sporting Club,0,Muscolare: Altro/Coscia
+1504,15452,25/26,Broken hand,Physical Injury,2025-10-27,2025-11-01,6,1,Pisa Sporting Club,0,Articolare: Spalla/Braccio
+1505,15452,23/24,Torn muscle bundle,Physical Injury,2024-01-02,2024-02-06,36,4,Villarreal CF,0,Muscolare: Altro/Coscia
+1506,15452,18/19,Knee surgery,Physical Injury,2019-02-04,2019-04-23,79,19,"SSC Napoli, Spain",1,Articolare: Ginocchio
+1507,15452,18/19,muscular problems,Other,2018-12-03,2018-12-09,7,1,SSC Napoli,1,Muscolare: Altro/Coscia
+1508,15452,17/18,Back problems,Physical Injury,2017-09-26,2017-10-01,6,1,SSC Napoli,1,Rachide/Lombalgia
+1509,15452,16/17,Hamstring muscle injury,Physical Injury,2016-09-29,2016-11-07,40,10,"SSC Napoli, Spain",1,Muscolare: Flessori
+1510,15452,16/17,Cheekbone bruise,Physical Injury,2016-08-27,2016-08-29,3,0,,1,Trauma Osseo/Frattura
+1511,15452,13/14,unknown injury,Other,2014-05-05,2014-05-30,26,3,SSC Napoli,1,Altro/Non specificato
+1512,15452,13/14,Adductor pain,Physical Injury,2013-10-05,2013-10-13,9,2,"SSC Napoli, Spain",1,Muscolare: Adduttori/Inguine
+1513,15452,11/12,Broken cheekbone,Physical Injury,2011-10-09,2011-11-01,24,6,"Real Madrid, Spain",0,Trauma Osseo/Frattura
+1514,15452,10/11,Ligament stretching,Physical Injury,2010-08-17,2010-09-19,34,6,"Real Madrid, Spain",0,Altro/Non specificato
+1515,16744,16/17,Achilles tendon problems,Physical Injury,2016-09-27,2016-10-07,11,2,Panathinaikos,0,Patologia Medica/Covid/Influenza
+1516,16744,15/16,flu,Illness / Medical,2016-02-04,2016-02-08,5,1,Panathinaikos,0,Patologia Medica/Covid/Influenza
+1517,16744,14/15,muscular problems,Other,2015-01-24,2015-02-22,30,6,SSC Napoli,1,Muscolare: Altro/Coscia
+1518,16744,13/14,Cruciate ligament tear,Physical Injury,2013-11-02,2014-03-16,135,26,SSC Napoli,1,Articolare: Ginocchio
+1519,16744,11/12,Ankle injury,Physical Injury,2012-02-17,2012-02-25,9,1,Genoa CFC,0,Articolare: Caviglia/Piede
+1520,16744,11/12,muscular problems,Other,2011-09-19,2011-10-20,32,4,Genoa CFC,0,Muscolare: Altro/Coscia
+1521,16745,02/03,unknown injury,Other,2003-05-30,2003-06-30,32,2,SSC Napoli,1,Altro/Non specificato
+1522,16745,02/03,Appendicitis,Illness / Medical,2003-03-15,2003-04-18,35,5,SSC Napoli,1,Altro/Non specificato
+1523,16745,02/03,Shoulder injury,Physical Injury,2002-11-17,2002-12-10,24,3,SSC Napoli,1,Articolare: Spalla/Braccio
+1524,16745,01/02,Knee surgery,Physical Injury,2002-03-26,2002-04-10,16,2,SSC Napoli,1,Articolare: Ginocchio
+1525,16745,01/02,Thigh problems,Physical Injury,2002-01-23,2002-02-15,24,3,SSC Napoli,1,Muscolare: Altro/Coscia
+1526,16745,01/02,Meniscus injury,Physical Injury,2001-09-04,2001-10-26,53,5,SSC Napoli,1,Articolare: Ginocchio
+1527,16745,00/01,Cruciate ligament tear,Physical Injury,2000-10-15,2001-05-08,206,27,SSC Napoli,1,Articolare: Ginocchio
+1541,16893,19/20,unknown injury,Other,2019-09-08,2019-10-31,54,0,,0,Altro/Non specificato
+1542,16893,18/19,unknown injury,Other,2018-12-03,2018-12-21,19,3,Casertana FC,0,Altro/Non specificato
+1543,16893,16/17,Muscle injury,Physical Injury,2016-08-10,2016-08-23,14,2,Chievo Verona,0,Muscolare: Altro/Coscia
+1544,16893,15/16,Muscle injury,Physical Injury,2016-02-14,2016-02-19,6,0,,0,Muscolare: Altro/Coscia
+1545,16893,15/16,Calf injury,Physical Injury,2016-01-19,2016-02-05,18,4,"US Sassuolo, Chievo Verona",0,Muscolare: Polpaccio
+1546,16893,14/15,unknown injury,Other,2014-10-05,2014-10-27,23,2,US Sassuolo,0,Altro/Non specificato
+1547,16893,13/14,unknown injury,Other,2014-03-23,2014-04-03,12,2,US Sassuolo,0,Altro/Non specificato
+1548,16893,12/13,muscular problems,Other,2013-01-27,2013-04-04,68,8,Genoa CFC,0,Muscolare: Altro/Coscia
+1549,16893,11/12,unknown injury,Other,2012-04-05,2012-04-15,11,2,Udinese Calcio,0,Altro/Non specificato
+1550,16893,11/12,muscular problems,Other,2012-02-06,2012-02-11,6,0,,0,Muscolare: Altro/Coscia
+1551,16893,11/12,muscular problems,Other,2011-08-22,2011-10-06,46,8,Udinese Calcio,0,Muscolare: Altro/Coscia
+1552,16893,10/11,muscular problems,Other,2010-11-26,2010-12-03,8,0,,0,Muscolare: Altro/Coscia
+1553,168933,24/25,Muscle injury,Physical Injury,2025-04-14,2025-06-09,57,6,FC Dinamo 1948,0,Muscolare: Altro/Coscia
+1554,168933,22/23,unknown injury,Other,2022-09-07,2023-04-21,227,30,Ascoli Calcio,0,Altro/Non specificato
+1555,168933,20/21,unknown injury,Other,2020-10-30,2021-09-30,336,42,"Amiens SC, Wuhan FC",0,Altro/Non specificato
+1556,168933,15/16,unknown injury,Other,2016-02-14,2016-05-13,90,12,Carpi FC 1909,0,Altro/Non specificato
+1583,19041,22/23,unknown injury,Other,2022-10-05,2022-10-11,7,1,Adana Demirspor,0,Altro/Non specificato
+1584,19041,21/22,unknown injury,Other,2022-01-15,2022-01-20,6,1,Adana Demirspor,0,Altro/Non specificato
+1585,19041,21/22,unknown injury,Other,2021-09-21,2021-10-16,26,2,Adana Demirspor,0,Altro/Non specificato
+1586,19041,21/22,unknown injury,Other,2021-09-16,2021-09-21,6,1,Adana Demirspor,0,Altro/Non specificato
+1587,19041,18/19,unknown injury,Other,2019-03-23,2019-04-12,21,1,Basaksehir FK,0,Altro/Non specificato
+1588,19041,17/18,unknown injury,Other,2017-12-02,2017-12-05,4,1,Basaksehir FK,0,Altro/Non specificato
+1589,19041,16/17,unknown injury,Other,2016-10-20,2016-10-29,10,2,Beşiktaş JK,0,Altro/Non specificato
+1590,19041,16/17,Toe injury,Physical Injury,2016-09-29,2016-10-16,18,2,Beşiktaş JK,0,Altro/Non specificato
+1591,197743,26/27,Fever,Illness / Medical,2026-09-11,2026-09-14,4,1,LR Vicenza,0,Patologia Medica/Covid/Influenza
+1592,197743,25/26,Calf muscle tear,Physical Injury,2026-02-04,2026-02-15,12,2,LR Vicenza,0,Muscolare: Polpaccio
+1593,197743,25/26,muscular problems,Other,2025-08-05,2025-08-17,13,2,LR Vicenza,0,Muscolare: Altro/Coscia
+1594,197743,23/24,Fever,Illness / Medical,2024-04-27,2024-04-30,4,1,LR Vicenza,0,Patologia Medica/Covid/Influenza
+1595,197743,23/24,Muscle fatigue,Physical Injury,2023-11-06,2023-11-09,4,1,LR Vicenza,0,Muscolare: Altro/Coscia
+1596,197743,22/23,unknown injury,Other,2023-03-24,2023-04-01,9,1,Calcio Foggia 1920,0,Altro/Non specificato
+1597,197743,22/23,unknown injury,Other,2022-11-11,2022-11-15,5,1,Calcio Foggia 1920,0,Altro/Non specificato
+1598,197743,21/22,Corona virus,Illness / Medical,2021-08-05,2021-08-20,16,0,,0,Patologia Medica/Covid/Influenza
+1599,197743,17/18,muscular problems,Other,2018-04-16,2018-04-27,12,2,SPAL 2013,0,Muscolare: Altro/Coscia
+1600,197743,17/18,Leg injury,Other,2017-11-13,2018-01-05,54,8,SPAL 2013,0,Altro/Non specificato
+1631,200167,25/26,unknown injury,Other,2026-04-05,2026-04-11,7,1,Casarano Calcio,0,Altro/Non specificato
+1632,200167,25/26,unknown injury,Other,2025-11-29,2026-01-10,43,5,Casarano Calcio,0,Altro/Non specificato
+1633,200167,25/26,unknown injury,Other,2025-11-14,2025-11-21,8,1,Casarano Calcio,0,Altro/Non specificato
+1634,200167,24/25,unknown injury,Other,2025-03-11,2025-03-21,11,2,FC Trapani 1905,0,Altro/Non specificato
+1635,200167,23/24,unknown injury,Other,2024-01-05,2024-01-26,22,2,Casertana FC,0,Altro/Non specificato
+1636,200167,23/24,Muscle injury,Physical Injury,2023-10-17,2023-10-28,12,2,Casertana FC,0,Muscolare: Altro/Coscia
+1637,200167,22/23,Eye injury,Other,2023-04-22,2023-05-27,36,1,Cesena FC,0,Altro/Non specificato
+1638,200167,22/23,surgery,Other,2023-04-21,2023-04-22,2,0,,0,Altro/Non specificato
+1639,200167,22/23,Pubic bone bruise,Physical Injury,2022-10-17,2022-11-27,42,8,Cesena FC,0,Trauma Osseo/Frattura
+1640,200167,21/22,unknown injury,Other,2022-05-06,2022-05-08,3,1,SSC Bari,0,Altro/Non specificato
+1641,200167,20/21,Knee problems,Physical Injury,2021-03-16,2021-04-16,32,5,SSC Bari,0,Articolare: Ginocchio
+1642,200167,20/21,Rest,Club Exclusion / Technical,2021-03-12,2021-03-15,4,1,SSC Bari,0,Condizionamento/Riposo
+1643,200167,20/21,unknown injury,Other,2021-01-08,2021-02-02,26,3,SSC Bari,0,Altro/Non specificato
+1644,200167,19/20,unknown injury,Other,2019-12-02,2019-12-22,21,4,US Catanzaro,0,Altro/Non specificato
+1645,200167,19/20,unknown injury,Other,2019-10-22,2019-11-08,18,4,US Catanzaro,0,Altro/Non specificato
+1646,21151,20/21,Leg injury,Other,2020-11-28,2021-01-05,39,6,Benevento Calcio,0,Altro/Non specificato
+1647,21151,14/15,unknown injury,Other,2015-03-07,2015-03-13,7,2,SSC Napoli,1,Altro/Non specificato
+1648,21151,13/14,Pneumothorax,Other,2014-03-13,2014-05-02,51,10,SSC Napoli,1,Altro/Non specificato
+1649,21151,13/14,Knee surgery,Physical Injury,2013-09-24,2013-10-17,24,6,"SSC Napoli, Italy",1,Articolare: Ginocchio
+1650,21151,12/13,Hand injury,Other,2013-01-25,2013-02-07,14,3,"SSC Napoli, Italy",1,Articolare: Spalla/Braccio
+1651,21151,11/12,Thigh problems,Physical Injury,2012-04-02,2012-04-16,15,2,SSC Napoli,1,Muscolare: Altro/Coscia
+1652,21151,11/12,Tibial head contusion,Physical Injury,2012-03-15,2012-03-21,7,1,SSC Napoli,1,Contusione/Trauma Diretto
+1653,21151,11/12,fatigue fracture,Physical Injury,2011-09-23,2011-09-30,8,2,SSC Napoli,1,Trauma Osseo/Frattura
+1654,21151,10/11,fatigue fracture,Physical Injury,2011-03-09,2011-03-13,5,0,,1,Trauma Osseo/Frattura
+1655,21151,10/11,Head injury,Physical Injury,2010-10-25,2010-11-03,10,0,,1,Altro/Non specificato
+1656,21155,05/06,Foot injury,Physical Injury,2006-03-13,2006-07-01,111,10,Napoli Soccer,1,Articolare: Caviglia/Piede
+1657,21155,05/06,Metatarsal fracture,Physical Injury,2005-10-24,2006-02-28,128,21,Napoli Soccer,1,Articolare: Caviglia/Piede
+1658,21408,10/11,Knee surgery,Physical Injury,2010-09-16,2010-12-19,95,19,SSC Napoli,1,Articolare: Ginocchio
+1659,21696,13/14,Muscle strain,Physical Injury,2013-12-10,2014-01-22,44,5,Genoa CFC,0,Muscolare: Altro/Coscia
+1660,21696,10/11,Achilles tendon problems,Physical Injury,2010-11-23,2010-12-01,9,1,Bologna FC 1909,0,Patologia Medica/Covid/Influenza
+1661,21757,04/05,Muscle injury,Physical Injury,2004-10-15,2004-11-20,37,5,Napoli Soccer,1,Muscolare: Altro/Coscia
+1662,21758,04/05,Overstretching,Other,2005-05-13,2005-06-15,34,5,Napoli Soccer,1,Altro/Non specificato
+1663,21779,12/13,Calf problems,Physical Injury,2013-04-04,2013-04-27,24,2,Delfino Pescara 1936,0,Muscolare: Polpaccio
+1664,21813,04/05,Hamstring strain,Physical Injury,2005-02-27,2005-03-22,24,3,Napoli Soccer,1,Muscolare: Flessori
+1665,21832,05/06,unknown injury,Other,2005-12-21,2006-02-21,63,9,Napoli Soccer,1,Altro/Non specificato
+1666,21832,04/05,unknown injury,Other,2005-02-04,2005-05-04,90,10,Napoli Soccer,1,Altro/Non specificato
+1667,21863,15/16,unknown injury,Other,2016-04-15,2016-05-01,17,3,FC Chiasso,0,Altro/Non specificato
+1668,21863,12/13,Injury to the ankle,Physical Injury,2013-05-14,2013-05-30,17,1,US Palermo,0,Articolare: Caviglia/Piede
+1669,21863,12/13,Thigh problems,Physical Injury,2013-04-08,2013-04-16,9,1,US Palermo,0,Muscolare: Altro/Coscia
+1670,21863,10/11,muscular problems,Other,2010-11-11,2010-11-20,10,1,SSC Napoli,1,Muscolare: Altro/Coscia
+1671,21988,13/14,unknown injury,Other,2014-03-31,2014-04-08,9,2,AS Livorno,0,Altro/Non specificato
+1672,21988,10/11,Back problems,Physical Injury,2010-10-02,2011-05-27,238,39,Juventus FC,0,Rachide/Lombalgia
+1673,22085,11/12,Lumbago,Physical Injury,2012-04-27,2012-05-02,6,0,,1,Rachide/Lombalgia
+1674,22085,10/11,Inguinal hernia,Physical Injury,2010-12-09,2011-01-06,29,2,Calcio Catania,0,Altro/Non specificato
+1675,22212,04/05,Muscle injury,Physical Injury,2004-10-17,2004-11-06,21,3,Vicenza Calcio,0,Muscolare: Altro/Coscia
+1676,22212,95/96,flu,Illness / Medical,1995-09-15,1995-09-24,10,1,US Ravenna,0,Patologia Medica/Covid/Influenza
+1677,22268,16/17,muscular problems,Other,2016-08-21,2016-08-26,6,0,,0,Muscolare: Altro/Coscia
+1678,22268,13/14,Ligament injury,Physical Injury,2014-04-15,2014-05-09,25,3,Genoa CFC,0,Altro/Non specificato
+1679,22268,13/14,Knock,Physical Injury,2013-10-10,2013-11-10,32,4,Genoa CFC,0,Contusione/Trauma Diretto
+1680,22268,11/12,Hairline fracture in the fibula,Physical Injury,2012-03-12,2012-06-30,111,12,AC Siena,0,Trauma Osseo/Frattura
+1681,22268,11/12,muscular problems,Other,2011-11-17,2011-11-26,10,2,AC Siena,0,Muscolare: Altro/Coscia
+1682,224921,92/93,Achilles tendon surgery,Physical Injury,1993-02-01,1993-07-31,181,15,AC Riunite Messina,0,Patologia Medica/Covid/Influenza
+1683,22804,04/05,unknown injury,Other,2005-03-18,2005-04-20,34,4,Napoli Soccer,1,Altro/Non specificato
+1684,228852,96/97,unknown injury,Other,1997-03-03,1997-09-20,202,19,"AC Reggiana, AC Carpi",0,Altro/Non specificato
+1685,23348,06/07,unknown injury,Other,2007-04-23,2007-05-05,13,1,US Pro Vercelli,0,Altro/Non specificato
+1686,23348,06/07,Knee problems,Physical Injury,2006-11-11,2006-11-25,15,1,US Pro Vercelli,0,Articolare: Ginocchio
+1687,23348,93/94,Collateral ligament injury,Physical Injury,1993-09-28,1994-01-17,112,19,Juventus FC,0,Altro/Non specificato
+1688,238989,24/25,Arthroscopy,Other,2024-10-18,2026-06-30,621,69,Giugliano Calcio 1928,0,Altro/Non specificato
+1689,238989,24/25,unknown injury,Other,2024-09-07,2024-09-21,15,2,Giugliano Calcio 1928,0,Altro/Non specificato
+1690,238989,23/24,unknown injury,Other,2023-09-10,2023-09-20,11,1,Taranto SS,0,Altro/Non specificato
+1691,238989,22/23,unknown injury,Other,2023-01-31,2023-02-03,4,1,Taranto SS,0,Altro/Non specificato
+1692,238989,22/23,unknown injury,Other,2022-11-04,2022-11-26,23,3,Taranto SS,0,Altro/Non specificato
+1693,238989,16/17,Pubalgia,Other,2017-02-06,2017-03-31,54,7,AC Prato,0,Muscolare: Adduttori/Inguine
+1694,238989,16/17,Hamstring muscle injury,Physical Injury,2016-11-28,2017-02-04,69,8,AC Prato,0,Muscolare: Flessori
+1695,238989,16/17,flu,Illness / Medical,2016-09-26,2016-10-07,12,1,AC Prato,0,Patologia Medica/Covid/Influenza
+1699,240188,16/17,unknown injury,Other,2016-09-15,2016-09-29,15,2,SS Maceratese,0,Altro/Non specificato
+1706,24296,04/05,unknown injury,Other,2004-04-12,2004-06-30,80,9,Napoli Soccer,1,Altro/Non specificato
+1707,24331,19/20,Muscle injury,Physical Injury,2020-02-13,2020-02-19,7,1,Paganese Calcio 1926,0,Muscolare: Altro/Coscia
+1720,24641,08/09,bruise,Physical Injury,2008-10-24,2008-11-19,27,4,FC Energie Cottbus,0,Contusione/Trauma Diretto
+1721,248344,92/93,sprain,Physical Injury,1992-11-09,1992-11-21,13,1,Giarre 1946,0,Altro/Non specificato
+1722,249248,47/48,Overstretching,Other,1948-01-18,1948-01-31,14,1,SS Lazio,0,Altro/Non specificato
+1723,249470,14/15,Metatarsal fracture,Physical Injury,2014-08-14,2014-09-22,40,4,Napoli Primavera,1,Articolare: Caviglia/Piede
+1724,25318,12/13,Foot injury,Physical Injury,2012-10-05,2012-10-17,13,1,AC Siena,0,Articolare: Caviglia/Piede
+1725,25318,12/13,Virus,Illness / Medical,2012-09-24,2012-10-01,8,2,AC Siena,0,Patologia Medica/Covid/Influenza
+1726,25318,11/12,Muscle fatigue,Physical Injury,2012-03-14,2012-03-20,7,1,AC Siena,0,Muscolare: Altro/Coscia
+1727,25318,10/11,Ankle injury,Physical Injury,2011-04-05,2011-05-05,31,4,Real Zaragoza,0,Articolare: Caviglia/Piede
+1728,25500,21/22,unknown injury,Other,2021-12-23,2022-02-03,43,2, Aurora Alto Casertano,0,Altro/Non specificato
+1729,25500,21/22,unknown injury,Other,2021-11-15,2021-12-15,31,5, Aurora Alto Casertano,0,Altro/Non specificato
+1730,25500,20/21,Calf problems,Physical Injury,2020-12-10,2021-01-11,33,5,Sorrento 1945,0,Muscolare: Polpaccio
+1744,256402,97/98,Elbow injury,Physical Injury,1997-09-29,1997-10-25,27,3,US Fiorenzuola 1922,0,Articolare: Spalla/Braccio
+1745,25785,20/21,Knee problems,Physical Injury,2021-03-12,2021-04-16,36,4,FC Admira Wacker Mödling,0,Articolare: Ginocchio
+1746,25785,20/21,unknown injury,Other,2020-11-07,2020-11-21,15,1,FC Admira Wacker Mödling,0,Altro/Non specificato
+1747,25785,14/15,Knee problems,Physical Injury,2015-03-11,2015-03-19,9,1,Fortuna Düsseldorf,0,Articolare: Ginocchio
+1748,25785,11/12,Tonsillitis,Illness / Medical,2011-12-15,2011-12-20,6,1,Eintracht Frankfurt,0,Patologia Medica/Covid/Influenza
+1749,25785,10/11,Ill,Other,2011-02-17,2011-02-22,6,1,1.FC Kaiserslautern,0,Patologia Medica/Covid/Influenza
+1750,25785,09/10,Ankle injury,Physical Injury,2010-01-21,2010-02-03,14,2,SSC Napoli,1,Articolare: Caviglia/Piede
+1751,25785,08/09,muscular problems,Other,2009-04-02,2009-04-07,6,1,Rapid Vienna,0,Muscolare: Altro/Coscia
+1752,25785,07/08,Ill,Other,2008-02-29,2008-03-02,3,0,,0,Patologia Medica/Covid/Influenza
+1753,26727,11/12,Outer ligament problems,Physical Injury,2011-07-21,2011-08-30,41,0,,0,Altro/Non specificato
+1754,27300,20/21,unknown injury,Other,2021-03-01,2021-04-01,32,4,SC Braga,0,Altro/Non specificato
+1755,27300,18/19,Knock,Physical Injury,2019-05-14,2019-05-31,18,2,Olympique Marseille,0,Contusione/Trauma Diretto
+1756,27300,17/18,Achilles heel problems,Physical Injury,2018-05-20,2018-11-06,171,15,Olympique Marseille,0,Patologia Medica/Covid/Influenza
+1757,27300,17/18,Calf injury,Physical Injury,2018-05-07,2018-05-15,9,1,Olympique Marseille,0,Muscolare: Polpaccio
+1758,27300,17/18,Achilles heel problems,Physical Injury,2018-04-07,2018-04-20,14,3,Olympique Marseille,0,Patologia Medica/Covid/Influenza
+1759,27300,17/18,Contracture,Other,2017-11-03,2017-11-06,4,1,Olympique Marseille,0,Altro/Non specificato
+1760,27300,17/18,Ankle surgery,Physical Injury,2017-08-13,2017-08-18,6,1,Olympique Marseille,0,Articolare: Caviglia/Piede
+1770,28015,03/04,unknown injury,Other,2004-06-04,2004-06-30,27,2,SSC Napoli,1,Altro/Non specificato
+1771,28015,03/04,Muscle injury,Physical Injury,2003-11-16,2003-12-31,46,6,SSC Napoli,1,Muscolare: Altro/Coscia
+1781,286193,14/15,Knee surgery,Physical Injury,2014-07-30,2014-11-19,113,6,Melbourne City FC,0,Articolare: Ginocchio
+1782,286275,25/26,Muscle fatigue,Physical Injury,2026-01-02,2026-01-09,8,1,US Salernitana 1919,0,Muscolare: Altro/Coscia
+1783,286275,24/25,unknown injury,Other,2025-03-07,2025-03-09,3,1,Catania FC,0,Altro/Non specificato
+1784,286275,24/25,Muscle injury,Physical Injury,2025-02-13,2025-03-01,17,2,Catania FC,0,Muscolare: Altro/Coscia
+1785,286275,21/22,unknown injury,Other,2021-10-08,2021-10-14,7,1,AC Reggiana 1919,0,Altro/Non specificato
+1786,286275,18/19,unknown injury,Other,2019-04-15,2019-05-02,18,3,SS Monza 1912,0,Altro/Non specificato
+1787,286275,18/19,muscular problems,Other,2019-02-25,2019-03-01,5,1,SS Monza 1912,0,Muscolare: Altro/Coscia
+1788,286276,25/26,unknown injury,Other,2025-10-20,2025-10-30,11,2,Campobasso FC,0,Altro/Non specificato
+1789,286276,21/22,Ankle sprain,Physical Injury,2022-04-25,2022-05-23,29,2,Calcio Padova,0,Articolare: Caviglia/Piede
+1790,286276,20/21,muscular problems,Other,2021-02-27,2021-03-27,29,6,Calcio Padova,0,Muscolare: Altro/Coscia
+1791,286276,19/20,unknown injury,Other,2019-11-24,2019-12-06,13,1,SS Juve Stabia,0,Altro/Non specificato
+1792,286276,19/20,unknown injury,Other,2019-10-20,2019-10-31,12,2,SS Juve Stabia,0,Altro/Non specificato
+1793,28819,05/06,Shoulder injury,Physical Injury,2006-04-23,2006-05-16,24,3,Napoli Soccer,1,Articolare: Spalla/Braccio
+1794,28819,04/05,unknown injury,Other,2005-04-16,2005-05-04,19,3,Napoli Soccer,1,Altro/Non specificato
+1795,28830,97/98,unknown injury,Other,1998-02-09,1998-02-28,20,2,Aquila Montevarchi 1902,0,Altro/Non specificato
+1796,2926,15/16,Knee problems,Physical Injury,2016-02-04,2016-02-11,8,1,SV Darmstadt 98,0,Articolare: Ginocchio
+1797,2926,15/16,Hip problems,Other,2015-10-26,2015-10-29,4,1,SV Darmstadt 98,0,Altro/Non specificato
+1798,2926,13/14,minor knock,Physical Injury,2014-03-06,2014-03-10,5,1,Bologna FC 1909,0,Contusione/Trauma Diretto
+1799,2926,12/13,Muscle fatigue,Physical Injury,2012-11-22,2012-12-03,12,3,Bologna FC 1909,0,Muscolare: Altro/Coscia
+1800,2926,11/12,Elbow injury,Physical Injury,2012-03-12,2012-04-09,29,4,Bologna FC 1909,0,Articolare: Spalla/Braccio
+1801,2926,10/11,Cruciate ligament tear,Physical Injury,2011-02-07,2011-09-15,221,25,"Bologna FC 1909, Austria",0,Articolare: Ginocchio
+1802,2926,08/09,Knee problems,Physical Injury,2009-03-16,2009-04-02,18,2,"Atalanta BC, Austria",0,Articolare: Ginocchio
+1803,2926,07/08,Knock,Physical Injury,2008-03-17,2008-03-19,3,0,,1,Contusione/Trauma Diretto
+1804,30873,22/23,unknown injury,Other,2023-03-06,2023-03-27,22,2,Real Calepina FC,0,Altro/Non specificato
+1805,30873,20/21,Muscle injury,Physical Injury,2020-12-10,2020-12-29,20,5,Reggina 1914,0,Muscolare: Altro/Coscia
+1806,30873,15/16,Ankle injury,Physical Injury,2015-08-23,2015-09-13,22,1,Atalanta BC,0,Articolare: Caviglia/Piede
+1807,30873,11/12,Overstretching,Other,2012-03-21,2012-04-07,18,2,Atalanta BC,0,Altro/Non specificato
+1808,30873,11/12,muscular problems,Other,2012-03-17,2012-03-21,5,1,Atalanta BC,0,Muscolare: Altro/Coscia
+1809,30873,10/11,Broken foot,Physical Injury,2010-07-21,2010-10-12,84,9,"Udinese Calcio, Argentina",0,Articolare: Caviglia/Piede
+1810,31067,25/26,unknown injury,Other,2025-07-17,2025-08-29,44,0,,0,Altro/Non specificato
+1811,31067,24/25,surgery,Other,2024-10-25,2025-01-01,69,10,Sparta Rotterdam,0,Altro/Non specificato
+1812,31067,24/25,minor knock,Physical Injury,2024-09-01,2024-09-20,20,1,Sparta Rotterdam,0,Contusione/Trauma Diretto
+1813,31067,24/25,minor knock,Physical Injury,2024-08-16,2024-08-21,6,0,,0,Contusione/Trauma Diretto
+1814,31067,23/24,Ill,Other,2024-03-12,2024-03-15,4,0,,0,Patologia Medica/Covid/Influenza
+1815,31067,23/24,unknown injury,Other,2024-01-26,2024-02-01,7,1,Sparta Rotterdam,0,Altro/Non specificato
+1816,31067,22/23,Hamstring injury,Physical Injury,2023-06-01,2023-06-02,2,0,,0,Muscolare: Flessori
+1817,31067,22/23,Ankle injury,Physical Injury,2023-03-10,2023-04-19,41,5,Sparta Rotterdam,0,Articolare: Caviglia/Piede
+1818,31067,22/23,Calf injury,Physical Injury,2022-12-30,2023-01-23,25,4,Sparta Rotterdam,0,Muscolare: Polpaccio
+1819,31067,22/23,Calf injury,Physical Injury,2022-10-23,2022-12-13,52,3,Sparta Rotterdam,0,Muscolare: Polpaccio
+1820,31067,21/22,unknown injury,Other,2022-04-16,2022-04-18,3,1,OFI Crete,0,Altro/Non specificato
+1821,31067,19/20,Quarantine,Club Exclusion / Technical,2020-03-19,2020-04-02,15,0,,0,Condizionamento/Riposo
+1822,31067,19/20,Fitness,Club Exclusion / Technical,2019-11-08,2019-11-13,6,1,Eintracht Frankfurt,0,Condizionamento/Riposo
+1823,31067,19/20,Muscle injury,Physical Injury,2019-08-27,2019-11-07,73,13,Eintracht Frankfurt,0,Muscolare: Altro/Coscia
+1824,31067,19/20,unknown injury,Other,2019-08-16,2019-08-20,5,1,Eintracht Frankfurt,0,Altro/Non specificato
+1825,315869,18/19,unknown injury,Other,2019-02-05,2019-06-05,121,28,AS Viterbese Castrense,0,Altro/Non specificato
+1841,316935,16/17,Ankle sprain,Physical Injury,2017-01-10,2017-02-03,25,2,Napoli Primavera,1,Articolare: Caviglia/Piede
+1842,317482,25/26,Calf problems,Physical Injury,2025-10-27,2025-11-21,26,3,Cagliari Calcio,0,Muscolare: Polpaccio
+1843,317482,25/26,muscular problems,Other,2025-09-30,2025-10-16,17,1,Cagliari Calcio,0,Muscolare: Altro/Coscia
+1844,317482,23/24,Cruciate ligament injury,Physical Injury,2023-07-27,2024-03-23,241,37,"Cagliari Calcio, GNK Dinamo Zagreb",0,Articolare: Ginocchio
+1845,317482,22/23,Calf strain,Physical Injury,2023-03-02,2023-04-02,32,4,Cagliari Calcio,0,Muscolare: Polpaccio
+1846,317482,22/23,unknown injury,Other,2022-11-28,2023-01-12,46,5,Cagliari Calcio,0,Altro/Non specificato
+1847,317482,21/22,Cruciate ligament tear,Physical Injury,2021-07-31,2022-04-01,245,33,Cagliari Calcio,0,Articolare: Ginocchio
+1848,317482,20/21,Cruciate ligament tear,Physical Injury,2020-12-23,2021-06-07,167,25,Cagliari Calcio,0,Articolare: Ginocchio
+1849,317482,19/20,Hamstring injury,Physical Injury,2020-01-20,2020-02-17,29,4,Cagliari Calcio,0,Muscolare: Flessori
+1850,3177,04/05,Thigh problems,Physical Injury,2005-04-07,2005-04-29,23,4,Cagliari Calcio,0,Muscolare: Altro/Coscia
+1851,3177,04/05,Overstretching,Other,2005-03-13,2005-04-01,20,2,Cagliari Calcio,0,Altro/Non specificato
+1852,3177,95/96,Muscle tear,Physical Injury,1996-02-18,1996-03-23,35,4,AC Parma,0,Muscolare: Altro/Coscia
+1864,32099,03/04,Knee injury,Physical Injury,2004-03-14,2004-06-30,109,14,SSC Napoli,1,Articolare: Ginocchio
+1865,32113,25/26,Calf muscle tear,Physical Injury,2026-01-24,2026-03-04,40,7,US Avellino 1912,0,Muscolare: Polpaccio
+1866,32113,24/25,Adductor injury,Physical Injury,2025-04-06,2025-05-20,45,5,AC Monza,0,Muscolare: Adduttori/Inguine
+1867,32113,23/24,unknown injury,Other,2024-04-27,2024-05-03,7,0,,0,Altro/Non specificato
+1868,32113,23/24,Knee problems,Physical Injury,2023-12-28,2024-01-05,9,1,AC Monza,0,Articolare: Ginocchio
+1869,32113,23/24,Foot surgery,Physical Injury,2023-10-02,2023-12-09,69,8,AC Monza,0,Articolare: Caviglia/Piede
+1870,32113,22/23,unknown injury,Other,2022-10-14,2022-11-04,22,4,AC Monza,0,Altro/Non specificato
+1871,32113,22/23,Muscle fatigue,Physical Injury,2022-07-30,2022-08-12,14,1,Torino FC,0,Muscolare: Altro/Coscia
+1872,32113,21/22,Hamstring injury,Physical Injury,2022-04-17,2022-05-01,15,2,Torino FC,0,Muscolare: Flessori
+1873,32113,21/22,Calf injury,Physical Injury,2021-09-09,2021-09-24,16,3,Torino FC,0,Muscolare: Polpaccio
+1874,32113,20/21,muscular problems,Other,2021-05-09,2021-05-15,7,2,Torino FC,0,Muscolare: Altro/Coscia
+1875,32113,20/21,Head injury,Physical Injury,2021-01-22,2021-02-05,15,1,Torino FC,0,Altro/Non specificato
+1876,32113,19/20,Muscle contusion,Physical Injury,2020-07-27,2020-07-31,5,1,Torino FC,0,Muscolare: Altro/Coscia
+1877,32113,19/20,Knee problems,Physical Injury,2020-07-18,2020-07-23,6,2,Torino FC,0,Articolare: Ginocchio
+1878,32113,17/18,Calf strain,Physical Injury,2018-03-27,2018-05-11,46,8,Genoa CFC,0,Muscolare: Polpaccio
+1879,32113,17/18,Knee injury,Physical Injury,2018-02-03,2018-03-19,45,6,Genoa CFC,0,Articolare: Ginocchio
+1880,323612,21/22,Corona virus,Illness / Medical,2022-01-21,2022-04-15,85,8,Vastogirardi Calcio,0,Patologia Medica/Covid/Influenza
+1881,323612,18/19,unknown injury,Other,2019-02-22,2019-02-26,5,1,AC Gozzano,0,Altro/Non specificato
+1882,323612,17/18,unknown injury,Other,2018-01-19,2018-02-16,29,5,"SSC Napoli, MC Fermana FC",1,Altro/Non specificato
+1883,33218,24/25,Muscle injury,Physical Injury,2024-11-03,2025-01-06,65,8,AC Reggiana 1919,0,Muscolare: Altro/Coscia
+1884,33218,23/24,muscular problems,Other,2023-12-01,2023-12-23,23,3,AC Reggiana 1919,0,Muscolare: Altro/Coscia
+1885,33218,22/23,flu,Illness / Medical,2023-02-19,2023-02-22,4,1,AC Reggiana 1919,0,Patologia Medica/Covid/Influenza
+1886,33218,22/23,Cruciate ligament surgery,Physical Injury,2022-10-25,2022-12-03,40,7,AC Reggiana 1919,0,Articolare: Ginocchio
+1887,33218,21/22,Cruciate ligament surgery,Physical Injury,2022-05-30,2022-10-23,147,10,AC Reggiana 1919,0,Articolare: Ginocchio
+1888,33218,21/22,Cruciate ligament tear,Physical Injury,2022-05-18,2022-05-30,13,1,AC Reggiana 1919,0,Articolare: Ginocchio
+1889,33218,21/22,unknown injury,Other,2022-01-21,2022-01-29,9,1,AC Reggiana 1919,0,Altro/Non specificato
+1890,33218,20/21,Knee problems,Physical Injury,2021-02-27,2021-04-11,44,6,FC Crotone,0,Articolare: Ginocchio
+1891,33218,20/21,Calf injury,Physical Injury,2020-11-26,2021-02-13,80,13,FC Crotone,0,Muscolare: Polpaccio
+1892,33218,17/18,Broken foot,Physical Injury,2018-02-11,2018-04-09,58,6,Cagliari Calcio,0,Articolare: Caviglia/Piede
+1893,33218,15/16,unknown injury,Other,2016-02-03,2016-02-12,10,2,Atalanta BC,0,Altro/Non specificato
+1894,33218,15/16,Knee surgery,Physical Injury,2015-08-18,2015-09-11,25,2,Atalanta BC,0,Articolare: Ginocchio
+1895,33218,12/13,Ankle sprain,Physical Injury,2013-02-03,2013-02-17,15,0,,0,Articolare: Caviglia/Piede
+1896,33218,08/09,Cruciate ligament tear,Physical Injury,2008-10-30,2009-01-10,73,9,"Atalanta BC, Italy U21",0,Articolare: Ginocchio
+1897,335707,15/16,Broken nose bone,Physical Injury,2015-11-21,2016-01-13,54,4,Napoli Primavera,1,Trauma Osseo/Frattura
+1912,342341,25/26,Muscle injury,Physical Injury,2026-01-25,2026-04-28,94,15,SS Juve Stabia,0,Muscolare: Altro/Coscia
+1913,342341,25/26,muscle stiffness,Physical Injury,2025-10-01,2025-10-13,13,1,SS Juve Stabia,0,Muscolare: Altro/Coscia
+1914,342341,24/25,unknown injury,Other,2024-07-10,2024-07-17,8,0,,0,Altro/Non specificato
+1915,342341,23/24,unknown injury,Other,2024-02-10,2024-02-13,4,1,SS Juve Stabia,0,Altro/Non specificato
+1916,342341,22/23,Rest,Club Exclusion / Technical,2022-10-04,2022-10-06,3,1,Pordenone Calcio,0,Condizionamento/Riposo
+1917,342341,17/18,Rest,Club Exclusion / Technical,2018-04-10,2018-04-15,6,1,FC Südtirol,0,Condizionamento/Riposo
+2012,392331,17/18,unknown injury,Other,2017-12-25,2018-01-24,31,2,Napoli Primavera,1,Altro/Non specificato
+2023,39799,18/19,Ankle sprain,Physical Injury,2019-04-23,2019-07-19,88,6,AC Milan,0,Articolare: Caviglia/Piede
+2024,39799,18/19,Contracture,Other,2019-01-25,2019-02-05,12,3,AC Milan,0,Altro/Non specificato
+2025,39799,18/19,Fitness,Club Exclusion / Technical,2018-11-19,2019-01-07,50,9,AC Milan,0,Condizionamento/Riposo
+2026,39799,18/19,heart problems,Other,2018-08-11,2018-11-19,101,16,AC Milan,0,Altro/Non specificato
+2027,39799,18/19,minor knock,Physical Injury,2018-07-12,2018-07-12,1,0,,0,Contusione/Trauma Diretto
+2028,39799,17/18,Knock,Physical Injury,2018-01-01,2018-01-15,15,1,UC Sampdoria,0,Contusione/Trauma Diretto
+2029,39799,17/18,Muscle injury,Physical Injury,2017-11-27,2017-12-04,8,2,UC Sampdoria,0,Muscolare: Altro/Coscia
+2030,39799,16/17,Muscle injury,Physical Injury,2017-01-26,2017-02-02,8,1,SSC Napoli,1,Muscolare: Altro/Coscia
+2031,39799,15/16,muscular problems,Other,2016-02-25,2016-03-03,8,1,SSC Napoli,1,Muscolare: Altro/Coscia
+2032,39799,13/14,minor knock,Physical Injury,2013-12-02,2013-12-12,11,0,,0,Contusione/Trauma Diretto
+2033,39799,13/14,Muscle injury,Physical Injury,2013-11-04,2013-11-25,22,4,"Dnipro Dnipropetrovsk (- 2020), Croatia",0,Muscolare: Altro/Coscia
+2049,401163,20/21,bruise,Physical Injury,2021-04-12,2021-04-22,11,1,Fermana FC,0,Contusione/Trauma Diretto
+2050,401163,18/19,unknown injury,Other,2018-10-30,2018-11-01,3,1,Napoli Primavera,1,Altro/Non specificato
+2051,401163,18/19,unknown injury,Other,2018-09-25,2018-09-27,3,1,Napoli Primavera,1,Altro/Non specificato
+2052,401163,17/18,flu,Illness / Medical,2018-02-01,2018-02-08,8,1,Napoli Primavera,1,Patologia Medica/Covid/Influenza
+2076,409553,23/24,Cruciate ligament tear,Physical Injury,2024-06-10,2024-12-22,196,22,LR Vicenza,0,Articolare: Ginocchio
+2077,409553,22/23,Rest,Club Exclusion / Technical,2023-04-21,2023-04-23,3,1,LR Vicenza,0,Condizionamento/Riposo
+2079,41807,05/06,unknown injury,Other,2006-02-19,2006-03-23,33,5,Napoli Soccer,1,Altro/Non specificato
+2080,42116,08/09,Knee injury,Physical Injury,2008-09-01,2009-01-17,139,18,AC Reggiana 1919,0,Articolare: Ginocchio
+2081,42116,07/08,Knee injury,Physical Injury,2008-03-17,2008-06-01,77,9,AC Reggiana 1919,0,Articolare: Ginocchio
+2087,430764,24/25,Broken cheekbone,Physical Injury,2024-11-04,2025-01-04,62,6,Avezzano Calcio,0,Trauma Osseo/Frattura
+2088,430764,20/21,unknown injury,Other,2021-01-11,2021-02-15,36,7,"SSC Napoli, FC Legnago Salus",1,Altro/Non specificato
+2089,430764,20/21,Ankle sprain,Physical Injury,2020-08-31,2020-10-31,62,7,"Napoli Primavera, FC Legnago Salus",1,Articolare: Caviglia/Piede
+2096,44394,16/17,unknown injury,Other,2016-10-05,2016-10-12,8,1,Club Plaza Colonia,0,Altro/Non specificato
+2097,44394,15/16,Muscle injury,Physical Injury,2016-04-08,2016-04-25,18,2,Club Plaza Colonia,0,Muscolare: Altro/Coscia
+2098,44394,13/14,muscular problems,Other,2013-11-20,2013-11-28,9,1,US Lecce,0,Muscolare: Altro/Coscia
+2099,44394,13/14,muscular problems,Other,2013-09-14,2013-09-29,16,2,US Lecce,0,Muscolare: Altro/Coscia
+2100,44394,08/09,Metatarsal fracture,Physical Injury,2008-07-26,2008-11-10,108,15,SSC Napoli,1,Articolare: Caviglia/Piede
+2101,44394,06/07,Knee injury,Physical Injury,2007-05-05,2007-05-29,25,3,SSC Napoli,1,Articolare: Ginocchio
+2117,463603,26/27,Hamstring strain,Physical Injury,2026-10-25,2026-11-25,32,2,SSC Napoli,1,Muscolare: Flessori
+2118,463603,25/26,Ill,Other,2026-03-16,2026-03-20,5,1,Chelsea FC,0,Patologia Medica/Covid/Influenza
+2119,463603,25/26,Muscle injury,Physical Injury,2025-10-17,2025-11-21,36,7,Chelsea FC,0,Muscolare: Altro/Coscia
+2120,463603,25/26,Muscle injury,Physical Injury,2025-07-01,2025-09-24,86,10,Chelsea FC,0,Muscolare: Altro/Coscia
+2121,463603,25/26,Muscle strain,Physical Injury,2025-06-29,2025-07-15,17,3,Chelsea FC,0,Muscolare: Altro/Coscia
+2122,463603,24/25,Hamstring injury,Physical Injury,2024-12-14,2025-03-03,80,15,Chelsea FC,0,Muscolare: Flessori
+2123,463603,23/24,Groin injury,Physical Injury,2024-02-08,2024-03-13,35,6,Chelsea FC,0,Muscolare: Adduttori/Inguine
+2124,463603,23/24,Muscle fatigue,Physical Injury,2023-12-28,2024-01-08,12,2,Chelsea FC,0,Muscolare: Altro/Coscia
+2125,463603,23/24,Fitness,Club Exclusion / Technical,2023-09-18,2023-10-19,32,4,Chelsea FC,0,Condizionamento/Riposo
+2126,463603,23/24,Groin injury,Physical Injury,2023-05-29,2023-09-17,112,5,Chelsea FC,0,Muscolare: Adduttori/Inguine
+2127,463603,22/23,Hamstring injury,Physical Injury,2023-05-19,2023-08-31,105,7,Chelsea FC,0,Muscolare: Flessori
+2128,463603,22/23,Adductor injury,Physical Injury,2022-10-13,2022-10-20,8,2,AS Monaco,0,Muscolare: Adduttori/Inguine
+2129,463603,22/23,Muscle injury,Physical Injury,2022-07-15,2022-08-10,27,3,AS Monaco,0,Muscolare: Altro/Coscia
+2130,463603,21/22,Hamstring injury,Physical Injury,2022-01-09,2022-03-03,54,9,AS Monaco,0,Muscolare: Flessori
+2131,463603,21/22,Corona virus,Illness / Medical,2021-12-30,2022-01-06,8,1,AS Monaco,0,Patologia Medica/Covid/Influenza
+2132,46423,16/17,Broken nose bone,Physical Injury,2017-02-22,2017-02-25,4,1,ACF Fiorentina,0,Trauma Osseo/Frattura
+2174,516041,48/49,Inflammation of the leg skin,Other,1949-01-03,1949-01-22,20,3,AC Napoli,1,Altro/Non specificato
+2175,554124,48/49,unknown injury,Other,1948-12-20,1949-03-05,76,10,AC Napoli,1,Altro/Non specificato
+2176,554126,48/49,unknown injury,Other,1948-11-29,1949-01-31,64,11,AC Napoli,1,Altro/Non specificato
+2177,554127,48/49,Inflammation of the leg skin,Other,1949-01-03,1949-01-15,13,2,AC Napoli,1,Altro/Non specificato
+2207,5837,11/12,flu,Illness / Medical,2012-02-25,2012-02-28,4,1,US Lecce,0,Patologia Medica/Covid/Influenza
+2208,5837,11/12,unknown injury,Other,2011-09-12,2011-09-20,9,1,US Lecce,0,Altro/Non specificato
+2209,5837,10/11,unknown injury,Other,2010-11-01,2010-12-11,41,9,AC Milan,0,Altro/Non specificato
+2210,5837,10/11,strain,Physical Injury,2010-08-25,2010-09-02,9,1,AC Milan,0,Muscolare: Altro/Coscia
+2211,5837,08/09,Ankle injury,Physical Injury,2009-04-13,2009-04-20,8,2,FC Bayern Munich,0,Articolare: Caviglia/Piede
+2212,5837,08/09,Calf problems,Physical Injury,2009-03-18,2009-03-25,8,1,FC Bayern Munich,0,Muscolare: Polpaccio
+2213,5837,08/09,Ankle injury,Physical Injury,2009-02-25,2009-02-27,3,0,,0,Articolare: Caviglia/Piede
+2214,5858,16/17,Knee injury,Physical Injury,2016-12-17,2017-01-14,29,3,US Sassuolo,0,Articolare: Ginocchio
+2215,5858,16/17,Hand injury,Other,2016-10-27,2016-11-05,10,1,US Sassuolo,0,Articolare: Spalla/Braccio
+2216,5858,16/17,Calf injury,Physical Injury,2016-09-24,2016-09-30,7,2,US Sassuolo,0,Muscolare: Polpaccio
+2217,5858,15/16,Thigh problems,Physical Injury,2016-03-06,2016-03-31,26,2,US Sassuolo,0,Muscolare: Altro/Coscia
+2218,5858,14/15,unknown injury,Other,2015-02-23,2015-04-01,38,4,US Sassuolo,0,Altro/Non specificato
+2219,5858,14/15,Adductor pain,Physical Injury,2014-10-18,2014-11-02,16,2,US Sassuolo,0,Muscolare: Adduttori/Inguine
+2220,5858,13/14,flu,Illness / Medical,2013-12-20,2013-12-23,4,0,,1,Patologia Medica/Covid/Influenza
+2221,5858,11/12,bruise,Physical Injury,2012-01-29,2012-02-02,5,1,SSC Napoli,1,Contusione/Trauma Diretto
+2222,5858,10/11,muscular problems,Other,2010-11-22,2010-12-01,10,0,,1,Muscolare: Altro/Coscia
+2223,5880,16/17,Rib fracture,Physical Injury,2016-07-28,2016-09-01,36,6,AS Monaco,0,Trauma Osseo/Frattura
+2224,5880,14/15,Strain in the thigh and gluteal muscles,Physical Injury,2014-10-02,2014-10-09,8,1,AS Roma,0,Muscolare: Altro/Coscia
+2225,5880,12/13,Elbow injury,Physical Injury,2013-03-28,2013-04-01,5,1,SSC Napoli,1,Articolare: Spalla/Braccio
+2226,5880,08/09,minor knock,Physical Injury,2009-05-21,2009-05-25,5,1,Galatasaray,0,Contusione/Trauma Diretto
+2227,5881,08/09,Back problems,Physical Injury,2009-01-14,2009-04-05,82,16,"KV Mechelen, Belgium",0,Rachide/Lombalgia
+2228,5974,15/16,Calf injury,Physical Injury,2015-11-20,2016-01-01,43,6,Hellas Verona,0,Muscolare: Polpaccio
+2229,5974,13/14,Knock,Physical Injury,2014-03-24,2014-05-18,56,8,Genoa CFC,0,Contusione/Trauma Diretto
+2230,5974,12/13,Muscle strain,Physical Injury,2013-05-18,2013-05-30,13,1,Genoa CFC,0,Muscolare: Altro/Coscia
+2231,5974,12/13,muscular problems,Other,2013-03-03,2013-03-28,26,3,Genoa CFC,0,Muscolare: Altro/Coscia
+2232,5974,11/12,Knee surgery,Physical Injury,2012-04-29,2012-08-27,121,5,SS Lazio,0,Articolare: Ginocchio
+2233,5974,11/12,Thigh problems,Physical Injury,2012-04-03,2012-04-10,8,1,SS Lazio,0,Muscolare: Altro/Coscia
+2234,5974,11/12,muscular problems,Other,2011-12-19,2012-01-09,22,2,SS Lazio,0,Muscolare: Altro/Coscia
+2235,5974,11/12,muscular problems,Other,2011-11-21,2011-12-16,26,5,SS Lazio,0,Muscolare: Altro/Coscia
+2236,5974,11/12,Thigh problems,Physical Injury,2011-10-24,2011-11-11,19,4,SS Lazio,0,Muscolare: Altro/Coscia
+2237,5974,10/11,Knee problems,Physical Injury,2011-01-07,2011-01-29,23,4,SS Lazio,0,Articolare: Ginocchio
+2238,5974,10/11,muscular problems,Other,2010-09-28,2010-10-22,25,2,SS Lazio,0,Muscolare: Altro/Coscia
+2239,5974,10/11,muscular problems,Other,2010-09-20,2010-09-21,2,0,,0,Muscolare: Altro/Coscia
+2240,5986,11/12,Knee injury,Physical Injury,2012-01-22,2012-04-22,92,11,Torino FC,0,Articolare: Ginocchio
+2241,6016,07/08,unknown injury,Other,2008-01-27,2008-04-25,90,14,SSC Napoli,1,Altro/Non specificato
+2242,6016,06/07,Pubalgia,Other,2006-08-28,2007-08-20,358,42,SSC Napoli,1,Muscolare: Adduttori/Inguine
+2243,6036,20/21,Muscle tear,Physical Injury,2020-11-02,2020-12-03,32,0,,0,Muscolare: Altro/Coscia
+2249,6234,15/16,Muscle fatigue,Physical Injury,2016-01-06,2016-01-22,17,4,Torino FC,0,Muscolare: Altro/Coscia
+2250,6234,14/15,infection,Illness / Medical,2015-05-28,2015-05-31,4,0,,0,Patologia Medica/Covid/Influenza
+2251,6234,14/15,Muscle injury,Physical Injury,2015-01-05,2015-01-13,9,2,Torino FC,0,Muscolare: Altro/Coscia
+2252,6234,14/15,flu,Illness / Medical,2014-11-05,2014-11-08,4,1,Torino FC,0,Patologia Medica/Covid/Influenza
+2253,6234,13/14,unknown injury,Other,2014-05-08,2014-05-11,4,0,,0,Altro/Non specificato
+2254,6234,12/13,unknown injury,Other,2012-11-01,2012-11-06,6,1,Parma FC,0,Altro/Non specificato
+2255,6234,12/13,Muscle fatigue,Physical Injury,2012-08-20,2012-09-24,36,3,Parma FC,0,Muscolare: Altro/Coscia
+2256,6234,11/12,Adductor pain,Physical Injury,2012-04-26,2012-05-15,20,4,ACF Fiorentina,0,Muscolare: Adduttori/Inguine
+2257,6234,11/12,Adductor pain,Physical Injury,2012-02-25,2012-02-29,5,1,ACF Fiorentina,0,Muscolare: Adduttori/Inguine
+2258,6234,10/11,unknown injury,Other,2011-05-04,2011-05-15,12,1,Parma FC,0,Altro/Non specificato
+2259,6234,10/11,fatigue fracture,Physical Injury,2011-03-07,2011-03-19,13,1,Parma FC,0,Trauma Osseo/Frattura
+2260,6234,10/11,Knee problems,Physical Injury,2010-11-18,2011-01-01,45,7,Juventus FC,0,Articolare: Ginocchio
+2261,6234,10/11,Achilles tendon problems,Physical Injury,2010-10-25,2010-10-30,6,0,,0,Patologia Medica/Covid/Influenza
+2262,6234,10/11,Thigh problems,Physical Injury,2010-08-27,2010-09-20,25,3,Juventus FC,0,Muscolare: Altro/Coscia
+2263,6234,06/07,Cruciate ligament injury,Physical Injury,2006-12-23,2007-06-26,186,20,US Palermo,0,Articolare: Ginocchio
+2264,62920,23/24,unknown injury,Other,2023-11-03,2024-01-03,62,8,RCD Espanyol Barcelona,0,Altro/Non specificato
+2265,62920,21/22,Muscle injury,Physical Injury,2021-09-19,2021-10-19,31,5,Real Betis Balompié,0,Muscolare: Altro/Coscia
+2266,62920,20/21,Muscle injury,Physical Injury,2021-02-15,2021-02-23,9,1,Real Betis Balompié,0,Muscolare: Altro/Coscia
+2267,62920,19/20,Ligament stretching,Physical Injury,2019-11-27,2019-12-19,23,7,Beşiktaş JK,0,Altro/Non specificato
+2268,62920,19/20,Rest,Club Exclusion / Technical,2019-11-06,2019-11-08,3,1,Beşiktaş JK,0,Condizionamento/Riposo
+2269,62920,19/20,Muscle strain,Physical Injury,2019-10-14,2019-10-28,15,3,Beşiktaş JK,0,Muscolare: Altro/Coscia
+2270,62920,19/20,Groin injury,Physical Injury,2019-09-19,2019-10-04,16,3,Beşiktaş JK,0,Muscolare: Adduttori/Inguine
+2271,62920,17/18,flu,Illness / Medical,2018-04-04,2018-04-11,8,1,Villarreal CF,0,Patologia Medica/Covid/Influenza
+2272,62920,16/17,Ankle sprain,Physical Injury,2017-04-08,2017-06-08,62,7,Villarreal CF,0,Articolare: Caviglia/Piede
+2273,62920,16/17,Back problems,Physical Injury,2017-01-27,2017-02-03,8,1,Villarreal CF,0,Rachide/Lombalgia
+2274,62920,16/17,Ankle injury,Physical Injury,2017-01-01,2017-01-08,8,1,Villarreal CF,0,Articolare: Caviglia/Piede
+2275,62920,14/15,Hamstring injury,Physical Injury,2015-03-11,2015-04-08,29,5,Villarreal CF,0,Muscolare: Flessori
+2276,62920,14/15,Muscle strain,Physical Injury,2014-09-19,2014-09-23,5,1,Villarreal CF,0,Muscolare: Altro/Coscia
+2277,62920,13/14,Hamstring strain,Physical Injury,2014-05-14,2014-05-22,9,1,Valencia CF,0,Muscolare: Flessori
+2278,62920,13/14,Hamstring strain,Physical Injury,2014-03-23,2014-04-25,34,8,Valencia CF,0,Muscolare: Flessori
+2279,6395,13/14,Knee injury,Physical Injury,2013-12-01,2014-05-31,182,18,San Marino,0,Articolare: Ginocchio
+2280,6442,11/12,Thigh problems,Physical Injury,2012-04-04,2012-05-01,28,5,SSC Napoli,1,Muscolare: Altro/Coscia
+2281,6444,17/18,muscular problems,Other,2017-10-09,2017-10-20,12,1,Olympia Agnonese,0,Muscolare: Altro/Coscia
+2282,6444,16/17,Calf problems,Physical Injury,2017-01-23,2017-02-04,13,1,Olympia Agnonese,0,Muscolare: Polpaccio
+2283,6444,16/17,Hamstring muscle injury,Physical Injury,2016-10-17,2016-12-07,52,1,Olympia Agnonese,0,Muscolare: Flessori
+2284,6444,13/14,muscular problems,Other,2013-09-09,2013-10-20,42,6,US Lecce,0,Muscolare: Altro/Coscia
+2285,64793,25/26,Arthroscopy,Other,2026-04-29,2026-06-30,63,4,Cagliari Calcio,0,Altro/Non specificato
+2286,64793,25/26,Knee problems,Physical Injury,2026-04-09,2026-04-28,20,3,Cagliari Calcio,0,Articolare: Ginocchio
+2287,64793,24/25,Knee injury,Physical Injury,2025-05-22,2025-09-17,119,5,Cagliari Calcio,0,Articolare: Ginocchio
+2288,64793,24/25,Foot bruise,Physical Injury,2024-09-25,2024-10-28,34,4,Cagliari Calcio,0,Articolare: Caviglia/Piede
+2289,64793,23/24,Ankle sprain,Physical Injury,2024-02-25,2024-05-03,69,8,Cagliari Calcio,0,Articolare: Caviglia/Piede
+2290,64793,23/24,Foot injury,Physical Injury,2024-01-04,2024-01-06,3,0,,0,Articolare: Caviglia/Piede
+2291,64793,23/24,unknown injury,Other,2023-09-22,2023-10-01,10,1,Cagliari Calcio,0,Altro/Non specificato
+2292,64793,23/24,unknown injury,Other,2023-08-28,2023-09-14,18,1,Cagliari Calcio,0,Altro/Non specificato
+2293,64793,22/23,unknown injury,Other,2023-03-04,2023-04-11,39,5,Cagliari Calcio,0,Altro/Non specificato
+2294,64793,22/23,Calf muscle tear,Physical Injury,2023-01-20,2023-02-20,32,5,Cagliari Calcio,0,Muscolare: Polpaccio
+2295,64793,22/23,muscular problems,Other,2022-10-27,2022-12-01,36,3,Cagliari Calcio,0,Muscolare: Altro/Coscia
+2296,64793,21/22,Corona virus,Illness / Medical,2022-03-28,2022-04-05,9,1,Cagliari Calcio,0,Patologia Medica/Covid/Influenza
+2297,64793,21/22,muscular problems,Other,2022-02-05,2022-02-12,8,1,Cagliari Calcio,0,Muscolare: Altro/Coscia
+2298,64793,21/22,unknown injury,Other,2022-01-11,2022-01-16,6,0,,0,Altro/Non specificato
+2299,64793,19/20,Cruciate ligament tear,Physical Injury,2019-08-26,2020-07-30,340,38,Cagliari Calcio,0,Articolare: Ginocchio
+2304,6979,98/99,unknown injury,Other,1999-04-12,1999-05-03,22,3,KV Kortrijk,0,Altro/Non specificato
+2310,72274,23/24,unknown injury,Other,2023-12-09,2024-01-03,26,3,USD Sestri Levante 1919,0,Altro/Non specificato
+2311,72274,21/22,unknown injury,Other,2021-10-14,2021-10-28,15,2,Reggina 1914,0,Altro/Non specificato
+2312,72274,18/19,unknown injury,Other,2019-04-04,2019-04-09,6,1,SPAL,0,Altro/Non specificato
+2313,72274,18/19,Cruciate ligament tear,Physical Injury,2018-07-22,2018-12-27,159,20,UC Sampdoria,0,Articolare: Ginocchio
+2314,72274,14/15,Overstretching,Other,2014-10-03,2014-10-21,19,2,UC Sampdoria,0,Altro/Non specificato
+2315,73097,24/25,muscular problems,Other,2025-05-16,2025-05-18,3,1,SPAL,0,Muscolare: Altro/Coscia
+2316,73097,24/25,muscular problems,Other,2025-02-07,2025-03-24,46,8,SPAL,0,Muscolare: Altro/Coscia
+2317,73097,24/25,muscular problems,Other,2024-09-27,2024-11-04,39,7,SPAL,0,Muscolare: Altro/Coscia
+2318,73097,22/23,Hamstring injury,Physical Injury,2022-12-25,2023-02-28,66,13,PAOK Thessaloniki,0,Muscolare: Flessori
+2319,73097,22/23,Hamstring strain,Physical Injury,2022-07-07,2022-08-10,35,2,PAOK Thessaloniki,0,Muscolare: Flessori
+2320,73097,21/22,Ankle injury,Physical Injury,2022-04-14,2022-05-09,26,7,PAOK Thessaloniki,0,Articolare: Caviglia/Piede
+2321,73097,21/22,muscular problems,Other,2022-03-16,2022-03-28,13,2,PAOK Thessaloniki,0,Muscolare: Altro/Coscia
+2322,73097,21/22,Hamstring injury,Physical Injury,2021-12-09,2022-02-15,69,14,PAOK Thessaloniki,0,Muscolare: Flessori
+2323,73097,21/22,Hamstring injury,Physical Injury,2021-08-26,2021-10-04,40,7,PAOK Thessaloniki,0,Muscolare: Flessori
+2324,73097,19/20,Inner ankle ligament tear,Physical Injury,2019-12-19,2020-02-03,47,9,PAOK Thessaloniki,0,Articolare: Caviglia/Piede
+2325,73097,19/20,Muscle contusion,Physical Injury,2019-10-11,2019-11-01,22,3,"PAOK Thessaloniki, Morocco",0,Muscolare: Altro/Coscia
+2326,73097,19/20,Muscle injury,Physical Injury,2019-08-29,2019-09-09,12,2,"PAOK Thessaloniki, Morocco",0,Muscolare: Altro/Coscia
+2327,73097,18/19,Hamstring injury,Physical Injury,2019-02-24,2019-03-29,34,6,"PAOK Thessaloniki, Morocco",0,Muscolare: Flessori
+2328,73097,17/18,unknown injury,Other,2017-12-02,2018-01-15,45,7,"PAOK Thessaloniki, Morocco",0,Altro/Non specificato
+2329,73097,15/16,unknown injury,Other,2016-02-25,2016-03-03,8,2,SSC Napoli,1,Altro/Non specificato
+2348,73786,16/17,Muscle fatigue,Physical Injury,2016-10-18,2016-11-14,28,5,"Udinese Calcio, Colombia",0,Muscolare: Altro/Coscia
+2349,73786,15/16,Muscle fatigue,Physical Injury,2016-04-16,2016-04-24,9,3,Udinese Calcio,0,Muscolare: Altro/Coscia
+2350,73794,26/27,Knee problems,Physical Injury,2026-09-02,2026-09-04,3,0,,0,Articolare: Ginocchio
+2351,73794,26/27,Knee injury,Physical Injury,2026-07-22,2026-08-21,31,1,Torino FC,0,Articolare: Ginocchio
+2352,73794,25/26,Adductor injury,Physical Injury,2026-04-30,2026-05-06,7,1,Torino FC,0,Muscolare: Adduttori/Inguine
+2353,73794,25/26,Torn thigh muscle,Physical Injury,2026-04-03,2026-04-21,19,3,Torino FC,0,Muscolare: Altro/Coscia
+2354,73794,24/25,Cruciate ligament tear,Physical Injury,2024-10-05,2025-08-10,310,31,Torino FC,0,Articolare: Ginocchio
+2355,73794,23/24,muscular problems,Other,2023-10-20,2023-10-28,9,1,Torino FC,0,Muscolare: Altro/Coscia
+2356,73794,22/23,Leg injury,Other,2023-05-18,2023-08-06,81,3,Atalanta BC,0,Altro/Non specificato
+2357,73794,22/23,unknown injury,Other,2023-03-15,2023-03-17,3,0,,0,Altro/Non specificato
+2358,73794,22/23,Hamstring injury,Physical Injury,2023-02-17,2023-03-07,19,3,Atalanta BC,0,Muscolare: Flessori
+2359,73794,22/23,Hip problems,Other,2023-01-19,2023-01-27,9,1,Atalanta BC,0,Altro/Non specificato
+2360,73794,22/23,Bruised knee,Physical Injury,2023-01-04,2023-01-08,5,0,,0,Articolare: Ginocchio
+2361,73794,22/23,Hamstring injury,Physical Injury,2022-09-01,2022-10-21,51,6,Atalanta BC,0,Muscolare: Flessori
+2362,73794,21/22,muscular problems,Other,2022-05-02,2022-05-11,10,1,Atalanta BC,0,Muscolare: Altro/Coscia
+2363,73794,21/22,Torn muscle fiber in the adductor area,Physical Injury,2022-02-07,2022-04-02,55,11,Atalanta BC,0,Muscolare: Adduttori/Inguine
+2364,73794,21/22,muscular problems,Other,2021-12-21,2022-02-05,47,4,Atalanta BC,0,Muscolare: Altro/Coscia
+2365,80158,20/21,Hamstring muscle injury,Physical Injury,2021-03-31,2021-05-05,36,6,Frosinone Calcio,0,Muscolare: Flessori
+2366,80158,19/20,Lumbago,Physical Injury,2020-01-18,2020-01-23,6,1,Hellas Verona,0,Rachide/Lombalgia
+2367,80158,19/20,flu,Illness / Medical,2019-12-14,2019-12-18,5,1,Hellas Verona,0,Patologia Medica/Covid/Influenza
+2368,80158,19/20,Knee problems,Physical Injury,2019-11-08,2019-11-16,9,1,Hellas Verona,0,Articolare: Ginocchio
+2369,80158,19/20,flu,Illness / Medical,2019-08-31,2019-09-05,6,1,Hellas Verona,0,Patologia Medica/Covid/Influenza
+2370,80158,10/11,Ankle sprain,Physical Injury,2011-01-19,2011-02-20,33,7,SSC Napoli,1,Articolare: Caviglia/Piede
+2371,80158,10/11,unknown injury,Other,2010-08-22,2010-09-03,13,2,SSC Napoli,1,Altro/Non specificato
+2373,814459,25/26,flu,Illness / Medical,2025-12-18,2025-12-21,4,1,Guidonia Montecelio 1937 FC,0,Patologia Medica/Covid/Influenza
+2374,818581,25/26,unknown injury,Other,2026-03-21,2026-07-01,103,6,Giugliano Calcio 1928,0,Altro/Non specificato
+2375,818581,21/22,Calf problems,Physical Injury,2022-03-18,2022-04-08,22,2,Napoli Primavera,1,Muscolare: Polpaccio
+2391,86074,18/19,unknown injury,Other,2018-12-21,2019-01-15,26,3,SS Juve Stabia ,0,Altro/Non specificato
+2392,86074,06/07,unknown injury,Other,2007-02-26,2007-04-06,40,13,"US Foggia, SSC Giugliano",0,Altro/Non specificato
+2393,87052,20/21,Leg injury,Other,2021-04-03,2021-05-24,52,12,Suwon Samsung Bluewings,0,Altro/Non specificato
+2394,87052,17/18,Hamstring injury,Physical Injury,2018-02-12,2018-03-12,29,4,Gimnàstic de Tarragona,0,Muscolare: Flessori
+2395,87052,10/11,surgery,Other,2011-05-20,2011-06-10,22,2,"SSC Napoli, Italy U20",1,Altro/Non specificato
+2418,89718,25/26,Rib fracture,Physical Injury,2026-06-19,2026-07-19,31,5,Club Universidad de Chile,0,Trauma Osseo/Frattura
+2419,89718,25/26,Calf strain,Physical Injury,2026-04-13,2026-05-05,23,3,Club Universidad de Chile,0,Muscolare: Polpaccio
+2420,89718,24/25,Calf problems,Physical Injury,2024-09-11,2024-09-24,14,4,Clube Atlético Mineiro,0,Muscolare: Polpaccio
+2421,89718,24/25,Knee problems,Physical Injury,2024-08-08,2024-08-19,12,3,Clube Atlético Mineiro,0,Articolare: Ginocchio
+2422,89718,20/21,Corona virus,Illness / Medical,2020-11-18,2020-11-28,11,3,Clube Atlético Mineiro,0,Patologia Medica/Covid/Influenza
+2423,89718,14/15,Inner knee ligament tear,Physical Injury,2015-04-04,2015-06-04,62,7,Queens Park Rangers,0,Articolare: Ginocchio
+2424,89718,11/12,sprain,Physical Injury,2012-02-13,2012-02-25,13,3,"SSC Napoli, Chile",1,Altro/Non specificato
+2425,89718,10/11,Knee injury,Physical Injury,2010-08-06,2010-08-29,24,7,Club Universidad de Chile,0,Articolare: Ginocchio
+2426,89718,10/11,Knee injury,Physical Injury,2010-07-11,2010-08-01,22,4,Club Universidad de Chile,0,Articolare: Ginocchio
+2427,89718,09/10,Ankle problems,Physical Injury,2010-04-14,2010-04-23,10,2,Club Universidad de Chile,0,Articolare: Caviglia/Piede
+2428,89718,09/10,Knee injury,Physical Injury,2010-01-27,2010-02-24,29,6,Club Universidad de Chile,0,Articolare: Ginocchio
+2429,89718,08/09,Knee surgery,Physical Injury,2008-10-27,2009-03-11,136,16,CD Cobreloa,0,Articolare: Ginocchio
+2430,89718,08/09,Knee problems,Physical Injury,2008-10-06,2008-10-23,18,1,CD Cobreloa,0,Articolare: Ginocchio
+2431,92880,21/22,unknown injury,Other,2021-10-20,2021-11-05,17,2,Carrarese Calcio 1908,0,Altro/Non specificato
+2432,92880,21/22,unknown injury,Other,2021-08-26,2021-09-10,16,2,Carrarese Calcio 1908,0,Altro/Non specificato
+2433,92880,20/21,unknown injury,Other,2021-02-08,2021-02-22,15,3,AS Livorno,0,Altro/Non specificato
+2434,92880,15/16,Cruciate ligament tear,Physical Injury,2015-10-27,2016-03-10,136,20,"Modena FC, Modena Primavera",0,Articolare: Ginocchio
+2435,92880,12/13,unknown injury,Other,2012-08-20,2013-02-01,166,31,Udinese Calcio,0,Altro/Non specificato
+2436,92880,11/12,Knee problems,Physical Injury,2011-09-28,2011-10-15,18,1,Novara Calcio 1908,0,Articolare: Ginocchio
+2437,930623,25/26,muscular problems,Other,2026-02-09,2026-02-27,19,2,Pineto Calcio,0,Muscolare: Altro/Coscia
+2438,930623,25/26,Muscle injury,Physical Injury,2025-09-11,2025-10-30,50,7,Pineto Calcio,0,Muscolare: Altro/Coscia
+2439,930623,21/22,muscular problems,Other,2021-12-05,2022-01-27,54,3,Napoli Under 17,1,Muscolare: Altro/Coscia
+2452,96167,24/25,Knee surgery,Physical Injury,2024-12-19,2025-02-02,46,4,FC Schalke 04,0,Articolare: Ginocchio
+2453,96167,24/25,Knee problems,Physical Injury,2024-12-13,2024-12-18,6,1,FC Schalke 04,0,Articolare: Ginocchio
+2454,96167,24/25,Knock,Physical Injury,2024-10-27,2024-10-30,4,1,FC Schalke 04,0,Contusione/Trauma Diretto
+2455,96167,24/25,Ill,Other,2024-08-15,2024-08-19,5,1,FC Schalke 04,0,Patologia Medica/Covid/Influenza
+2456,96167,24/25,Inflammation in the knee,Physical Injury,2024-07-29,2024-08-11,14,2,FC Schalke 04,0,Articolare: Ginocchio
+2457,96167,22/23,Achilles tendon problems,Physical Injury,2023-04-10,2023-06-05,57,8,FC Utrecht,0,Patologia Medica/Covid/Influenza
+2458,96167,22/23,Ill,Other,2023-03-31,2023-04-10,11,2,FC Utrecht,0,Patologia Medica/Covid/Influenza
+2459,96167,22/23,Muscle injury,Physical Injury,2023-02-05,2023-03-01,25,5,FC Utrecht,0,Muscolare: Altro/Coscia
+2460,96167,22/23,Ill,Other,2022-09-09,2022-09-13,5,1,FC Utrecht,0,Patologia Medica/Covid/Influenza
+2461,96167,20/21,Adductor pain,Physical Injury,2021-05-21,2021-05-31,11,1,Eintracht Frankfurt,0,Muscolare: Adduttori/Inguine
+2462,96167,20/21,Knock,Physical Injury,2020-12-04,2020-12-08,5,1,Eintracht Frankfurt,0,Contusione/Trauma Diretto
+2463,96167,20/21,Corona virus,Illness / Medical,2020-11-17,2020-11-29,13,3,"Eintracht Frankfurt, Germany",0,Patologia Medica/Covid/Influenza
+2464,96167,19/20,Muscle strain,Physical Injury,2020-07-14,2020-07-21,8,2,SSC Napoli,1,Muscolare: Altro/Coscia
+2465,96167,19/20,flu,Illness / Medical,2020-02-28,2020-03-04,6,1,SSC Napoli,1,Patologia Medica/Covid/Influenza
+2466,96167,19/20,flu,Illness / Medical,2020-02-02,2020-02-05,4,1,SSC Napoli,1,Patologia Medica/Covid/Influenza
+2467,102633,21/22,Broken nose bone,Physical Injury,1996-04-29,1996-05-19,21,2,Taranto SS,0,Trauma Osseo/Frattura
+2468,102646,07/08,flu,Illness / Medical,2008-01-12,2008-01-21,10,1,San Marino,0,Patologia Medica/Covid/Influenza
+2469,102646,07/08,unknown injury,Other,2007-09-17,2007-10-20,34,3,San Marino,0,Altro/Non specificato
+2470,117626,81/82,Adductor injury,Physical Injury,1982-06-01,1982-07-31,61,5,Brazil,0,Muscolare: Adduttori/Inguine
+2471,182033,69/70,Ill,Other,1970-01-20,1970-01-24,5,1,SSC Napoli,1,Patologia Medica/Covid/Influenza
+2472,22093,16/17,Foot injury,Physical Injury,2017-03-12,2017-06-05,86,10,Delfino Pescara 1936,0,Articolare: Caviglia/Piede
+2473,22093,16/17,flu,Illness / Medical,2017-01-14,2017-01-16,3,1,Delfino Pescara 1936,0,Patologia Medica/Covid/Influenza
+2474,22093,16/17,unknown injury,Other,2016-08-26,2016-09-01,7,1,Atalanta BC,0,Altro/Non specificato
+2475,22093,15/16,Shoulder injury,Physical Injury,2016-05-01,2016-05-22,22,3,Atalanta BC,0,Articolare: Spalla/Braccio
+2476,22093,14/15,unknown injury,Other,2014-09-09,2014-09-19,11,1,Atalanta BC,0,Altro/Non specificato
+2477,22093,13/14,Knee problems,Physical Injury,2014-05-08,2014-05-30,23,2,Atalanta BC,0,Articolare: Ginocchio
+2478,22093,13/14,Knee problems,Physical Injury,2014-04-15,2014-04-22,8,1,Atalanta BC,0,Articolare: Ginocchio
+2479,22093,13/14,unknown injury,Other,2013-11-29,2013-12-14,16,3,Atalanta BC,0,Altro/Non specificato
+2480,22093,12/13,Knee problems,Physical Injury,2012-09-28,2012-10-16,19,2,Atalanta BC,0,Articolare: Ginocchio
+2481,22093,11/12,Stomach flu,Illness / Medical,2011-11-28,2011-12-10,13,4,"SS Lazio, Lazio U19",0,Patologia Medica/Covid/Influenza
+2482,22093,10/11,unknown injury,Other,2011-04-22,2011-05-07,16,2,SS Lazio,0,Altro/Non specificato
+2483,22093,10/11,unknown injury,Other,2010-11-08,2010-11-20,13,2,SS Lazio,0,Altro/Non specificato
+2484,223104,97/98,unknown injury,Other,1998-03-16,1998-05-02,48,5,Como Calcio,0,Altro/Non specificato
+2485,253609,06/07,Knee injury,Physical Injury,2006-12-01,2006-12-09,9,1,SPAL 1907,0,Articolare: Ginocchio
+2486,253609,06/07,bruise,Physical Injury,2006-10-09,2006-11-06,29,3,SPAL 1907,0,Contusione/Trauma Diretto
+2487,468738,46/47,Muscle tear,Physical Injury,1946-10-21,1946-11-09,20,2,SS Lazio,0,Muscolare: Altro/Coscia
+2488,473396,48/49,Muscle tear,Physical Injury,1948-11-05,1948-12-21,47,7,Atalanta BC,0,Muscolare: Altro/Coscia
+2489,72449,02/03,unknown injury,Other,2003-01-20,2003-01-30,11,1,SC Braga,0,Altro/Non specificato

@@ -49,32 +49,41 @@ interface InteractiveMapsProps {
   initialSubTab?: 'away_progressive' | 'napoli_homes';
 }
 
-// Convert Italy Lat/Lon (Lat 37.2..46.8, Lon 6.6..18.6) into SVG viewport (600 x 680)
+// High-precision Italy Projection matching official geographic borders
 function projectItalyCoords(lat: number, lon: number): { x: number; y: number } {
-  const minLat = 37.2;
-  const maxLat = 46.8;
-  const minLon = 6.6;
-  const maxLon = 18.6;
+  const minLat = 36.5;
+  const maxLat = 47.2;
+  const minLon = 6.4;
+  const maxLon = 18.8;
   const x = ((lon - minLon) / (maxLon - minLon)) * 520 + 40;
   const y = ((maxLat - lat) / (maxLat - minLat)) * 600 + 40;
   return { x, y };
 }
 
-// Convert Naples urban area coords (Lat 40.80..41.00, Lon 13.95..14.32) into SVG viewport (600 x 460)
+// High-precision Gulf of Naples Projection
 function projectNaplesUrbanCoords(lat: number, lon: number): { x: number; y: number } {
-  // Handle extra-urban retreats (Dimaro / Castel di Sangro) in dedicated inset box on top-right
   if (lat > 41.5) {
     if (lat > 45) return { x: 500, y: 78 }; // Dimaro Folgarida
     return { x: 500, y: 145 }; // Castel di Sangro
   }
-  const minLat = 40.805;
-  const maxLat = 40.995;
-  const minLon = 13.95;
-  const maxLon = 14.31;
-  const x = ((lon - minLon) / (maxLon - minLon)) * 420 + 45;
-  const y = ((maxLat - lat) / (maxLat - minLat)) * 340 + 60;
+  const minLat = 40.50;
+  const maxLat = 40.95;
+  const minLon = 13.90;
+  const maxLon = 14.45;
+  const x = ((lon - minLon) / (maxLon - minLon)) * 500 + 40;
+  const y = ((maxLat - lat) / (maxLat - minLat)) * 380 + 40;
   return { x, y };
 }
+
+const ITALY_MAINLAND_PATH = "M 87.4,231.8 L 97.9,229.0 L 108.4,225.0 L 121.4,211.0 L 127.2,202.6 L 146.1,196.4 L 157.8,202.1 L 167.5,203.7 L 177.5,210.5 L 183.8,213.8 L 201.5,226.7 L 204.0,244.7 L 211.5,257.6 L 213.2,279.4 L 228.7,289.5 L 237.9,306.9 L 242.1,308.0 L 264.4,320.4 L 266.5,326.5 L 284.5,344.5 L 301.3,362.4 L 317.6,372.0 L 327.3,373.6 L 340.7,375.9 L 355.8,377.6 L 357.9,390.5 L 361.6,397.2 L 367.5,397.8 L 373.0,396.6 L 378.8,401.7 L 378.8,404.5 L 374.6,408.4 L 372.5,411.8 L 383.9,408.4 L 390.6,405.6 L 399.8,416.8 L 398.5,424.1 L 411.5,434.2 L 427.1,440.9 L 430.8,448.2 L 436.7,471.8 L 448.5,503.7 L 438.4,517.8 L 437.5,531.2 L 429.6,541.9 L 427.9,549.7 L 434.2,559.8 L 445.9,557.0 L 452.6,541.3 L 465.6,527.9 L 466.5,514.4 L 482.8,509.3 L 490.0,495.3 L 490.4,478.5 L 471.1,466.2 L 464.4,458.9 L 469.0,444.9 L 473.2,433.1 L 478.2,423.6 L 493.7,416.8 L 513.9,426.9 L 525.6,440.9 L 541.5,455.0 L 547.4,435.3 L 523.9,407.9 L 497.1,390.5 L 479.1,380.4 L 454.3,369.7 L 438.8,352.3 L 449.7,343.9 L 450.1,338.3 L 442.2,335.5 L 425.8,336.1 L 418.3,334.4 L 400.6,331.6 L 379.7,318.1 L 367.5,305.2 L 357.9,289.5 L 353.7,278.3 L 347.4,258.7 L 341.9,244.7 L 338.2,240.7 L 326.0,235.1 L 313.0,224.5 L 298.7,216.1 L 289.5,208.2 L 283.2,195.9 L 284.9,177.4 L 288.7,165.0 L 286.6,151.0 L 288.7,139.3 L 304.2,133.1 L 318.9,129.7 L 333.5,125.2 L 341.9,119.1 L 349.5,126.9 L 353.7,129.7 L 346.1,79.3 L 308.4,73.6 L 283.2,68.0 L 253.9,51.2 L 211.9,59.6 L 186.8,84.9 L 149.0,93.3 L 100.8,110.1 L 59.7,116.8 L 69.4,135.3 L 52.6,157.8 L 65.2,197.0 L 86.1,225.0 L 87.4,231.8 Z";
+const ITALY_SICILY_PATH = "M 427.9,540.2 L 410.7,543.6 L 379.7,552.0 L 359.5,553.6 L 332.3,549.2 L 321.0,545.8 L 311.7,551.4 L 305.5,546.4 L 296.2,554.8 L 292.9,567.1 L 299.6,575.5 L 310.5,579.4 L 341.1,594.6 L 355.4,605.8 L 369.2,608.0 L 379.7,626.0 L 394.4,628.8 L 404.0,631.6 L 412.8,608.0 L 409.9,598.5 L 404.4,583.9 L 413.2,564.3 L 424.1,545.2 L 427.9,540.2 Z";
+const ITALY_SARDINIA_PATH = "M 157.0,374.2 L 171.3,380.4 L 170.0,392.1 L 177.5,400.0 L 181.3,424.1 L 177.5,438.1 L 178.4,448.2 L 176.3,471.8 L 170.8,492.5 L 154.1,487.5 L 149.9,500.9 L 134.4,507.7 L 126.0,498.7 L 123.9,477.4 L 126.0,455.0 L 127.2,429.7 L 120.5,412.3 L 115.9,391.0 L 123.9,396.6 L 137.3,392.1 L 157.0,374.2 Z";
+
+const NAPLES_COASTLINE_PATH = "M 85.5,99.1 L 121.8,141.3 L 194.5,175.1 L 203.6,158.2 L 240.0,149.8 L 276.4,154.0 L 280.9,170.9 L 312.7,170.9 L 335.5,148.1 L 358.2,143.0 L 371.8,132.9 L 403.6,131.2 L 440.0,151.5 L 453.6,162.4 L 467.3,179.3 L 540.0,208.9 L 567.3,255.3 L 521.8,280.7 L 476.4,310.2 L 440.0,331.3 L 430.9,356.7";
+const NAPLES_CAPRI_PATH = "M 317.3,379.5 L 347.3,371.0 L 367.3,373.6 L 349.1,382.8 L 317.3,379.5";
+const NAPLES_ISCHIA_PATH = "M 21.8,217.3 L 67.3,208.9 L 94.5,230.0 L 67.3,251.1 L 21.8,242.7 L 21.8,217.3";
+const NAPLES_PROCIDA_PATH = "M 140.0,200.4 L 158.2,192.0 L 167.3,208.9 L 149.1,213.1 L 140.0,200.4";
+const NAPLES_VESUVIUS_PATH = "M 503.6,137.1 L 521.8,145.6 L 530.9,154.0 L 512.7,158.2 L 485.5,149.8 L 503.6,137.1";
 
 const SAN_PAOLO_COORDS = projectItalyCoords(40.827967, 14.193008);
 
@@ -392,26 +401,30 @@ export const InteractiveMapsSection: React.FC<InteractiveMapsProps> = ({
                   />
                 ))}
 
-                {/* Stylized Geometric Outline of Italy Peninsula */}
+                {/* High-Fidelity Cartographic Outline of Italy Peninsula & Alpine Border */}
                 <path
-                  d="M75,115 L145,75 L235,62 L320,85 L340,145 L295,195 L325,260 L385,335 L475,405 L535,445 L515,475 L465,445 L445,485 L425,555 L390,585 L370,545 L395,475 L345,415 L275,355 L215,280 L175,205 L115,180 Z"
-                  fill="rgba(1, 160, 232, 0.04)"
-                  stroke="rgba(1, 160, 232, 0.28)"
-                  strokeWidth="1.5"
+                  d={ITALY_MAINLAND_PATH}
+                  fill="rgba(1, 160, 232, 0.05)"
+                  stroke="#01A0E8"
+                  strokeWidth="1.8"
+                  strokeOpacity="0.45"
+                  className="transition-all"
                 />
                 {/* Sicily */}
                 <path
-                  d="M275,585 L365,575 L350,635 L265,615 Z"
-                  fill="rgba(1, 160, 232, 0.04)"
-                  stroke="rgba(1, 160, 232, 0.25)"
-                  strokeWidth="1.2"
+                  d={ITALY_SICILY_PATH}
+                  fill="rgba(1, 160, 232, 0.05)"
+                  stroke="#01A0E8"
+                  strokeWidth="1.6"
+                  strokeOpacity="0.4"
                 />
                 {/* Sardinia */}
                 <path
-                  d="M95,365 L140,365 L135,465 L90,460 Z"
-                  fill="rgba(1, 160, 232, 0.04)"
-                  stroke="rgba(1, 160, 232, 0.25)"
-                  strokeWidth="1.2"
+                  d={ITALY_SARDINIA_PATH}
+                  fill="rgba(1, 160, 232, 0.05)"
+                  stroke="#01A0E8"
+                  strokeWidth="1.6"
+                  strokeOpacity="0.4"
                 />
 
                 {/* Trajectory Lines from San Paolo to Each Stadium */}
@@ -812,14 +825,50 @@ export const InteractiveMapsSection: React.FC<InteractiveMapsProps> = ({
                     strokeWidth="1"
                   />
                 ))}
-                {/* Gulf of Naples Coastline Profile */}
+                {/* Detailed High-Fidelity Gulf of Naples Coastline */}
                 <path
-                  d="M 30 160 L 95 245 L 155 365 L 220 385 L 295 340 L 385 330 L 465 365 L 560 420"
+                  d={NAPLES_COASTLINE_PATH}
                   fill="none"
                   stroke="#01A0E8"
-                  strokeWidth="2"
-                  strokeOpacity="0.55"
+                  strokeWidth="2.4"
+                  strokeOpacity="0.65"
                 />
+                {/* Capri Island */}
+                <path
+                  d={NAPLES_CAPRI_PATH}
+                  fill="rgba(1, 160, 232, 0.15)"
+                  stroke="#01A0E8"
+                  strokeWidth="1.5"
+                  strokeOpacity="0.7"
+                />
+                <text x="335" y="395" fill="#01A0E8" fontSize="9" fontFamily="JetBrains Mono, monospace">CAPRI</text>
+                {/* Ischia Island */}
+                <path
+                  d={NAPLES_ISCHIA_PATH}
+                  fill="rgba(1, 160, 232, 0.15)"
+                  stroke="#01A0E8"
+                  strokeWidth="1.5"
+                  strokeOpacity="0.7"
+                />
+                <text x="35" y="235" fill="#01A0E8" fontSize="9" fontFamily="JetBrains Mono, monospace">ISCHIA</text>
+                {/* Procida Island */}
+                <path
+                  d={NAPLES_PROCIDA_PATH}
+                  fill="rgba(1, 160, 232, 0.15)"
+                  stroke="#01A0E8"
+                  strokeWidth="1.5"
+                  strokeOpacity="0.7"
+                />
+                <text x="142" y="185" fill="#01A0E8" fontSize="8" fontFamily="JetBrains Mono, monospace">PROCIDA</text>
+                {/* Mount Vesuvius Profile */}
+                <path
+                  d={NAPLES_VESUVIUS_PATH}
+                  fill="rgba(255, 255, 255, 0.05)"
+                  stroke="rgba(1, 160, 232, 0.4)"
+                  strokeWidth="1.2"
+                  strokeDasharray="3 2"
+                />
+                <text x="490" y="145" fill="rgba(255, 255, 255, 0.4)" fontSize="9" fontFamily="JetBrains Mono, monospace">VESUVIO 1.281m</text>
                 <text
                   x={230}
                   y={420}

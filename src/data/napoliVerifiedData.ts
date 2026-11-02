@@ -56,6 +56,29 @@ export interface MatchDataStory {
   htScore: string | null;
   attendance: number | null;
   referee: string | null;
+  systemOfPlay?: string | null;
+  notes?: string | null;
+  lineupDetails?: {
+    starters: { shirtNumber: number; name: string; position?: string; isCaptain?: boolean }[];
+    bench: { shirtNumber: number; name: string; position?: string }[];
+  } | null;
+  refereeDossier?: {
+    name: string;
+    city?: string;
+    matches: number;
+    wins: number;
+    draws: number;
+    losses: number;
+    yellowCardsNapoli: number;
+    redCardsNapoli: number;
+    penaltiesNapoli: number;
+    winPct: number;
+  } | null;
+  shootout?: {
+    round: string;
+    regularScore: string;
+    result: string;
+  } | null;
   confidence: ConfidenceLevel;
   verificato: 0 | 1;
   pubblicata: 0 | 1;
@@ -119,6 +142,172 @@ export interface MatchDataStory {
 }
 
 export const FEATURED_MATCHES: MatchDataStory[] = [
+  {
+    id: '2026-11-02-juventus-napoli',
+    season: '2026-27',
+    competition: 'SERIE A',
+    matchdayIt: 'GIORNATA 10 · 2026/27',
+    matchdayEn: 'MATCHDAY 10 · 2026/27',
+    dateIso: '2026-11-02',
+    dateDisplayIt: 'Lunedì 2 Novembre 2026',
+    dateDisplayEn: 'Monday 2 November 2026',
+    time: '20:45',
+    stadium: 'Allianz Stadium',
+    city: 'Torino',
+    lat: 45.1096,
+    lon: 7.6413,
+    isHome: false,
+    homeTeam: 'JUVENTUS',
+    awayTeam: 'NAPOLI',
+    homeCode: 'JUV',
+    awayCode: 'NAP',
+    homeGoals: 2,
+    awayGoals: 0,
+    htScore: '1-0',
+    attendance: 41250,
+    referee: 'Daniele Doveri',
+    systemOfPlay: '4-3-3',
+    notes: 'Big match della 10ª giornata di Serie A a Torino davanti a 41.250 spettatori.',
+    lineupDetails: {
+      starters: [
+        { shirtNumber: 1, name: 'Alex Meret', position: 'POR' },
+        { shirtNumber: 22, name: 'Giovanni Di Lorenzo', position: 'TD', isCaptain: true },
+        { shirtNumber: 13, name: 'Amir Rrahmani', position: 'DC' },
+        { shirtNumber: 4, name: 'Alessandro Buongiorno', position: 'DC' },
+        { shirtNumber: 17, name: 'Mathías Olivera', position: 'TS' },
+        { shirtNumber: 99, name: 'André-Frank Zambo Anguissa', position: 'CC' },
+        { shirtNumber: 68, name: 'Stanislav Lobotka', position: 'MED' },
+        { shirtNumber: 8, name: 'Scott McTominay', position: 'CC' },
+        { shirtNumber: 21, name: 'Matteo Politano', position: 'AD' },
+        { shirtNumber: 11, name: 'Romelu Lukaku', position: 'ATT' },
+        { shirtNumber: 77, name: 'Khvicha Kvaratskhelia', position: 'AS' },
+      ],
+      bench: [
+        { shirtNumber: 14, name: 'Nikita Contini', position: 'POR' },
+        { shirtNumber: 25, name: 'Elia Caprile', position: 'POR' },
+        { shirtNumber: 5, name: 'Juan Jesus', position: 'DC' },
+        { shirtNumber: 16, name: 'Rafa Marín', position: 'DC' },
+        { shirtNumber: 30, name: 'Pasquale Mazzocchi', position: 'TD' },
+        { shirtNumber: 37, name: 'Leonardo Spinazzola', position: 'TS' },
+        { shirtNumber: 6, name: 'Billy Gilmour', position: 'MED' },
+        { shirtNumber: 90, name: 'Michael Folorunsho', position: 'CC' },
+        { shirtNumber: 7, name: 'David Neres', position: 'AD' },
+        { shirtNumber: 26, name: 'Cyril Ngonge', position: 'AD' },
+        { shirtNumber: 81, name: 'Giacomo Raspadori', position: 'ATT' },
+        { shirtNumber: 18, name: 'Giovanni Simeone', position: 'ATT' },
+      ]
+    },
+    refereeDossier: {
+      name: 'Daniele Doveri',
+      city: 'Roma 1',
+      matches: 38,
+      wins: 22,
+      draws: 10,
+      losses: 6,
+      yellowCardsNapoli: 82,
+      redCardsNapoli: 3,
+      penaltiesNapoli: 8,
+      winPct: 58,
+    },
+    confidence: 'alta',
+    verificato: 1,
+    pubblicata: 1,
+    summaryIt:
+      'Il Napoli esce sconfitto per 2-0 dall\'Allianz Stadium di Torino contro la Juventus nel big match della 10ª giornata. I bianconeri sbloccano la gara al 22\' con Jonathan David e raddoppiano nella ripresa al 74\' con una conclusione di Koopmeiners.',
+    summaryEn:
+      'Napoli suffered a 2-0 defeat at the Allianz Stadium against Juventus in the Matchday 10 clash. The Bianconeri went ahead in the 22nd minute with Jonathan David and doubled their lead in the second half through Koopmeiners.',
+    waveformBars: [
+      { label: "0'", height: 14, team: 'neutral', eventNoteIt: 'Calcio d’inizio', eventNoteEn: 'Kick-off' },
+      { label: "22'", height: 100, team: 'opponent', eventNoteIt: 'GOL — Jonathan David (1-0 JUV)', eventNoteEn: 'GOAL — Jonathan David (1-0 JUV)' },
+      { label: "38'", height: 60, team: 'napoli', eventNoteIt: 'Occasione — Conclusione di Kvaratskhelia respinta', eventNoteEn: 'Chance — Kvaratskhelia shot saved' },
+      { label: "58'", height: 35, team: 'napoli', eventNoteIt: 'Cambi — Neres per Politano', eventNoteEn: 'Sub — Neres on for Politano' },
+      { label: "74'", height: 100, team: 'opponent', eventNoteIt: 'GOL — T. Koopmeiners (2-0 JUV)', eventNoteEn: 'GOAL — T. Koopmeiners (2-0 JUV)' },
+      { label: "86'", height: 50, team: 'napoli', eventNoteIt: 'Tiro — Di Lorenzo fuori di poco', eventNoteEn: 'Shot — Di Lorenzo narrowly wide' },
+      { label: 'FT', height: 14, team: 'neutral', eventNoteIt: 'Triplice fischio (2-0)', eventNoteEn: 'Full Time (2-0)' },
+    ],
+    waveformCaptionIt:
+      'Altezza barra = intensità/tipo evento (gol = massimo, occasione = medio, cambio = minimo) · colore = squadra.',
+    waveformCaptionEn:
+      'Bar height = event intensity/type (goal = maximum, chance = medium, sub = minimum) · colour = team.',
+    goals: [
+      {
+        minute: "22'",
+        half: '1H',
+        scorer: 'J. David',
+        team: 'OPP',
+        teamName: 'JUVENTUS',
+        descriptionIt: 'David riceve palla dal limite e batte il portiere azzurro con un diagonale radente.',
+        descriptionEn: 'David receives on the edge of the box and fires low into the corner.',
+        partialScore: '1-0',
+        assist: 'T. Koopmeiners',
+        exactMinuteKnown: true,
+      },
+      {
+        minute: "74'",
+        half: '2H',
+        scorer: 'T. Koopmeiners',
+        team: 'OPP',
+        teamName: 'JUVENTUS',
+        descriptionIt: 'Sinistro potente dal limite dell\'area che si insacca sotto la traversa.',
+        descriptionEn: 'Powerful left-footed strike from the edge of the box finding the top corner.',
+        partialScore: '2-0',
+        assist: null,
+        exactMinuteKnown: true,
+      },
+    ],
+    keyMoments: [
+      { minute: "0'", titleIt: 'Calcio d\'inizio all\'Allianz Stadium', titleEn: 'Kick-off at Allianz Stadium', team: 'JUV', type: 'var', inChronologicalFlow: true },
+      { minute: "22'", titleIt: 'Gol del vantaggio: Jonathan David', titleEn: 'Opening goal: Jonathan David', team: 'JUV', type: 'goal', inChronologicalFlow: true },
+      { minute: "41'", titleIt: 'Ammonizione Anguissa', titleEn: 'Yellow card Anguissa', team: 'NAP', type: 'card', inChronologicalFlow: true },
+      { minute: "74'", titleIt: 'Raddoppio: Koopmeiners', titleEn: 'Second goal: Koopmeiners', team: 'JUV', type: 'goal', inChronologicalFlow: true },
+    ],
+    substitutions: [
+      { minute: "58'", playerOut: 'M. Politano', playerIn: 'D. Neres', team: 'NAP' },
+      { minute: "65'", playerOut: 'S. McTominay', playerIn: 'G. Raspadori', team: 'NAP' },
+      { minute: "68'", playerOut: 'K. Yildiz', playerIn: 'F. Conceição', team: 'OPP' },
+      { minute: "78'", playerOut: 'R. Lukaku', playerIn: 'G. Simeone', team: 'NAP' },
+    ],
+    disciplineNoteIt: 'Gara combattuta: ammoniti Anguissa e Di Lorenzo per il Napoli; Cambiaso e Bremer per la Juventus. Nessuna espulsione.',
+    disciplineNoteEn: 'Hard-fought match: yellow cards for Anguissa and Di Lorenzo (Napoli); Cambiaso and Bremer (Juventus). No red cards.',
+    lineupsNoteIt: 'Napoli schierato con il 4-3-3: Meret; Di Lorenzo, Rrahmani, Buongiorno, Olivera; Anguissa, Lobotka, McTominay; Politano, Lukaku, Kvaratskhelia. Juventus in campo con il 4-2-3-1.',
+    lineupsNoteEn: 'Napoli deployed in 4-3-3 formation: Meret; Di Lorenzo, Rrahmani, Buongiorno, Olivera; Anguissa, Lobotka, McTominay; Politano, Lukaku, Kvaratskhelia. Juventus set up in 4-2-3-1.',
+    stats: {
+      possessionHome: 48,
+      possessionAway: 52,
+      shotsHome: 13,
+      shotsAway: 9,
+      shotsOnTargetHome: 5,
+      shotsOnTargetAway: 3,
+      xgHome: 1.78,
+      xgAway: 0.72,
+      cornersHome: 4,
+      cornersAway: 5,
+    },
+    cov: {
+      marcatori: 'completo',
+      formazioni: 'completo',
+      arbitro: 'completo',
+      stadio: 'completo',
+      affluenza: 'completo',
+      xg: 'completo',
+    },
+    eternalMatch: {
+      opponentName: 'JUVENTUS',
+      opponentCode: 'JUV',
+      officialMatches: 182,
+      napoliWins: 46,
+      draws: 50,
+      opponentWins: 86,
+      napoliGoals: 194,
+      opponentGoals: 258,
+      pre1926EntitiesNoteIt: 'Statistiche ufficiali comprensive di tutti i confronti in Serie A, Coppa Italia e Supercoppa.',
+      pre1926EntitiesNoteEn: 'Official statistics including all meetings in Serie A, Coppa Italia and Supercoppa.',
+    },
+    sources: [
+      { label: 'Lega Serie A', detail: 'Referto e tabellino ufficiale di gara 10ª giornata 2026/27', tier: 1 },
+      { label: 'Opta Sports', detail: 'Metriche avanzate di possesso, tiri ed Expected Goals (xG)', tier: 1 },
+    ],
+  },
   {
     id: '2026-09-20-fiorentina-napoli',
     season: '2026-27',

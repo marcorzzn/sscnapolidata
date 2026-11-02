@@ -1,0 +1,16 @@
+﻿versione,nome,applicata_il
+1,001_baseline.sql,2026-10-09T19:53:30Z
+2,002_audit_copertura.sql,2026-10-09T19:53:30Z
+3,003_confidence_verifica.sql,2026-10-09T19:53:59Z
+4,004_audit_triggers.sql,2026-10-09T19:55:01Z
+5,005_copertura_iniziale.sql,2026-10-09T19:59:03Z
+6,006_audit_campo.sql,2026-10-09T20:04:16Z
+7,007_drop_old_triggers.sql,2026-10-09T20:04:16Z
+8,008_new_audit_triggers.sql,2026-10-09T20:04:16Z
+9,009_copertura_affluenza_nd.sql,2026-10-09T20:05:07Z
+10,010_risorse.sql,2026-10-19T20:51:44Z
+11,011_sessione_audit.sql,2026-10-28T11:57:56.579Z
+12,012_copertura_qualita.sql,2026-10-28T11:57:56.792Z
+13,013_formazioni_eventi_statistiche.sql,2026-10-28T11:57:57.034Z
+14,014_audit_triggers.sql,2026-10-28T11:57:57.305Z
+15,015_storia_geografia_museo.sql,2026-10-28T12:17:16.336Z

@@ -1,0 +1,1272 @@
+{
+  "history": [
+    {
+      "season_code": "26/27",
+      "season_year": 2026,
+      "competition": "Serie A",
+      "matches": 4,
+      "sold_out": 0,
+      "total_spectators": 178463,
+      "avg_spectators": 44616
+    },
+    {
+      "season_code": "25/26",
+      "season_year": 2025,
+      "competition": "Serie A",
+      "matches": 19,
+      "sold_out": 0,
+      "total_spectators": 906009,
+      "avg_spectators": 47685
+    },
+    {
+      "season_code": "24/25",
+      "season_year": 2024,
+      "competition": "Serie A",
+      "matches": 19,
+      "sold_out": 0,
+      "total_spectators": 969695,
+      "avg_spectators": 51037
+    },
+    {
+      "season_code": "23/24",
+      "season_year": 2023,
+      "competition": "Serie A",
+      "matches": 19,
+      "sold_out": 2,
+      "total_spectators": 892555,
+      "avg_spectators": 46977
+    },
+    {
+      "season_code": "22/23",
+      "season_year": 2022,
+      "competition": "Serie A",
+      "matches": 19,
+      "sold_out": 7,
+      "total_spectators": 879912,
+      "avg_spectators": 46311
+    },
+    {
+      "season_code": "21/22",
+      "season_year": 2021,
+      "competition": "Serie A",
+      "matches": 19,
+      "sold_out": 6,
+      "total_spectators": 550666,
+      "avg_spectators": 28982
+    },
+    {
+      "season_code": "20/21",
+      "season_year": 2020,
+      "competition": "Serie A",
+      "matches": 19,
+      "sold_out": 2,
+      "total_spectators": 2000,
+      "avg_spectators": 1000
+    },
+    {
+      "season_code": "19/20",
+      "season_year": 2019,
+      "competition": "Serie A",
+      "matches": 19,
+      "sold_out": 0,
+      "total_spectators": 408310,
+      "avg_spectators": 31408
+    },
+    {
+      "season_code": "18/19",
+      "season_year": 2018,
+      "competition": "Serie A",
+      "matches": 19,
+      "sold_out": 0,
+      "total_spectators": 551003,
+      "avg_spectators": 29000
+    },
+    {
+      "season_code": "17/18",
+      "season_year": 2017,
+      "competition": "Serie A",
+      "matches": 19,
+      "sold_out": 0,
+      "total_spectators": 817942,
+      "avg_spectators": 43050
+    },
+    {
+      "season_code": "16/17",
+      "season_year": 2016,
+      "competition": "Serie A",
+      "matches": 19,
+      "sold_out": 1,
+      "total_spectators": 695500,
+      "avg_spectators": 36605
+    },
+    {
+      "season_code": "15/16",
+      "season_year": 2015,
+      "competition": "Serie A",
+      "matches": 19,
+      "sold_out": 1,
+      "total_spectators": 735434,
+      "avg_spectators": 38707
+    },
+    {
+      "season_code": "14/15",
+      "season_year": 2014,
+      "competition": "Serie A",
+      "matches": 19,
+      "sold_out": 0,
+      "total_spectators": 643063,
+      "avg_spectators": 33845
+    },
+    {
+      "season_code": "13/14",
+      "season_year": 2013,
+      "competition": "Serie A",
+      "matches": 19,
+      "sold_out": 0,
+      "total_spectators": 772013,
+      "avg_spectators": 40632
+    },
+    {
+      "season_code": "12/13",
+      "season_year": 2012,
+      "competition": "Serie A",
+      "matches": 19,
+      "sold_out": 1,
+      "total_spectators": 753080,
+      "avg_spectators": 39636
+    },
+    {
+      "season_code": "11/12",
+      "season_year": 2011,
+      "competition": "Serie A",
+      "matches": 19,
+      "sold_out": 0,
+      "total_spectators": 767878,
+      "avg_spectators": 40415
+    },
+    {
+      "season_code": "10/11",
+      "season_year": 2010,
+      "competition": "Serie A",
+      "matches": 19,
+      "sold_out": 3,
+      "total_spectators": 866549,
+      "avg_spectators": 45608
+    },
+    {
+      "season_code": "09/10",
+      "season_year": 2009,
+      "competition": "Serie A",
+      "matches": 19,
+      "sold_out": 0,
+      "total_spectators": 870428,
+      "avg_spectators": 45812
+    },
+    {
+      "season_code": "08/09",
+      "season_year": 2008,
+      "competition": "Serie A",
+      "matches": 19,
+      "sold_out": 1,
+      "total_spectators": 757562,
+      "avg_spectators": 39872
+    },
+    {
+      "season_code": "07/08",
+      "season_year": 2007,
+      "competition": "Serie A",
+      "matches": 19,
+      "sold_out": 1,
+      "total_spectators": 798633,
+      "avg_spectators": 44369
+    },
+    {
+      "season_code": "06/07",
+      "season_year": 2006,
+      "competition": "Serie B",
+      "matches": 21,
+      "sold_out": 0,
+      "total_spectators": 614516,
+      "avg_spectators": 34140
+    },
+    {
+      "season_code": "05/06",
+      "season_year": 2005,
+      "competition": "Serie C1 - Girone B",
+      "matches": 17,
+      "sold_out": 0,
+      "total_spectators": 403375,
+      "avg_spectators": 23728
+    },
+    {
+      "season_code": "04/05",
+      "season_year": 2004,
+      "competition": "Serie C1 - Girone B",
+      "matches": 17,
+      "sold_out": 2,
+      "total_spectators": 630354,
+      "avg_spectators": 37080
+    },
+    {
+      "season_code": "03/04",
+      "season_year": 2003,
+      "competition": "Serie B",
+      "matches": 23,
+      "sold_out": 0,
+      "total_spectators": 335877,
+      "avg_spectators": 18660
+    },
+    {
+      "season_code": "02/03",
+      "season_year": 2002,
+      "competition": "Serie B",
+      "matches": 19,
+      "sold_out": 0,
+      "total_spectators": 543383,
+      "avg_spectators": 28599
+    },
+    {
+      "season_code": "01/02",
+      "season_year": 2001,
+      "competition": "Serie B",
+      "matches": 19,
+      "sold_out": 0,
+      "total_spectators": 203254,
+      "avg_spectators": 16938
+    },
+    {
+      "season_code": "00/01",
+      "season_year": 2000,
+      "competition": "Serie A",
+      "matches": 17,
+      "sold_out": 0,
+      "total_spectators": 647067,
+      "avg_spectators": 38063
+    },
+    {
+      "season_code": "99/00",
+      "season_year": 1999,
+      "competition": "Serie B",
+      "matches": 19,
+      "sold_out": 0,
+      "total_spectators": 148585,
+      "avg_spectators": 29717
+    },
+    {
+      "season_code": "98/99",
+      "season_year": 1998,
+      "competition": "Serie B",
+      "matches": 19,
+      "sold_out": 0,
+      "total_spectators": 426700,
+      "avg_spectators": 25100
+    },
+    {
+      "season_code": "97/98",
+      "season_year": 1997,
+      "competition": "Serie A",
+      "matches": 17,
+      "sold_out": 0,
+      "total_spectators": 635931,
+      "avg_spectators": 37408
+    },
+    {
+      "season_code": "96/97",
+      "season_year": 1996,
+      "competition": "Serie A",
+      "matches": 17,
+      "sold_out": 0,
+      "total_spectators": 785979,
+      "avg_spectators": 46234
+    },
+    {
+      "season_code": "95/96",
+      "season_year": 1995,
+      "competition": "Serie A",
+      "matches": 17,
+      "sold_out": 0,
+      "total_spectators": 348732,
+      "avg_spectators": 49819
+    },
+    {
+      "season_code": "94/95",
+      "season_year": 1994,
+      "competition": "Serie A",
+      "matches": 16,
+      "sold_out": 0,
+      "total_spectators": 356920,
+      "avg_spectators": 35692
+    },
+    {
+      "season_code": "93/94",
+      "season_year": 1993,
+      "competition": "Serie A",
+      "matches": 17,
+      "sold_out": 0,
+      "total_spectators": 275284,
+      "avg_spectators": 45881
+    },
+    {
+      "season_code": "92/93",
+      "season_year": 1992,
+      "competition": "Serie A",
+      "matches": 17,
+      "sold_out": 0,
+      "total_spectators": 496196,
+      "avg_spectators": 62025
+    },
+    {
+      "season_code": "91/92",
+      "season_year": 1991,
+      "competition": "Serie A",
+      "matches": 17,
+      "sold_out": 0,
+      "total_spectators": 311180,
+      "avg_spectators": 51863
+    },
+    {
+      "season_code": "90/91",
+      "season_year": 1990,
+      "competition": "Serie A",
+      "matches": 17,
+      "sold_out": 0,
+      "total_spectators": 492450,
+      "avg_spectators": 54717
+    },
+    {
+      "season_code": "89/90",
+      "season_year": 1989,
+      "competition": "Serie A",
+      "matches": 17,
+      "sold_out": 2,
+      "total_spectators": 928889,
+      "avg_spectators": 54641
+    },
+    {
+      "season_code": "88/89",
+      "season_year": 1988,
+      "competition": "Serie A",
+      "matches": 17,
+      "sold_out": 1,
+      "total_spectators": 1018653,
+      "avg_spectators": 59921
+    },
+    {
+      "season_code": "87/88",
+      "season_year": 1987,
+      "competition": "Serie A",
+      "matches": 15,
+      "sold_out": 1,
+      "total_spectators": 513448,
+      "avg_spectators": 73350
+    },
+    {
+      "season_code": "86/87",
+      "season_year": 1986,
+      "competition": "Serie A",
+      "matches": 15,
+      "sold_out": 1,
+      "total_spectators": 212638,
+      "avg_spectators": 70879
+    },
+    {
+      "season_code": "85/86",
+      "season_year": 1985,
+      "competition": "Serie A",
+      "matches": 15,
+      "sold_out": 0,
+      "total_spectators": 358138,
+      "avg_spectators": 71628
+    },
+    {
+      "season_code": "84/85",
+      "season_year": 1984,
+      "competition": "Serie A",
+      "matches": 15,
+      "sold_out": 0,
+      "total_spectators": 1162899,
+      "avg_spectators": 77527
+    },
+    {
+      "season_code": "83/84",
+      "season_year": 1983,
+      "competition": "Serie A",
+      "matches": 15,
+      "sold_out": 0,
+      "total_spectators": 832950,
+      "avg_spectators": 55530
+    },
+    {
+      "season_code": "82/83",
+      "season_year": 1982,
+      "competition": "Serie A",
+      "matches": 15,
+      "sold_out": 0,
+      "total_spectators": 145711,
+      "avg_spectators": 48570
+    },
+    {
+      "season_code": "81/82",
+      "season_year": 1981,
+      "competition": "Serie A",
+      "matches": 15,
+      "sold_out": 0,
+      "total_spectators": 870732,
+      "avg_spectators": 58049
+    },
+    {
+      "season_code": "80/81",
+      "season_year": 1980,
+      "competition": "Serie A",
+      "matches": 15,
+      "sold_out": 0,
+      "total_spectators": 849713,
+      "avg_spectators": 56648
+    },
+    {
+      "season_code": "79/80",
+      "season_year": 1979,
+      "competition": "Serie A",
+      "matches": 15,
+      "sold_out": 1,
+      "total_spectators": 814915,
+      "avg_spectators": 54328
+    },
+    {
+      "season_code": "78/79",
+      "season_year": 1978,
+      "competition": "Serie A",
+      "matches": 15,
+      "sold_out": 0,
+      "total_spectators": 891550,
+      "avg_spectators": 59437
+    },
+    {
+      "season_code": "77/78",
+      "season_year": 1977,
+      "competition": "Serie A",
+      "matches": 15,
+      "sold_out": 0,
+      "total_spectators": 621266,
+      "avg_spectators": 62127
+    },
+    {
+      "season_code": "76/77",
+      "season_year": 1976,
+      "competition": "Serie A",
+      "matches": 15,
+      "sold_out": 0,
+      "total_spectators": 1064935,
+      "avg_spectators": 70996
+    },
+    {
+      "season_code": "75/76",
+      "season_year": 1975,
+      "competition": "Serie A",
+      "matches": 15,
+      "sold_out": 0,
+      "total_spectators": 298988,
+      "avg_spectators": 74747
+    },
+    {
+      "season_code": "74/75",
+      "season_year": 1974,
+      "competition": "Serie A",
+      "matches": 15,
+      "sold_out": 0,
+      "total_spectators": 270375,
+      "avg_spectators": 67594
+    },
+    {
+      "season_code": "73/74",
+      "season_year": 1973,
+      "competition": "Serie A",
+      "matches": 15,
+      "sold_out": 0,
+      "total_spectators": 337475,
+      "avg_spectators": 67495
+    },
+    {
+      "season_code": "72/73",
+      "season_year": 1972,
+      "competition": "Serie A",
+      "matches": 15,
+      "sold_out": 0,
+      "total_spectators": 107496,
+      "avg_spectators": 53748
+    },
+    {
+      "season_code": "71/72",
+      "season_year": 1971,
+      "competition": "Serie A",
+      "matches": 15,
+      "sold_out": 0,
+      "total_spectators": 131210,
+      "avg_spectators": 43737
+    },
+    {
+      "season_code": "70/71",
+      "season_year": 1970,
+      "competition": "Serie A",
+      "matches": 15,
+      "sold_out": 0,
+      "total_spectators": 441720,
+      "avg_spectators": 55215
+    },
+    {
+      "season_code": "69/70",
+      "season_year": 1969,
+      "competition": "Serie A",
+      "matches": 15,
+      "sold_out": 0,
+      "total_spectators": 55000,
+      "avg_spectators": 55000
+    },
+    {
+      "season_code": "68/69",
+      "season_year": 1968,
+      "competition": "Serie A",
+      "matches": 15,
+      "sold_out": 0,
+      "total_spectators": 320146,
+      "avg_spectators": 64029
+    },
+    {
+      "season_code": "67/68",
+      "season_year": 1967,
+      "competition": "Serie A",
+      "matches": 15,
+      "sold_out": 0,
+      "total_spectators": 1000261,
+      "avg_spectators": 66684
+    },
+    {
+      "season_code": "66/67",
+      "season_year": 1966,
+      "competition": "Serie A",
+      "matches": 17,
+      "sold_out": 0,
+      "total_spectators": 1295623,
+      "avg_spectators": 76213
+    },
+    {
+      "season_code": "65/66",
+      "season_year": 1965,
+      "competition": "Serie A",
+      "matches": 17,
+      "sold_out": 0,
+      "total_spectators": 1164608,
+      "avg_spectators": 68506
+    },
+    {
+      "season_code": "64/65",
+      "season_year": 1964,
+      "competition": "Serie B",
+      "matches": 19,
+      "sold_out": 0,
+      "total_spectators": 60000,
+      "avg_spectators": 60000
+    },
+    {
+      "season_code": "63/64",
+      "season_year": 1963,
+      "competition": "Serie B",
+      "matches": 19,
+      "sold_out": 0,
+      "total_spectators": 0,
+      "avg_spectators": 0
+    },
+    {
+      "season_code": "62/63",
+      "season_year": 1962,
+      "competition": "Serie A",
+      "matches": 17,
+      "sold_out": 0,
+      "total_spectators": 189754,
+      "avg_spectators": 63251
+    },
+    {
+      "season_code": "61/62",
+      "season_year": 1961,
+      "competition": "Serie B",
+      "matches": 19,
+      "sold_out": 0,
+      "total_spectators": 0,
+      "avg_spectators": 0
+    },
+    {
+      "season_code": "60/61",
+      "season_year": 1960,
+      "competition": "Serie A",
+      "matches": 17,
+      "sold_out": 0,
+      "total_spectators": 0,
+      "avg_spectators": 0
+    },
+    {
+      "season_code": "59/60",
+      "season_year": 1959,
+      "competition": "Serie A",
+      "matches": 17,
+      "sold_out": 0,
+      "total_spectators": 0,
+      "avg_spectators": 0
+    },
+    {
+      "season_code": "58/59",
+      "season_year": 1958,
+      "competition": "Serie A",
+      "matches": 17,
+      "sold_out": 0,
+      "total_spectators": 22000,
+      "avg_spectators": 22000
+    },
+    {
+      "season_code": "57/58",
+      "season_year": 1957,
+      "competition": "Serie A",
+      "matches": 17,
+      "sold_out": 0,
+      "total_spectators": 0,
+      "avg_spectators": 0
+    },
+    {
+      "season_code": "56/57",
+      "season_year": 1956,
+      "competition": "Serie A",
+      "matches": 17,
+      "sold_out": 0,
+      "total_spectators": 0,
+      "avg_spectators": 0
+    },
+    {
+      "season_code": "55/56",
+      "season_year": 1955,
+      "competition": "Serie A",
+      "matches": 17,
+      "sold_out": 0,
+      "total_spectators": 0,
+      "avg_spectators": 0
+    },
+    {
+      "season_code": "54/55",
+      "season_year": 1954,
+      "competition": "Serie A",
+      "matches": 17,
+      "sold_out": 0,
+      "total_spectators": 0,
+      "avg_spectators": 0
+    },
+    {
+      "season_code": "53/54",
+      "season_year": 1953,
+      "competition": "Serie A",
+      "matches": 17,
+      "sold_out": 0,
+      "total_spectators": 0,
+      "avg_spectators": 0
+    },
+    {
+      "season_code": "52/53",
+      "season_year": 1952,
+      "competition": "Serie A",
+      "matches": 17,
+      "sold_out": 0,
+      "total_spectators": 0,
+      "avg_spectators": 0
+    },
+    {
+      "season_code": "51/52",
+      "season_year": 1951,
+      "competition": "Serie A",
+      "matches": 19,
+      "sold_out": 0,
+      "total_spectators": 115000,
+      "avg_spectators": 28750
+    },
+    {
+      "season_code": "50/51",
+      "season_year": 1950,
+      "competition": "Serie A",
+      "matches": 19,
+      "sold_out": 0,
+      "total_spectators": 0,
+      "avg_spectators": 0
+    },
+    {
+      "season_code": "49/50",
+      "season_year": 1949,
+      "competition": "Serie B",
+      "matches": 21,
+      "sold_out": 0,
+      "total_spectators": 20000,
+      "avg_spectators": 20000
+    },
+    {
+      "season_code": "48/49",
+      "season_year": 1948,
+      "competition": "Serie B",
+      "matches": 21,
+      "sold_out": 0,
+      "total_spectators": 135000,
+      "avg_spectators": 15000
+    },
+    {
+      "season_code": "47/48",
+      "season_year": 1947,
+      "competition": "Serie A",
+      "matches": 20,
+      "sold_out": 1,
+      "total_spectators": 158000,
+      "avg_spectators": 15800
+    },
+    {
+      "season_code": "46/47",
+      "season_year": 1946,
+      "competition": "Serie A",
+      "matches": 19,
+      "sold_out": 0,
+      "total_spectators": 233500,
+      "avg_spectators": 17962
+    },
+    {
+      "season_code": "45/46",
+      "season_year": 1945,
+      "competition": "Divisione Nazionale",
+      "matches": 10,
+      "sold_out": 0,
+      "total_spectators": 0,
+      "avg_spectators": 0
+    },
+    {
+      "season_code": "42/43",
+      "season_year": 1942,
+      "competition": "Serie B",
+      "matches": 16,
+      "sold_out": 0,
+      "total_spectators": 24000,
+      "avg_spectators": 12000
+    },
+    {
+      "season_code": "41/42",
+      "season_year": 1941,
+      "competition": "Serie A",
+      "matches": 15,
+      "sold_out": 0,
+      "total_spectators": 81000,
+      "avg_spectators": 10125
+    },
+    {
+      "season_code": "40/41",
+      "season_year": 1940,
+      "competition": "Serie A",
+      "matches": 15,
+      "sold_out": 0,
+      "total_spectators": 20000,
+      "avg_spectators": 20000
+    },
+    {
+      "season_code": "39/40",
+      "season_year": 1939,
+      "competition": "Serie A",
+      "matches": 15,
+      "sold_out": 0,
+      "total_spectators": 5000,
+      "avg_spectators": 5000
+    },
+    {
+      "season_code": "38/39",
+      "season_year": 1938,
+      "competition": "Serie A",
+      "matches": 15,
+      "sold_out": 0,
+      "total_spectators": 11000,
+      "avg_spectators": 11000
+    },
+    {
+      "season_code": "37/38",
+      "season_year": 1937,
+      "competition": "Serie A",
+      "matches": 15,
+      "sold_out": 0,
+      "total_spectators": 0,
+      "avg_spectators": 0
+    },
+    {
+      "season_code": "36/37",
+      "season_year": 1936,
+      "competition": "Serie A",
+      "matches": 15,
+      "sold_out": 0,
+      "total_spectators": 0,
+      "avg_spectators": 0
+    },
+    {
+      "season_code": "35/36",
+      "season_year": 1935,
+      "competition": "Serie A",
+      "matches": 15,
+      "sold_out": 0,
+      "total_spectators": 0,
+      "avg_spectators": 0
+    },
+    {
+      "season_code": "34/35",
+      "season_year": 1934,
+      "competition": "Serie A",
+      "matches": 15,
+      "sold_out": 0,
+      "total_spectators": 0,
+      "avg_spectators": 0
+    },
+    {
+      "season_code": "33/34",
+      "season_year": 1933,
+      "competition": "Serie A",
+      "matches": 17,
+      "sold_out": 0,
+      "total_spectators": 0,
+      "avg_spectators": 0
+    },
+    {
+      "season_code": "32/33",
+      "season_year": 1932,
+      "competition": "Serie A",
+      "matches": 17,
+      "sold_out": 0,
+      "total_spectators": 0,
+      "avg_spectators": 0
+    },
+    {
+      "season_code": "31/32",
+      "season_year": 1931,
+      "competition": "Serie A",
+      "matches": 17,
+      "sold_out": 0,
+      "total_spectators": 0,
+      "avg_spectators": 0
+    },
+    {
+      "season_code": "30/31",
+      "season_year": 1930,
+      "competition": "Serie A",
+      "matches": 17,
+      "sold_out": 0,
+      "total_spectators": 0,
+      "avg_spectators": 0
+    },
+    {
+      "season_code": "1929/30",
+      "season_year": null,
+      "competition": "Serie A",
+      "matches": 17,
+      "sold_out": 0,
+      "total_spectators": 11000,
+      "avg_spectators": 11000
+    },
+    {
+      "season_code": "1928/29",
+      "season_year": null,
+      "competition": "Divisione Nazionale",
+      "matches": 15,
+      "sold_out": 0,
+      "total_spectators": 0,
+      "avg_spectators": 0
+    },
+    {
+      "season_code": "1927/28",
+      "season_year": null,
+      "competition": "Divisione Nazionale",
+      "matches": 10,
+      "sold_out": 0,
+      "total_spectators": 0,
+      "avg_spectators": 0
+    },
+    {
+      "season_code": "1926/27",
+      "season_year": null,
+      "competition": "Divisione Nazionale",
+      "matches": 9,
+      "sold_out": 0,
+      "total_spectators": 0,
+      "avg_spectators": 0
+    }
+  ],
+  "top_matches": [
+    {
+      "match_id": "1081851",
+      "season": 1990,
+      "competition": "European Champion Clubs' Cup",
+      "matchday": "Last 16 2nd Leg",
+      "match_date": "1990-11-07",
+      "home_goals": 5,
+      "away_goals": 3,
+      "venue": "A",
+      "opponent_name": "Spartak Moscow",
+      "attendance": 102000,
+      "referee": "Michel Girard",
+      "home_team": "Spartak Moscow",
+      "away_team": "Napoli"
+    },
+    {
+      "match_id": "1101663",
+      "season": 1976,
+      "competition": "UEFA Cup Winners' Cup (-1999)",
+      "matchday": "Semi-Finals 1st Leg",
+      "match_date": "1977-04-06",
+      "home_goals": 1,
+      "away_goals": 0,
+      "venue": "H",
+      "opponent_name": "Anderlecht",
+      "attendance": 90000,
+      "referee": "Robert Héliès",
+      "home_team": "Napoli",
+      "away_team": "Anderlecht"
+    },
+    {
+      "match_id": "2375645",
+      "season": 1979,
+      "competition": "Serie A",
+      "matchday": "6",
+      "match_date": "1979-10-20",
+      "home_goals": 1,
+      "away_goals": 1,
+      "venue": "H",
+      "opponent_name": "Perugia",
+      "attendance": 89992,
+      "referee": "Enzo Barbaresco",
+      "home_team": "Napoli",
+      "away_team": "Perugia"
+    },
+    {
+      "match_id": "2314169",
+      "season": 1988,
+      "competition": "UEFA-Cup (- 2009)",
+      "matchday": "Quarter-Finals 2nd Leg",
+      "match_date": "1989-03-15",
+      "home_goals": 3,
+      "away_goals": 0,
+      "venue": "H",
+      "opponent_name": "Juventus",
+      "attendance": 89089,
+      "referee": "Juventus FC",
+      "home_team": "Napoli",
+      "away_team": "Juventus"
+    },
+    {
+      "match_id": "2377225",
+      "season": 1974,
+      "competition": "Serie A",
+      "matchday": "6",
+      "match_date": "1974-11-10",
+      "home_goals": 1,
+      "away_goals": 1,
+      "venue": "H",
+      "opponent_name": "Lazio",
+      "attendance": 85882,
+      "referee": "Alberto Michelotti",
+      "home_team": "Napoli",
+      "away_team": "Lazio"
+    },
+    {
+      "match_id": "2378217",
+      "season": 1970,
+      "competition": "Serie A",
+      "matchday": "10",
+      "match_date": "1970-12-20",
+      "home_goals": 0,
+      "away_goals": 2,
+      "venue": "H",
+      "opponent_name": "Milan",
+      "attendance": 84568,
+      "referee": "Concetto Lo Bello",
+      "home_team": "Napoli",
+      "away_team": "Milan"
+    },
+    {
+      "match_id": "2376792",
+      "season": 1976,
+      "competition": "Serie A",
+      "matchday": "12",
+      "match_date": "1977-01-09",
+      "home_goals": 0,
+      "away_goals": 2,
+      "venue": "H",
+      "opponent_name": "Juventus",
+      "attendance": 84435,
+      "referee": "Gino Menicucci",
+      "home_team": "Napoli",
+      "away_team": "Juventus"
+    },
+    {
+      "match_id": "2390955",
+      "season": 1966,
+      "competition": "Serie A",
+      "matchday": "20",
+      "match_date": "1967-02-12",
+      "home_goals": 2,
+      "away_goals": 0,
+      "venue": "H",
+      "opponent_name": "Roma",
+      "attendance": 84224,
+      "referee": "Francesco Francescon",
+      "home_team": "Napoli",
+      "away_team": "Roma"
+    },
+    {
+      "match_id": "1020146",
+      "season": 1987,
+      "competition": "European Champion Clubs' Cup",
+      "matchday": "First Round 2nd leg",
+      "match_date": "1987-09-30",
+      "home_goals": 1,
+      "away_goals": 1,
+      "venue": "H",
+      "opponent_name": "Real Madrid",
+      "attendance": 83231,
+      "referee": "Dieter Pauly",
+      "home_team": "Napoli",
+      "away_team": "Real Madrid"
+    },
+    {
+      "match_id": "4171251",
+      "season": 2023,
+      "competition": "UEFA Champions League",
+      "matchday": "Group C",
+      "match_date": "2023-11-29",
+      "home_goals": 4,
+      "away_goals": 2,
+      "venue": "A",
+      "opponent_name": "Real Madrid",
+      "attendance": 83186,
+      "referee": "François Letexier",
+      "home_team": "Real Madrid",
+      "away_team": "Napoli"
+    },
+    {
+      "match_id": "2217697",
+      "season": 1988,
+      "competition": "Serie A",
+      "matchday": "13",
+      "match_date": "1989-01-15",
+      "home_goals": 0,
+      "away_goals": 0,
+      "venue": "H",
+      "opponent_name": "Inter",
+      "attendance": 83162,
+      "referee": "Rosario Lo Bello",
+      "home_team": "Napoli",
+      "away_team": "Inter"
+    },
+    {
+      "match_id": "2374360",
+      "season": 1984,
+      "competition": "Serie A",
+      "matchday": "6",
+      "match_date": "1984-10-21",
+      "home_goals": 0,
+      "away_goals": 0,
+      "venue": "H",
+      "opponent_name": "Milan",
+      "attendance": 82890,
+      "referee": "Luigi Agnolin",
+      "home_team": "Napoli",
+      "away_team": "Milan"
+    },
+    {
+      "match_id": "2288950",
+      "season": 1987,
+      "competition": "Serie A",
+      "matchday": "28",
+      "match_date": "1988-05-01",
+      "home_goals": 2,
+      "away_goals": 3,
+      "venue": "H",
+      "opponent_name": "Milan",
+      "attendance": 82824,
+      "referee": "Rosario Lo Bello",
+      "home_team": "Napoli",
+      "away_team": "Milan"
+    },
+    {
+      "match_id": "2374536",
+      "season": 1984,
+      "competition": "Serie A",
+      "matchday": "28",
+      "match_date": "1985-05-05",
+      "home_goals": 0,
+      "away_goals": 0,
+      "venue": "H",
+      "opponent_name": "Juventus",
+      "attendance": 82751,
+      "referee": "Maurizio Mattei",
+      "home_team": "Napoli",
+      "away_team": "Juventus"
+    },
+    {
+      "match_id": "2374524",
+      "season": 1984,
+      "competition": "Serie A",
+      "matchday": "26",
+      "match_date": "1985-04-21",
+      "home_goals": 3,
+      "away_goals": 1,
+      "venue": "H",
+      "opponent_name": "Inter",
+      "attendance": 82610,
+      "referee": "Paolo Bergamo",
+      "home_team": "Napoli",
+      "away_team": "Inter"
+    },
+    {
+      "match_id": "2375504",
+      "season": 1980,
+      "competition": "Serie A",
+      "matchday": "29",
+      "match_date": "1981-05-17",
+      "home_goals": 0,
+      "away_goals": 1,
+      "venue": "H",
+      "opponent_name": "Juventus",
+      "attendance": 82508,
+      "referee": "Alberto Michelotti",
+      "home_team": "Napoli",
+      "away_team": "Juventus"
+    },
+    {
+      "match_id": "2287413",
+      "season": 1986,
+      "competition": "Serie A",
+      "matchday": "27",
+      "match_date": "1987-04-26",
+      "home_goals": 2,
+      "away_goals": 1,
+      "venue": "H",
+      "opponent_name": "Milan",
+      "attendance": 82468,
+      "referee": "Rosario Lo Bello",
+      "home_team": "Napoli",
+      "away_team": "Milan"
+    },
+    {
+      "match_id": "2216873",
+      "season": 1990,
+      "competition": "Serie A",
+      "matchday": "23",
+      "match_date": "1991-03-03",
+      "home_goals": 4,
+      "away_goals": 1,
+      "venue": "A",
+      "opponent_name": "Milan",
+      "attendance": 82043,
+      "referee": "Sergio Coppetelli",
+      "home_team": "Milan",
+      "away_team": "Napoli"
+    },
+    {
+      "match_id": "2286459",
+      "season": 1987,
+      "competition": "Serie A",
+      "matchday": "11",
+      "match_date": "1987-12-13",
+      "home_goals": 2,
+      "away_goals": 1,
+      "venue": "H",
+      "opponent_name": "Juventus",
+      "attendance": 81844,
+      "referee": "Rosario Lo Bello",
+      "home_team": "Napoli",
+      "away_team": "Juventus"
+    },
+    {
+      "match_id": "2374440",
+      "season": 1984,
+      "competition": "Serie A",
+      "matchday": "16",
+      "match_date": "1985-01-20",
+      "home_goals": 0,
+      "away_goals": 0,
+      "venue": "H",
+      "opponent_name": "Hellas Verona",
+      "attendance": 81798,
+      "referee": "Pierluigi Pairetto",
+      "home_team": "Napoli",
+      "away_team": "Hellas Verona"
+    },
+    {
+      "match_id": "2390811",
+      "season": 1966,
+      "competition": "Serie A",
+      "matchday": "4",
+      "match_date": "1966-10-09",
+      "home_goals": 3,
+      "away_goals": 2,
+      "venue": "H",
+      "opponent_name": "Milan",
+      "attendance": 81688,
+      "referee": "Francesco Francescon",
+      "home_team": "Napoli",
+      "away_team": "Milan"
+    },
+    {
+      "match_id": "2375147",
+      "season": 1981,
+      "competition": "Serie A",
+      "matchday": "14",
+      "match_date": "1982-01-10",
+      "home_goals": 0,
+      "away_goals": 0,
+      "venue": "H",
+      "opponent_name": "Juventus",
+      "attendance": 81531,
+      "referee": "Carlo Longhi",
+      "home_team": "Napoli",
+      "away_team": "Juventus"
+    },
+    {
+      "match_id": "2972053",
+      "season": 1984,
+      "competition": "Italy Cup",
+      "matchday": "Group 8",
+      "match_date": "1984-09-09",
+      "home_goals": 1,
+      "away_goals": 1,
+      "venue": "H",
+      "opponent_name": "Fiorentina",
+      "attendance": 81471,
+      "referee": "Paolo Casarin",
+      "home_team": "Napoli",
+      "away_team": "Fiorentina"
+    },
+    {
+      "match_id": "2390912",
+      "season": 1966,
+      "competition": "Serie A",
+      "matchday": "15",
+      "match_date": "1967-01-08",
+      "home_goals": 0,
+      "away_goals": 0,
+      "venue": "H",
+      "opponent_name": "Inter",
+      "attendance": 81355,
+      "referee": "Concetto Lo Bello",
+      "home_team": "Napoli",
+      "away_team": "Inter"
+    },
+    {
+      "match_id": "1075476",
+      "season": 1988,
+      "competition": "UEFA-Cup (- 2009)",
+      "matchday": "Final 1st Leg",
+      "match_date": "1989-05-03",
+      "home_goals": 2,
+      "away_goals": 1,
+      "venue": "H",
+      "opponent_name": "Stuttgart",
+      "attendance": 81100,
+      "referee": "Gerasimos Germanakos",
+      "home_team": "Napoli",
+      "away_team": "Stuttgart"
+    }
+  ]
+}

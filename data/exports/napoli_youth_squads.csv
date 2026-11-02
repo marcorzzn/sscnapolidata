@@ -1,0 +1,1281 @@
+﻿team_name,season,player_id,player_name,position,birth_date,age,nationalities,height_m,foot,joined_date,contract_until,market_value_eur,signed_from_club,signed_from_id
+Napoli Primavera U19,2023,724099,Claudio Turi,Goalkeeper,2005-05-06,19,Italy,1.87,Right,2022-07-01,,125000.0,,49743
+Napoli Primavera U19,2023,930625,Nicola Pellino,Goalkeeper,2005-01-29,19,Italy,,Left,2023-07-01,,,,100431
+Napoli Primavera U19,2023,1019114,Andrea Sorrentino,Goalkeeper,2007-01-09,17,Italy,1.88,Right,2024-07-01,,,,49743
+Napoli Primavera U19,2023,1061823,Andrea Petrone,Goalkeeper,2007-03-20,17,Italy,,Right,2024-07-01,,,,49743
+Napoli Primavera U19,2023,885235,Luigi D'Avino,Centre-Back,2005-12-08,18,Italy,1.86,Right,2022-07-01,,125000.0,,49743
+Napoli Primavera U19,2023,930593,Jacopo Di Lauro,Centre-Back,2005-08-16,18,Italy,1.86,Left,2023-07-01,,125000.0,,100431
+Napoli Primavera U19,2023,930584,Alessio Mazzone,Centre-Back,2005-02-24,19,Italy,,Right,2023-07-01,,75000.0,,100431
+Napoli Primavera U19,2023,989006,Christian Garofalo,Centre-Back,2007-01-04,17,Italy,1.87,Left,2024-07-01,,,,100431
+Napoli Primavera U19,2023,1061825,Mattia Esposito,Centre-Back,2006-02-12,18,Italy,1.93,,2023-07-01,,,,49743
+Napoli Primavera U19,2023,1061826,Vittorio Gambardella,Centre-Back,2006-03-10,18,Italy,1.92,Right,2023-07-01,,,,49743
+Napoli Primavera U19,2023,979360,Giuseppe D'Angelo,Left-Back,2006-02-13,18,Italy,,Left,2023-07-01,,,,49743
+Napoli Primavera U19,2023,1012515,Salvatore De Crescenzo,Left-Back,2006-03-31,18,Italy,,Left,2023-07-01,,,,49743
+Napoli Primavera U19,2023,1061829,Pasquale Stasi,Left-Back,2006-07-01,17,Italy,,Left,2023-07-01,,,,49743
+Napoli Primavera U19,2023,1077899,Alfonso De Luca,Left-Back,2006-09-19,17,Italy,1.87,Left,2023-07-01,,,,100431
+Napoli Primavera U19,2023,1147146,Alessandro Petrone,Left-Back,,21,Italy,1.74,Both,,,,,11478
+Napoli Primavera U19,2023,1003933,Mattia Puzone,Right-Back,2006-08-03,17,Italy,,Right,2023-07-01,,,,49743
+Napoli Primavera U19,2023,885236,Lorenzo Russo,Defensive Midfield,2005-04-19,19,Italy,1.82,Left,2022-07-01,,100000.0,,49743
+Napoli Primavera U19,2023,964348,Manuel Legnante,Defensive Midfield,2005-06-03,19,Italy,1.78,Left,2023-07-01,,10000.0,,100431
+Napoli Primavera U19,2023,1186810,Angelo Schiavio,Midfielder,2006-02-13,18,Italy,,,2023-07-01,,,,100431
+Napoli Primavera U19,2023,815546,Francesco Gioielli,Central Midfield,2004-02-26,20,Italy,,Right,2021-07-01,,175000.0,,49743
+Napoli Primavera U19,2023,930583,Luciano Peluso,Central Midfield,2005-04-22,19,Italy,1.76,Right,2023-07-01,,100000.0,,100431
+Napoli Primavera U19,2023,920941,Noah Mutanda,Central Midfield,2005-06-21,19,"Germany, DR Congo",1.83,Left,2022-10-16,,,,515
+Napoli Primavera U19,2023,979361,Emmanuele De Chiara,Central Midfield,2006-02-21,18,Italy,,Right,2023-07-01,,,,49743
+Napoli Primavera U19,2023,1061835,Matteo Malasomma,Attacking Midfield,2006-09-14,17,Italy,1.79,Right,2023-07-01,,,,49743
+Napoli Primavera U19,2023,724111,Mario Vilardi,Left Winger,2005-09-15,18,Italy,1.76,Right,2023-07-01,,100000.0,,100431
+Napoli Primavera U19,2023,946939,Lucio Ceci,Left Winger,2005-05-06,19,"Poland, Italy",1.73,Left,,,25000.0,,22602
+Napoli Primavera U19,2023,703226,Cedrick Koffi,Left Winger,2004-07-23,19,"Cote d'Ivoire, Italy",,Right,2023-01-12,,,,11997
+Napoli Primavera U19,2023,1061828,Salvatore Borriello,Left Winger,2006-01-18,18,Italy,1.69,Right,2023-07-01,,,,49743
+Napoli Primavera U19,2023,1061833,Matteo Parisi,Right Winger,2006-01-07,18,Italy,1.7,Left,2023-07-01,,,,49743
+Napoli Primavera U19,2023,1065861,Ernesto Ballabile,Right Winger,2006-08-31,17,Italy,1.69,Left,2023-07-01,,,,49743
+Napoli Primavera U19,2023,814459,Alessandro Spavone,Second Striker,2004-05-10,20,Italy,1.75,Both,2021-07-01,,100000.0,,49743
+Napoli Primavera U19,2023,930623,Gianluca Vigliotti,Centre-Forward,2005-02-24,19,Italy,1.8,Right,2023-07-01,,100000.0,,100431
+Napoli Primavera U19,2023,659378,Leonardo Rossi,Centre-Forward,2004-07-14,19,Italy,1.8,Right,2022-09-01,,25000.0,,10958
+Napoli Primavera U19,2023,659418,Antonio Pesce,Centre-Forward,2004-01-24,20,Italy,,Right,2021-07-01,,25000.0,,49743
+Napoli Primavera U19,2023,1032715,Francesco Lorusso,Centre-Forward,2005-01-17,19,Italy,1.84,Left,,,10000.0,,515
+Napoli Primavera U19,2023,1061827,Christian Raggioli,Centre-Forward,2006-01-11,18,Italy,1.86,Right,2023-07-01,,,,49743
+Napoli Primavera U19,2024,724099,Claudio Turi,Goalkeeper,2005-05-06,20,Italy,1.87,Right,2022-07-01,,150000.0,,49743
+Napoli Primavera U19,2024,1019114,Andrea Sorrentino,Goalkeeper,2007-01-09,18,Italy,1.88,Right,2024-07-01,,25000.0,,49743
+Napoli Primavera U19,2024,1061823,Andrea Petrone,Goalkeeper,2007-03-20,18,Italy,,Right,2024-07-01,,,,49743
+Napoli Primavera U19,2024,1071035,Francesco Gisondi,Goalkeeper,2007-04-22,18,Italy,1.89,Right,2024-07-01,,,,49743
+Napoli Primavera U19,2024,514174,Edi Zambon,Sweeper,1956-06-20,69,Italy,1.74,,,,,,
+Napoli Primavera U19,2024,1061825,Mattia Esposito,Centre-Back,2006-02-12,19,Italy,1.93,,2023-07-01,,75000.0,,49743
+Napoli Primavera U19,2024,1061826,Vittorio Gambardella,Centre-Back,2006-03-10,19,Italy,1.92,Right,2023-07-01,,75000.0,,49743
+Napoli Primavera U19,2024,989006,Christian Garofalo,Centre-Back,2007-01-04,18,Italy,1.87,Left,2024-07-01,,,,100431
+Napoli Primavera U19,2024,1234562,Vitaliy Kharban,Centre-Back,2007-01-01,18,Ukraine,,,2025-07-01,,,,100431
+Napoli Primavera U19,2024,1314019,Gabriele Marotta,Centre-Back,2008-03-21,17,Italy,,Left,2026-07-01,,,,100431
+Napoli Primavera U19,2024,979360,Giuseppe D'Angelo,Left-Back,2006-02-13,19,Italy,,Left,2023-07-01,,50000.0,,49743
+Napoli Primavera U19,2024,1061829,Pasquale Stasi,Left-Back,2006-07-01,18,Italy,,Left,2023-07-01,,,,49743
+Napoli Primavera U19,2024,1072757,Francesco Distratto,Left-Back,2007-02-20,18,Italy,,Left,2025-07-01,,,,100431
+Napoli Primavera U19,2024,1077899,Alfonso De Luca,Left-Back,2006-09-19,18,Italy,1.87,Left,2023-07-01,,,,100431
+Napoli Primavera U19,2024,892084,Christian Di Martino,Right-Back,2005-02-07,20,Italy,,Right,2024-10-30,,75000.0,,26251
+Napoli Primavera U19,2024,1318329,Raffaele Colella,Right-Back,2006-05-01,19,Italy,1.81,Right,2024-07-01,,50000.0,,61526
+Napoli Primavera U19,2024,885236,Lorenzo Russo,Defensive Midfield,2005-04-19,20,Italy,1.82,Left,2022-07-01,,75000.0,,49743
+Napoli Primavera U19,2024,1012516,Ciro Borrelli,Defensive Midfield,2006-01-09,19,Italy,1.75,Right,,,50000.0,,4114
+Napoli Primavera U19,2024,1136558,Antonio Cimmaruta,Defensive Midfield,2007-11-14,17,Italy,1.73,Right,2024-07-01,,,,49743
+Napoli Primavera U19,2024,1186810,Angelo Schiavio,Midfielder,2006-02-13,19,Italy,,,2023-07-01,,,,100431
+Napoli Primavera U19,2024,1234723,Ivan Anic,Defensive Midfield,2007-01-16,18,Croatia,1.87,Right,2025-02-03,,,,36289
+Napoli Primavera U19,2024,979361,Emmanuele De Chiara,Central Midfield,2006-02-21,19,Italy,,Right,2023-07-01,,225000.0,,49743
+Napoli Primavera U19,2024,815546,Francesco Gioielli,Central Midfield,2004-02-26,21,Italy,,Right,2021-07-01,,75000.0,,49743
+Napoli Primavera U19,2024,1061834,Domenico Avvisati,Central Midfield,2006-01-01,19,Italy,,Right,2024-07-01,,,,100431
+Napoli Primavera U19,2024,1190378,Antonino Arzillo,Central Midfield,2007-06-25,18,Italy,,,,,,,515
+Napoli Primavera U19,2024,1188603,Donato Distratto,Left Midfield,2007-02-20,18,Italy,,Right,2024-07-01,,,,49743
+Napoli Primavera U19,2024,1012421,Matija Popović,Attacking Midfield,2006-01-08,19,"Serbia, Germany",1.93,Right,2024-01-24,,1000000.0,,12373
+Napoli Primavera U19,2024,1061835,Matteo Malasomma,Attacking Midfield,2006-09-14,18,Italy,1.79,Right,2023-07-01,,125000.0,,49743
+Napoli Primavera U19,2024,1167666,Giuseppe De Martino,Attacking Midfield,2007-04-23,18,Italy,,Right,2025-01-30,,,,14907
+Napoli Primavera U19,2024,1234556,Jordan Napoletano,Attacking Midfield,2007-01-01,18,Italy,,,2024-07-01,,,,49743
+Napoli Primavera U19,2024,1318548,Gabriele Zago,Attacking Midfield,2006-09-04,18,Italy,1.85,Left,2024-08-30,,,,26342
+Napoli Primavera U19,2024,1061828,Salvatore Borriello,Left Winger,2006-01-18,19,Italy,1.69,Right,2023-07-01,,75000.0,,49743
+Napoli Primavera U19,2024,1065861,Ernesto Ballabile,Right Winger,2006-08-31,18,Italy,1.69,Left,2023-07-01,,100000.0,,49743
+Napoli Primavera U19,2024,1061827,Christian Raggioli,Centre-Forward,2006-01-11,19,Italy,1.86,Right,2023-07-01,,175000.0,,49743
+Napoli Primavera U19,2024,979747,Edoardo Della Salandra,Centre-Forward,2005-05-19,20,Italy,1.9,Right,2024-09-13,,50000.0,,8513
+Napoli Primavera U19,2024,1100754,Arnaud Mboumbou,Centre-Forward,2006-11-29,18,"France, Congo",1.89,Right,2025-01-31,,50000.0,,8492
+Napoli Primavera U19,2024,985556,Giandiego Pinzolo,Centre-Forward,2006-04-18,19,Italy,,Right,,,10000.0,,47180
+Napoli Primavera U19,2024,1188605,Luigi Picca,Centre-Forward,2007-03-11,18,Italy,1.82,Right,2024-07-01,,,,49743
+Napoli Primavera U19,2024,1371820,Nicola Viola,Centre-Forward,2007-08-22,17,Italy,,Right,2025-02-01,,,,11482
+Napoli Primavera U19,2025,1195798,Mathias Ferrante,Goalkeeper,2006-09-01,19,Italy,2.02,Left,,,200000.0,,5542
+Napoli Primavera U19,2025,1270926,Claudio Pugliese,Goalkeeper,2008-04-15,18,Italy,,Left,2025-07-01,,100000.0,,49743
+Napoli Primavera U19,2025,1136532,Francesco Lattisi,Goalkeeper,2006-03-05,20,Italy,1.9,,2025-07-30,,,,92250
+Napoli Primavera U19,2025,1431697,Alessandro Merone,Goalkeeper,2009-02-27,17,Italy,,,2026-07-01,,,,100431
+Napoli Primavera U19,2025,1314016,David Spinelli,Goalkeeper,2008-04-28,18,Italy,,,2025-07-01,,,,49743
+Napoli Primavera U19,2025,1488347,Raffaele Celiento,Goalkeeper,2007-10-26,18,Italy,,,2025-07-01,,,,22056
+Napoli Primavera U19,2025,989006,Christian Garofalo,Centre-Back,2007-01-04,19,Italy,1.87,Left,2024-07-01,,250000.0,,100431
+Napoli Primavera U19,2025,1061826,Vittorio Gambardella,Centre-Back,2006-03-10,20,Italy,1.92,Right,2023-07-01,,75000.0,,49743
+Napoli Primavera U19,2025,1051116,Andrea Caucci,Centre-Back,2007-02-01,19,Italy,1.86,Right,2025-09-01,,50000.0,,14909
+Napoli Primavera U19,2025,1056028,Francesco Eletto,Centre-Back,2006-11-06,19,Italy,1.86,Right,2025-08-02,,25000.0,,26332
+Napoli Primavera U19,2025,1314019,Gabriele Marotta,Centre-Back,2008-03-21,18,Italy,,Left,2026-07-01,,,,100431
+Napoli Primavera U19,2025,979360,Giuseppe D'Angelo,Left-Back,2006-02-13,20,Italy,,Left,2023-07-01,,25000.0,,49743
+Napoli Primavera U19,2025,1307660,Alessandro Santella,Left-Back,2008-01-25,18,Italy,,,2026-07-01,,,,100431
+Napoli Primavera U19,2025,1311312,Francesco Zappettini,Left-Back,2008-06-15,18,Italy,,Left,,,,,4096
+Napoli Primavera U19,2025,1077899,Alfonso De Luca,Left-Back,2006-09-19,19,Italy,1.87,Left,2023-07-01,,,,100431
+Napoli Primavera U19,2025,1311274,Fabio Palomba,Left-Back,2008-01-14,18,Italy,,,2025-07-01,,,,49743
+Napoli Primavera U19,2025,1318329,Raffaele Colella,Right-Back,2006-05-01,20,Italy,1.81,Right,2024-07-01,,10000.0,,61526
+Napoli Primavera U19,2025,1259760,Mykyta Melnyk,Right-Back,2008-01-08,18,Ukraine,,Right,2026-07-01,,,,100431
+Napoli Primavera U19,2025,1311270,Cristian Colurciello,Right-Back,2008-04-11,18,Italy,1.82,Right,,,,,14968
+Napoli Primavera U19,2025,1136558,Antonio Cimmaruta,Defensive Midfield,2007-11-14,18,Italy,1.73,Right,2024-07-01,,75000.0,,49743
+Napoli Primavera U19,2025,1132043,Vincenzo Prisco,Defensive Midfield,2008-08-07,17,Italy,1.65,Left,2025-07-01,,,,49743
+Napoli Primavera U19,2025,1234723,Ivan Anic,Defensive Midfield,2007-01-16,19,Croatia,1.87,Right,2025-02-03,,,,36289
+Napoli Primavera U19,2025,979361,Emmanuele De Chiara,Central Midfield,2006-02-21,20,Italy,,Right,2023-07-01,,300000.0,,49743
+Napoli Primavera U19,2025,1056257,Luca Lo Scalzo,Central Midfield,2007-02-02,19,Italy,1.8,Right,2025-09-01,,200000.0,,14909
+Napoli Primavera U19,2025,1261760,Giuseppe Maida,Central Midfield,2008-02-08,18,Italy,,Right,,,,,22336
+Napoli Primavera U19,2025,1310489,Silvio Cambrini,Central Midfield,2008-01-03,18,Italy,,Right,,,,,22403
+Napoli Primavera U19,2025,1311269,Andrea Chiummariello,Central Midfield,2008-01-04,18,Italy,,Right,2026-07-01,,,,100431
+Napoli Primavera U19,2025,1243102,Vincenzo Testa,Central Midfield,2007-01-01,19,Italy,,,2025-07-01,,,,100431
+Napoli Primavera U19,2025,1063514,Marco Genovese,Central Midfield,2007-01-10,19,Italy,1.8,,2025-08-28,,,,9818
+Napoli Primavera U19,2025,1440090,Salvatore De Martino,Central Midfield,2007-01-01,19,Italy,,,2025-07-01,,,,75406
+Napoli Primavera U19,2025,988985,Alessandro Olivieri,Right Midfield,2007-02-09,19,Italy,,Right,2025-08-26,,25000.0,,8492
+Napoli Primavera U19,2025,1167666,Giuseppe De Martino,Attacking Midfield,2007-04-23,19,Italy,,Right,2025-01-30,,100000.0,,14907
+Napoli Primavera U19,2025,1231248,Francisco Baridó,Attacking Midfield,2008-01-01,18,"Argentina, Croatia",,Left,2025-09-01,,,,49567
+Napoli Primavera U19,2025,1061828,Salvatore Borriello,Left Winger,2006-01-18,20,Italy,1.69,Right,2023-07-01,,25000.0,,49743
+Napoli Primavera U19,2025,1055829,Manuel Nardozi,Left Winger,2006-05-05,20,Italy,,Left,2025-08-02,,10000.0,,11997
+Napoli Primavera U19,2025,1304536,Alessandro Rovetini,Left Winger,2008-04-18,18,Italy,,Right,2026-07-01,,,,100431
+Napoli Primavera U19,2025,1235978,Christian Torre,Left Winger,2007-01-07,19,Italy,,Right,2025-08-02,,,,22276
+Napoli Primavera U19,2025,1100555,Elia Favicchio,Left Winger,2008-03-12,18,Italy,,Right,2026-07-01,,,,100431
+Napoli Primavera U19,2025,1132751,Andrea Smeraldi,Right Winger,2007-05-09,19,Italy,1.7,Left,2025-08-02,,25000.0,,91715
+Napoli Primavera U19,2025,1246891,Adam Hasani,Right Winger,2008-09-05,17,"Kosovo, Italy",1.84,Left,2026-02-11,,,,515
+Napoli Primavera U19,2025,1311272,Luigi Esposito,Right Winger,2008-06-19,18,Italy,,Left,2025-07-01,,,,49743
+Napoli Primavera U19,2025,1056258,Kevin Gorica,Second Striker,2006-09-14,19,"Italy, Albania",,Both,2025-09-01,,200000.0,,14909
+Napoli Primavera U19,2025,1061827,Christian Raggioli,Centre-Forward,2006-01-11,20,Italy,1.86,Right,2023-07-01,,100000.0,,49743
+Napoli Primavera U19,2025,1054288,Umberto Camelio,Centre-Forward,2006-02-10,20,Italy,1.73,Right,2025-08-19,,,,2722
+Napoli Primavera U19,2025,1381663,Raffaele Saviano,Centre-Forward,2008-02-21,18,Italy,1.85,Left,2026-07-01,,,,100431
+Napoli Primavera U19,2025,1258531,Milton Pereyra,Centre-Forward,2008-05-13,18,Argentina,1.86,Right,2026-02-02,,,,15098
+Napoli Primavera U19,2025,1188607,Andrea Iovine,Centre-Forward,2007-05-09,19,Italy,,,,,,,100564
+Napoli Under 17,2025,1348151,Mattia Magliano,Goalkeeper,2009-06-17,17,Italy,,Left,2025-07-16,,,,14431
+Napoli Under 17,2025,1446520,Antonio Amendola,Goalkeeper,2009-08-03,16,Italy,1.82,Left,,,,,12819
+Napoli Under 17,2025,1452612,Antonio Capasso,Goalkeeper,2009-08-06,16,Italy,,Right,2025-07-01,,,,14709
+Napoli Under 17,2025,1480088,Angelo Ziello,Goalkeeper,2009-07-14,16,Italy,,,2025-07-01,,,,14709
+Napoli Under 17,2025,1503749,Bernard Coppola,Goalkeeper,2010-01-01,16,Italy,,,2026-07-01,,,,14709
+Napoli Under 17,2025,1446521,Agostino Branchizio,Centre-Back,2009-09-23,16,Italy,,Left,2025-07-01,,,,14709
+Napoli Under 17,2025,1446529,Giuseppe Lepre,Centre-Back,2009-07-21,16,Italy,,Right,2025-07-01,,,,14709
+Napoli Under 17,2025,1446536,Raffaele Natale,Centre-Back,2009-06-09,17,Italy,,Right,2025-07-01,,,,14709
+Napoli Under 17,2025,1388085,Gabriele Muoio,Left-Back,2009-05-08,17,Italy,,Left,2025-07-01,,,,29455
+Napoli Under 17,2025,1425100,Antonio Auxilia,Left-Back,2009-05-28,17,Italy,,Left,2025-07-01,,,,29464
+Napoli Under 17,2025,1446534,Christian Liccardo,Right-Back,2009-08-03,16,Italy,,Right,2025-07-01,,,,14709
+Napoli Under 17,2025,1446539,Andrea Zappalà,Right-Back,2009-01-13,17,Italy,,Right,2025-07-01,,,,14709
+Napoli Under 17,2025,1482115,Ciro Di Pietro,Right-Back,2010-05-15,16,Italy,,,2026-07-01,,,,14709
+Napoli Under 17,2025,1446523,Giuseppe Coppola,Defensive Midfield,2009-05-28,17,Italy,,,2025-07-01,,,,14709
+Napoli Under 17,2025,1446527,Vincenzo Ferrigno,Defensive Midfield,2009-06-10,17,Italy,,Right,2025-07-01,,,,14709
+Napoli Under 17,2025,1446528,Michele Lanese,Defensive Midfield,2009-08-27,16,Italy,,Left,2025-07-01,,,,14709
+Napoli Under 17,2025,1463791,Giorgio Russo,Defensive Midfield,2009-09-14,16,Italy,,Right,2025-07-01,,,,14709
+Napoli Under 17,2025,1241496,Luigi Riccio,Central Midfield,2009-03-20,17,Italy,,Right,2025-07-01,,,,14709
+Napoli Under 17,2025,1446522,Riccardo Chiaiese,Central Midfield,2009-08-25,16,Italy,,Left,2025-07-01,,,,14709
+Napoli Under 17,2025,1446524,Adrian D'Angelo,Central Midfield,2009-09-21,16,Italy,1.78,Right,2025-07-01,,,,14709
+Napoli Under 17,2025,1446525,Vincenzo De Rosa,Central Midfield,2009-10-14,16,Italy,,Right,2025-07-01,,,,14709
+Napoli Under 17,2025,1446526,Marco De Michele,Central Midfield,2009-03-23,17,Italy,1.91,Right,2025-08-05,,,,29348
+Napoli Under 17,2025,1446538,Tommaso Postiglione,Attacking Midfield,2009-01-31,17,Italy,,Left,2025-07-01,,,,14709
+Napoli Under 17,2025,1513076,Luigi Sicignano,Attacking Midfield,2009-04-26,17,Italy,,,2026-01-26,,,,75
+Napoli Under 17,2025,1532943,Pasquale Colavecchia,Left Winger,2010-03-21,16,Italy,,Right,2026-07-01,,,,14709
+Napoli Under 17,2025,1446607,Francesco Scotti,Right Winger,2009-05-25,17,Italy,,Right,2025-07-01,,,,14709
+Napoli Under 17,2025,1439269,Simone Ascione,Centre-Forward,2009-11-21,16,Italy,1.94,,2025-10-22,,,,515
+Napoli Under 17,2025,1446535,Mohamed Seick Mané,Centre-Forward,2009-09-12,16,Senegal,,Right,2025-07-01,,,,14709
+Napoli Under 17,2025,1446537,Salvatore Pengue,Centre-Forward,2009-05-13,17,Italy,,Right,2025-07-01,,,,14709
+Napoli Under 17,2025,1452395,Davide D'Angelo,Centre-Forward,2009-01-26,17,Italy,1.75,Right,2025-07-01,,,,14709
+Napoli Under 17,2025,1509692,Stanislao Somma,Centre-Forward,2010-01-01,16,Italy,,Left,2026-07-01,,,,14709
+Napoli Under 17,2025,1532944,Salvatore Piccolo,Centre-Forward,2010-01-07,16,Italy,1.91,Right,,,,,100431
+Napoli Under 18,2025,1270926,Claudio Pugliese,Goalkeeper,2008-04-15,18,Italy,,Left,,,100000.0,,6195
+Napoli Under 18,2025,1314016,David Spinelli,Goalkeeper,2008-04-28,18,Italy,,,,,,,12819
+Napoli Under 18,2025,1431697,Alessandro Merone,Goalkeeper,2009-02-27,17,Italy,,,,,,,12819
+Napoli Under 18,2025,989006,Christian Garofalo,Centre-Back,2007-01-04,19,Italy,1.87,Left,,,250000.0,,91510
+Napoli Under 18,2025,1061826,Vittorio Gambardella,Centre-Back,2006-03-10,20,Italy,1.92,Right,,,75000.0,,46619
+Napoli Under 18,2025,1051116,Andrea Caucci,Centre-Back,2007-02-01,19,Italy,1.86,Right,,,50000.0,,1415
+Napoli Under 18,2025,1314019,Gabriele Marotta,Centre-Back,2008-03-21,18,Italy,,Left,,,,,12819
+Napoli Under 18,2025,979360,Giuseppe D'Angelo,Left-Back,2006-02-13,20,Italy,,Left,,,25000.0,,4103
+Napoli Under 18,2025,1077899,Alfonso De Luca,Left-Back,2006-09-19,19,Italy,1.87,Left,,,,,22294
+Napoli Under 18,2025,1311274,Fabio Palomba,Left-Back,2008-01-14,18,Italy,,,,,,,56271
+Napoli Under 18,2025,1311312,Francesco Zappettini,Left-Back,2008-06-15,18,Italy,,Left,,,,,4096
+Napoli Under 18,2025,1259760,Mykyta Melnyk,Right-Back,2008-01-08,18,Ukraine,,Right,,,,,12819
+Napoli Under 18,2025,1136558,Antonio Cimmaruta,Defensive Midfield,2007-11-14,18,Italy,1.73,Right,,,75000.0,,9818
+Napoli Under 18,2025,1132043,Vincenzo Prisco,Defensive Midfield,2008-08-07,17,Italy,1.65,Left,,,,,332
+Napoli Under 18,2025,1234723,Ivan Anic,Defensive Midfield,2007-01-16,19,Croatia,1.87,Right,,,,,12819
+Napoli Under 18,2025,979361,Emmanuele De Chiara,Central Midfield,2006-02-21,20,Italy,,Right,,,300000.0,,22048
+Napoli Under 18,2025,1056257,Luca Lo Scalzo,Central Midfield,2007-02-02,19,Italy,1.8,Right,,,200000.0,,408
+Napoli Under 18,2025,1063514,Marco Genovese,Central Midfield,2007-01-10,19,Italy,1.8,,,,,,31872
+Napoli Under 18,2025,1311269,Andrea Chiummariello,Central Midfield,2008-01-04,18,Italy,,Right,,,,,12819
+Napoli Under 18,2025,1440090,Salvatore De Martino,Central Midfield,2007-01-01,19,Italy,,,,,,,47180
+Napoli Under 18,2025,988985,Alessandro Olivieri,Right Midfield,2007-02-09,19,Italy,,Right,,,25000.0,,1253
+Napoli Under 18,2025,1167666,Giuseppe De Martino,Attacking Midfield,2007-04-23,19,Italy,,Right,,,100000.0,,30326
+Napoli Under 18,2025,1231248,Francisco Baridó,Attacking Midfield,2008-01-01,18,"Argentina, Croatia",,Left,,,,,12819
+Napoli Under 18,2025,1100555,Elia Favicchio,Left Winger,2008-03-12,18,Italy,,Right,,,,,12819
+Napoli Under 18,2025,1235978,Christian Torre,Left Winger,2007-01-07,19,Italy,,Right,,,,,1627
+Napoli Under 18,2025,1132751,Andrea Smeraldi,Right Winger,2007-05-09,19,Italy,1.7,Left,,,25000.0,,704
+Napoli Under 18,2025,1311272,Luigi Esposito,Right Winger,2008-06-19,18,Italy,,Left,,,,,12819
+Napoli Under 18,2025,1061827,Christian Raggioli,Centre-Forward,2006-01-11,20,Italy,1.86,Right,,,100000.0,,515
+Napoli Under 18,2025,1188607,Andrea Iovine,Centre-Forward,2007-05-09,19,Italy,,,,,,,100564
+Napoli Under 18,2025,1381663,Raffaele Saviano,Centre-Forward,2008-02-21,18,Italy,1.85,Left,,,,,12819
+Napoli Primavera U19,2006,138073,Carmine Biagio Gatti,Goalkeeper,1988-02-10,19,Italy,,,2006-07-01,,,,25804
+Napoli Primavera U19,2006,368990,Giuseppe Marino,Goalkeeper,1988-06-23,19,Italy,1.88,,,,,,515
+Napoli Primavera U19,2006,61523,Emanuele Maione,Defender,1989-01-23,18,Italy,,,,,,,
+Napoli Primavera U19,2006,61530,Giuseppe Perna,Defender,1989-10-15,17,Italy,1.7,,,,,,
+Napoli Primavera U19,2006,991231,N. N. Cuomo,Defender,,,Italy,,,,,,,
+Napoli Primavera U19,2006,991232,I. Romano,Defender,,,Italy,,,,,,,
+Napoli Primavera U19,2006,991233,N. N. Pisa,Defender,,,Italy,,,,,,,
+Napoli Primavera U19,2006,991240,N. N. Angri,Defender,,,Italy,,,,,,,
+Napoli Primavera U19,2006,997784,N. N. Pignalosa,Defender,,,Italy,,,,,,,
+Napoli Primavera U19,2006,1207150,N. N. Russo,Defender,,,Italy,,,,,,,75
+Napoli Primavera U19,2006,1207151,N. N. Impero,Defender,,,Italy,,,,,,,75
+Napoli Primavera U19,2006,1207152,Andrea Pica,Defender,1990-10-30,16,Italy,,,,,,,75
+Napoli Primavera U19,2006,61516,Carlo Fiore,Centre-Back,1989-06-16,18,Italy,1.84,Right,,,,,
+Napoli Primavera U19,2006,133961,Mario D'Urso,Centre-Back,1989-10-10,17,Italy,1.8,Left,,,,,
+Napoli Primavera U19,2006,460353,Daniele De Simone,Centre-Back,1988-05-08,19,Italy,1.83,Left,,,,,33547
+Napoli Primavera U19,2006,80158,Luigi Vitale,Left-Back,1987-10-05,19,Italy,1.8,Left,2004-07-01,,,,49658
+Napoli Primavera U19,2006,100794,Giuseppe Feola,Midfielder,1989-03-23,18,Italy,,,,,,,
+Napoli Primavera U19,2006,183460,Mariano Arini,Defensive Midfield,1987-01-17,20,Italy,1.78,Right,2005-07-01,,,,25545
+Napoli Primavera U19,2006,991234,N. N. Del Prete,Midfielder,,,Italy,,,,,,,
+Napoli Primavera U19,2006,991235,N. N. Perfetto,Midfielder,,,Italy,,,,,,,
+Napoli Primavera U19,2006,991236,G. Romano,Midfielder,,,Italy,,,,,,,
+Napoli Primavera U19,2006,997833,Giuseppe Orefice,Midfielder,,,Italy,,,,,,,
+Napoli Primavera U19,2006,1065318,N. N. Amoroso,Midfielder,,,N/A,,,,,,,
+Napoli Primavera U19,2006,427879,Isidoro Izzo,Central Midfield,1990-01-14,17,Italy,,,,,,,
+Napoli Primavera U19,2006,168561,Gerardo Schettino,Left Midfield,1984-03-28,23,Italy,1.73,,,,,,
+Napoli Primavera U19,2006,61520,Luca Giannone,Attacking Midfield,1989-07-02,17,Italy,1.74,Left,2008-07-01,,,,14709
+Napoli Primavera U19,2006,84831,Cosmo Palumbo,Attacking Midfield,1989-02-07,18,Italy,1.85,Both,2007-07-01,,,,14709
+Napoli Primavera U19,2006,61509,Luca Borrelli,Centre-Forward,1989-02-21,18,Italy,1.87,Right,,,,,111717
+Napoli Primavera U19,2006,61513,Claudio Esposito,Striker,1989-07-29,17,Italy,,,,,,,
+Napoli Primavera U19,2006,61533,Mario Ramaglia,Centre-Forward,1989-02-23,18,Italy,1.77,Right,,,,,81033
+Napoli Primavera U19,2006,991237,Massimo Maioriello,Striker,1988-05-14,19,Italy,,,,,,,75
+Napoli Primavera U19,2006,1032046,N. N. Pascucci,Striker,,,Italy,,,,,,,
+Napoli Primavera U19,2007,59635,Biagio Del Giudice,Goalkeeper,1988-07-10,19,Italy,1.9,,,,50000.0,,
+Napoli Primavera U19,2007,546282,Salvatore Bardet De Villanov,Goalkeeper,1989-08-25,18,Italy,,,,,,,51018
+Napoli Primavera U19,2007,61515,Luigi Finizio,Defender,1989-08-27,18,Italy,,,,,,,
+Napoli Primavera U19,2007,61523,Emanuele Maione,Defender,1989-01-23,19,Italy,,,,,,,
+Napoli Primavera U19,2007,61524,Mariano Manna,Defender,1989-08-05,18,Italy,,,,,,,
+Napoli Primavera U19,2007,61530,Giuseppe Perna,Defender,1989-10-15,18,Italy,1.7,,,,,,
+Napoli Primavera U19,2007,482093,Patrizio Feola,Defender,1989-02-15,19,Italy,,,,,,,
+Napoli Primavera U19,2007,482094,Simone Rizzuto,Defender,1989-12-06,18,Italy,,,,,,,
+Napoli Primavera U19,2007,546284,Armando Mariano,Defender,1989-08-05,18,Italy,,,,,,,75
+Napoli Primavera U19,2007,61516,Carlo Fiore,Centre-Back,1989-06-16,19,Italy,1.84,Right,,,,,
+Napoli Primavera U19,2007,48019,Francesco Bruno,Centre-Back,1990-01-23,18,Italy,1.82,Right,,,,,46498
+Napoli Primavera U19,2007,133961,Mario D'Urso,Centre-Back,1989-10-10,18,Italy,1.8,Left,,,,,
+Napoli Primavera U19,2007,158474,Stefano Procida,Centre-Back,1990-02-14,18,Italy,1.85,Left,2007-07-01,,,,14709
+Napoli Primavera U19,2007,229338,Elio Nigro,Centre-Back,1986-06-28,22,Italy,1.8,Right,,,,,
+Napoli Primavera U19,2007,61510,Giacomo Cenetti,Defensive Midfield,1989-05-24,19,Italy,1.78,Right,,,,,
+Napoli Primavera U19,2007,427877,Massimiliano Esposito,Midfielder,1989-01-18,19,Italy,,,2007-07-01,,,,34294
+Napoli Primavera U19,2007,427879,Isidoro Izzo,Central Midfield,1990-01-14,18,Italy,,,,,,,
+Napoli Primavera U19,2007,61520,Luca Giannone,Attacking Midfield,1989-07-02,18,Italy,1.74,Left,2008-07-01,,,,14709
+Napoli Primavera U19,2007,84831,Cosmo Palumbo,Attacking Midfield,1989-02-07,19,Italy,1.85,Both,2007-07-01,,,,14709
+Napoli Primavera U19,2007,218227,Massimiliano Ammendola,Attacking Midfield,1990-05-15,18,Italy,1.73,Left,,,,,
+Napoli Primavera U19,2007,61511,Camillo Ciano,Right Winger,1990-02-22,18,Italy,1.76,Left,,,,,515
+Napoli Primavera U19,2007,61521,Pasquale Izzo,Right Winger,1982-02-14,26,Italy,1.7,Right,,,,,
+Napoli Primavera U19,2007,61525,Mario Marotta,Right Winger,1989-09-28,18,Italy,1.68,Left,,,,,129808
+Napoli Primavera U19,2007,787035,Raffaele Cerasuolo,Second Striker,1989-11-20,18,Italy,1.74,Right,,,,,
+Napoli Primavera U19,2007,61509,Luca Borrelli,Centre-Forward,1989-02-21,19,Italy,1.87,Right,,,,,111717
+Napoli Primavera U19,2007,61513,Claudio Esposito,Striker,1989-07-29,18,Italy,,,,,,,
+Napoli Primavera U19,2007,61517,Mario Fontanella,Centre-Forward,1989-06-28,19,"Italy, Malta",1.75,Right,,,,,34423
+Napoli Primavera U19,2007,61518,Luca Fucci,Striker,1989-04-10,19,Italy,,,,,,,
+Napoli Primavera U19,2007,61533,Mario Ramaglia,Centre-Forward,1989-02-23,19,Italy,1.77,Right,,,,,81033
+Napoli Primavera U19,2007,61535,Tiago Giovani Rotondale,Striker,1989-11-23,18,Brazil,,,,,,,75
+Napoli Primavera U19,2007,61536,Angelo Scalzone,Centre-Forward,1989-09-28,18,Italy,1.86,Right,,,,,515
+Napoli Primavera U19,2007,546285,Ciro Piccolo,Striker,1989-01-29,19,Italy,,,,,,,75
+Napoli Primavera U19,2008,99254,Luigi Sepe,Goalkeeper,1991-05-08,18,Italy,1.85,Left,,,,,
+Napoli Primavera U19,2008,192833,Luigi Sorrentino,Goalkeeper,1991-01-30,18,Italy,1.86,Right,,,,,515
+Napoli Primavera U19,2008,100791,Giuliano Di Domenico,Defender,1990-02-16,19,Italy,,,,,,,
+Napoli Primavera U19,2008,61516,Carlo Fiore,Centre-Back,1989-06-16,20,Italy,1.84,Right,,,,,
+Napoli Primavera U19,2008,48019,Francesco Bruno,Centre-Back,1990-01-23,19,Italy,1.82,Right,,,,,46498
+Napoli Primavera U19,2008,158474,Stefano Procida,Centre-Back,1990-02-14,19,Italy,1.85,Left,2007-07-01,,,,14709
+Napoli Primavera U19,2008,167894,Diego Petrarca,Centre-Back,1992-06-01,17,Italy,1.8,Right,2009-07-01,,,,14709
+Napoli Primavera U19,2008,339533,Ciro Poziello,Centre-Back,1990-04-28,19,Italy,1.83,Left,2008-07-01,,,,14902
+Napoli Primavera U19,2008,417738,Francesco Monda,Centre-Back,1991-06-18,18,Italy,,,,,,,49934
+Napoli Primavera U19,2008,229331,Francesco Errico,Left-Back,1991-03-29,18,Italy,,Left,,,,,
+Napoli Primavera U19,2008,133960,Giovanni Criscuolo,Right-Back,1990-12-04,18,Italy,,,,,,,
+Napoli Primavera U19,2008,133962,Ciro Dentice,Right-Back,1990-06-13,19,Italy,,Right,,,,,
+Napoli Primavera U19,2008,289002,Alessandro Diana,Right-Back,1991-05-21,18,Italy,,,,,,,115020
+Napoli Primavera U19,2008,110492,Crescenzo Liccardo,Defensive Midfield,1991-05-19,18,Italy,1.84,Right,,,,,515
+Napoli Primavera U19,2008,140559,Raffaele Maiello,Defensive Midfield,1991-07-10,17,Italy,1.77,Right,,,,,6089
+Napoli Primavera U19,2008,427875,Alessio Castiglione,Midfielder,1990-01-18,19,Italy,,,,,,,127130
+Napoli Primavera U19,2008,427877,Massimiliano Esposito,Midfielder,1989-01-18,20,Italy,,,2007-07-01,,,,34294
+Napoli Primavera U19,2008,427895,Luca Morra,Midfielder,1990-03-08,19,Italy,,,,,,,
+Napoli Primavera U19,2008,44394,Mariano Bogliacino,Central Midfield,1980-06-02,29,"Uruguay, Italy",1.77,Left,,,2000000.0,,
+Napoli Primavera U19,2008,167898,Francesco Simonetti,Central Midfield,1991-06-14,18,Italy,,Right,,,,,60077
+Napoli Primavera U19,2008,427879,Isidoro Izzo,Central Midfield,1990-01-14,19,Italy,,,,,,,
+Napoli Primavera U19,2008,61520,Luca Giannone,Attacking Midfield,1989-07-02,19,Italy,1.74,Left,2008-07-01,,,,14709
+Napoli Primavera U19,2008,218227,Massimiliano Ammendola,Attacking Midfield,1990-05-15,19,Italy,1.73,Left,,,,,
+Napoli Primavera U19,2008,133964,Lorenzo Insigne,Left Winger,1991-06-04,18,Italy,1.63,Right,2008-07-01,,,,49743
+Napoli Primavera U19,2008,61511,Camillo Ciano,Right Winger,1990-02-22,19,Italy,1.76,Left,,,,,515
+Napoli Primavera U19,2008,133965,Umberto Varriale,Second Striker,1991-03-18,18,Italy,1.65,Right,,,,,
+Napoli Primavera U19,2008,61513,Claudio Esposito,Striker,1989-07-29,19,Italy,,,,,,,
+Napoli Primavera U19,2008,133959,Vincenzo Bernardo,Striker,1990-05-22,19,"United States, Italy",1.66,Right,2008-01-01,,,,25940
+Napoli Primavera U19,2008,427874,Vitale Esposito,Striker,1990-09-20,18,Italy,,,,,,,515
+Napoli Primavera U19,2008,427897,Fortunato Spilabotte,Centre-Forward,1990-10-16,18,Italy,1.84,Right,,,,,129809
+Napoli Primavera U19,2009,99254,Luigi Sepe,Goalkeeper,1991-05-08,19,Italy,1.85,Left,,,100000.0,,
+Napoli Primavera U19,2009,646659,Michele Comentale,Goalkeeper,1992-05-01,18,Italy,,,,,,,
+Napoli Primavera U19,2009,183040,Gianfranco Laurino,Goalkeeper,1993-07-01,16,Italy,,,,,,,
+Napoli Primavera U19,2009,445658,Michele Commentale,Goalkeeper,1992-05-01,18,Italy,,,,,,,
+Napoli Primavera U19,2009,527067,Luca Incarnato,Goalkeeper,1992-02-06,18,Italy,,,,,,,
+Napoli Primavera U19,2009,417737,Sabato Mauro Romano,Defender,1991-01-15,19,Italy,,,,,,,
+Napoli Primavera U19,2009,527069,Danilo Ruocco,Defender,1991-07-26,18,Italy,,,,,,,
+Napoli Primavera U19,2009,841190,Luca Mazzarella,Defender,1993-01-01,17,Italy,,,,,,,
+Napoli Primavera U19,2009,56817,Fabiano Santacroce,Centre-Back,1986-08-24,23,"Italy, Brazil",1.81,Right,,,4000000.0,,139413
+Napoli Primavera U19,2009,25318,Matteo Contini,Centre-Back,1980-04-16,30,Italy,1.84,Left,,,2400000.0,,
+Napoli Primavera U19,2009,32113,Armando Izzo,Centre-Back,1992-03-02,18,Italy,1.83,Right,2010-01-01,,,,14709
+Napoli Primavera U19,2009,48019,Francesco Bruno,Centre-Back,1990-01-23,20,Italy,1.82,Right,,,,,46498
+Napoli Primavera U19,2009,167894,Diego Petrarca,Centre-Back,1992-06-01,18,Italy,1.8,Right,2009-07-01,,,,14709
+Napoli Primavera U19,2009,204478,Giuliano Laezza,Centre-Back,1993-12-23,16,Italy,1.83,Right,,,,,9818
+Napoli Primavera U19,2009,417738,Francesco Monda,Centre-Back,1991-06-18,19,Italy,,,,,,,49934
+Napoli Primavera U19,2009,841189,Antonio Capogrosso,Centre-Back,1993-01-26,17,Italy,1.8,Right,,,,,80244
+Napoli Primavera U19,2009,167886,Walter Guerra,Left-Back,1992-02-02,18,Italy,1.72,Left,2010-07-01,,,,14709
+Napoli Primavera U19,2009,167900,Daniele Donnarumma,Left-Back,1992-04-12,18,Italy,1.8,Left,,,,,1627
+Napoli Primavera U19,2009,229331,Francesco Errico,Left-Back,1991-03-29,19,Italy,,Left,,,,,
+Napoli Primavera U19,2009,330178,Luigi Panariello,Left-Back,1993-06-27,17,Italy,1.75,Left,,,,,515
+Napoli Primavera U19,2009,289002,Alessandro Diana,Right-Back,1991-05-21,19,Italy,,,,,,,115020
+Napoli Primavera U19,2009,140559,Raffaele Maiello,Defensive Midfield,1991-07-10,18,Italy,1.77,Right,,,50000.0,,6089
+Napoli Primavera U19,2009,110492,Crescenzo Liccardo,Defensive Midfield,1991-05-19,19,Italy,1.84,Right,,,,,515
+Napoli Primavera U19,2009,167903,Marco Eligibile,Midfielder,1992-02-26,18,Italy,,,,,,,
+Napoli Primavera U19,2009,170337,Vincenzo Gatto,Defensive Midfield,1992-04-21,18,Italy,1.75,Right,,,,,82507
+Napoli Primavera U19,2009,417741,Ciro Vacca,Midfielder,1991-04-12,19,Italy,,,,,,,21028
+Napoli Primavera U19,2009,421982,Emanuele Rapicano,Midfielder,1992-02-05,18,Italy,,,,,,,
+Napoli Primavera U19,2009,446664,Giuseppe Parrella,Midfielder,1992-01-21,18,Italy,,,,,,,
+Napoli Primavera U19,2009,455128,Danilo Varone,Midfielder,1992-08-05,17,Italy,,,2009-07-01,,,,27655
+Napoli Primavera U19,2009,456803,Christian Piccirillo,Midfielder,1992-01-27,18,Italy,,,,,,,515
+Napoli Primavera U19,2009,461099,Antimo Ammaturo,Midfielder,1993-08-21,16,Italy,,,,,,,
+Napoli Primavera U19,2009,147493,Giuseppe Iuliano,Central Midfield,1993-02-22,17,Italy,,,2010-07-01,,75000.0,,14709
+Napoli Primavera U19,2009,167898,Francesco Simonetti,Central Midfield,1991-06-14,19,Italy,,Right,,,,,60077
+Napoli Primavera U19,2009,167899,Carlo Colella,Central Midfield,1992-07-16,17,Italy,1.78,Right,,,,,81904
+Napoli Primavera U19,2009,340934,Vincenzo Pontillo,Central Midfield,1991-06-26,19,Italy,1.73,Right,,,,,111848
+Napoli Primavera U19,2009,167909,Gennaro Signorelli,Attacking Midfield,1993-03-12,17,Italy,1.68,Right,,,,,111681
+Napoli Primavera U19,2009,133964,Lorenzo Insigne,Left Winger,1991-06-04,19,Italy,1.63,Right,2008-07-01,,150000.0,,49743
+Napoli Primavera U19,2009,32837,Ciro Simonetti,Left Winger,1992-12-15,17,Italy,,Left,,,,,22124
+Napoli Primavera U19,2009,61511,Camillo Ciano,Right Winger,1990-02-22,20,Italy,1.76,Left,,,400000.0,,515
+Napoli Primavera U19,2009,411386,Massimo Conte,Right Winger,1991-06-28,19,Italy,1.72,Right,,,,,515
+Napoli Primavera U19,2009,133965,Umberto Varriale,Second Striker,1991-03-18,19,Italy,1.65,Right,,,75000.0,,
+Napoli Primavera U19,2009,160415,Marco Riccio,Striker,1992-07-12,17,Italy,1.83,Right,2010-08-01,,,,22336
+Napoli Primavera U19,2009,167902,Alessandro De Vena,Centre-Forward,1992-12-04,17,Italy,1.78,Left,,,,,
+Napoli Primavera U19,2009,445409,Antonio Silvestro,Striker,1991-07-13,18,Italy,,,,,,,
+Napoli Primavera U19,2010,99254,Luigi Sepe,Goalkeeper,1991-05-08,20,Italy,1.85,Left,,,100000.0,,
+Napoli Primavera U19,2010,21686,Matteo Gianello,Goalkeeper,1976-05-07,35,Italy,1.89,Left,,,50000.0,,
+Napoli Primavera U19,2010,167882,Angelo D'Auria,Goalkeeper,1992-03-20,19,Italy,,,,,50000.0,,515
+Napoli Primavera U19,2010,167897,Gaetano Sestile,Goalkeeper,1993-03-16,18,Italy,,,,,50000.0,,
+Napoli Primavera U19,2010,183040,Gianfranco Laurino,Goalkeeper,1993-07-01,17,Italy,,,,,,,
+Napoli Primavera U19,2010,167883,Alessio Di Falco,Defender,1993-06-22,18,Italy,,,,,75000.0,,
+Napoli Primavera U19,2010,160350,Andrea Petta,Centre-Back,1992-03-27,19,Italy,1.84,Right,2011-01-01,,100000.0,,8373
+Napoli Primavera U19,2010,32113,Armando Izzo,Centre-Back,1992-03-02,19,Italy,1.83,Right,2010-01-01,,100000.0,,14709
+Napoli Primavera U19,2010,167881,Claudio Corsini,Centre-Back,1993-02-14,18,Italy,1.84,Right,,,50000.0,,125029
+Napoli Primavera U19,2010,167885,Michele Galoppo,Centre-Back,1992-07-15,18,Italy,,,,,50000.0,,109462
+Napoli Primavera U19,2010,167894,Diego Petrarca,Centre-Back,1992-06-01,19,Italy,1.8,Right,2009-07-01,,50000.0,,14709
+Napoli Primavera U19,2010,92888,Emanuele Allegra,Centre-Back,1994-05-06,17,Italy,1.79,Right,2011-07-01,,,,14709
+Napoli Primavera U19,2010,6444,Erminio Rullo,Left-Back,1984-02-19,27,Italy,1.79,Left,,,325000.0,,
+Napoli Primavera U19,2010,167900,Daniele Donnarumma,Left-Back,1992-04-12,19,Italy,1.8,Left,,,100000.0,,1627
+Napoli Primavera U19,2010,167886,Walter Guerra,Left-Back,1992-02-02,19,Italy,1.72,Left,2010-07-01,,75000.0,,14709
+Napoli Primavera U19,2010,140559,Raffaele Maiello,Defensive Midfield,1991-07-10,19,Italy,1.77,Right,,,300000.0,,6089
+Napoli Primavera U19,2010,167904,Giuseppe Fornito,Defensive Midfield,1994-09-06,16,Italy,1.75,Left,2010-07-01,,150000.0,,14709
+Napoli Primavera U19,2010,167903,Marco Eligibile,Midfielder,1992-02-26,19,Italy,,,,,100000.0,,
+Napoli Primavera U19,2010,170337,Vincenzo Gatto,Defensive Midfield,1992-04-21,19,Italy,1.75,Right,,,50000.0,,82507
+Napoli Primavera U19,2010,165531,Jacopo Dezi,Central Midfield,1992-02-10,19,Italy,1.78,Right,2010-08-01,,100000.0,,26339
+Napoli Primavera U19,2010,147493,Giuseppe Iuliano,Central Midfield,1993-02-22,18,Italy,,,2010-07-01,,75000.0,,14709
+Napoli Primavera U19,2010,167899,Carlo Colella,Central Midfield,1992-07-16,18,Italy,1.78,Right,,,75000.0,,81904
+Napoli Primavera U19,2010,167898,Francesco Simonetti,Central Midfield,1991-06-14,20,Italy,,Right,,,50000.0,,60077
+Napoli Primavera U19,2010,167907,Nicolas Pesce,Central Midfield,1993-09-30,17,Italy,1.88,Both,,,50000.0,,515
+Napoli Primavera U19,2010,167909,Gennaro Signorelli,Attacking Midfield,1993-03-12,18,Italy,1.68,Right,,,50000.0,,111681
+Napoli Primavera U19,2010,87052,Nicolao Cardoso,Left Winger,1991-10-12,19,"Italy, Romania",1.84,Right,,,1500000.0,,515
+Napoli Primavera U19,2010,32837,Ciro Simonetti,Left Winger,1992-12-15,18,Italy,,Left,,,50000.0,,22124
+Napoli Primavera U19,2010,199748,Ciro Schettino,Left Winger,1993-03-05,18,Italy,,Right,,,,,130194
+Napoli Primavera U19,2010,133965,Umberto Varriale,Second Striker,1991-03-18,20,Italy,1.65,Right,,,75000.0,,
+Napoli Primavera U19,2010,21408,Cristiano Lucarelli,Centre-Forward,1975-10-04,35,Italy,1.88,Right,,,600000.0,,
+Napoli Primavera U19,2010,167902,Alessandro De Vena,Centre-Forward,1992-12-04,18,Italy,1.78,Left,,,200000.0,,
+Napoli Primavera U19,2010,160415,Marco Riccio,Striker,1992-07-12,18,Italy,1.83,Right,2010-08-01,,75000.0,,22336
+Napoli Primavera U19,2010,167901,Luca Arena,Striker,1992-02-24,19,Italy,,,2010-07-01,,75000.0,,5232
+Napoli Primavera U19,2010,81184,Diego Armando Montuori,Centre-Forward,1992-01-01,19,Italy,,,,,50000.0,,
+Napoli Primavera U19,2011,200168,Diamante Crispino,Goalkeeper,1994-09-05,17,Italy,1.88,Right,2011-07-01,,75000.0,,14709
+Napoli Primavera U19,2011,167897,Gaetano Sestile,Goalkeeper,1993-03-16,19,Italy,,,,,50000.0,,
+Napoli Primavera U19,2011,220984,Salvatore Capotosto,Goalkeeper,1994-12-05,17,Italy,,,2011-07-01,,50000.0,,14709
+Napoli Primavera U19,2011,167883,Alessio Di Falco,Defender,1993-06-22,19,Italy,,,,,75000.0,,
+Napoli Primavera U19,2011,202882,Giuseppe Di Donna,Defender,1993-03-04,19,Italy,,,,,50000.0,,130363
+Napoli Primavera U19,2011,76799,Miguel Britos,Centre-Back,1985-07-17,26,Uruguay,1.89,Left,,,6000000.0,,
+Napoli Primavera U19,2011,66960,Ignacio Fideleff,Centre-Back,1989-07-04,22,"Argentina, Italy",1.92,Left,,,2000000.0,,
+Napoli Primavera U19,2011,92888,Emanuele Allegra,Centre-Back,1994-05-06,18,Italy,1.79,Right,2011-07-01,,125000.0,,14709
+Napoli Primavera U19,2011,200167,Daniele Celiento,Centre-Back,1994-08-06,17,Italy,1.81,Right,2011-07-01,,75000.0,,14709
+Napoli Primavera U19,2011,167894,Diego Petrarca,Centre-Back,1992-06-01,20,Italy,1.8,Right,2009-07-01,,50000.0,,14709
+Napoli Primavera U19,2011,204478,Giuliano Laezza,Centre-Back,1993-12-23,18,Italy,1.83,Right,,,,,9818
+Napoli Primavera U19,2011,200177,Giuseppe Nicolao,Left-Back,1994-03-05,18,Italy,1.77,Left,2011-07-01,,100000.0,,14709
+Napoli Primavera U19,2011,167900,Daniele Donnarumma,Left-Back,1992-04-12,20,Italy,1.8,Left,,,75000.0,,1627
+Napoli Primavera U19,2011,8207,Gianluca Grava,Right-Back,1977-03-07,35,Italy,1.72,Right,,,400000.0,,
+Napoli Primavera U19,2011,200182,Francesco Savarise,Right-Back,1994-04-21,18,Italy,1.73,Right,2011-07-01,,75000.0,,14709
+Napoli Primavera U19,2011,167904,Giuseppe Fornito,Defensive Midfield,1994-09-06,17,Italy,1.75,Left,2010-07-01,,100000.0,,14709
+Napoli Primavera U19,2011,165531,Jacopo Dezi,Central Midfield,1992-02-10,20,Italy,1.78,Right,2010-08-01,,300000.0,,26339
+Napoli Primavera U19,2011,200178,Giuseppe Palma,Central Midfield,1994-01-20,18,Italy,1.86,Right,2011-07-01,,100000.0,,14709
+Napoli Primavera U19,2011,147493,Giuseppe Iuliano,Central Midfield,1993-02-22,19,Italy,,,2010-07-01,,75000.0,,14709
+Napoli Primavera U19,2011,167899,Carlo Colella,Central Midfield,1992-07-16,19,Italy,1.78,Right,,,50000.0,,81904
+Napoli Primavera U19,2011,167907,Nicolas Pesce,Central Midfield,1993-09-30,18,Italy,1.88,Both,,,50000.0,,515
+Napoli Primavera U19,2011,200169,Antonio Esposito,Central Midfield,1993-03-08,19,Italy,,,,,50000.0,,112157
+Napoli Primavera U19,2011,202853,Simone La Torre,Central Midfield,1994-05-02,18,Italy,1.83,,2011-07-01,,50000.0,,14709
+Napoli Primavera U19,2011,241346,Mario Sgambato,Central Midfield,1994-02-17,18,Italy,,,,,,,
+Napoli Primavera U19,2011,310923,Andersson Jamal,Central Midfield,1989-05-20,23,"Netherlands, Italy",1.76,,,,,,515
+Napoli Primavera U19,2011,167909,Gennaro Signorelli,Attacking Midfield,1993-03-12,19,Italy,1.68,Right,,,75000.0,,111681
+Napoli Primavera U19,2011,6721,Mario Santana,Right Winger,1981-12-23,30,"Argentina, Italy",1.8,Right,,,2500000.0,,
+Napoli Primavera U19,2011,200174,Roberto Insigne,Right Winger,1994-05-11,18,Italy,1.72,Left,2011-07-01,,100000.0,,14709
+Napoli Primavera U19,2011,213328,Luigi Amico,Right Winger,1994-03-06,18,Italy,,,2011-07-01,,,,14709
+Napoli Primavera U19,2011,22085,Giuseppe Mascara,Second Striker,1979-08-22,32,Italy,1.72,Right,,,1000000.0,,
+Napoli Primavera U19,2011,167902,Alessandro De Vena,Centre-Forward,1992-12-04,19,Italy,1.78,Left,,,275000.0,,
+Napoli Primavera U19,2011,148824,Soma Novothny,Centre-Forward,1994-06-16,18,Hungary,1.85,Right,2012-07-01,,200000.0,,27178
+Napoli Primavera U19,2011,200183,Pasquale Scielzo,Centre-Forward,1994-02-18,18,Italy,1.84,,2011-07-01,,75000.0,,14709
+Napoli Primavera U19,2011,200180,Giacomo Romano,Centre-Forward,1993-07-14,18,Italy,1.86,Right,2011-07-01,,50000.0,,14709
+Napoli Primavera U19,2011,202979,Gennaro Tutino,Centre-Forward,1996-08-20,15,Italy,1.77,Right,2012-07-01,,,,14709
+Napoli Primavera U19,2011,206087,Davide D'Andrea,Striker,1993-06-10,19,Italy,,,,,,,515
+Napoli Primavera U19,2011,209308,Felice Mellone,Striker,1994-07-21,17,Italy,,,,,,,
+Napoli Primavera U19,2011,213335,Giuseppe La Pegna,Centre-Forward,1994-04-13,18,Italy,,,,,,,
+Napoli Primavera U19,2012,250683,Nikita Contini,Goalkeeper,1996-05-21,17,"Italy, Ukraine",1.9,Right,2012-07-01,,75000.0,,49743
+Napoli Primavera U19,2012,200168,Diamante Crispino,Goalkeeper,1994-09-05,18,Italy,1.88,Right,2011-07-01,,75000.0,,14709
+Napoli Primavera U19,2012,256387,Francesco Scarpa,Goalkeeper,1996-01-16,17,Italy,,,2013-07-01,,,,14709
+Napoli Primavera U19,2012,286289,Umberto Scalese,Goalkeeper,1995-04-12,18,Italy,1.8,Right,2013-01-23,,,,26332
+Napoli Primavera U19,2012,147396,Bruno Uvini,Centre-Back,1991-06-03,22,"Brazil, Italy",1.87,Right,,,2000000.0,,
+Napoli Primavera U19,2012,92888,Emanuele Allegra,Centre-Back,1994-05-06,19,Italy,1.79,Right,2011-07-01,,125000.0,,14709
+Napoli Primavera U19,2012,225874,Igor Łasicki,Centre-Back,1995-06-26,18,Poland,1.84,Right,2012-07-13,,125000.0,,8372
+Napoli Primavera U19,2012,200167,Daniele Celiento,Centre-Back,1994-08-06,18,Italy,1.81,Right,2011-07-01,,75000.0,,14709
+Napoli Primavera U19,2012,48019,Francesco Bruno,Centre-Back,1990-01-23,23,Italy,1.82,Right,,,50000.0,,46498
+Napoli Primavera U19,2012,213413,Aniello Cretella,Centre-Back,1995-08-26,17,Italy,1.85,Right,2012-07-01,,50000.0,,14709
+Napoli Primavera U19,2012,239090,Andrea Di Mattia,Centre-Back,1995-03-25,18,Italy,,,2013-01-31,,50000.0,,14893
+Napoli Primavera U19,2012,250684,Pasquale Di Stasio,Centre-Back,1995-08-07,17,Italy,,,2012-08-31,,50000.0,,39643
+Napoli Primavera U19,2012,250685,Michele Girardi,Centre-Back,1996-08-04,16,Italy,1.85,Right,2013-07-01,,50000.0,,49743
+Napoli Primavera U19,2012,200177,Giuseppe Nicolao,Left-Back,1994-03-05,19,Italy,1.77,Left,2011-07-01,,150000.0,,14709
+Napoli Primavera U19,2012,239115,Pierfrancesco Zambrano,Left-Back,1995-06-14,18,Italy,,,2013-01-01,,50000.0,,14893
+Napoli Primavera U19,2012,238959,Vincenzo Guardiglio,Right-Back,1996-08-02,16,Italy,1.8,Right,2012-07-01,,125000.0,,14709
+Napoli Primavera U19,2012,200182,Francesco Savarise,Right-Back,1994-04-21,19,Italy,1.73,Right,2011-07-01,,75000.0,,14709
+Napoli Primavera U19,2012,160506,Josip Radosevic,Defensive Midfield,1994-04-03,19,Croatia,1.8,Right,,,2500000.0,,999
+Napoli Primavera U19,2012,6427,Marco Donadel,Defensive Midfield,1983-04-21,30,Italy,1.79,Right,,,1300000.0,,
+Napoli Primavera U19,2012,240357,Luca Palmiero,Defensive Midfield,1996-05-01,17,Italy,1.77,Right,2012-07-01,,225000.0,,14709
+Napoli Primavera U19,2012,167904,Giuseppe Fornito,Defensive Midfield,1994-09-06,18,Italy,1.75,Left,2010-07-01,,200000.0,,14709
+Napoli Primavera U19,2012,265962,Davide Schiavo Scarlino,Defensive Midfield,1996-03-26,17,"Italy, Switzerland",,,2013-07-01,,,,14709
+Napoli Primavera U19,2012,238989,Antonio Romano,Central Midfield,1996-03-23,17,Italy,1.8,Right,2012-07-01,,125000.0,,14709
+Napoli Primavera U19,2012,200178,Giuseppe Palma,Central Midfield,1994-01-20,19,Italy,1.86,Right,2011-07-01,,100000.0,,14709
+Napoli Primavera U19,2012,249470,Felice Gaetano,Central Midfield,1996-01-08,17,Italy,1.7,Right,2012-07-01,,100000.0,,14709
+Napoli Primavera U19,2012,202853,Simone La Torre,Central Midfield,1994-05-02,19,Italy,1.83,,2011-07-01,,50000.0,,14709
+Napoli Primavera U19,2012,241331,Francesco Del Bono,Central Midfield,1995-08-04,17,Italy,,,2012-07-01,,50000.0,,14709
+Napoli Primavera U19,2012,73097,Omar El Kaddouri,Attacking Midfield,1990-08-21,22,"Morocco, Belgium",1.85,Right,,,3000000.0,,
+Napoli Primavera U19,2012,286280,Alessandro Di Fiore,Left Winger,1996-04-09,17,Italy,,,2013-07-01,,,,14709
+Napoli Primavera U19,2012,200174,Roberto Insigne,Right Winger,1994-05-11,19,Italy,1.72,Left,2011-07-01,,450000.0,,14709
+Napoli Primavera U19,2012,240505,Lion Giovannini,Right Winger,1995-04-09,18,Italy,1.69,Right,,,175000.0,,26371
+Napoli Primavera U19,2012,241327,Vincenzo Barone,Right Winger,1995-02-05,18,Italy,1.82,Right,2012-07-01,,50000.0,,14709
+Napoli Primavera U19,2012,202979,Gennaro Tutino,Centre-Forward,1996-08-20,16,Italy,1.77,Right,2012-07-01,,300000.0,,14709
+Napoli Primavera U19,2012,148824,Soma Novothny,Centre-Forward,1994-06-16,19,Hungary,1.85,Right,2012-07-01,,250000.0,,27178
+Napoli Primavera U19,2012,200183,Pasquale Scielzo,Centre-Forward,1994-02-18,19,Italy,1.84,,2011-07-01,,100000.0,,14709
+Napoli Primavera U19,2012,200180,Giacomo Romano,Centre-Forward,1993-07-14,19,Italy,1.86,Right,2011-07-01,,50000.0,,14709
+Napoli Primavera U19,2013,250683,Nikita Contini,Goalkeeper,1996-05-21,18,"Italy, Ukraine",1.9,Right,2012-07-01,,100000.0,,49743
+Napoli Primavera U19,2013,286289,Umberto Scalese,Goalkeeper,1995-04-12,19,Italy,1.8,Right,2013-01-23,,25000.0,,26332
+Napoli Primavera U19,2013,256387,Francesco Scarpa,Goalkeeper,1996-01-16,18,Italy,,,2013-07-01,,,,14709
+Napoli Primavera U19,2013,147396,Bruno Uvini,Centre-Back,1991-06-03,23,"Brazil, Italy",1.87,Right,,,1500000.0,,
+Napoli Primavera U19,2013,225874,Igor Łasicki,Centre-Back,1995-06-26,19,Poland,1.84,Right,2012-07-13,,150000.0,,8372
+Napoli Primavera U19,2013,278531,Sebastiano Luperto,Centre-Back,1996-09-06,17,Italy,1.91,Left,2014-07-01,,100000.0,,5618
+Napoli Primavera U19,2013,250685,Michele Girardi,Centre-Back,1996-08-04,17,Italy,1.85,Right,2013-07-01,,75000.0,,49743
+Napoli Primavera U19,2013,213413,Aniello Cretella,Centre-Back,1995-08-26,18,Italy,1.85,Right,2012-07-01,,50000.0,,14709
+Napoli Primavera U19,2013,286286,Gianluigi Mangiapia,Centre-Back,1996-07-06,17,Italy,1.87,Right,2013-07-01,,50000.0,,14709
+Napoli Primavera U19,2013,289092,Marco Supino,Centre-Back,1996-06-21,18,Italy,,Left,2013-07-01,,50000.0,,14709
+Napoli Primavera U19,2013,286275,Armando Anastasio,Left-Back,1996-07-24,17,Italy,1.8,Left,2013-07-01,,75000.0,,14709
+Napoli Primavera U19,2013,201256,Frank Liivak,Right-Back,1996-07-07,17,Estonia,1.82,Both,2014-07-01,,100000.0,,14940
+Napoli Primavera U19,2013,238959,Vincenzo Guardiglio,Right-Back,1996-08-02,17,Italy,1.8,Right,2012-07-01,,100000.0,,14709
+Napoli Primavera U19,2013,286287,Giorgio Palumbo,Right-Back,1997-01-16,17,Italy,1.83,Right,2013-07-01,,75000.0,,14709
+Napoli Primavera U19,2013,292492,Aniello Esposito,Right-Back,1997-03-31,17,Italy,,,2014-07-01,,,,14709
+Napoli Primavera U19,2013,160506,Josip Radosevic,Defensive Midfield,1994-04-03,20,Croatia,1.8,Right,,,2500000.0,,999
+Napoli Primavera U19,2013,240357,Luca Palmiero,Defensive Midfield,1996-05-01,18,Italy,1.77,Right,2012-07-01,,200000.0,,14709
+Napoli Primavera U19,2013,265962,Davide Schiavo Scarlino,Defensive Midfield,1996-03-26,18,"Italy, Switzerland",,,2013-07-01,,,,14709
+Napoli Primavera U19,2013,238989,Antonio Romano,Central Midfield,1996-03-23,18,Italy,1.8,Right,2012-07-01,,150000.0,,14709
+Napoli Primavera U19,2013,249470,Felice Gaetano,Central Midfield,1996-01-08,18,Italy,1.7,Right,2012-07-01,,100000.0,,14709
+Napoli Primavera U19,2013,286288,Mario Prezioso,Central Midfield,1996-04-15,18,Italy,1.78,Right,2013-07-01,,75000.0,,14709
+Napoli Primavera U19,2013,303386,Gennaro De Simone,Central Midfield,1997-05-22,17,Italy,1.76,Right,2014-07-01,,,,49743
+Napoli Primavera U19,2013,315906,Fabrizio De Simone,Central Midfield,1997-05-09,17,Italy,,,2014-07-01,,,,14709
+Napoli Primavera U19,2013,120458,Davide Bariti,Right Midfield,1991-09-07,22,Italy,1.73,Left,,,500000.0,,20519
+Napoli Primavera U19,2013,286277,Salvatore De Iorio,Left Midfield,1997-08-08,16,Italy,1.79,Left,2013-07-01,,75000.0,,14709
+Napoli Primavera U19,2013,286281,Renato Di Giovanni,Attacking Midfield,1996-01-09,18,Italy,,Right,,,,,4023
+Napoli Primavera U19,2013,286276,Alfredo Bifulco,Left Winger,1997-01-19,17,Italy,1.73,Right,2013-07-01,,125000.0,,14709
+Napoli Primavera U19,2013,257831,Andrea Mancini,Left Winger,1996-04-26,18,Italy,1.73,Right,2013-07-12,,50000.0,,8525
+Napoli Primavera U19,2013,280824,Gianluca D'Auria,Left Winger,1996-10-28,17,Italy,1.72,Right,2014-07-01,,50000.0,,5380
+Napoli Primavera U19,2013,286280,Alessandro Di Fiore,Left Winger,1996-04-09,18,Italy,,,2013-07-01,,50000.0,,14709
+Napoli Primavera U19,2013,302398,Giovanni Lombardi,Right Winger,1997-03-11,17,Italy,1.65,Left,2014-07-01,,,,14709
+Napoli Primavera U19,2013,202979,Gennaro Tutino,Centre-Forward,1996-08-20,17,Italy,1.77,Right,2012-07-01,,600000.0,,14709
+Napoli Primavera U19,2013,148824,Soma Novothny,Centre-Forward,1994-06-16,20,Hungary,1.85,Right,2012-07-01,,250000.0,,27178
+Napoli Primavera U19,2013,209936,Ettore Gliozzi,Centre-Forward,1995-09-23,18,Italy,1.86,Right,,,175000.0,,2581
+Napoli Primavera U19,2013,286858,Gerardo Rubino,Centre-Forward,1995-02-27,19,Italy,1.83,Right,2013-08-23,,75000.0,,27354
+Napoli Primavera U19,2014,250683,Nikita Contini,Goalkeeper,1996-05-21,19,"Italy, Ukraine",1.9,Right,2012-07-01,,150000.0,,49743
+Napoli Primavera U19,2014,315910,Alessio Gionta,Goalkeeper,1997-04-01,18,Italy,1.9,Right,2014-07-01,,50000.0,,14709
+Napoli Primavera U19,2014,336588,Mario Di Maiolo,Goalkeeper,1997-01-31,18,Italy,,,2014-08-22,,25000.0,,29445
+Napoli Primavera U19,2014,355476,Antonio Ferrara,Goalkeeper,1998-04-21,17,Italy,1.86,Right,2015-07-01,,,,49743
+Napoli Primavera U19,2014,278531,Sebastiano Luperto,Centre-Back,1996-09-06,18,Italy,1.91,Left,2014-07-01,,150000.0,,5618
+Napoli Primavera U19,2014,250685,Michele Girardi,Centre-Back,1996-08-04,18,Italy,1.85,Right,2013-07-01,,75000.0,,49743
+Napoli Primavera U19,2014,286286,Gianluigi Mangiapia,Centre-Back,1996-07-06,18,Italy,1.87,Right,2013-07-01,,50000.0,,14709
+Napoli Primavera U19,2014,289092,Marco Supino,Centre-Back,1996-06-21,19,Italy,,Left,2013-07-01,,50000.0,,14709
+Napoli Primavera U19,2014,335707,Antonio Granata,Centre-Back,1997-01-20,18,Italy,1.86,Right,2014-07-01,,50000.0,,49743
+Napoli Primavera U19,2014,335705,Vincenzo Frulio,Centre-Back,1997-04-06,18,Italy,,Left,,,25000.0,,
+Napoli Primavera U19,2014,286275,Armando Anastasio,Left-Back,1996-07-24,18,Italy,1.8,Left,2013-07-01,,125000.0,,14709
+Napoli Primavera U19,2014,355051,Luigi D'Ignazio,Left-Back,1998-03-13,17,Italy,1.75,Left,2015-07-01,,,,49743
+Napoli Primavera U19,2014,201256,Frank Liivak,Right-Back,1996-07-07,18,Estonia,1.82,Both,2014-07-01,,250000.0,,14940
+Napoli Primavera U19,2014,238959,Vincenzo Guardiglio,Right-Back,1996-08-02,18,Italy,1.8,Right,2012-07-01,,100000.0,,14709
+Napoli Primavera U19,2014,286287,Giorgio Palumbo,Right-Back,1997-01-16,18,Italy,1.83,Right,2013-07-01,,75000.0,,14709
+Napoli Primavera U19,2014,292492,Aniello Esposito,Right-Back,1997-03-31,18,Italy,,,2014-07-01,,50000.0,,14709
+Napoli Primavera U19,2014,240357,Luca Palmiero,Defensive Midfield,1996-05-01,19,Italy,1.77,Right,2012-07-01,,175000.0,,14709
+Napoli Primavera U19,2014,370821,Umberto Otranto,Defensive Midfield,1998-05-30,17,Italy,1.7,Right,2015-07-01,,,,49743
+Napoli Primavera U19,2014,200178,Giuseppe Palma,Central Midfield,1994-01-20,21,Italy,1.86,Right,2011-07-01,,150000.0,,14709
+Napoli Primavera U19,2014,238989,Antonio Romano,Central Midfield,1996-03-23,19,Italy,1.8,Right,2012-07-01,,125000.0,,14709
+Napoli Primavera U19,2014,286288,Mario Prezioso,Central Midfield,1996-04-15,19,Italy,1.78,Right,2013-07-01,,100000.0,,14709
+Napoli Primavera U19,2014,303386,Gennaro De Simone,Central Midfield,1997-05-22,18,Italy,1.76,Right,2014-07-01,,100000.0,,49743
+Napoli Primavera U19,2014,249470,Felice Gaetano,Central Midfield,1996-01-08,19,Italy,1.7,Right,2012-07-01,,75000.0,,14709
+Napoli Primavera U19,2014,315906,Fabrizio De Simone,Central Midfield,1997-05-09,18,Italy,,,2014-07-01,,50000.0,,14709
+Napoli Primavera U19,2014,286277,Salvatore De Iorio,Left Midfield,1997-08-08,17,Italy,1.79,Left,2013-07-01,,75000.0,,14709
+Napoli Primavera U19,2014,286276,Alfredo Bifulco,Left Winger,1997-01-19,18,Italy,1.73,Right,2013-07-01,,300000.0,,14709
+Napoli Primavera U19,2014,336767,Alessandro Godano,Left Winger,1997-07-28,17,Italy,1.78,Right,,,75000.0,,80043
+Napoli Primavera U19,2014,286280,Alessandro Di Fiore,Left Winger,1996-04-09,19,Italy,,,2013-07-01,,50000.0,,14709
+Napoli Primavera U19,2014,285585,Andrea Cicerello,Right Winger,1996-05-20,19,Italy,1.76,Right,2014-09-01,,50000.0,,5618
+Napoli Primavera U19,2014,335704,Gianmarco De Masi,Right Winger,1997-07-17,17,Italy,,Right,2014-07-01,,50000.0,,14709
+Napoli Primavera U19,2014,302398,Giovanni Lombardi,Right Winger,1997-03-11,18,Italy,1.65,Left,2014-07-01,,50000.0,,14709
+Napoli Primavera U19,2014,335708,Raffaele Selva,Second Striker,1997-06-06,18,Italy,1.69,Right,2014-07-01,,50000.0,,14709
+Napoli Primavera U19,2014,338333,Mattia Persano,Centre-Forward,1996-09-21,18,Italy,1.89,Right,2014-09-01,,100000.0,,5618
+Napoli Primavera U19,2014,316935,Antonio Negro,Centre-Forward,1998-06-10,17,Italy,1.88,Right,2015-08-01,,,,14709
+Napoli Primavera U19,2015,315910,Alessio Gionta,Goalkeeper,1997-04-01,19,Italy,1.9,Right,2014-07-01,,75000.0,,14709
+Napoli Primavera U19,2015,355476,Antonio Ferrara,Goalkeeper,1998-04-21,18,Italy,1.86,Right,2015-07-01,,50000.0,,49743
+Napoli Primavera U19,2015,336588,Mario Di Maiolo,Goalkeeper,1997-01-31,19,Italy,,,2014-08-22,,25000.0,,29445
+Napoli Primavera U19,2015,315869,Maurizio Schaeper,Goalkeeper,1999-04-28,17,Italy,1.85,Right,2016-07-01,,,,49743
+Napoli Primavera U19,2015,417414,Davide Marfella,Goalkeeper,1999-09-15,16,Italy,1.82,Right,2016-07-01,,,,78534
+Napoli Primavera U19,2015,278531,Sebastiano Luperto,Centre-Back,1996-09-06,19,Italy,1.91,Left,2014-07-01,,300000.0,,5618
+Napoli Primavera U19,2015,389313,Gennaro Donnarumma,Centre-Back,1998-07-01,17,Italy,1.83,Left,2015-07-30,,50000.0,,22336
+Napoli Primavera U19,2015,335707,Antonio Granata,Centre-Back,1997-01-20,19,Italy,1.86,Right,2014-07-01,,50000.0,,49743
+Napoli Primavera U19,2015,392334,Giuseppe Esposito,Centre-Back,1999-04-16,17,Italy,,Right,2016-07-16,,,,49743
+Napoli Primavera U19,2015,415042,Marco Milanese,Centre-Back,1998-07-31,17,Italy,1.85,Left,2016-01-02,,,,12130
+Napoli Primavera U19,2015,415520,Andrea Hristov,Centre-Back,1999-03-01,17,Bulgaria,1.92,Both,,,,,6912
+Napoli Primavera U19,2015,355051,Luigi D'Ignazio,Left-Back,1998-03-13,18,Italy,1.75,Left,2015-07-01,,100000.0,,49743
+Napoli Primavera U19,2015,310982,Mattia Piacente,Left-Back,1997-10-01,18,Italy,1.84,Left,2015-08-31,,25000.0,,22336
+Napoli Primavera U19,2015,392335,Lorenzo Riccio,Left-Back,1999-06-02,17,Italy,1.75,Left,2016-07-19,,,,49743
+Napoli Primavera U19,2015,397351,Pio Schiavi,Right-Back,1998-08-27,17,Italy,1.81,Right,2015-07-01,,75000.0,,49743
+Napoli Primavera U19,2015,286287,Giorgio Palumbo,Right-Back,1997-01-16,19,Italy,1.83,Right,2013-07-01,,75000.0,,14709
+Napoli Primavera U19,2015,292492,Aniello Esposito,Right-Back,1997-03-31,19,Italy,,,2014-07-01,,25000.0,,14709
+Napoli Primavera U19,2015,323612,Diego Acunzo,Defensive Midfield,1998-03-19,18,Italy,1.83,Right,2015-08-26,,125000.0,,5243
+Napoli Primavera U19,2015,384722,Agnello Ferraro,Defensive Midfield,1997-08-03,18,Italy,1.75,Right,2015-07-30,,125000.0,,10118
+Napoli Primavera U19,2015,370821,Umberto Otranto,Defensive Midfield,1998-05-30,18,Italy,1.7,Right,2015-07-01,,50000.0,,49743
+Napoli Primavera U19,2015,303386,Gennaro De Simone,Central Midfield,1997-05-22,19,Italy,1.76,Right,2014-07-01,,75000.0,,49743
+Napoli Primavera U19,2015,249470,Felice Gaetano,Central Midfield,1996-01-08,20,Italy,1.7,Right,2012-07-01,,50000.0,,14709
+Napoli Primavera U19,2015,315906,Fabrizio De Simone,Central Midfield,1997-05-09,19,Italy,,,2014-07-01,,50000.0,,14709
+Napoli Primavera U19,2015,395428,Salvatore Spavone,Central Midfield,1998-06-12,18,Italy,1.79,Right,2015-07-01,,50000.0,,14709
+Napoli Primavera U19,2015,335709,Biagio Setola,Left Midfield,1997-01-12,19,Italy,1.76,Both,,,25000.0,,1782
+Napoli Primavera U19,2015,395722,Salvatore Farina,Attacking Midfield,1998-01-20,18,Italy,,Right,2015-07-28,,25000.0,,14709
+Napoli Primavera U19,2015,321876,Emanuel Procida,Left Winger,1998-03-27,18,Italy,1.7,Right,2015-07-01,,50000.0,,49743
+Napoli Primavera U19,2015,330566,Giuseppe Carcatella,Left Winger,1997-01-30,19,Italy,1.69,Right,2015-07-01,,25000.0,,17664
+Napoli Primavera U19,2015,395436,Luigi Liguori,Right Winger,1998-03-31,18,Italy,1.67,Left,2015-08-25,,150000.0,,40912
+Napoli Primavera U19,2015,389314,Luigi Luise,Right Winger,1998-05-31,18,Italy,1.76,Right,2015-07-30,,100000.0,,75406
+Napoli Primavera U19,2015,364788,Mario Tammaro,Right Winger,1998-06-04,18,Italy,,,2016-01-21,,50000.0,,8517
+Napoli Primavera U19,2015,302398,Giovanni Lombardi,Right Winger,1997-03-11,19,Italy,1.65,Left,2014-07-01,,25000.0,,14709
+Napoli Primavera U19,2015,335708,Raffaele Selva,Second Striker,1997-06-06,19,Italy,1.69,Right,2014-07-01,,50000.0,,14709
+Napoli Primavera U19,2015,316935,Antonio Negro,Centre-Forward,1998-06-10,18,Italy,1.88,Right,2015-08-01,,250000.0,,14709
+Napoli Primavera U19,2015,397554,Manolo Cioffi,Striker,1998-04-14,18,Italy,1.83,Right,2015-07-01,,50000.0,,14709
+Napoli Primavera U19,2015,392348,Riccardo Conte,Centre-Forward,1999-06-08,17,Italy,1.85,Right,2016-07-01,,,,49743
+Napoli Primavera U19,2016,417414,Davide Marfella,Goalkeeper,1999-09-15,17,Italy,1.82,Right,2016-07-01,,75000.0,,78534
+Napoli Primavera U19,2016,355476,Antonio Ferrara,Goalkeeper,1998-04-21,19,Italy,1.86,Right,2015-07-01,,50000.0,,49743
+Napoli Primavera U19,2016,448861,Francesco Mazzella,Goalkeeper,1999-04-16,18,Italy,1.77,Right,2016-07-24,,25000.0,,46257
+Napoli Primavera U19,2016,315869,Maurizio Schaeper,Goalkeeper,1999-04-28,18,Italy,1.85,Right,2016-07-01,,,,49743
+Napoli Primavera U19,2016,111347,Lorenzo Tonelli,Centre-Back,1990-01-17,27,Italy,1.83,Right,,,8000000.0,,
+Napoli Primavera U19,2016,225874,Igor Łasicki,Centre-Back,1995-06-26,22,Poland,1.84,Right,2012-07-13,,200000.0,,8372
+Napoli Primavera U19,2016,392334,Giuseppe Esposito,Centre-Back,1999-04-16,18,Italy,,Right,2016-07-16,,75000.0,,49743
+Napoli Primavera U19,2016,468075,Andrew Marie-Sainte,Centre-Back,1998-08-20,18,"Martinique, France",1.9,Right,2017-01-31,,75000.0,,26780
+Napoli Primavera U19,2016,396276,Francesco Rizzo,Centre-Back,1998-03-24,19,Italy,1.87,Right,2016-07-22,,50000.0,,14902
+Napoli Primavera U19,2016,335707,Antonio Granata,Centre-Back,1997-01-20,20,Italy,1.86,Right,2014-07-01,,50000.0,,49743
+Napoli Primavera U19,2016,396117,Niccolò Bartiromo,Centre-Back,2000-07-26,16,Italy,1.84,Right,2017-07-01,,,,49743
+Napoli Primavera U19,2016,415042,Marco Milanese,Centre-Back,1998-07-31,18,Italy,1.85,Left,2016-01-02,,,,12130
+Napoli Primavera U19,2016,430764,Alberto Senese,Centre-Back,2000-03-24,17,Italy,1.82,Both,2017-07-01,,,,49743
+Napoli Primavera U19,2016,355051,Luigi D'Ignazio,Left-Back,1998-03-13,19,Italy,1.75,Left,2015-07-01,,100000.0,,49743
+Napoli Primavera U19,2016,392335,Lorenzo Riccio,Left-Back,1999-06-02,18,Italy,1.75,Left,2016-07-19,,50000.0,,49743
+Napoli Primavera U19,2016,392336,Guglielmo Marino,Left-Back,1999-01-20,18,Italy,,Left,2016-07-27,,25000.0,,49743
+Napoli Primavera U19,2016,397351,Pio Schiavi,Right-Back,1998-08-27,18,Italy,1.81,Right,2015-07-01,,75000.0,,49743
+Napoli Primavera U19,2016,452590,Pasquale Migliaccio,Right-Back,1999-02-01,18,Italy,,Right,2016-08-06,,50000.0,,14843
+Napoli Primavera U19,2016,387019,Antonio Calabrese,Right-Back,1999-06-26,18,Italy,,Right,2016-07-22,,25000.0,,49743
+Napoli Primavera U19,2016,323612,Diego Acunzo,Defensive Midfield,1998-03-19,19,Italy,1.83,Right,2015-08-26,,125000.0,,5243
+Napoli Primavera U19,2016,370821,Umberto Otranto,Defensive Midfield,1998-05-30,19,Italy,1.7,Right,2015-07-01,,75000.0,,49743
+Napoli Primavera U19,2016,455969,Nicola D'Alessandro,Defensive Midfield,2000-08-29,16,Italy,,Left,2017-07-01,,,,49743
+Napoli Primavera U19,2016,358008,Gianluca Gaetano,Defensive Midfield,2000-05-05,17,Italy,1.83,Right,2016-12-29,,,,49743
+Napoli Primavera U19,2016,478408,Alessio Esposito,Defensive Midfield,2001-04-08,16,Italy,,Right,2018-07-01,,,,49743
+Napoli Primavera U19,2016,303386,Gennaro De Simone,Central Midfield,1997-05-22,20,Italy,1.76,Right,2014-07-01,,75000.0,,49743
+Napoli Primavera U19,2016,457773,Abdallah Basit,Central Midfield,1999-10-15,17,"Ghana, Italy",1.8,Right,2016-08-31,,75000.0,,27531
+Napoli Primavera U19,2016,392341,Diego Passeri,Central Midfield,1999-05-08,18,Italy,,Right,2016-07-17,,50000.0,,49743
+Napoli Primavera U19,2016,392345,Pasquale Daddio,Central Midfield,1999-01-30,18,Italy,,,2016-07-17,,50000.0,,49743
+Napoli Primavera U19,2016,452601,Antonio Cardone,Central Midfield,1999-12-21,17,Italy,,Right,2016-07-29,,50000.0,,50388
+Napoli Primavera U19,2016,392338,Giovanni Mattera,Central Midfield,1999-04-19,18,Italy,,Right,2016-07-17,,25000.0,,49743
+Napoli Primavera U19,2016,393653,Salvatore Micillo,Central Midfield,2000-02-07,17,Italy,,Right,2017-07-01,,,,49743
+Napoli Primavera U19,2016,395190,Francesco Mezzoni,Right Midfield,2000-05-27,17,Italy,1.81,Right,2017-08-31,,,,27531
+Napoli Primavera U19,2016,351898,Leandrinho,Left Winger,1998-10-11,18,Brazil,1.74,Right,,,700000.0,,515
+Napoli Primavera U19,2016,433584,Alessio Zerbin,Left Winger,1999-03-03,18,Italy,1.82,Right,2017-01-31,,100000.0,,13484
+Napoli Primavera U19,2016,393652,Raffaele Russo,Left Winger,1999-02-25,18,Italy,1.71,Right,2016-07-17,,75000.0,,49743
+Napoli Primavera U19,2016,200174,Roberto Insigne,Right Winger,1994-05-11,23,Italy,1.72,Left,2011-07-01,,700000.0,,14709
+Napoli Primavera U19,2016,395436,Luigi Liguori,Right Winger,1998-03-31,19,Italy,1.67,Left,2015-08-25,,200000.0,,40912
+Napoli Primavera U19,2016,387022,Antonio Della Corte,Right Winger,1999-07-16,17,Italy,,Right,2016-07-01,,50000.0,,49743
+Napoli Primavera U19,2016,387381,Alessio Ritieni,Right Winger,1999-06-26,18,Italy,,Right,2016-07-22,,25000.0,,49759
+Napoli Primavera U19,2016,452712,Francesco Napolitano,Right Winger,1999-05-16,18,Italy,,,,,25000.0,,38991
+Napoli Primavera U19,2016,476169,Gianluca Catavere,Right Winger,1999-02-15,18,Italy,,,2016-11-29,,25000.0,,515
+Napoli Primavera U19,2016,465222,Antonio Energe,Right Winger,2000-01-21,17,Italy,1.78,Left,2017-07-01,,,,49743
+Napoli Primavera U19,2016,316935,Antonio Negro,Centre-Forward,1998-06-10,19,Italy,1.88,Right,2015-08-01,,250000.0,,14709
+Napoli Primavera U19,2016,397554,Manolo Cioffi,Striker,1998-04-14,19,Italy,1.83,Right,2015-07-01,,50000.0,,14709
+Napoli Primavera U19,2016,392348,Riccardo Conte,Centre-Forward,1999-06-08,18,Italy,1.85,Right,2016-07-01,,,,49743
+Napoli Primavera U19,2017,315869,Maurizio Schaeper,Goalkeeper,1999-04-28,19,Italy,1.85,Right,2016-07-01,,50000.0,,49743
+Napoli Primavera U19,2017,455973,Antonio Maisto,Goalkeeper,2000-03-17,18,Italy,,,2017-07-01,,,,49743
+Napoli Primavera U19,2017,537358,Giovanni Evangelista,Goalkeeper,2001-03-06,17,Italy,,,,,,,515
+Napoli Primavera U19,2017,392331,Alessandro D'Andrea,Goalkeeper,2000-03-22,18,Italy,1.88,Left,2017-07-01,,,,49743
+Napoli Primavera U19,2017,111347,Lorenzo Tonelli,Centre-Back,1990-01-17,28,Italy,1.83,Right,,,5000000.0,,
+Napoli Primavera U19,2017,392334,Giuseppe Esposito,Centre-Back,1999-04-16,19,Italy,,Right,2016-07-16,,75000.0,,49743
+Napoli Primavera U19,2017,468075,Andrew Marie-Sainte,Centre-Back,1998-08-20,19,"Martinique, France",1.9,Right,2017-01-31,,75000.0,,26780
+Napoli Primavera U19,2017,390154,Claudio Manzi,Centre-Back,2000-06-21,18,Italy,1.82,Right,2017-07-01,,,,49743
+Napoli Primavera U19,2017,396117,Niccolò Bartiromo,Centre-Back,2000-07-26,17,Italy,1.84,Right,2017-07-01,,,,49743
+Napoli Primavera U19,2017,430764,Alberto Senese,Centre-Back,2000-03-24,18,Italy,1.82,Both,2017-07-01,,,,49743
+Napoli Primavera U19,2017,504969,Francesco Massa,Centre-Back,2001-01-01,17,Italy,1.88,Left,,,,,45189
+Napoli Primavera U19,2017,355051,Luigi D'Ignazio,Left-Back,1998-03-13,20,Italy,1.75,Left,2015-07-01,,75000.0,,49743
+Napoli Primavera U19,2017,465003,Michael Scarf,Left-Back,1999-05-10,19,Ghana,1.87,Left,2017-08-04,,75000.0,,27531
+Napoli Primavera U19,2017,455972,Giuseppe Pizza,Left-Back,2000-01-24,18,Italy,,,2017-07-01,,,,49743
+Napoli Primavera U19,2017,455974,Giovanni Calvano,Left-Back,2000-10-30,17,Italy,,Left,2017-07-01,,,,49743
+Napoli Primavera U19,2017,397351,Pio Schiavi,Right-Back,1998-08-27,19,Italy,1.81,Right,2015-07-01,,50000.0,,49743
+Napoli Primavera U19,2017,370434,Salvatore Pelliccia,Right-Back,2000-01-23,18,Italy,1.77,Right,2017-07-01,,,,49743
+Napoli Primavera U19,2017,397225,Alessandro Zanoli,Right-Back,2000-10-03,17,Italy,1.88,Right,2019-07-01,,,,4102
+Napoli Primavera U19,2017,370821,Umberto Otranto,Defensive Midfield,1998-05-30,20,Italy,1.7,Right,2015-07-01,,75000.0,,49743
+Napoli Primavera U19,2017,323612,Diego Acunzo,Defensive Midfield,1998-03-19,20,Italy,1.83,Right,2015-08-26,,50000.0,,5243
+Napoli Primavera U19,2017,533683,Pierfrancesco Vecchione,Defensive Midfield,1999-11-15,18,Italy,1.83,Right,2018-01-31,,25000.0,,22336
+Napoli Primavera U19,2017,455968,Matteo Coglitore,Defensive Midfield,2000-12-07,17,Italy,,,2017-07-01,,,,49743
+Napoli Primavera U19,2017,455969,Nicola D'Alessandro,Defensive Midfield,2000-08-29,17,Italy,,Left,2017-07-01,,,,49743
+Napoli Primavera U19,2017,358008,Gianluca Gaetano,Defensive Midfield,2000-05-05,18,Italy,1.83,Right,2016-12-29,,,,49743
+Napoli Primavera U19,2017,478408,Alessio Esposito,Defensive Midfield,2001-04-08,17,Italy,,Right,2018-07-01,,,,49743
+Napoli Primavera U19,2017,457773,Abdallah Basit,Central Midfield,1999-10-15,18,"Ghana, Italy",1.8,Right,2016-08-31,,50000.0,,27531
+Napoli Primavera U19,2017,393653,Salvatore Micillo,Central Midfield,2000-02-07,18,Italy,,Right,2017-07-01,,,,49743
+Napoli Primavera U19,2017,537217,Antonio Marino,Central Midfield,2000-09-01,17,Italy,,Left,,,,,515
+Napoli Primavera U19,2017,395190,Francesco Mezzoni,Right Midfield,2000-05-27,18,Italy,1.81,Right,2017-08-31,,,,27531
+Napoli Primavera U19,2017,351898,Leandrinho,Left Winger,1998-10-11,19,Brazil,1.74,Right,,,600000.0,,515
+Napoli Primavera U19,2017,433584,Alessio Zerbin,Left Winger,1999-03-03,19,Italy,1.82,Right,2017-01-31,,125000.0,,13484
+Napoli Primavera U19,2017,393652,Raffaele Russo,Left Winger,1999-02-25,19,Italy,1.71,Right,2016-07-17,,50000.0,,49743
+Napoli Primavera U19,2017,400485,Adam Ounas,Right Winger,1996-11-11,21,"Algeria, France",1.72,Left,,,4500000.0,,6297
+Napoli Primavera U19,2017,476169,Gianluca Catavere,Right Winger,1999-02-15,19,Italy,,,2016-11-29,,,,515
+Napoli Primavera U19,2017,465222,Antonio Energe,Right Winger,2000-01-21,18,Italy,1.78,Left,2017-07-01,,,,49743
+Napoli Primavera U19,2017,401163,Ciro Palmieri,Second Striker,2000-02-01,18,Italy,1.77,Right,2017-07-01,,,,49743
+Napoli Primavera U19,2017,535797,Lorenzo Sgarbi,Second Striker,2001-03-24,17,Italy,1.89,Right,2019-07-01,,,,4554
+Napoli Primavera U19,2017,392348,Riccardo Conte,Centre-Forward,1999-06-08,19,Italy,1.85,Right,2016-07-01,,,,49743
+Napoli Primavera U19,2017,440975,Emanuele Serrano,Centre-Forward,2000-08-11,17,Italy,1.85,Left,2017-07-01,,,,78534
+Napoli Primavera U19,2017,455971,Francesco Pirone,Centre-Forward,2000-04-23,18,Italy,,,2017-07-01,,,,49743
+Napoli Primavera U19,2018,392331,Alessandro D'Andrea,Goalkeeper,2000-03-22,19,Italy,1.88,Left,2017-07-01,,50000.0,,49743
+Napoli Primavera U19,2018,455973,Antonio Maisto,Goalkeeper,2000-03-17,19,Italy,,,2017-07-01,,,,49743
+Napoli Primavera U19,2018,550640,Gioacchino Maione,Goalkeeper,2002-01-20,17,Italy,,Right,2019-07-01,,,,49743
+Napoli Primavera U19,2018,555557,Hubert Idasiak,Goalkeeper,2002-02-03,17,Poland,1.88,Right,2018-08-21,,,,50949
+Napoli Primavera U19,2018,618502,Antonio Pio Daniele,Goalkeeper,2002-07-10,16,Italy,1.84,Right,2019-07-01,,,,49743
+Napoli Primavera U19,2018,604914,João Pedro Piai,Goalkeeper,2000-07-11,18,"Brazil, Italy",1.9,Left,2018-10-01,,,,515
+Napoli Primavera U19,2018,430764,Alberto Senese,Centre-Back,2000-03-24,19,Italy,1.82,Both,2017-07-01,,100000.0,,49743
+Napoli Primavera U19,2018,390154,Claudio Manzi,Centre-Back,2000-06-21,19,Italy,1.82,Right,2017-07-01,,75000.0,,49743
+Napoli Primavera U19,2018,392334,Giuseppe Esposito,Centre-Back,1999-04-16,20,Italy,,Right,2016-07-16,,50000.0,,49743
+Napoli Primavera U19,2018,396117,Niccolò Bartiromo,Centre-Back,2000-07-26,18,Italy,1.84,Right,2017-07-01,,25000.0,,49743
+Napoli Primavera U19,2018,485319,Filippo Perini,Centre-Back,2000-09-24,18,Italy,1.88,Right,2018-08-13,,25000.0,,515
+Napoli Primavera U19,2018,504969,Francesco Massa,Centre-Back,2001-01-01,18,Italy,1.88,Left,,,25000.0,,45189
+Napoli Primavera U19,2018,534138,Francesco Casella,Centre-Back,2000-01-02,19,Italy,1.81,Right,2018-08-13,,25000.0,,22336
+Napoli Primavera U19,2018,455974,Giovanni Calvano,Left-Back,2000-10-30,18,Italy,,Left,2017-07-01,,25000.0,,49743
+Napoli Primavera U19,2018,646903,Matteo Loizzo,Left-Back,2001-05-28,18,Italy,1.82,Left,2019-01-22,,,,53704
+Napoli Primavera U19,2018,397225,Alessandro Zanoli,Right-Back,2000-10-03,18,Italy,1.88,Right,2019-07-01,,75000.0,,4102
+Napoli Primavera U19,2018,593381,Simone Zanon,Right-Back,2001-08-30,17,Italy,1.78,Right,2019-01-24,,50000.0,,4554
+Napoli Primavera U19,2018,544174,Nicola Gaeta,Right-Back,2001-08-06,17,Italy,,Right,2018-07-01,,,,49743
+Napoli Primavera U19,2018,550574,Luigi Marrella,Right-Back,2001-06-15,18,Italy,,Right,,,,,
+Napoli Primavera U19,2018,358008,Gianluca Gaetano,Defensive Midfield,2000-05-05,19,Italy,1.83,Right,2016-12-29,,800000.0,,49743
+Napoli Primavera U19,2018,455970,Antonio Illuminato,Defensive Midfield,2000-05-24,19,Italy,1.77,Left,,,50000.0,,515
+Napoli Primavera U19,2018,455969,Nicola D'Alessandro,Defensive Midfield,2000-08-29,18,Italy,,Left,2017-07-01,,,,49743
+Napoli Primavera U19,2018,478408,Alessio Esposito,Defensive Midfield,2001-04-08,18,Italy,,Right,2018-07-01,,,,49743
+Napoli Primavera U19,2018,511866,Rafail Mamas,Defensive Midfield,2001-03-04,18,Cyprus,1.85,Right,2018-08-16,,,,42230
+Napoli Primavera U19,2018,393653,Salvatore Micillo,Central Midfield,2000-02-07,19,Italy,,Right,2017-07-01,,50000.0,,49743
+Napoli Primavera U19,2018,537217,Antonio Marino,Central Midfield,2000-09-01,18,Italy,,Left,,,25000.0,,515
+Napoli Primavera U19,2018,421781,Valerio Labriola,Central Midfield,2001-04-13,18,Italy,1.75,Right,2018-07-01,,,,49743
+Napoli Primavera U19,2018,565041,Alessandro Lovisa,Central Midfield,2001-08-22,17,Italy,1.88,Right,2018-08-17,,,,27482
+Napoli Primavera U19,2018,395190,Francesco Mezzoni,Right Midfield,2000-05-27,19,Italy,1.81,Right,2017-08-31,,75000.0,,27531
+Napoli Primavera U19,2018,612065,Karim Zedadka,Left Midfield,2000-06-09,19,"Algeria, France",1.84,Right,2018-08-29,,100000.0,,12763
+Napoli Primavera U19,2018,481692,Georgios Vrakas,Attacking Midfield,2001-04-28,18,"Greece, Australia",1.8,Right,2018-08-17,,100000.0,,8511
+Napoli Primavera U19,2018,543589,Ciro Guadagni,Left Winger,2001-04-10,18,Italy,,,2018-07-01,,,,49743
+Napoli Primavera U19,2018,465222,Antonio Energe,Right Winger,2000-01-21,19,Italy,1.78,Left,2017-07-01,,,,49743
+Napoli Primavera U19,2018,537360,Giuseppe Guadagni,Right Winger,2001-11-26,17,Italy,1.71,Left,,,,,46337
+Napoli Primavera U19,2018,401163,Ciro Palmieri,Second Striker,2000-02-01,19,Italy,1.77,Right,2017-07-01,,75000.0,,49743
+Napoli Primavera U19,2018,535797,Lorenzo Sgarbi,Second Striker,2001-03-24,18,Italy,1.89,Right,2019-07-01,,,,4554
+Napoli Primavera U19,2018,316935,Antonio Negro,Centre-Forward,1998-06-10,21,Italy,1.88,Right,2015-08-01,,75000.0,,14709
+Napoli Primavera U19,2018,570893,Pier Francesco Bertoli,Centre-Forward,2001-05-04,18,Italy,1.83,Left,2019-01-24,,50000.0,,21331
+Napoli Primavera U19,2018,393273,Mattia Saporetti,Centre-Forward,2000-05-29,19,Italy,1.85,Right,2018-07-25,,25000.0,,4102
+Napoli Primavera U19,2018,537362,Mario Chianese,Centre-Forward,2001-01-22,18,Italy,1.68,Both,,,,,139413
+Napoli Primavera U19,2019,476410,Vincenzo Mancino,Goalkeeper,2002-05-03,18,Italy,1.87,Right,2019-07-01,,,,49743
+Napoli Primavera U19,2019,550640,Gioacchino Maione,Goalkeeper,2002-01-20,18,Italy,,Right,2019-07-01,,,,49743
+Napoli Primavera U19,2019,555557,Hubert Idasiak,Goalkeeper,2002-02-03,18,Poland,1.88,Right,2018-08-21,,,,50949
+Napoli Primavera U19,2019,618502,Antonio Pio Daniele,Goalkeeper,2002-07-10,17,Italy,1.84,Right,2019-07-01,,,,49743
+Napoli Primavera U19,2019,390154,Claudio Manzi,Centre-Back,2000-06-21,20,Italy,1.82,Right,2017-07-01,,75000.0,,49743
+Napoli Primavera U19,2019,430764,Alberto Senese,Centre-Back,2000-03-24,20,Italy,1.82,Both,2017-07-01,,75000.0,,49743
+Napoli Primavera U19,2019,618505,Davide Costanzo,Centre-Back,2002-07-04,17,Italy,1.82,Left,2019-07-01,,,,49743
+Napoli Primavera U19,2019,357858,Marc Tsoungui,Left-Back,2002-07-30,17,Cameroon,1.82,Left,2019-08-13,,,,27999
+Napoli Primavera U19,2019,662417,Nello D'Onofrio,Left-Back,2002-05-21,18,Italy,1.86,Left,2019-07-01,,,,49743
+Napoli Primavera U19,2019,397225,Alessandro Zanoli,Right-Back,2000-10-03,19,Italy,1.88,Right,2019-07-01,,200000.0,,4102
+Napoli Primavera U19,2019,593381,Simone Zanon,Right-Back,2001-08-30,18,Italy,1.78,Right,2019-01-24,,50000.0,,4554
+Napoli Primavera U19,2019,508786,Vincenzo Potenza,Right-Back,2002-04-17,18,Italy,,Right,2019-07-01,,,,49743
+Napoli Primavera U19,2019,478408,Alessio Esposito,Defensive Midfield,2001-04-08,19,Italy,,Right,2018-07-01,,50000.0,,49743
+Napoli Primavera U19,2019,511866,Rafail Mamas,Defensive Midfield,2001-03-04,19,Cyprus,1.85,Right,2018-08-16,,50000.0,,42230
+Napoli Primavera U19,2019,662557,Giovanni Ceparano,Defensive Midfield,2002-05-13,18,Italy,1.68,Right,2019-07-01,,,,49743
+Napoli Primavera U19,2019,662559,Raffaele Virgilio,Defensive Midfield,2002-01-17,18,Italy,1.89,Right,2019-07-01,,,,49743
+Napoli Primavera U19,2019,421781,Valerio Labriola,Central Midfield,2001-04-13,19,Italy,1.75,Right,2018-07-01,,50000.0,,49743
+Napoli Primavera U19,2019,497583,Brando Sami,Central Midfield,2001-04-30,19,Italy,1.8,Right,2020-01-29,,50000.0,,5380
+Napoli Primavera U19,2019,502823,Francesco Marrazzo,Central Midfield,2002-06-14,18,Italy,1.87,Left,2019-07-01,,,,49743
+Napoli Primavera U19,2019,618515,Andrea Mancino,Central Midfield,2002-08-26,17,Italy,1.7,Right,2019-07-01,,,,49743
+Napoli Primavera U19,2019,612065,Karim Zedadka,Left Midfield,2000-06-09,20,"Algeria, France",1.84,Right,2018-08-29,,100000.0,,12763
+Napoli Primavera U19,2019,481692,Georgios Vrakas,Attacking Midfield,2001-04-28,19,"Greece, Australia",1.8,Right,2018-08-17,,100000.0,,8511
+Napoli Primavera U19,2019,221421,Kleis Bozhanaj,Attacking Midfield,2001-03-01,19,Albania,1.8,Right,2020-01-31,,25000.0,,8492
+Napoli Primavera U19,2019,543566,Antonio D'Amato,Attacking Midfield,2002-03-10,18,Italy,,Right,2019-07-01,,,,49743
+Napoli Primavera U19,2019,566936,Antonio Cioffi,Left Winger,2002-12-19,17,Italy,1.8,Right,2019-07-01,,,,49743
+Napoli Primavera U19,2019,662562,Giuseppe D'Agostino,Left Winger,2003-05-11,17,Italy,1.7,Right,2020-09-01,,,,49743
+Napoli Primavera U19,2019,159902,Amato Ciciretti,Right Winger,1993-12-31,26,Italy,1.7,Left,,,1200000.0,,83412
+Napoli Primavera U19,2019,511878,Agapios Vrikkis,Right Winger,2001-05-03,19,Cyprus,1.84,Right,2019-09-02,,75000.0,,15099
+Napoli Primavera U19,2019,538601,Carlo Cavallo,Right Winger,2002-03-27,18,Italy,,Left,2019-07-01,,,,49743
+Napoli Primavera U19,2019,535797,Lorenzo Sgarbi,Second Striker,2001-03-24,19,Italy,1.89,Right,2019-07-01,,100000.0,,4554
+Napoli Primavera U19,2019,401163,Ciro Palmieri,Second Striker,2000-02-01,20,Italy,1.77,Right,2017-07-01,,75000.0,,49743
+Napoli Primavera U19,2019,534174,Samuele Vianni,Centre-Forward,2001-07-05,18,Italy,1.81,Right,2019-09-02,,50000.0,,27354
+Napoli Primavera U19,2020,555557,Hubert Idasiak,Goalkeeper,2002-02-03,19,Poland,1.88,Right,2018-08-21,,150000.0,,50949
+Napoli Primavera U19,2020,618502,Antonio Pio Daniele,Goalkeeper,2002-07-10,18,Italy,1.84,Right,2019-07-01,,10000.0,,49743
+Napoli Primavera U19,2020,678702,Francesco Baietti,Goalkeeper,2003-06-16,18,Italy,,Left,2020-09-01,,,,49743
+Napoli Primavera U19,2020,703241,Ciro Pinto,Goalkeeper,2003-01-01,18,Italy,1.88,Left,2020-07-01,,,,49743
+Napoli Primavera U19,2020,809987,Vincenzo Provitolo,Goalkeeper,2004-05-22,17,Italy,1.88,Right,2021-07-01,,,,49743
+Napoli Primavera U19,2020,618505,Davide Costanzo,Centre-Back,2002-07-04,18,Italy,1.82,Left,2019-07-01,,75000.0,,49743
+Napoli Primavera U19,2020,616142,Jonathan Spedalieri,Centre-Back,2002-01-26,19,Italy,1.92,Right,2021-01-15,,50000.0,,75901
+Napoli Primavera U19,2020,701315,Junior Nzila,Centre-Back,2001-04-17,20,"France, Congo",1.93,Right,2020-10-03,,50000.0,,510
+Napoli Primavera U19,2020,537586,Oscar Archimede Guarino,Centre-Back,2001-04-12,20,Italy,,Left,2020-09-22,,25000.0,,4111
+Napoli Primavera U19,2020,703238,Mauro Sepe,Centre-Back,2003-01-14,18,Italy,,Left,2020-09-01,,,,49743
+Napoli Primavera U19,2020,582354,Benedetto Barba,Centre-Back,2003-01-27,18,Italy,1.85,Right,2020-09-01,,,,49743
+Napoli Primavera U19,2020,662556,Flavio Romano,Left-Back,2002-07-19,18,Italy,1.8,Left,,,50000.0,,515
+Napoli Primavera U19,2020,662417,Nello D'Onofrio,Left-Back,2002-05-21,19,Italy,1.86,Left,2019-07-01,,25000.0,,49743
+Napoli Primavera U19,2020,508786,Vincenzo Potenza,Right-Back,2002-04-17,19,Italy,,Right,2019-07-01,,50000.0,,49743
+Napoli Primavera U19,2020,820628,Nathaniel Amoah,Right-Back,2002-04-12,19,"Netherlands, Ghana",1.82,Right,2020-10-02,,25000.0,,51902
+Napoli Primavera U19,2020,488657,Riccardo Cataldi,Defensive Midfield,2001-01-31,20,Italy,1.85,Right,2021-01-15,,75000.0,,515
+Napoli Primavera U19,2020,662559,Raffaele Virgilio,Defensive Midfield,2002-01-17,19,Italy,1.89,Right,2019-07-01,,50000.0,,49743
+Napoli Primavera U19,2020,662557,Giovanni Ceparano,Defensive Midfield,2002-05-13,19,Italy,1.68,Right,2019-07-01,,25000.0,,49743
+Napoli Primavera U19,2020,421781,Valerio Labriola,Central Midfield,2001-04-13,20,Italy,1.75,Right,2018-07-01,,75000.0,,49743
+Napoli Primavera U19,2020,497583,Brando Sami,Central Midfield,2001-04-30,20,Italy,1.8,Right,2020-01-29,,50000.0,,5380
+Napoli Primavera U19,2020,502823,Francesco Marrazzo,Central Midfield,2002-06-14,19,Italy,1.87,Left,2019-07-01,,,,49743
+Napoli Primavera U19,2020,703240,Gennaro Iaccarino,Central Midfield,2003-07-01,17,Italy,1.75,Right,2020-09-01,,,,49743
+Napoli Primavera U19,2020,816505,Domenico Di Dona,Right Midfield,2004-06-10,17,Italy,,Right,2021-07-01,,,,49743
+Napoli Primavera U19,2020,567478,Davide Acampa,Left Midfield,2003-02-09,18,Italy,,Left,2021-09-01,,,,49743
+Napoli Primavera U19,2020,543566,Antonio D'Amato,Attacking Midfield,2002-03-10,19,Italy,,Right,2019-07-01,,,,49743
+Napoli Primavera U19,2020,703245,Antonio Vergara,Attacking Midfield,2003-01-16,18,Italy,1.82,Left,2020-09-01,,,,49743
+Napoli Primavera U19,2020,566936,Antonio Cioffi,Left Winger,2002-12-19,18,Italy,1.8,Right,2019-07-01,,600000.0,,49743
+Napoli Primavera U19,2020,571613,Bruno Umile,Left Winger,2003-02-06,18,Italy,1.75,Right,2020-09-01,,,,49743
+Napoli Primavera U19,2020,703246,Pasquale Marranzino,Left Winger,2004-01-28,17,Italy,1.74,Right,2021-07-01,,,,49743
+Napoli Primavera U19,2020,662562,Giuseppe D'Agostino,Left Winger,2003-05-11,18,Italy,1.7,Right,2020-09-01,,,,49743
+Napoli Primavera U19,2020,616918,Vincenzo Furina,Centre-Forward,2002-05-13,19,Italy,1.83,Right,2021-01-13,,25000.0,,93168
+Napoli Primavera U19,2020,646902,Attilio Altomare,Centre-Forward,2002-11-27,18,Italy,,Right,,,,,111810
+Napoli Primavera U19,2020,659418,Antonio Pesce,Centre-Forward,2004-01-24,17,Italy,,Right,2021-07-01,,,,49743
+Napoli Primavera U19,2020,707295,Giuseppe Ambrosino,Centre-Forward,2003-09-10,17,Italy,1.87,Right,2020-09-01,,,,49743
+Napoli Primavera U19,2021,555557,Hubert Idasiak,Goalkeeper,2002-02-03,20,Poland,1.88,Right,2018-08-21,,150000.0,,50949
+Napoli Primavera U19,2021,703241,Ciro Pinto,Goalkeeper,2003-01-01,19,Italy,1.88,Left,2020-07-01,,,,49743
+Napoli Primavera U19,2021,724099,Claudio Turi,Goalkeeper,2005-05-06,17,Italy,1.87,Right,2022-07-01,,,,49743
+Napoli Primavera U19,2021,809987,Vincenzo Provitolo,Goalkeeper,2004-05-22,18,Italy,1.88,Right,2021-07-01,,,,49743
+Napoli Primavera U19,2021,930607,Raul Coprean,Goalkeeper,2005-06-22,17,"Romania, Italy",1.86,Right,,,,,81030
+Napoli Primavera U19,2021,978945,Aniello Rendina,Goalkeeper,2004-12-01,17,Italy,1.87,Right,2022-01-27,,,,26340
+Napoli Primavera U19,2021,809986,Valerio Boffelli,Goalkeeper,2004-09-04,17,Italy,1.82,Right,2021-07-01,,,,49743
+Napoli Primavera U19,2021,618505,Davide Costanzo,Centre-Back,2002-07-04,19,Italy,1.82,Left,2019-07-01,,125000.0,,49743
+Napoli Primavera U19,2021,582354,Benedetto Barba,Centre-Back,2003-01-27,19,Italy,1.85,Right,2020-09-01,,75000.0,,49743
+Napoli Primavera U19,2021,616142,Jonathan Spedalieri,Centre-Back,2002-01-26,20,Italy,1.92,Right,2021-01-15,,50000.0,,75901
+Napoli Primavera U19,2021,806946,Daniels Nosegbe-Suško,Centre-Back,2004-09-14,17,"Latvia, England",1.93,Right,2022-03-15,,,,75250
+Napoli Primavera U19,2021,819239,Daniel Hysaj,Centre-Back,2004-03-17,18,"Albania, Italy",1.81,Right,2021-07-01,,,,14907
+Napoli Primavera U19,2021,818582,Pasquale Pontillo,Centre-Back,2004-01-27,18,Italy,1.84,Right,2021-07-01,,,,49743
+Napoli Primavera U19,2021,745493,Umberto De Luca,Left-Back,2004-03-30,18,Italy,1.88,Left,2022-01-29,,,,8517
+Napoli Primavera U19,2021,397225,Alessandro Zanoli,Right-Back,2000-10-03,21,Italy,1.88,Right,2019-07-01,,4000000.0,,4102
+Napoli Primavera U19,2021,704503,Francesco Rossi,Right-Back,2003-01-14,19,Italy,,Right,,,75000.0,,515
+Napoli Primavera U19,2021,877620,Moussa Mané,Right-Back,2003-11-19,18,"Italy, Senegal",1.82,Right,2021-08-31,,25000.0,,14907
+Napoli Primavera U19,2021,818581,Matteo Marchisano,Right-Back,2004-10-06,17,Italy,1.86,Right,2021-07-01,,,,49743
+Napoli Primavera U19,2021,930307,Aziz Touré,Defensive Midfield,2002-12-04,19,Cote d'Ivoire,1.78,Right,2021-08-31,,,,11493
+Napoli Primavera U19,2021,820633,Coli Saco,Central Midfield,2002-05-15,20,"Mali, France",1.97,Left,2021-09-16,,100000.0,,515
+Napoli Primavera U19,2021,703240,Gennaro Iaccarino,Central Midfield,2003-07-01,18,Italy,1.75,Right,2020-09-01,,50000.0,,49743
+Napoli Primavera U19,2021,814045,Salvatore Longobardi,Central Midfield,2004-12-02,17,Italy,1.8,Left,2021-07-01,,,,49743
+Napoli Primavera U19,2021,816506,Dylan De Pasquale,Central Midfield,2004-10-27,17,Italy,1.76,Right,2021-07-01,,,,49743
+Napoli Primavera U19,2021,815546,Francesco Gioielli,Central Midfield,2004-02-26,18,Italy,,Right,2021-07-01,,,,49743
+Napoli Primavera U19,2021,818583,Massimiliano Flora,Central Midfield,2004-01-08,18,Italy,,Right,2021-07-01,,,,49743
+Napoli Primavera U19,2021,816505,Domenico Di Dona,Right Midfield,2004-06-10,18,Italy,,Right,2021-07-01,,,,49743
+Napoli Primavera U19,2021,702168,Francesco De Marco,Left Midfield,2003-03-18,19,Italy,1.78,Left,2021-08-29,,50000.0,,14926
+Napoli Primavera U19,2021,567478,Davide Acampa,Left Midfield,2003-02-09,19,Italy,,Left,2021-09-01,,25000.0,,49743
+Napoli Primavera U19,2021,703243,Enrico Giannini,Left Midfield,2004-09-17,17,Italy,1.8,Left,2021-07-01,,,,49743
+Napoli Primavera U19,2021,703245,Antonio Vergara,Attacking Midfield,2003-01-16,19,Italy,1.82,Left,2020-09-01,,150000.0,,49743
+Napoli Primavera U19,2021,566936,Antonio Cioffi,Left Winger,2002-12-19,19,Italy,1.8,Right,2019-07-01,,500000.0,,49743
+Napoli Primavera U19,2021,662562,Giuseppe D'Agostino,Left Winger,2003-05-11,19,Italy,1.7,Right,2020-09-01,,100000.0,,49743
+Napoli Primavera U19,2021,703246,Pasquale Marranzino,Left Winger,2004-01-28,18,Italy,1.74,Right,2021-07-01,,,,49743
+Napoli Primavera U19,2021,633038,Duccio Toccafondi,Right Winger,2003-07-15,18,Italy,1.92,Right,2022-01-01,,10000.0,,8492
+Napoli Primavera U19,2021,864947,Giovanni Mercurio,Second Striker,2003-08-11,18,Italy,1.68,Right,2021-08-30,,50000.0,,332
+Napoli Primavera U19,2021,814459,Alessandro Spavone,Second Striker,2004-05-10,18,Italy,1.75,Both,2021-07-01,,,,49743
+Napoli Primavera U19,2021,707295,Giuseppe Ambrosino,Centre-Forward,2003-09-10,18,Italy,1.87,Right,2020-09-01,,500000.0,,49743
+Napoli Primavera U19,2021,659418,Antonio Pesce,Centre-Forward,2004-01-24,18,Italy,,Right,2021-07-01,,,,49743
+Napoli Primavera U19,2022,809986,Valerio Boffelli,Goalkeeper,2004-09-04,18,Italy,1.82,Right,2021-07-01,,75000.0,,49743
+Napoli Primavera U19,2022,930625,Nicola Pellino,Goalkeeper,2005-01-29,18,Italy,,Left,2023-07-01,,,,100431
+Napoli Primavera U19,2022,724099,Claudio Turi,Goalkeeper,2005-05-06,18,Italy,1.87,Right,2022-07-01,,,,49743
+Napoli Primavera U19,2022,819239,Daniel Hysaj,Centre-Back,2004-03-17,19,"Albania, Italy",1.81,Right,2021-07-01,,100000.0,,14907
+Napoli Primavera U19,2022,582354,Benedetto Barba,Centre-Back,2003-01-27,20,Italy,1.85,Right,2020-09-01,,75000.0,,49743
+Napoli Primavera U19,2022,704456,Nosa Edward Obaretin,Centre-Back,2003-01-26,20,"Italy, Nigeria",1.93,Left,2022-07-26,,25000.0,,10958
+Napoli Primavera U19,2022,818582,Pasquale Pontillo,Centre-Back,2004-01-27,19,Italy,1.84,Right,2021-07-01,,10000.0,,49743
+Napoli Primavera U19,2022,806946,Daniels Nosegbe-Suško,Centre-Back,2004-09-14,18,"Latvia, England",1.93,Right,2022-03-15,,10000.0,,75250
+Napoli Primavera U19,2022,930584,Alessio Mazzone,Centre-Back,2005-02-24,18,Italy,,Right,2023-07-01,,,,100431
+Napoli Primavera U19,2022,818485,Alessandro Castorina,Centre-Back,2004-07-24,18,Italy,1.9,Both,2023-02-17,,,,102436
+Napoli Primavera U19,2022,818512,Giovanni Sequino,Centre-Back,2004-02-14,19,Italy,,Right,2022-09-01,,,,515
+Napoli Primavera U19,2022,885235,Luigi D'Avino,Centre-Back,2005-12-08,17,Italy,1.86,Right,2022-07-01,,,,49743
+Napoli Primavera U19,2022,818581,Matteo Marchisano,Right-Back,2004-10-06,18,Italy,1.86,Right,2021-07-01,,50000.0,,49743
+Napoli Primavera U19,2022,1032716,Alessio Lettera,Defensive Midfield,2004-07-08,18,Italy,,Right,2021-07-01,,10000.0,,49743
+Napoli Primavera U19,2022,885236,Lorenzo Russo,Defensive Midfield,2005-04-19,18,Italy,1.82,Left,2022-07-01,,,,49743
+Napoli Primavera U19,2022,815546,Francesco Gioielli,Central Midfield,2004-02-26,19,Italy,,Right,2021-07-01,,100000.0,,49743
+Napoli Primavera U19,2022,703240,Gennaro Iaccarino,Central Midfield,2003-07-01,19,Italy,1.75,Right,2020-09-01,,50000.0,,49743
+Napoli Primavera U19,2022,636694,Jorge Alastuey,Central Midfield,2003-05-14,20,Spain,1.78,Left,2022-09-30,,25000.0,,515
+Napoli Primavera U19,2022,651001,Simone Bonavita,Central Midfield,2004-02-07,19,Italy,1.85,Right,2023-01-31,,25000.0,,5380
+Napoli Primavera U19,2022,729156,Bruno Sabatino,Central Midfield,2004-07-16,18,Italy,1.77,Right,2022-10-25,,,,515
+Napoli Primavera U19,2022,816506,Dylan De Pasquale,Central Midfield,2004-10-27,18,Italy,1.76,Right,2021-07-01,,,,49743
+Napoli Primavera U19,2022,920941,Noah Mutanda,Central Midfield,2005-06-21,18,"Germany, DR Congo",1.83,Left,2022-10-16,,,,515
+Napoli Primavera U19,2022,1054431,Lamine Gningue,Right Midfield,2004-08-14,18,Senegal,,Right,2022-08-30,,50000.0,,515
+Napoli Primavera U19,2022,703243,Enrico Giannini,Left Midfield,2004-09-17,18,Italy,1.8,Left,2021-07-01,,25000.0,,49743
+Napoli Primavera U19,2022,567478,Davide Acampa,Left Midfield,2003-02-09,20,Italy,,Left,2021-09-01,,25000.0,,49743
+Napoli Primavera U19,2022,709511,Landry Boni,Attacking Midfield,2004-02-19,19,"Cote d'Ivoire, Italy",,Right,2022-08-29,,25000.0,,76093
+Napoli Primavera U19,2022,703246,Pasquale Marranzino,Left Winger,2004-01-28,19,Italy,1.74,Right,2021-07-01,,25000.0,,49743
+Napoli Primavera U19,2022,703226,Cedrick Koffi,Left Winger,2004-07-23,18,"Cote d'Ivoire, Italy",,Right,2023-01-12,,10000.0,,11997
+Napoli Primavera U19,2022,814459,Alessandro Spavone,Second Striker,2004-05-10,19,Italy,1.75,Both,2021-07-01,,150000.0,,49743
+Napoli Primavera U19,2022,710593,Bilel Sahli,Second Striker,2003-04-16,20,"France, Tunisia",1.86,Right,2022-08-24,,50000.0,,515
+Napoli Primavera U19,2022,659418,Antonio Pesce,Centre-Forward,2004-01-24,19,Italy,,Right,2021-07-01,,25000.0,,49743
+Napoli Primavera U19,2022,659378,Leonardo Rossi,Centre-Forward,2004-07-14,18,Italy,1.8,Right,2022-09-01,,25000.0,,10958
+Napoli Primavera U19,2022,886774,Antonio Solmonte,Centre-Forward,2005-01-18,18,Italy,,Right,,,,,22124
+Napoli Primavera U19,2022,1032715,Francesco Lorusso,Centre-Forward,2005-01-17,18,Italy,1.84,Left,,,,,515
+Napoli Under 18,2016,417414,Davide Marfella,Goalkeeper,1999-09-15,17,Italy,1.82,Right,,,75000.0,,704
+Napoli Under 18,2016,315869,Maurizio Schaeper,Goalkeeper,1999-04-28,18,Italy,1.85,Right,,,,,
+Napoli Under 18,2016,392334,Giuseppe Esposito,Centre-Back,1999-04-16,18,Italy,,Right,,,75000.0,,22403
+Napoli Under 18,2016,335707,Antonio Granata,Centre-Back,1997-01-20,20,Italy,1.86,Right,,,50000.0,,39989
+Napoli Under 18,2016,396276,Francesco Rizzo,Centre-Back,1998-03-24,19,Italy,1.87,Right,,,50000.0,,46619
+Napoli Under 18,2016,415042,Marco Milanese,Centre-Back,1998-07-31,18,Italy,1.85,Left,,,,,515
+Napoli Under 18,2016,355051,Luigi D'Ignazio,Left-Back,1998-03-13,19,Italy,1.75,Left,,,100000.0,,515
+Napoli Under 18,2016,392335,Lorenzo Riccio,Left-Back,1999-06-02,18,Italy,1.75,Left,,,50000.0,,
+Napoli Under 18,2016,397351,Pio Schiavi,Right-Back,1998-08-27,18,Italy,1.81,Right,,,75000.0,,4085
+Napoli Under 18,2016,452590,Pasquale Migliaccio,Right-Back,1999-02-01,18,Italy,,Right,,,50000.0,,
+Napoli Under 18,2016,323612,Diego Acunzo,Defensive Midfield,1998-03-19,19,Italy,1.83,Right,,,125000.0,,22124
+Napoli Under 18,2016,370821,Umberto Otranto,Defensive Midfield,1998-05-30,19,Italy,1.7,Right,,,75000.0,,19168
+Napoli Under 18,2016,303386,Gennaro De Simone,Central Midfield,1997-05-22,20,Italy,1.76,Right,,,75000.0,,12944
+Napoli Under 18,2016,457773,Abdallah Basit,Central Midfield,1999-10-15,17,"Ghana, Italy",1.8,Right,,,75000.0,,40861
+Napoli Under 18,2016,392341,Diego Passeri,Central Midfield,1999-05-08,18,Italy,,Right,,,50000.0,,
+Napoli Under 18,2016,392345,Pasquale Daddio,Central Midfield,1999-01-30,18,Italy,,,,,50000.0,,515
+Napoli Under 18,2016,392338,Giovanni Mattera,Central Midfield,1999-04-19,18,Italy,,Right,,,25000.0,,81033
+Napoli Under 18,2016,393652,Raffaele Russo,Left Winger,1999-02-25,18,Italy,1.71,Right,,,75000.0,,2331
+Napoli Under 18,2016,395436,Luigi Liguori,Right Winger,1998-03-31,19,Italy,1.67,Left,,,200000.0,,19167
+Napoli Under 18,2016,387022,Antonio Della Corte,Right Winger,1999-07-16,17,Italy,,Right,,,50000.0,,
+Napoli Under 18,2016,387381,Alessio Ritieni,Right Winger,1999-06-26,18,Italy,,Right,,,25000.0,,515
+Napoli Under 18,2016,316935,Antonio Negro,Centre-Forward,1998-06-10,19,Italy,1.88,Right,,,250000.0,,57673
+Napoli Under 18,2017,315869,Maurizio Schaeper,Goalkeeper,1999-04-28,19,Italy,1.85,Right,,,50000.0,,
+Napoli Under 18,2017,392331,Alessandro D'Andrea,Goalkeeper,2000-03-22,18,Italy,1.88,Left,,,,,515
+Napoli Under 18,2017,392334,Giuseppe Esposito,Centre-Back,1999-04-16,19,Italy,,Right,,,75000.0,,22403
+Napoli Under 18,2017,390154,Claudio Manzi,Centre-Back,2000-06-21,18,Italy,1.82,Right,,,,,22048
+Napoli Under 18,2017,396117,Niccolò Bartiromo,Centre-Back,2000-07-26,17,Italy,1.84,Right,,,,,111782
+Napoli Under 18,2017,430764,Alberto Senese,Centre-Back,2000-03-24,18,Italy,1.82,Both,,,,,56271
+Napoli Under 18,2017,465003,Michael Scarf,Left-Back,1999-05-10,19,Ghana,1.87,Left,,,75000.0,,515
+Napoli Under 18,2017,455972,Giuseppe Pizza,Left-Back,2000-01-24,18,Italy,,,,,,,
+Napoli Under 18,2017,455974,Giovanni Calvano,Left-Back,2000-10-30,17,Italy,,Left,,,,,
+Napoli Under 18,2017,397351,Pio Schiavi,Right-Back,1998-08-27,19,Italy,1.81,Right,,,50000.0,,4085
+Napoli Under 18,2017,370434,Salvatore Pelliccia,Right-Back,2000-01-23,18,Italy,1.77,Right,,,,,62346
+Napoli Under 18,2017,370821,Umberto Otranto,Defensive Midfield,1998-05-30,20,Italy,1.7,Right,,,75000.0,,19168
+Napoli Under 18,2017,455968,Matteo Coglitore,Defensive Midfield,2000-12-07,17,Italy,,,,,,,515
+Napoli Under 18,2017,358008,Gianluca Gaetano,Defensive Midfield,2000-05-05,18,Italy,1.83,Right,,,,,800
+Napoli Under 18,2017,457773,Abdallah Basit,Central Midfield,1999-10-15,18,"Ghana, Italy",1.8,Right,,,50000.0,,40861
+Napoli Under 18,2017,393653,Salvatore Micillo,Central Midfield,2000-02-07,18,Italy,,Right,,,,,65675
+Napoli Under 18,2017,537217,Antonio Marino,Central Midfield,2000-09-01,17,Italy,,Left,,,,,515
+Napoli Under 18,2017,395190,Francesco Mezzoni,Right Midfield,2000-05-27,18,Italy,1.81,Right,,,,,20519
+Napoli Under 18,2017,433584,Alessio Zerbin,Left Winger,1999-03-03,19,Italy,1.82,Right,,,125000.0,,8970
+Napoli Under 18,2017,393652,Raffaele Russo,Left Winger,1999-02-25,19,Italy,1.71,Right,,,50000.0,,2331
+Napoli Under 18,2017,465222,Antonio Energe,Right Winger,2000-01-21,18,Italy,1.78,Left,,,,,4031
+Napoli Under 18,2017,401163,Ciro Palmieri,Second Striker,2000-02-01,18,Italy,1.77,Right,,,,,22048
+Napoli Under 18,2017,535797,Lorenzo Sgarbi,Second Striker,2001-03-24,17,Italy,1.89,Right,,,,,4330
+Napoli Under 18,2018,392331,Alessandro D'Andrea,Goalkeeper,2000-03-22,19,Italy,1.88,Left,,,50000.0,,515
+Napoli Under 18,2018,618502,Antonio Pio Daniele,Goalkeeper,2002-07-10,16,Italy,1.84,Right,,,,,515
+Napoli Under 18,2018,430764,Alberto Senese,Centre-Back,2000-03-24,19,Italy,1.82,Both,,,100000.0,,56271
+Napoli Under 18,2018,390154,Claudio Manzi,Centre-Back,2000-06-21,19,Italy,1.82,Right,,,75000.0,,22048
+Napoli Under 18,2018,392334,Giuseppe Esposito,Centre-Back,1999-04-16,20,Italy,,Right,,,50000.0,,22403
+Napoli Under 18,2018,396117,Niccolò Bartiromo,Centre-Back,2000-07-26,18,Italy,1.84,Right,,,25000.0,,111782
+Napoli Under 18,2018,485319,Filippo Perini,Centre-Back,2000-09-24,18,Italy,1.88,Right,,,25000.0,,77938
+Napoli Under 18,2018,534138,Francesco Casella,Centre-Back,2000-01-02,19,Italy,1.81,Right,,,25000.0,,4096
+Napoli Under 18,2018,455974,Giovanni Calvano,Left-Back,2000-10-30,18,Italy,,Left,,,25000.0,,
+Napoli Under 18,2018,397225,Alessandro Zanoli,Right-Back,2000-10-03,18,Italy,1.88,Right,,,75000.0,,410
+Napoli Under 18,2018,544174,Nicola Gaeta,Right-Back,2001-08-06,17,Italy,,Right,,,,,
+Napoli Under 18,2018,358008,Gianluca Gaetano,Defensive Midfield,2000-05-05,19,Italy,1.83,Right,,,800000.0,,800
+Napoli Under 18,2018,455970,Antonio Illuminato,Defensive Midfield,2000-05-24,19,Italy,1.77,Left,,,50000.0,,515
+Napoli Under 18,2018,455969,Nicola D'Alessandro,Defensive Midfield,2000-08-29,18,Italy,,Left,,,,,
+Napoli Under 18,2018,478408,Alessio Esposito,Defensive Midfield,2001-04-08,18,Italy,,Right,,,,,26201
+Napoli Under 18,2018,511866,Rafail Mamas,Defensive Midfield,2001-03-04,18,Cyprus,1.85,Right,,,,,282
+Napoli Under 18,2018,393653,Salvatore Micillo,Central Midfield,2000-02-07,19,Italy,,Right,,,50000.0,,65675
+Napoli Under 18,2018,537217,Antonio Marino,Central Midfield,2000-09-01,18,Italy,,Left,,,25000.0,,515
+Napoli Under 18,2018,565041,Alessandro Lovisa,Central Midfield,2001-08-22,17,Italy,1.88,Right,,,,,121628
+Napoli Under 18,2018,395190,Francesco Mezzoni,Right Midfield,2000-05-27,19,Italy,1.81,Right,,,75000.0,,20519
+Napoli Under 18,2018,612065,Karim Zedadka,Left Midfield,2000-06-09,19,"Algeria, France",1.84,Right,,,100000.0,,749
+Napoli Under 18,2018,481692,Georgios Vrakas,Attacking Midfield,2001-04-28,18,"Greece, Australia",1.8,Right,,,100000.0,,2672
+Napoli Under 18,2018,543589,Ciro Guadagni,Left Winger,2001-04-10,18,Italy,,,,,,,49934
+Napoli Under 18,2018,465222,Antonio Energe,Right Winger,2000-01-21,19,Italy,1.78,Left,,,,,4031
+Napoli Under 18,2018,401163,Ciro Palmieri,Second Striker,2000-02-01,19,Italy,1.77,Right,,,75000.0,,22048
+Napoli Under 18,2018,535797,Lorenzo Sgarbi,Second Striker,2001-03-24,18,Italy,1.89,Right,,,,,4330
+Napoli Under 18,2018,393273,Mattia Saporetti,Centre-Forward,2000-05-29,19,Italy,1.85,Right,,,25000.0,,9507
+Napoli Under 18,2019,550640,Gioacchino Maione,Goalkeeper,2002-01-20,18,Italy,,Right,,,,,125446
+Napoli Under 18,2019,555557,Hubert Idasiak,Goalkeeper,2002-02-03,18,Poland,1.88,Right,,,,,18880
+Napoli Under 18,2019,618502,Antonio Pio Daniele,Goalkeeper,2002-07-10,17,Italy,1.84,Right,,,,,515
+Napoli Under 18,2019,390154,Claudio Manzi,Centre-Back,2000-06-21,20,Italy,1.82,Right,,,75000.0,,22048
+Napoli Under 18,2019,430764,Alberto Senese,Centre-Back,2000-03-24,20,Italy,1.82,Both,,,75000.0,,56271
+Napoli Under 18,2019,618505,Davide Costanzo,Centre-Back,2002-07-04,17,Italy,1.82,Left,,,,,
+Napoli Under 18,2019,662417,Nello D'Onofrio,Left-Back,2002-05-21,18,Italy,1.86,Left,,,,,515
+Napoli Under 18,2019,593381,Simone Zanon,Right-Back,2001-08-30,18,Italy,1.78,Right,,,50000.0,,4172
+Napoli Under 18,2019,508786,Vincenzo Potenza,Right-Back,2002-04-17,18,Italy,,Right,,,,,44710
+Napoli Under 18,2019,358008,Gianluca Gaetano,Defensive Midfield,2000-05-05,20,Italy,1.83,Right,,,725000.0,,800
+Napoli Under 18,2019,478408,Alessio Esposito,Defensive Midfield,2001-04-08,19,Italy,,Right,,,50000.0,,26201
+Napoli Under 18,2019,511866,Rafail Mamas,Defensive Midfield,2001-03-04,19,Cyprus,1.85,Right,,,50000.0,,282
+Napoli Under 18,2019,662557,Giovanni Ceparano,Defensive Midfield,2002-05-13,18,Italy,1.68,Right,,,,,8579
+Napoli Under 18,2019,662559,Raffaele Virgilio,Defensive Midfield,2002-01-17,18,Italy,1.89,Right,,,,,57673
+Napoli Under 18,2019,421781,Valerio Labriola,Central Midfield,2001-04-13,19,Italy,1.75,Right,,,50000.0,,1253
+Napoli Under 18,2019,502823,Francesco Marrazzo,Central Midfield,2002-06-14,18,Italy,1.87,Left,,,,,80718
+Napoli Under 18,2019,618515,Andrea Mancino,Central Midfield,2002-08-26,17,Italy,1.7,Right,,,,,35626
+Napoli Under 18,2019,481692,Georgios Vrakas,Attacking Midfield,2001-04-28,19,"Greece, Australia",1.8,Right,,,100000.0,,2672
+Napoli Under 18,2019,543566,Antonio D'Amato,Attacking Midfield,2002-03-10,18,Italy,,Right,,,,,129219
+Napoli Under 18,2019,566936,Antonio Cioffi,Left Winger,2002-12-19,17,Italy,1.8,Right,,,,,22045
+Napoli Under 18,2019,511878,Agapios Vrikkis,Right Winger,2001-05-03,19,Cyprus,1.84,Right,,,75000.0,,1402
+Napoli Under 18,2019,538601,Carlo Cavallo,Right Winger,2002-03-27,18,Italy,,Left,,,,,515
+Napoli Under 18,2019,535797,Lorenzo Sgarbi,Second Striker,2001-03-24,19,Italy,1.89,Right,,,100000.0,,4330
+Napoli Under 18,2019,401163,Ciro Palmieri,Second Striker,2000-02-01,20,Italy,1.77,Right,,,75000.0,,22048
+Napoli Under 18,2019,534174,Samuele Vianni,Centre-Forward,2001-07-05,18,Italy,1.81,Right,,,50000.0,,4271
+Napoli Under 18,2022,809986,Valerio Boffelli,Goalkeeper,2004-09-04,18,Italy,1.82,Right,,,75000.0,,6266
+Napoli Under 18,2022,724099,Claudio Turi,Goalkeeper,2005-05-06,18,Italy,1.87,Right,,,,,46337
+Napoli Under 18,2022,819239,Daniel Hysaj,Centre-Back,2004-03-17,19,"Albania, Italy",1.81,Right,,,100000.0,,27624
+Napoli Under 18,2022,582354,Benedetto Barba,Centre-Back,2003-01-27,20,Italy,1.85,Right,,,75000.0,,4541
+Napoli Under 18,2022,806946,Daniels Nosegbe-Suško,Centre-Back,2004-09-14,18,"Latvia, England",1.93,Right,,,10000.0,,2950
+Napoli Under 18,2022,818582,Pasquale Pontillo,Centre-Back,2004-01-27,19,Italy,1.84,Right,,,10000.0,,515
+Napoli Under 18,2022,885235,Luigi D'Avino,Centre-Back,2005-12-08,17,Italy,1.86,Right,,,,,9818
+Napoli Under 18,2022,818581,Matteo Marchisano,Right-Back,2004-10-06,18,Italy,1.86,Right,,,50000.0,,9818
+Napoli Under 18,2022,1032716,Alessio Lettera,Defensive Midfield,2004-07-08,18,Italy,,Right,,,10000.0,,75
+Napoli Under 18,2022,885236,Lorenzo Russo,Defensive Midfield,2005-04-19,18,Italy,1.82,Left,,,,,4083
+Napoli Under 18,2022,815546,Francesco Gioielli,Central Midfield,2004-02-26,19,Italy,,Right,,,100000.0,,33734
+Napoli Under 18,2022,703240,Gennaro Iaccarino,Central Midfield,2003-07-01,19,Italy,1.75,Right,,,50000.0,,4255
+Napoli Under 18,2022,816506,Dylan De Pasquale,Central Midfield,2004-10-27,18,Italy,1.76,Right,,,,,51018
+Napoli Under 18,2022,920941,Noah Mutanda,Central Midfield,2005-06-21,18,"Germany, DR Congo",1.83,Left,,,,,2331
+Napoli Under 18,2022,1054431,Lamine Gningue,Right Midfield,2004-08-14,18,Senegal,,Right,,,50000.0,,60431
+Napoli Under 18,2022,816505,Domenico Di Dona,Right Midfield,2004-06-10,19,Italy,,Right,,,,,515
+Napoli Under 18,2022,567478,Davide Acampa,Left Midfield,2003-02-09,20,Italy,,Left,,,25000.0,,7170
+Napoli Under 18,2022,703243,Enrico Giannini,Left Midfield,2004-09-17,18,Italy,1.8,Left,,,25000.0,,4031
+Napoli Under 18,2022,709511,Landry Boni,Attacking Midfield,2004-02-19,19,"Cote d'Ivoire, Italy",,Right,,,25000.0,,14540
+Napoli Under 18,2022,703246,Pasquale Marranzino,Left Winger,2004-01-28,19,Italy,1.74,Right,,,25000.0,,4330
+Napoli Under 18,2022,814459,Alessandro Spavone,Second Striker,2004-05-10,19,Italy,1.75,Both,,,150000.0,,45894
+Napoli Under 18,2022,659378,Leonardo Rossi,Centre-Forward,2004-07-14,18,Italy,1.8,Right,,,25000.0,,14761
+Napoli Under 18,2022,659418,Antonio Pesce,Centre-Forward,2004-01-24,19,Italy,,Right,,,25000.0,,112015
+Napoli Under 18,2023,724099,Claudio Turi,Goalkeeper,2005-05-06,19,Italy,1.87,Right,,,125000.0,,46337
+Napoli Under 18,2023,930625,Nicola Pellino,Goalkeeper,2005-01-29,19,Italy,,Left,,,,,101163
+Napoli Under 18,2023,1019114,Andrea Sorrentino,Goalkeeper,2007-01-09,17,Italy,1.88,Right,,,,,57673
+Napoli Under 18,2023,885235,Luigi D'Avino,Centre-Back,2005-12-08,18,Italy,1.86,Right,,,125000.0,,9818
+Napoli Under 18,2023,930593,Jacopo Di Lauro,Centre-Back,2005-08-16,18,Italy,1.86,Left,,,125000.0,,38410
+Napoli Under 18,2023,930584,Alessio Mazzone,Centre-Back,2005-02-24,19,Italy,,Right,,,75000.0,,30090
+Napoli Under 18,2023,1061825,Mattia Esposito,Centre-Back,2006-02-12,18,Italy,1.93,,,,,,22408
+Napoli Under 18,2023,1061826,Vittorio Gambardella,Centre-Back,2006-03-10,18,Italy,1.92,Right,,,,,46619
+Napoli Under 18,2023,979360,Giuseppe D'Angelo,Left-Back,2006-02-13,18,Italy,,Left,,,,,4103
+Napoli Under 18,2023,1012515,Salvatore De Crescenzo,Left-Back,2006-03-31,18,Italy,,Left,,,,,19167
+Napoli Under 18,2023,1061829,Pasquale Stasi,Left-Back,2006-07-01,17,Italy,,Left,,,,,515
+Napoli Under 18,2023,1077899,Alfonso De Luca,Left-Back,2006-09-19,17,Italy,1.87,Left,,,,,22294
+Napoli Under 18,2023,1003933,Mattia Puzone,Right-Back,2006-08-03,17,Italy,,Right,,,,,10118
+Napoli Under 18,2023,885236,Lorenzo Russo,Defensive Midfield,2005-04-19,19,Italy,1.82,Left,,,100000.0,,4083
+Napoli Under 18,2023,964348,Manuel Legnante,Defensive Midfield,2005-06-03,19,Italy,1.78,Left,,,10000.0,,28808
+Napoli Under 18,2023,1186810,Angelo Schiavio,Midfielder,2006-02-13,18,Italy,,,,,,,75
+Napoli Under 18,2023,815546,Francesco Gioielli,Central Midfield,2004-02-26,20,Italy,,Right,,,175000.0,,33734
+Napoli Under 18,2023,930583,Luciano Peluso,Central Midfield,2005-04-22,19,Italy,1.76,Right,,,100000.0,,9818
+Napoli Under 18,2023,920941,Noah Mutanda,Central Midfield,2005-06-21,19,"Germany, DR Congo",1.83,Left,,,,,2331
+Napoli Under 18,2023,979361,Emmanuele De Chiara,Central Midfield,2006-02-21,18,Italy,,Right,,,,,22048
+Napoli Under 18,2023,1061835,Matteo Malasomma,Attacking Midfield,2006-09-14,17,Italy,1.79,Right,,,,,24366
+Napoli Under 18,2023,724111,Mario Vilardi,Left Winger,2005-09-15,18,Italy,1.76,Right,,,100000.0,,27657
+Napoli Under 18,2023,1061828,Salvatore Borriello,Left Winger,2006-01-18,18,Italy,1.69,Right,,,,,4061
+Napoli Under 18,2023,1061833,Matteo Parisi,Right Winger,2006-01-07,18,Italy,1.7,Left,,,,,21029
+Napoli Under 18,2023,1065861,Ernesto Ballabile,Right Winger,2006-08-31,17,Italy,1.69,Left,,,,,1103
+Napoli Under 18,2023,930623,Gianluca Vigliotti,Centre-Forward,2005-02-24,19,Italy,1.8,Right,,,100000.0,,46337
+Napoli Under 18,2023,1032715,Francesco Lorusso,Centre-Forward,2005-01-17,19,Italy,1.84,Left,,,10000.0,,515
+Napoli Under 18,2023,1061827,Christian Raggioli,Centre-Forward,2006-01-11,18,Italy,1.86,Right,,,,,515
+Napoli Under 17,2015,392330,Vincenzo Pezzella,Goalkeeper,1999-01-08,17,Italy,,,,,,,
+Napoli Under 17,2015,315869,Maurizio Schaeper,Goalkeeper,1999-04-28,17,Italy,1.85,Right,2015-07-01,,,,14709
+Napoli Under 17,2015,392331,Alessandro D'Andrea,Goalkeeper,2000-03-22,16,Italy,1.88,Left,2016-07-01,,,,14709
+Napoli Under 17,2015,417414,Davide Marfella,Goalkeeper,1999-09-15,16,Italy,1.82,Right,2016-01-19,,,,78534
+Napoli Under 17,2015,390154,Claudio Manzi,Centre-Back,2000-06-21,16,Italy,1.82,Right,2016-07-01,,,,50388
+Napoli Under 17,2015,392334,Giuseppe Esposito,Centre-Back,1999-04-16,17,Italy,,Right,,,,,22403
+Napoli Under 17,2015,396117,Niccolò Bartiromo,Centre-Back,2000-07-26,15,Italy,1.84,Right,2016-07-01,,,,14709
+Napoli Under 17,2015,430764,Alberto Senese,Centre-Back,2000-03-24,16,Italy,1.82,Both,2016-07-01,,,,14709
+Napoli Under 17,2015,392335,Lorenzo Riccio,Left-Back,1999-06-02,17,Italy,1.75,Left,,,,,
+Napoli Under 17,2015,392336,Guglielmo Marino,Left-Back,1999-01-20,17,Italy,,Left,,,,,515
+Napoli Under 17,2015,392332,Giovanni Musella,Right-Back,1999-01-12,17,Italy,,Right,,,,,
+Napoli Under 17,2015,370434,Salvatore Pelliccia,Right-Back,2000-01-23,16,Italy,1.77,Right,2015-07-01,,,,14709
+Napoli Under 17,2015,387019,Antonio Calabrese,Right-Back,1999-06-26,17,Italy,,Right,2015-08-06,,,,22403
+Napoli Under 17,2015,425935,Andrea Mambella,Right-Back,2000-01-04,16,Italy,1.89,Right,2016-07-01,,,,14709
+Napoli Under 17,2015,392340,Vito Ascione,Defensive Midfield,1999-01-01,17,Italy,,Right,,,,,
+Napoli Under 17,2015,358008,Gianluca Gaetano,Defensive Midfield,2000-05-05,16,Italy,1.83,Right,2015-07-01,,,,14709
+Napoli Under 17,2015,392339,Emanuele Amabile,Defensive Midfield,1999-06-14,17,Italy,1.75,Right,2015-07-01,,,,14709
+Napoli Under 17,2015,387017,Giovanni Volpicelli,Central Midfield,1999-09-24,16,Italy,1.75,Right,2015-08-06,,,,26812
+Napoli Under 17,2015,392338,Giovanni Mattera,Central Midfield,1999-04-19,17,Italy,,Right,,,,,81033
+Napoli Under 17,2015,392341,Diego Passeri,Central Midfield,1999-05-08,17,Italy,,Right,,,,,
+Napoli Under 17,2015,392345,Pasquale Daddio,Central Midfield,1999-01-30,17,Italy,,,,,,,515
+Napoli Under 17,2015,393653,Salvatore Micillo,Central Midfield,2000-02-07,16,Italy,,Right,2015-07-01,,,,14709
+Napoli Under 17,2015,393652,Raffaele Russo,Left Winger,1999-02-25,17,Italy,1.71,Right,,,,,2331
+Napoli Under 17,2015,392347,Pasquale Messina,Right Winger,2000-07-19,15,Italy,,Both,,,,,111899
+Napoli Under 17,2015,387022,Antonio Della Corte,Right Winger,1999-07-16,16,Italy,,Right,2015-08-06,,,,22403
+Napoli Under 17,2015,401163,Ciro Palmieri,Second Striker,2000-02-01,16,Italy,1.77,Right,2016-07-01,,,,14709
+Napoli Under 17,2015,392346,Vincenzo Vasca,Centre-Forward,1999-06-03,17,Italy,1.83,Left,,,,,515
+Napoli Under 17,2015,393138,Mario Ferrara,Centre-Forward,2000-04-04,16,Italy,1.82,,2015-10-30,,,,49769
+Napoli Under 17,2015,319182,Luigi Mentana,Centre-Forward,1999-03-03,17,Italy,1.85,Right,2015-07-01,,,,14709
+Napoli Under 17,2015,392348,Riccardo Conte,Centre-Forward,1999-06-08,17,Italy,1.85,Right,,,,,139413
+Napoli Under 17,2015,393149,Daniele Cerrone,Centre-Forward,2001-01-22,15,Italy,,,,,,,120594
+Napoli Under 17,2016,455973,Antonio Maisto,Goalkeeper,2000-03-17,17,Italy,,,2016-07-01,,,,14709
+Napoli Under 17,2016,392331,Alessandro D'Andrea,Goalkeeper,2000-03-22,17,Italy,1.88,Left,2016-07-01,,,,14709
+Napoli Under 17,2016,492551,Antonio Schiavone,Goalkeeper,2000-04-14,17,Italy,,,2016-08-01,,,,44911
+Napoli Under 17,2016,393928,Gennaro Crispo,Defender,2000-01-20,17,Italy,,,2016-08-20,,,,49758
+Napoli Under 17,2016,390154,Claudio Manzi,Centre-Back,2000-06-21,17,Italy,1.82,Right,2016-07-01,,,,50388
+Napoli Under 17,2016,396117,Niccolò Bartiromo,Centre-Back,2000-07-26,16,Italy,1.84,Right,2016-07-01,,,,14709
+Napoli Under 17,2016,430764,Alberto Senese,Centre-Back,2000-03-24,17,Italy,1.82,Both,2016-07-01,,,,14709
+Napoli Under 17,2016,504969,Francesco Massa,Centre-Back,2001-01-01,16,Italy,1.88,Left,2017-07-01,,,,14709
+Napoli Under 17,2016,455972,Giuseppe Pizza,Left-Back,2000-01-24,17,Italy,,,2016-07-01,,,,14709
+Napoli Under 17,2016,455974,Giovanni Calvano,Left-Back,2000-10-30,16,Italy,,Left,,,,,
+Napoli Under 17,2016,478409,Alfonso Credentino,Right-Back,2001-06-05,16,Italy,,Right,2017-07-01,,,,14709
+Napoli Under 17,2016,370434,Salvatore Pelliccia,Right-Back,2000-01-23,17,Italy,1.77,Right,2015-07-01,,,,14709
+Napoli Under 17,2016,425935,Andrea Mambella,Right-Back,2000-01-04,17,Italy,1.89,Right,2016-07-01,,,,14709
+Napoli Under 17,2016,455966,Roberto Rea,Right-Back,2000-05-17,17,Italy,,,2016-07-01,,,,14709
+Napoli Under 17,2016,492549,Pierferdinando Arcella,Right-Back,2001-09-11,15,Italy,,Right,2017-07-01,,,,14709
+Napoli Under 17,2016,498961,Giovanni Caiazzo,Right-Back,2001-10-28,15,Italy,1.77,Right,2017-07-01,,,,14709
+Napoli Under 17,2016,455968,Matteo Coglitore,Defensive Midfield,2000-12-07,16,Italy,,,,,,,515
+Napoli Under 17,2016,455969,Nicola D'Alessandro,Defensive Midfield,2000-08-29,16,Italy,,Left,,,,,
+Napoli Under 17,2016,358008,Gianluca Gaetano,Defensive Midfield,2000-05-05,17,Italy,1.83,Right,2015-07-01,,,,14709
+Napoli Under 17,2016,455970,Antonio Illuminato,Defensive Midfield,2000-05-24,17,Italy,1.77,Left,2016-07-01,,,,14709
+Napoli Under 17,2016,478408,Alessio Esposito,Defensive Midfield,2001-04-08,16,Italy,,Right,2017-07-01,,,,14709
+Napoli Under 17,2016,490161,Gennaro Esposito,Defensive Midfield,2001-04-15,16,Italy,,,2017-07-01,,,,14709
+Napoli Under 17,2016,393653,Salvatore Micillo,Central Midfield,2000-02-07,17,Italy,,Right,2015-07-01,,,,14709
+Napoli Under 17,2016,421781,Valerio Labriola,Central Midfield,2001-04-13,16,Italy,1.75,Right,2016-07-01,,,,14709
+Napoli Under 17,2016,818823,Angelo Ansani,Left Winger,2001-07-21,15,Italy,1.8,Both,,,,,
+Napoli Under 17,2016,392347,Pasquale Messina,Right Winger,2000-07-19,16,Italy,,Both,,,,,111899
+Napoli Under 17,2016,465222,Antonio Energe,Right Winger,2000-01-21,17,Italy,1.78,Left,2016-08-01,,,,55879
+Napoli Under 17,2016,401163,Ciro Palmieri,Second Striker,2000-02-01,17,Italy,1.77,Right,2016-07-01,,,,14709
+Napoli Under 17,2016,455965,Vincenzo Di Dato,Second Striker,2000-01-06,17,Italy,1.76,Right,2016-07-01,,,,14709
+Napoli Under 17,2016,319182,Luigi Mentana,Centre-Forward,1999-03-03,18,Italy,1.85,Right,2015-07-01,,75000.0,,14709
+Napoli Under 17,2016,440975,Emanuele Serrano,Centre-Forward,2000-08-11,16,Italy,1.85,Left,2016-08-06,,,,78534
+Napoli Under 17,2016,455971,Francesco Pirone,Centre-Forward,2000-04-23,17,Italy,,,,,,,515
+Napoli Under 17,2017,476410,Vincenzo Mancino,Goalkeeper,2002-05-03,16,Italy,1.87,Right,2018-07-01,,,,14709
+Napoli Under 17,2017,537358,Giovanni Evangelista,Goalkeeper,2001-03-06,17,Italy,,,,,,,515
+Napoli Under 17,2017,476068,Gennaro Zagari,Goalkeeper,2001-03-16,17,Italy,,,2017-07-25,,,,29465
+Napoli Under 17,2017,550640,Gioacchino Maione,Goalkeeper,2002-01-20,16,Italy,,Right,2018-07-01,,,,14709
+Napoli Under 17,2017,527212,Alessandro D'Ausilio,Defender,2001-10-25,16,Italy,1.83,Right,2017-08-04,,,,29434
+Napoli Under 17,2017,504969,Francesco Massa,Centre-Back,2001-01-01,17,Italy,1.88,Left,2017-07-01,,,,14709
+Napoli Under 17,2017,520490,Giuseppe Piscitelli,Centre-Back,2001-08-16,16,Italy,1.84,Right,,,,,
+Napoli Under 17,2017,481223,Daniele Mariani,Left-Back,2001-07-20,16,Italy,1.82,Left,2015-08-31,,,,26812
+Napoli Under 17,2017,537359,Andrea Bianco,Left-Back,2001-05-08,17,Italy,,Left,,,,,
+Napoli Under 17,2017,543590,Salvatore Salimbè,Left-Back,2001-08-09,16,Italy,,Left,,,,,515
+Napoli Under 17,2017,478409,Alfonso Credentino,Right-Back,2001-06-05,17,Italy,,Right,2017-07-01,,,,14709
+Napoli Under 17,2017,544174,Nicola Gaeta,Right-Back,2001-08-06,16,Italy,,Right,,,,,
+Napoli Under 17,2017,492549,Pierferdinando Arcella,Right-Back,2001-09-11,16,Italy,,Right,2017-07-01,,,,14709
+Napoli Under 17,2017,498961,Giovanni Caiazzo,Right-Back,2001-10-28,16,Italy,1.77,Right,2017-07-01,,,,14709
+Napoli Under 17,2017,550574,Luigi Marrella,Right-Back,2001-06-15,17,Italy,,Right,2017-08-05,,,,40912
+Napoli Under 17,2017,478408,Alessio Esposito,Defensive Midfield,2001-04-08,17,Italy,,Right,2017-07-01,,,,14709
+Napoli Under 17,2017,490161,Gennaro Esposito,Defensive Midfield,2001-04-15,17,Italy,,,2017-07-01,,,,14709
+Napoli Under 17,2017,543565,Carmine Sannino,Central Midfield,2001-05-28,17,Italy,,,2017-07-01,,,,14709
+Napoli Under 17,2017,421781,Valerio Labriola,Central Midfield,2001-04-13,17,Italy,1.75,Right,2016-07-01,,,,14709
+Napoli Under 17,2017,560862,Fortunato Carbone,Central Midfield,2002-03-03,16,Italy,1.74,Left,2018-07-01,,,,14709
+Napoli Under 17,2017,562015,Sal Esposito,Central Midfield,2001-09-16,16,"United States, Italy",1.7,Both,,,,,75
+Napoli Under 17,2017,564728,Michael Fibiano,Central Midfield,2001-05-11,17,Italy,,,2018-01-31,,,,29455
+Napoli Under 17,2017,543566,Antonio D'Amato,Attacking Midfield,2002-03-10,16,Italy,,Right,2018-07-01,,,,14709
+Napoli Under 17,2017,543589,Ciro Guadagni,Left Winger,2001-04-10,17,Italy,,,,,,,49934
+Napoli Under 17,2017,543591,Simone Giliberti,Left Winger,2001-08-08,16,Italy,,,,,,,51018
+Napoli Under 17,2017,566936,Antonio Cioffi,Left Winger,2002-12-19,15,Italy,1.8,Right,2018-07-01,,,,14709
+Napoli Under 17,2017,470717,Luciano Frasca,Right Winger,2001-04-30,17,Italy,,,,,,,515
+Napoli Under 17,2017,537360,Giuseppe Guadagni,Right Winger,2001-11-26,16,Italy,1.71,Left,2017-01-31,,,,29544
+Napoli Under 17,2017,535797,Lorenzo Sgarbi,Second Striker,2001-03-24,17,Italy,1.89,Right,,,,,4330
+Napoli Under 17,2017,537362,Mario Chianese,Centre-Forward,2001-01-22,17,Italy,1.68,Both,,,,,139413
+Napoli Under 17,2017,543567,Domenico Esposito,Centre-Forward,2001-03-17,17,Italy,,,,,,,515
+Napoli Under 17,2017,550660,Vincenzo Della Pietra,Centre-Forward,2002-06-22,16,Italy,1.82,Right,2018-07-01,,,,14709
+Napoli Under 17,2017,552001,Umberto Granata,Striker,2001-05-29,17,Italy,,,2017-07-01,,,,27604
+Napoli Under 17,2018,476410,Vincenzo Mancino,Goalkeeper,2002-05-03,17,Italy,1.87,Right,2018-07-01,,,,14709
+Napoli Under 17,2018,550640,Gioacchino Maione,Goalkeeper,2002-01-20,17,Italy,,Right,2018-07-01,,,,14709
+Napoli Under 17,2018,618502,Antonio Pio Daniele,Goalkeeper,2002-07-10,16,Italy,1.84,Right,2018-07-01,,,,14709
+Napoli Under 17,2018,678702,Francesco Baietti,Goalkeeper,2003-06-16,16,Italy,,Left,2019-07-01,,,,14709
+Napoli Under 17,2018,618505,Davide Costanzo,Centre-Back,2002-07-04,16,Italy,1.82,Left,2018-07-01,,,,14709
+Napoli Under 17,2018,676615,Lorenzo Carannante,Centre-Back,2003-04-28,16,Italy,,Right,2019-07-01,,,,14709
+Napoli Under 17,2018,703238,Mauro Sepe,Centre-Back,2003-01-14,16,Italy,,Left,2019-07-01,,,,14709
+Napoli Under 17,2018,662564,Marco Musella,Left-Back,2002-02-04,17,Italy,1.72,Left,2018-07-01,,,,14709
+Napoli Under 17,2018,662417,Nello D'Onofrio,Left-Back,2002-05-21,17,Italy,1.86,Left,2018-07-01,,,,14709
+Napoli Under 17,2018,662556,Flavio Romano,Left-Back,2002-07-19,16,Italy,1.8,Left,2018-08-07,,,,14892
+Napoli Under 17,2018,678371,Luca Maciariello,Left-Back,2003-08-18,15,Italy,1.75,Left,2019-07-01,,,,14709
+Napoli Under 17,2018,618506,Gaetano Parisi,Right-Back,2002-01-03,17,Italy,,Right,2018-07-01,,,,14709
+Napoli Under 17,2018,508786,Vincenzo Potenza,Right-Back,2002-04-17,17,Italy,,Right,2018-07-01,,,,14709
+Napoli Under 17,2018,627623,Francesco Somma,Right-Back,2003-05-31,16,Italy,1.75,Right,2019-07-01,,,,14709
+Napoli Under 17,2018,673195,Antonio Vitiello,Right-Back,2003-01-10,16,Italy,,Right,2019-07-01,,,,14709
+Napoli Under 17,2018,662557,Giovanni Ceparano,Defensive Midfield,2002-05-13,17,Italy,1.68,Right,2018-07-01,,,,14709
+Napoli Under 17,2018,662559,Raffaele Virgilio,Defensive Midfield,2002-01-17,17,Italy,1.89,Right,2018-07-01,,,,14709
+Napoli Under 17,2018,677621,Domenico D'Ambrosio,Defensive Midfield,2003-01-17,16,Italy,,Right,,,,,
+Napoli Under 17,2018,608242,Ciro Molisso,Central Midfield,2002-05-31,17,Italy,,,2018-08-17,,,,29354
+Napoli Under 17,2018,678372,Antonio Visconti,Central Midfield,2003-05-30,16,Italy,,,,,,,111724
+Napoli Under 17,2018,502823,Francesco Marrazzo,Central Midfield,2002-06-14,17,Italy,1.87,Left,2018-07-01,,,,14709
+Napoli Under 17,2018,560862,Fortunato Carbone,Central Midfield,2002-03-03,17,Italy,1.74,Left,2018-07-01,,,,14709
+Napoli Under 17,2018,618513,Salvatore Russo,Central Midfield,2002-03-04,17,Italy,,,2018-07-01,,,,14709
+Napoli Under 17,2018,618515,Andrea Mancino,Central Midfield,2002-08-26,16,Italy,1.7,Right,2018-07-01,,,,14709
+Napoli Under 17,2018,672535,Carmine Cretella,Central Midfield,2002-08-30,16,Italy,1.79,Right,2018-07-01,,,,14709
+Napoli Under 17,2018,677620,Vincenzo Nemolato,Central Midfield,2003-03-04,16,Italy,,Both,,,,,142970
+Napoli Under 17,2018,543566,Antonio D'Amato,Attacking Midfield,2002-03-10,17,Italy,,Right,2018-07-01,,,,14709
+Napoli Under 17,2018,662560,Mattia Vaccaro,Attacking Midfield,2002-05-02,17,Italy,,Left,,,,,515
+Napoli Under 17,2018,674693,Raffaele D'Angelo,Attacking Midfield,2003-07-02,15,Italy,,Right,2019-07-01,,,,14709
+Napoli Under 17,2018,566936,Antonio Cioffi,Left Winger,2002-12-19,16,Italy,1.8,Right,2018-07-01,,,,14709
+Napoli Under 17,2018,662562,Giuseppe D'Agostino,Left Winger,2003-05-11,16,Italy,1.7,Right,2018-07-01,,,,14709
+Napoli Under 17,2018,677622,Marco D'Orta,Left Winger,2003-04-10,16,Italy,,Right,,,,,38957
+Napoli Under 17,2018,538601,Carlo Cavallo,Right Winger,2002-03-27,17,Italy,,Left,2018-08-07,,,,5232
+Napoli Under 17,2018,646902,Attilio Altomare,Centre-Forward,2002-11-27,16,Italy,,Right,2019-01-17,,,,57284
+Napoli Under 17,2018,550660,Vincenzo Della Pietra,Centre-Forward,2002-06-22,17,Italy,1.82,Right,2018-07-01,,,,14709
+Napoli Under 17,2018,604669,Luca Romeo Cifarelli,Centre-Forward,2002-02-24,17,Italy,1.78,Right,2018-08-08,,,,61409
+Napoli Under 17,2018,618516,Christian Montaperto,Centre-Forward,2002-11-15,16,Italy,1.84,Right,2018-07-01,,,,14709
+Napoli Under 17,2019,678702,Francesco Baietti,Goalkeeper,2003-06-16,17,Italy,,Left,2019-07-01,,,,14709
+Napoli Under 17,2019,703241,Ciro Pinto,Goalkeeper,2003-01-01,17,Italy,1.88,Left,2019-07-01,,,,14709
+Napoli Under 17,2019,715575,Giuseppe Ammaturo,Goalkeeper,2003-04-16,17,Italy,,Left,2019-07-01,,,,14709
+Napoli Under 17,2019,582354,Benedetto Barba,Centre-Back,2003-01-27,17,Italy,1.85,Right,2019-07-01,,,,14709
+Napoli Under 17,2019,676615,Lorenzo Carannante,Centre-Back,2003-04-28,17,Italy,,Right,2019-07-01,,,,14709
+Napoli Under 17,2019,703238,Mauro Sepe,Centre-Back,2003-01-14,17,Italy,,Left,2019-07-01,,,,14709
+Napoli Under 17,2019,704504,Manuel Matrone,Centre-Back,2003-01-27,17,Italy,,Right,2019-07-01,,,,14709
+Napoli Under 17,2019,678371,Luca Maciariello,Left-Back,2003-08-18,16,Italy,1.75,Left,2019-07-01,,,,14709
+Napoli Under 17,2019,703236,Gioele Cirillo,Left-Back,2003-08-15,16,Italy,,Left,2019-07-01,,,,14709
+Napoli Under 17,2019,711642,Armando Tipaldi,Left-Back,2003-03-01,17,Italy,,Left,2019-09-10,,,,29467
+Napoli Under 17,2019,627623,Francesco Somma,Right-Back,2003-05-31,17,Italy,1.75,Right,2019-07-01,,,,14709
+Napoli Under 17,2019,673195,Antonio Vitiello,Right-Back,2003-01-10,17,Italy,,Right,2019-07-01,,,,14709
+Napoli Under 17,2019,704503,Francesco Rossi,Right-Back,2003-01-14,17,Italy,,Right,2019-07-01,,,,14709
+Napoli Under 17,2019,703237,Roberto Natale,Defensive Midfield,2003-05-14,17,Italy,1.86,Right,2019-07-01,,,,14709
+Napoli Under 17,2019,703242,Domenico Verdile,Defensive Midfield,2003-08-08,16,Italy,1.75,Right,2019-08-08,,,,44838
+Napoli Under 17,2019,703239,Enrico De Martino,Central Midfield,2003-03-07,17,Italy,,Right,2019-07-01,,,,14709
+Napoli Under 17,2019,703240,Gennaro Iaccarino,Central Midfield,2003-07-01,16,Italy,1.75,Right,2019-07-01,,,,14709
+Napoli Under 17,2019,567478,Davide Acampa,Left Midfield,2003-02-09,17,Italy,,Left,2019-07-01,,,,14709
+Napoli Under 17,2019,674693,Raffaele D'Angelo,Attacking Midfield,2003-07-02,16,Italy,,Right,2019-07-01,,,,14709
+Napoli Under 17,2019,703245,Antonio Vergara,Attacking Midfield,2003-01-16,17,Italy,1.82,Left,2019-07-01,,,,14709
+Napoli Under 17,2019,704502,Antonio Cianciulli,Attacking Midfield,2003-06-13,17,Italy,,Right,2019-07-10,,,,75
+Napoli Under 17,2019,571613,Bruno Umile,Left Winger,2003-02-06,17,Italy,1.75,Right,2019-07-01,,,,14709
+Napoli Under 17,2019,662562,Giuseppe D'Agostino,Left Winger,2003-05-11,17,Italy,1.7,Right,2018-07-01,,,,14709
+Napoli Under 17,2019,703244,Paolo De Simone,Centre-Forward,2003-03-24,17,Italy,,Right,2019-07-01,,,,14709
+Napoli Under 17,2019,703247,Luca Assalve,Centre-Forward,2003-11-26,16,Italy,,Left,2019-07-01,,,,14709
+Napoli Under 17,2019,707295,Giuseppe Ambrosino,Centre-Forward,2003-09-10,16,Italy,1.87,Right,2019-07-01,,,,14709
+Napoli Under 17,2020,724099,Claudio Turi,Goalkeeper,2005-05-06,16,Italy,1.87,Right,2021-04-18,,,,14709
+Napoli Under 17,2020,809986,Valerio Boffelli,Goalkeeper,2004-09-04,16,Italy,1.82,Right,2020-09-01,,,,14709
+Napoli Under 17,2020,809987,Vincenzo Provitolo,Goalkeeper,2004-05-22,17,Italy,1.88,Right,2020-09-01,,,,14709
+Napoli Under 17,2020,818584,Andrea Pirone,Goalkeeper,2004-06-09,17,Italy,,Right,2020-09-01,,,,14709
+Napoli Under 17,2020,825407,Fedele Iovino,Goalkeeper,2005-07-10,15,Italy,,Right,,,,,515
+Napoli Under 17,2020,818582,Pasquale Pontillo,Centre-Back,2004-01-27,17,Italy,1.84,Right,2020-09-01,,,,14709
+Napoli Under 17,2020,818585,Ciro Pietropaolo,Centre-Back,2004-02-09,17,Italy,1.82,Left,2020-09-01,,,,14709
+Napoli Under 17,2020,819239,Daniel Hysaj,Centre-Back,2004-03-17,17,"Albania, Italy",1.81,Right,2020-09-28,,,,49764
+Napoli Under 17,2020,859659,Domenico Dachille,Centre-Back,2005-03-28,16,Italy,1.81,Left,,,,,50760
+Napoli Under 17,2020,885235,Luigi D'Avino,Centre-Back,2005-12-08,15,Italy,1.86,Right,2021-04-18,,,,14709
+Napoli Under 17,2020,859658,Gennaro Tortora,Left-Back,2005-01-23,16,Italy,,Left,2021-07-01,,,,14709
+Napoli Under 17,2020,719802,Michele Picardi,Right-Back,2004-02-11,17,Italy,1.82,Right,2020-09-15,,,,29455
+Napoli Under 17,2020,814460,Mattia Di Leo,Right-Back,2004-06-14,17,Italy,,Right,2020-09-01,,,,14709
+Napoli Under 17,2020,818581,Matteo Marchisano,Right-Back,2004-10-06,16,Italy,1.86,Right,2020-09-01,,,,14709
+Napoli Under 17,2020,885236,Lorenzo Russo,Defensive Midfield,2005-04-19,16,Italy,1.82,Left,2021-07-01,,,,14709
+Napoli Under 17,2020,814045,Salvatore Longobardi,Central Midfield,2004-12-02,16,Italy,1.8,Left,2020-09-12,,,,38451
+Napoli Under 17,2020,815546,Francesco Gioielli,Central Midfield,2004-02-26,17,Italy,,Right,2020-09-01,,,,14709
+Napoli Under 17,2020,816506,Dylan De Pasquale,Central Midfield,2004-10-27,16,Italy,1.76,Right,2020-09-01,,,,14709
+Napoli Under 17,2020,816513,Manuel Di Palma,Central Midfield,2004-11-10,16,Italy,1.82,Right,2020-09-01,,,,14709
+Napoli Under 17,2020,818583,Massimiliano Flora,Central Midfield,2004-01-08,17,Italy,,Right,2020-09-01,,,,14709
+Napoli Under 17,2020,816505,Domenico Di Dona,Right Midfield,2004-06-10,17,Italy,,Right,2020-09-01,,,,10385
+Napoli Under 17,2020,703243,Enrico Giannini,Left Midfield,2004-09-17,16,Italy,1.8,Left,2020-09-01,,,,14709
+Napoli Under 17,2020,703246,Pasquale Marranzino,Left Winger,2004-01-28,17,Italy,1.74,Right,2020-09-01,,,,14709
+Napoli Under 17,2020,724111,Mario Vilardi,Left Winger,2005-09-15,15,Italy,1.76,Right,2021-04-17,,,,14709
+Napoli Under 17,2020,816512,Fabio Scognamiglio,Left Winger,2004-02-14,17,Italy,,Right,2020-09-01,,,,14709
+Napoli Under 17,2020,818587,Gennaro Norcia,Left Winger,2004-09-12,16,Italy,,Right,,,,,110300
+Napoli Under 17,2020,859660,Francesco Attanasio,Left Winger,2005-02-02,16,Italy,1.75,Right,2021-07-01,,,,14709
+Napoli Under 17,2020,894141,Alessandro Grieco,Left Winger,2005-01-21,16,Italy,1.66,Right,2021-07-01,,,,14709
+Napoli Under 17,2020,818586,Alessandro Carnevale,Right Winger,2004-06-03,17,Italy,1.75,Left,,,,,22330
+Napoli Under 17,2020,825408,Francesco Esposito,Right Winger,2004-02-25,17,Italy,,Left,2020-09-01,,,,14709
+Napoli Under 17,2020,814459,Alessandro Spavone,Second Striker,2004-05-10,17,Italy,1.75,Both,2020-09-01,,,,14709
+Napoli Under 17,2020,659418,Antonio Pesce,Centre-Forward,2004-01-24,17,Italy,,Right,2020-09-01,,,,14709
+Napoli Under 17,2020,859663,Mattia Miele,Centre-Forward,2005-04-30,16,Italy,1.81,Right,2021-07-01,,,,14709
+Napoli Under 17,2020,886774,Antonio Solmonte,Centre-Forward,2005-01-18,16,Italy,,Right,2021-07-01,,,,14709
+Napoli Under 17,2021,930625,Nicola Pellino,Goalkeeper,2005-01-29,17,Italy,,Left,2021-07-01,,,,14709
+Napoli Under 17,2021,930607,Raul Coprean,Goalkeeper,2005-06-22,17,"Romania, Italy",1.86,Right,2021-07-01,,,,14709
+Napoli Under 17,2021,724099,Claudio Turi,Goalkeeper,2005-05-06,17,Italy,1.87,Right,2021-04-18,,,,14709
+Napoli Under 17,2021,895957,Aniello Ascolese,Centre-Back,2005-01-19,17,Italy,,Left,2022-01-19,,,,54395
+Napoli Under 17,2021,930584,Alessio Mazzone,Centre-Back,2005-02-24,17,Italy,,Right,2021-07-01,,,,14709
+Napoli Under 17,2021,930585,Giovanni Ruggiero,Centre-Back,2005-01-27,17,Italy,,Right,2021-07-01,,,,14709
+Napoli Under 17,2021,930593,Jacopo Di Lauro,Centre-Back,2005-08-16,16,Italy,1.86,Left,2021-07-01,,,,14709
+Napoli Under 17,2021,930594,Pasquale Balestriere,Centre-Back,2005-03-30,17,Italy,1.88,Right,2021-07-01,,,,14709
+Napoli Under 17,2021,930626,Vincenzo Manzo,Centre-Back,2005-07-14,16,Italy,,Right,2021-07-01,,,,14709
+Napoli Under 17,2021,940262,Francesco Desiato,Centre-Back,2005-04-20,17,Italy,1.91,Right,2021-09-28,,,,22259
+Napoli Under 17,2021,885235,Luigi D'Avino,Centre-Back,2005-12-08,16,Italy,1.86,Right,2021-04-18,,,,14709
+Napoli Under 17,2021,859658,Gennaro Tortora,Left-Back,2005-01-23,17,Italy,,Left,2021-07-01,,,,14709
+Napoli Under 17,2021,930627,Lucio Fucci,Left-Back,2005-01-02,17,Italy,1.82,Left,2021-07-22,,,,25804
+Napoli Under 17,2021,979360,Giuseppe D'Angelo,Left-Back,2006-02-13,16,Italy,,Left,2022-07-01,,,,14709
+Napoli Under 17,2021,1012515,Salvatore De Crescenzo,Left-Back,2006-03-31,16,Italy,,Left,2022-07-01,,,,14709
+Napoli Under 17,2021,914022,Alessandro Tuccillo,Right-Back,2005-07-20,16,Italy,1.8,Right,2021-07-26,,,,75
+Napoli Under 17,2021,930582,Carmine Romano,Right-Back,2005-02-20,17,Italy,1.78,Right,2021-07-01,,,,14709
+Napoli Under 17,2021,1003933,Mattia Puzone,Right-Back,2006-08-03,15,Italy,,Right,2022-07-01,,,,14709
+Napoli Under 17,2021,885236,Lorenzo Russo,Defensive Midfield,2005-04-19,17,Italy,1.82,Left,2021-07-01,,,,14709
+Napoli Under 17,2021,930595,Francesco Cinquegrana,Defensive Midfield,2005-08-16,16,Italy,,Right,2021-07-01,,,,14709
+Napoli Under 17,2021,964348,Manuel Legnante,Defensive Midfield,2005-06-03,17,Italy,1.78,Left,2021-07-01,,,,14709
+Napoli Under 17,2021,1012516,Ciro Borrelli,Defensive Midfield,2006-01-09,16,Italy,1.75,Right,2022-07-01,,,,14709
+Napoli Under 17,2021,930583,Luciano Peluso,Central Midfield,2005-04-22,17,Italy,1.76,Right,2021-07-01,,,,14709
+Napoli Under 17,2021,930586,Simone Milo,Central Midfield,2005-02-21,17,Italy,1.77,Left,2021-07-01,,,,14709
+Napoli Under 17,2021,942413,Antonio Di Lorenzo,Central Midfield,2005-10-01,16,Italy,,Left,2021-10-01,,,,27681
+Napoli Under 17,2021,979361,Emmanuele De Chiara,Central Midfield,2006-02-21,16,Italy,,Right,2022-07-01,,,,14709
+Napoli Under 17,2021,981011,Francesco Di Somma,Central Midfield,2005-09-13,16,Italy,,Left,2022-02-03,,,,75
+Napoli Under 17,2021,987149,Alberto Musto,Central Midfield,2005-02-09,17,Italy,,Right,,,,,515
+Napoli Under 17,2021,724111,Mario Vilardi,Left Winger,2005-09-15,16,Italy,1.76,Right,2021-04-17,,,,14709
+Napoli Under 17,2021,859660,Francesco Attanasio,Left Winger,2005-02-02,17,Italy,1.75,Right,2021-07-01,,,,14709
+Napoli Under 17,2021,894141,Alessandro Grieco,Left Winger,2005-01-21,17,Italy,1.66,Right,2021-07-01,,,,14709
+Napoli Under 17,2021,930624,Tobia Cuciniello,Left Winger,2005-06-09,17,Italy,1.7,Both,2021-07-01,,,,14709
+Napoli Under 17,2021,946939,Lucio Ceci,Left Winger,2005-05-06,17,"Poland, Italy",1.73,Left,2021-10-11,,,,51026
+Napoli Under 17,2021,978944,Luca Mazzeo,Left Winger,2005-12-07,16,Italy,1.64,Right,2022-01-25,,,,93094
+Napoli Under 17,2021,859663,Mattia Miele,Centre-Forward,2005-04-30,17,Italy,1.81,Right,2021-07-01,,,,14709
+Napoli Under 17,2021,886774,Antonio Solmonte,Centre-Forward,2005-01-18,17,Italy,,Right,2021-07-01,,,,14709
+Napoli Under 17,2021,930623,Gianluca Vigliotti,Centre-Forward,2005-02-24,17,Italy,1.8,Right,2021-07-01,,,,14709
+Napoli Under 17,2021,985556,Giandiego Pinzolo,Centre-Forward,2006-04-18,16,Italy,,Right,2022-07-01,,,,14709
+Napoli Under 17,2022,1019114,Andrea Sorrentino,Goalkeeper,2007-01-09,16,Italy,1.88,Right,2022-07-01,,,,14709
+Napoli Under 17,2022,1061823,Andrea Petrone,Goalkeeper,2007-03-20,16,Italy,,Right,2022-07-01,,,,14709
+Napoli Under 17,2022,1063513,Domenico Puca,Goalkeeper,2006-09-19,16,Italy,,,,,,,26201
+Napoli Under 17,2022,1071035,Francesco Gisondi,Goalkeeper,2007-04-22,16,Italy,1.89,Right,2023-07-01,,,,14709
+Napoli Under 17,2022,1104921,Davide Di Marzo,Goalkeeper,2006-08-31,16,Italy,1.86,,,,,,101455
+Napoli Under 17,2022,1082895,Raffaele Ponticelli,Defender,2007-01-01,16,Italy,,,,,,,75
+Napoli Under 17,2022,989006,Christian Garofalo,Centre-Back,2007-01-04,16,Italy,1.87,Left,2023-01-21,,,,14709
+Napoli Under 17,2022,1061825,Mattia Esposito,Centre-Back,2006-02-12,17,Italy,1.93,,,,,,22408
+Napoli Under 17,2022,1061826,Vittorio Gambardella,Centre-Back,2006-03-10,17,Italy,1.92,Right,,,,,46619
+Napoli Under 17,2022,1061831,Giuseppe Cefariello,Centre-Back,2006-10-26,16,Italy,,,,,,,515
+Napoli Under 17,2022,1082896,Favour Enoghegase,Centre-Back,2007-08-10,15,"Italy, Nigeria",,,2023-07-01,,,,14709
+Napoli Under 17,2022,1130589,Pasquale Garofalo,Centre-Back,2007-01-12,16,Italy,1.85,Left,2023-07-01,,,,14709
+Napoli Under 17,2022,1134475,Cristian Aricò,Centre-Back,2007-07-24,15,Italy,,,,,,,3512
+Napoli Under 17,2022,979360,Giuseppe D'Angelo,Left-Back,2006-02-13,17,Italy,,Left,2022-07-01,,,,14709
+Napoli Under 17,2022,1012515,Salvatore De Crescenzo,Left-Back,2006-03-31,17,Italy,,Left,2022-07-01,,,,14709
+Napoli Under 17,2022,1061829,Pasquale Stasi,Left-Back,2006-07-01,16,Italy,,Left,,,,,515
+Napoli Under 17,2022,1072757,Francesco Distratto,Left-Back,2007-02-20,16,Italy,,Left,2023-07-01,,,,14709
+Napoli Under 17,2022,1077898,Pasquale De Rosa,Left-Back,2006-01-24,17,Italy,,,,,,,515
+Napoli Under 17,2022,1077899,Alfonso De Luca,Left-Back,2006-09-19,16,Italy,1.87,Left,,,,,22294
+Napoli Under 17,2022,1003933,Mattia Puzone,Right-Back,2006-08-03,16,Italy,,Right,2022-07-01,,,,14709
+Napoli Under 17,2022,1061824,Vincenzo Sparavigna,Right-Back,2006-01-18,17,Italy,,Right,,,,,22056
+Napoli Under 17,2022,1072758,Vincenzo Sequino,Right-Back,2006-04-12,17,Italy,,,2022-08-30,,,,29349
+Napoli Under 17,2022,1087384,Fabio Lupacchio,Right-Back,2007-02-14,16,Italy,,Right,2023-07-01,,,,14709
+Napoli Under 17,2022,1100526,Lorenzo Cufino,Right-Back,2007-04-27,16,Italy,,Right,2023-07-01,,,,14709
+Napoli Under 17,2022,1012516,Ciro Borrelli,Defensive Midfield,2006-01-09,17,Italy,1.75,Right,2022-07-01,,,,14709
+Napoli Under 17,2022,1061832,Benito Cantone,Midfielder,2006-02-02,17,Italy,,,,,,,19364
+Napoli Under 17,2022,1136558,Antonio Cimmaruta,Defensive Midfield,2007-11-14,15,Italy,1.73,Right,2023-07-01,,,,14709
+Napoli Under 17,2022,979361,Emmanuele De Chiara,Central Midfield,2006-02-21,17,Italy,,Right,2022-07-01,,,,14709
+Napoli Under 17,2022,1061834,Domenico Avvisati,Central Midfield,2006-01-01,17,Italy,,Right,,,,,515
+Napoli Under 17,2022,1105152,Antonio De Luca,Central Midfield,2006-03-10,17,Italy,,,2023-01-07,,,,19997
+Napoli Under 17,2022,1061835,Matteo Malasomma,Attacking Midfield,2006-09-14,16,Italy,1.79,Right,,,,,24366
+Napoli Under 17,2022,1061828,Salvatore Borriello,Left Winger,2006-01-18,17,Italy,1.69,Right,2022-07-01,,,,14709
+Napoli Under 17,2022,1061830,Carmine Campanile,Left Winger,2006-07-06,16,Italy,,Right,,,,,22056
+Napoli Under 17,2022,1136557,Angelo Giglio,Left Winger,2007-03-08,16,Italy,,Right,2023-07-01,,,,14709
+Napoli Under 17,2022,1061833,Matteo Parisi,Right Winger,2006-01-07,17,Italy,1.7,Left,2022-07-01,,,,14709
+Napoli Under 17,2022,1065861,Ernesto Ballabile,Right Winger,2006-08-31,16,Italy,1.69,Left,,,,,1103
+Napoli Under 17,2022,1100525,Francesco Di Giovanni,Right Winger,2006-03-03,17,Italy,,,2023-01-05,,,,113213
+Napoli Under 17,2022,985556,Giandiego Pinzolo,Centre-Forward,2006-04-18,17,Italy,,Right,2022-07-01,,,,14709
+Napoli Under 17,2022,1061827,Christian Raggioli,Centre-Forward,2006-01-11,17,Italy,1.86,Right,2022-07-01,,,,14709
+Napoli Under 17,2022,1061836,Valerio Valentino,Centre-Forward,2006-10-11,16,Italy,1.84,Left,2022-07-01,,,,14709
+Napoli Under 17,2023,1019114,Andrea Sorrentino,Goalkeeper,2007-01-09,17,Italy,1.88,Right,2022-07-01,,,,14709
+Napoli Under 17,2023,1061823,Andrea Petrone,Goalkeeper,2007-03-20,17,Italy,,Right,2022-07-01,,,,14709
+Napoli Under 17,2023,1071035,Francesco Gisondi,Goalkeeper,2007-04-22,17,Italy,1.89,Right,2023-07-01,,,,14709
+Napoli Under 17,2023,1190379,Manuel La Matta,Goalkeeper,2007-03-27,17,Italy,,,,,,,9818
+Napoli Under 17,2023,1270926,Claudio Pugliese,Goalkeeper,2008-04-15,16,Italy,,Left,2024-07-01,,,,14709
+Napoli Under 17,2023,989006,Christian Garofalo,Centre-Back,2007-01-04,17,Italy,1.87,Left,2023-01-21,,,,14709
+Napoli Under 17,2023,1082896,Favour Enoghegase,Centre-Back,2007-08-10,16,"Italy, Nigeria",,,2023-07-01,,,,14709
+Napoli Under 17,2023,1130589,Pasquale Garofalo,Centre-Back,2007-01-12,17,Italy,1.85,Left,2023-07-01,,,,14709
+Napoli Under 17,2023,1188602,Walter Cauteruccio,Centre-Back,2007-04-28,17,Italy,1.88,Right,,,,,26365
+Napoli Under 17,2023,1188606,Salvatore Carofilo,Centre-Back,2007-01-04,17,Italy,,,,,,,22056
+Napoli Under 17,2023,1234562,Vitaliy Kharban,Centre-Back,2007-01-01,17,Ukraine,,,,,,,515
+Napoli Under 17,2023,1234563,Claudio Lieto,Centre-Back,2008-01-22,16,Italy,1.86,Right,2024-07-01,,,,14709
+Napoli Under 17,2023,1072757,Francesco Distratto,Left-Back,2007-02-20,17,Italy,,Left,2023-07-01,,,,14709
+Napoli Under 17,2023,1087384,Fabio Lupacchio,Right-Back,2007-02-14,17,Italy,,Right,2023-07-01,,,,14709
+Napoli Under 17,2023,1100526,Lorenzo Cufino,Right-Back,2007-04-27,17,Italy,,Right,2023-07-01,,,,14709
+Napoli Under 17,2023,1188608,Francesco Minopoli,Right-Back,2006-01-27,18,Italy,,Right,,,,,515
+Napoli Under 17,2023,1136558,Antonio Cimmaruta,Defensive Midfield,2007-11-14,16,Italy,1.73,Right,2023-07-01,,,,14709
+Napoli Under 17,2023,1160267,Sebastiano Lombardo,Central Midfield,2007-06-05,17,Italy,1.7,Right,2023-07-26,,,,53296
+Napoli Under 17,2023,1168023,Salvatore Longano,Central Midfield,2007-01-01,17,Italy,,,2023-08-01,,,,29468
+Napoli Under 17,2023,1188604,Luigi Pio Cannavacciuolo,Central Midfield,2007-04-04,17,Italy,,Right,,,,,515
+Napoli Under 17,2023,1190378,Antonino Arzillo,Central Midfield,2007-06-25,17,Italy,,,2023-07-01,,,,14709
+Napoli Under 17,2023,1243102,Vincenzo Testa,Central Midfield,2007-01-01,17,Italy,,,2023-07-01,,,,14709
+Napoli Under 17,2023,1243103,Filippo Esposito,Central Midfield,2007-01-02,17,Italy,,,2023-07-01,,,,14709
+Napoli Under 17,2023,1261760,Giuseppe Maida,Central Midfield,2008-02-08,16,Italy,,Right,2024-07-01,,,,14709
+Napoli Under 17,2023,1188603,Donato Distratto,Left Midfield,2007-02-20,17,Italy,,Right,,,,,5585
+Napoli Under 17,2023,1188609,Arturo Raiola,Attacking Midfield,2007-09-06,16,Italy,,Left,,,,,82664
+Napoli Under 17,2023,1234556,Jordan Napoletano,Attacking Midfield,2007-01-01,17,Italy,,,2023-07-01,,,,14709
+Napoli Under 17,2023,1136557,Angelo Giglio,Left Winger,2007-03-08,17,Italy,,Right,2023-07-01,,,,14709
+Napoli Under 17,2023,1188601,Cristiano Poggi,Striker,2007-01-02,17,Italy,,,,,,,515
+Napoli Under 17,2023,1188605,Luigi Picca,Centre-Forward,2007-03-11,17,Italy,1.82,Right,2023-07-01,,,,14709
+Napoli Under 17,2023,1188607,Andrea Iovine,Centre-Forward,2007-05-09,17,Italy,,,2023-07-01,,,,14709
+Napoli Under 17,2023,1195470,Claudio Ricciardi,Striker,2007-04-01,17,Italy,,,2023-07-01,,,,14709
+Napoli Under 17,2023,1231400,Antonio De Filippis,Striker,2007-01-19,17,Italy,,,2024-07-01,,,,29356
+Napoli Under 17,2023,1234561,Vincenzo Fabozzi,Centre-Forward,2008-01-03,16,Italy,1.9,Left,2024-07-01,,,,14709
+Napoli Under 17,2024,1270926,Claudio Pugliese,Goalkeeper,2008-04-15,17,Italy,,Left,2024-07-01,,,,14709
+Napoli Under 17,2024,1311325,Pio Giordano,Goalkeeper,2008-01-28,17,Italy,1.84,Right,2024-07-01,,,,14709
+Napoli Under 17,2024,1314016,David Spinelli,Goalkeeper,2008-04-28,17,Italy,,,2024-07-01,,,,14709
+Napoli Under 17,2024,1321710,Luciano Vatore,Defender,2008-06-21,17,Italy,,,2024-07-17,,,,75
+Napoli Under 17,2024,1234563,Claudio Lieto,Centre-Back,2008-01-22,17,Italy,1.86,Right,2024-07-01,,,,14709
+Napoli Under 17,2024,1311273,Giovanni Marciano,Centre-Back,2008-01-17,17,Italy,1.83,Right,2024-07-01,,,,14709
+Napoli Under 17,2024,1314019,Gabriele Marotta,Centre-Back,2008-03-21,17,Italy,,Left,2024-07-01,,,,14709
+Napoli Under 17,2024,1311267,Ivan Candela,Left-Back,2008-03-28,17,Italy,,Left,2024-07-01,,,,14709
+Napoli Under 17,2024,1311274,Fabio Palomba,Left-Back,2008-01-14,17,Italy,,,2024-07-01,,,,14709
+Napoli Under 17,2024,1311312,Francesco Zappettini,Left-Back,2008-06-15,17,Italy,,Left,2024-07-01,,,,14709
+Napoli Under 17,2024,1311270,Cristian Colurciello,Right-Back,2008-04-11,17,Italy,1.82,Right,2024-07-01,,,,14709
+Napoli Under 17,2024,1311311,Gennaro Sardo,Right-Back,2008-03-14,17,Italy,,Right,2024-07-01,,,,14709
+Napoli Under 17,2024,1334894,Emanuele Capozzoli,Right-Back,2008-02-01,17,Italy,,Right,2024-07-05,,,,75
+Napoli Under 17,2024,1376555,Daniele Behrami,Right-Back,2008-02-19,17,"Albania, Italy",,Right,,,,,44710
+Napoli Under 17,2024,1132043,Vincenzo Prisco,Defensive Midfield,2008-08-07,16,Italy,1.65,Left,2024-07-01,,,,14709
+Napoli Under 17,2024,1261760,Giuseppe Maida,Central Midfield,2008-02-08,17,Italy,,Right,2024-07-01,,,,14709
+Napoli Under 17,2024,1311266,Vincenzo Bosso,Central Midfield,2008-02-10,17,Italy,,Left,2024-07-01,,,,14709
+Napoli Under 17,2024,1311269,Andrea Chiummariello,Central Midfield,2008-01-04,17,Italy,,Right,2024-07-01,,,,14709
+Napoli Under 17,2024,1311271,Christian D'Angiò,Central Midfield,2008-05-02,17,Italy,,,2024-07-01,,,,14709
+Napoli Under 17,2024,1361518,Francesco De Stefano,Central Midfield,2008-07-07,16,Italy,,,2025-01-03,,,,129725
+Napoli Under 17,2024,1311310,Salvatore Pignarosa,Left Midfield,2008-01-25,17,Italy,,Left,2024-07-01,,,,14709
+Napoli Under 17,2024,1311268,Vincenzo Chiocca,Attacking Midfield,2008-01-16,17,Italy,1.82,Left,2024-07-01,,,,14709
+Napoli Under 17,2024,1314018,Ciro Castaldi,Attacking Midfield,2008-09-15,16,Italy,1.76,Left,2024-07-01,,,,14709
+Napoli Under 17,2024,1100555,Elia Favicchio,Left Winger,2008-03-12,17,Italy,,Right,2024-07-01,,,,14709
+Napoli Under 17,2024,1311272,Luigi Esposito,Right Winger,2008-06-19,17,Italy,,Left,2024-07-01,,,,14709
+Napoli Under 17,2024,1314017,Marco Aprea,Right Winger,2008-08-11,16,Italy,1.78,Left,2024-07-01,,,,14709
+Napoli Under 17,2024,1234561,Vincenzo Fabozzi,Centre-Forward,2008-01-03,17,Italy,1.9,Left,2024-07-01,,,,14709
+Napoli Under 17,2024,1311265,Michele Barbella,Centre-Forward,2008-03-06,17,Italy,,Right,2024-07-01,,,,14709
+Napoli Under 17,2024,1381663,Raffaele Saviano,Centre-Forward,2008-02-21,17,Italy,1.85,Left,2024-07-01,,,,14709

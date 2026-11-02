@@ -56,29 +56,12 @@ export const InfographicExporterModal: React.FC<InfographicExporterModalProps> =
     ctx.fillStyle = cyan;
     ctx.fillText('NAPOLI DATA', padX + sscW, y);
 
-    // Right side: Geometric N Circle + @sscnapolidata
-    const circleX = W - padX - 235;
-    const circleY = y - 10;
-    ctx.beginPath();
-    ctx.arc(circleX, circleY, 20, 0, Math.PI * 2);
+    // Right side: @sscnapolidata (No circular favicon inside match card)
+    ctx.font = '700 24px "Plus Jakarta Sans", sans-serif';
     ctx.fillStyle = cyan;
-    ctx.fill();
-
-    // Draw Geometric N inside circle
-    ctx.strokeStyle = '#FFFFFF';
-    ctx.lineWidth = 3.2;
-    ctx.beginPath();
-    ctx.moveTo(circleX - 7, circleY + 9);
-    ctx.lineTo(circleX - 7, circleY - 9);
-    ctx.lineTo(circleX + 7, circleY + 7);
-    ctx.moveTo(circleX - 7, circleY - 4);
-    ctx.lineTo(circleX + 7, circleY + 10);
-    ctx.lineTo(circleX + 7, circleY - 9);
-    ctx.stroke();
-
-    ctx.font = '600 24px "Plus Jakarta Sans", sans-serif';
-    ctx.fillStyle = cyan;
-    ctx.fillText('@sscnapolidata', circleX + 30, y - 2);
+    ctx.textAlign = 'right';
+    ctx.fillText('@sscnapolidata', W - padX, y);
+    ctx.textAlign = 'left';
 
     y += 48;
     ctx.font = '600 18px "JetBrains Mono", monospace';
@@ -147,6 +130,26 @@ export const InfographicExporterModal: React.FC<InfographicExporterModalProps> =
       padX,
       y
     );
+
+    // Spectators, Referee, Formation & Historical Notes
+    const metaParts = [];
+    if (match.attendance) metaParts.push(`${match.attendance.toLocaleString()} Spettatori`);
+    if (match.referee) metaParts.push(`Arbitro: ${match.referee}`);
+    if (match.systemOfPlay) metaParts.push(`Assetto: ${match.systemOfPlay}`);
+
+    if (metaParts.length > 0) {
+      y += 32;
+      ctx.font = '600 20px "JetBrains Mono", monospace';
+      ctx.fillStyle = cyan;
+      ctx.fillText(metaParts.join(' · '), padX, y);
+    }
+
+    if (match.notes) {
+      y += 28;
+      ctx.font = '500 18px "Plus Jakarta Sans", sans-serif';
+      ctx.fillStyle = textSecondary;
+      ctx.fillText(`Nota: ${match.notes}`, padX, y);
+    }
 
     // Teams & Huge Scoreline
     y += 66;
@@ -277,7 +280,7 @@ export const InfographicExporterModal: React.FC<InfographicExporterModalProps> =
       y - 10
     );
 
-    // Permanent Branded Footer with N Logo, @sscnapolidata, Slogan, and Sources
+    // Permanent Branded Footer with @sscnapolidata, Slogan, and Sources (no circular logo inside card)
     const footerY = H - 185;
     ctx.strokeStyle = divider;
     ctx.beginPath();
@@ -285,32 +288,13 @@ export const InfographicExporterModal: React.FC<InfographicExporterModalProps> =
     ctx.lineTo(W - padX, footerY - 30);
     ctx.stroke();
 
-    // Draw Footer N Circle Logo
-    const fCircleX = padX + 26;
-    const fCircleY = footerY + 18;
-    ctx.beginPath();
-    ctx.arc(fCircleX, fCircleY, 26, 0, Math.PI * 2);
-    ctx.fillStyle = cyan;
-    ctx.fill();
-
-    ctx.strokeStyle = '#FFFFFF';
-    ctx.lineWidth = 4;
-    ctx.beginPath();
-    ctx.moveTo(fCircleX - 9, fCircleY + 12);
-    ctx.lineTo(fCircleX - 9, fCircleY - 12);
-    ctx.lineTo(fCircleX + 9, fCircleY + 9);
-    ctx.moveTo(fCircleX - 9, fCircleY - 5);
-    ctx.lineTo(fCircleX + 9, fCircleY + 13);
-    ctx.lineTo(fCircleX + 9, fCircleY - 12);
-    ctx.stroke();
-
     ctx.font = '800 26px Archivo, sans-serif';
     ctx.fillStyle = textPrimary;
-    ctx.fillText('SSC NAPOLI DATA', padX + 68, footerY + 12);
+    ctx.fillText('SSC NAPOLI DATA', padX, footerY + 12);
 
     ctx.font = '600 20px "Plus Jakarta Sans", sans-serif';
     ctx.fillStyle = cyan;
-    ctx.fillText('Data Napoli, Napoli Analitica · @sscnapolidata', padX + 68, footerY + 40);
+    ctx.fillText('Data Napoli, Napoli Analitica · @sscnapolidata', padX, footerY + 40);
 
     ctx.font = '400 17px "Plus Jakarta Sans", sans-serif';
     ctx.fillStyle = textSecondary;
@@ -414,16 +398,13 @@ export const InfographicExporterModal: React.FC<InfographicExporterModalProps> =
             }`}
             style={{ aspectRatio: '1 / 2' }}
           >
-            {/* Header with Logo and Handle */}
+            {/* Header with Title and Handle (no circular icon inside card) */}
             <div className="flex items-center justify-between pb-3 border-b border-[#01A0E8]/30">
               <div className="font-display font-extrabold text-sm tracking-tight">
-                <span>DATA </span>
-                <span className="text-[#01A0E8]">NAPOLI</span>
+                <span className="text-[#01A0E8]">SSC NAPOLI</span>{' '}
+                <span>DATA</span>
               </div>
-              <div className="flex items-center gap-1.5">
-                <NapoliLogoIcon size={18} />
-                <span className="text-xs font-semibold text-[#01A0E8]">@sscnapolidata</span>
-              </div>
+              <div className="text-xs font-semibold text-[#01A0E8]">@sscnapolidata</div>
             </div>
 
             {/* Waveform */}
@@ -482,6 +463,19 @@ export const InfographicExporterModal: React.FC<InfographicExporterModalProps> =
                   ● FULL TIME
                 </div>
               </div>
+
+              {/* Match Highlights: Attendance, Referee, Formation */}
+              <div className="mt-2.5 pt-2 border-t border-[var(--border-hairline)] flex flex-wrap items-center justify-between gap-1 text-[10px] font-mono-tabular opacity-85">
+                {match.attendance ? (
+                  <span>👥 {match.attendance.toLocaleString()} spett.</span>
+                ) : null}
+                {match.referee ? (
+                  <span>🚩 {match.referee}</span>
+                ) : null}
+                {match.systemOfPlay ? (
+                  <span className="text-[#01A0E8]">📋 {match.systemOfPlay}</span>
+                ) : null}
+              </div>
             </div>
 
             {/* Summary */}
@@ -516,17 +510,14 @@ export const InfographicExporterModal: React.FC<InfographicExporterModalProps> =
               </div>
             </div>
 
-            {/* Branded Footer */}
+            {/* Branded Footer (Typography only, no circular icon inside card) */}
             <div className="mt-6 pt-3 border-t border-[#01A0E8]/30 flex items-center justify-between">
-              <div className="flex items-center gap-2">
-                <NapoliLogoIcon size={22} />
-                <div>
-                  <div className="text-[11px] font-display font-bold leading-none">
-                    SSC NAPOLI DATA
-                  </div>
-                  <div className="text-[10px] text-[#01A0E8] font-medium">
-                    Napoli Analitica · @sscnapolidata
-                  </div>
+              <div>
+                <div className="text-[11px] font-display font-bold leading-none">
+                  SSC NAPOLI DATA
+                </div>
+                <div className="text-[10px] text-[#01A0E8] font-medium mt-0.5">
+                  Napoli Analitica · @sscnapolidata
                 </div>
               </div>
               <div className="text-[9px] font-mono-tabular opacity-65 text-right">

@@ -49,6 +49,29 @@ data/import/wikipedia/cache/
 # Node / Web App
 node_modules/
 dist/
+package-lock.json
 .tempmediaStorage/
 .env.local
 *.log
+
+# Scratch, copie temporanee e backup
+*_copy.*
+scratch_*
+*.bak*
+*.bak_*
+sscnapolidata-remote/
+
+# Notebooks e note scratch
+Colab_*.ipynb
+blueprint-*.md
+prompt-*.md
+
+# Dumps e json intermedi obsoleti
+master_database_napoli.json
+matches_history.json
+names.json
+app.js
+style.css
+favicon.png
+fiorentina-napoli-2026-09-20.html
+

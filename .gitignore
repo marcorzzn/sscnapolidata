@@ -66,12 +66,12 @@ Colab_*.ipynb
 blueprint-*.md
 prompt-*.md
 
-# Dumps e json intermedi obsoleti
-master_database_napoli.json
-matches_history.json
-names.json
-app.js
-style.css
-favicon.png
-fiorentina-napoli-2026-09-20.html
+# Dumps e file obsoleti solo a root
+/master_database_napoli.json
+/matches_history.json
+/names.json
+/app.js
+/style.css
+/favicon.png
+/fiorentina-napoli-2026-09-20.html
 

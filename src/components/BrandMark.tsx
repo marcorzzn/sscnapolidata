@@ -15,55 +15,24 @@ export const NapoliLogoIcon: React.FC<LogoProps> = ({
   className = '',
   useImageAsset = true,
 }) => {
-  const [imgError, setImgError] = React.useState(false);
+  const [imgSrc, setImgSrc] = React.useState<string | null>(null);
   const baseUrl = (import.meta.env.BASE_URL || '/').replace(/\/$/, '');
-
-  if (!imgError) {
-    return (
-      <img
-        src={`${baseUrl}/favicon.png`}
-        alt="SSC Napoli Data"
-        width={size}
-        height={size}
-        onError={() => setImgError(true)}
-        className={`rounded-full object-cover shrink-0 ${className}`}
-      />
-    );
-  }
+  const primarySrc = `${baseUrl}/favicon.png`;
+  const fallbackSrc = `${baseUrl}/icon-192.png`;
 
   return (
-    <svg
+    <img
+      src={imgSrc || primarySrc}
+      alt="SSC Napoli Data"
       width={size}
       height={size}
-      viewBox="0 0 100 100"
-      fill="none"
-      xmlns="http://www.w3.org/2000/svg"
-      className={`shrink-0 ${className}`}
-      aria-label="SSC Napoli Data geometric N logo"
-    >
-      <circle cx="50" cy="50" r="50" fill="#01A0E8" />
-      {/* Outer vertical strokes and double diagonal of the geometric N */}
-      <path
-        d="M32 72V28H38.5L63.5 57.5V28H68V72H61.5L36.5 42.5V72H32Z"
-        fill="#FFFFFF"
-      />
-      <line
-        x1="34.5"
-        y1="35.5"
-        x2="63.5"
-        y2="69.5"
-        stroke="#01A0E8"
-        strokeWidth="2.6"
-      />
-      <line
-        x1="36.5"
-        y1="29.5"
-        x2="65.5"
-        y2="63.5"
-        stroke="#FFFFFF"
-        strokeWidth="3.8"
-      />
-    </svg>
+      onError={() => {
+        if (!imgSrc) {
+          setImgSrc(fallbackSrc);
+        }
+      }}
+      className={`rounded-full object-contain shrink-0 ${className}`}
+    />
   );
 };
 

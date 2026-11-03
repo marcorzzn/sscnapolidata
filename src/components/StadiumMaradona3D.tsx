@@ -464,7 +464,7 @@ export const StadiumMaradona3D: React.FC<StadiumMaradona3DProps> = ({ lang }) =>
       </div>
 
       {/* 3D VIEWPORT CONTAINER */}
-      <div className="relative w-full h-[520px] bg-[#08090B] border border-[#01A0E8]/40 overflow-hidden shadow-2xl">
+      <div className="relative w-full h-[400px] sm:h-[500px] md:h-[560px] bg-[#08090B] border border-[#01A0E8]/40 overflow-hidden shadow-2xl">
         {/* Top-Left Live Status Badge */}
         <div className="absolute top-4 left-4 z-10 bg-[#08090B]/90 border border-white/15 px-3.5 py-2 pointer-events-none backdrop-blur-sm">
           <div className="text-[11px] font-mono-tabular text-[#01A0E8] font-bold">

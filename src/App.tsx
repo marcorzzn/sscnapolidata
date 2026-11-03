@@ -196,7 +196,7 @@ export default function App() {
         </div>
 
         {/* Mobile Horizontal Section Navigation */}
-        <div className="flex lg:hidden items-center gap-1 overflow-x-auto pt-2.5 mt-2 border-t border-[var(--border-hairline)]">
+        <div className="flex lg:hidden items-center gap-1 overflow-x-auto no-scrollbar pt-2.5 mt-2 border-t border-[var(--border-hairline)]">
           {(
             [
               { id: 'oggi', it: 'Oggi', en: 'Today' },

@@ -15,30 +15,26 @@
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Archivo:ital,wght@0,500;0,600;0,700;0,800;1,600&family=JetBrains+Mono:wght@400;500;600&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet" />
-    <script type="module">
-      // Production Bundle Loader for GitHub Pages branch deployment
-      if (window.location.hostname !== 'localhost' && window.location.hostname !== '127.0.0.1') {
-        const script = document.createElement('script');
-        script.type = 'module';
-        script.crossOrigin = 'anonymous';
-        script.src = '/sscnapolidata/assets/index-wPoraeVv.js';
-        document.body.appendChild(script);
-
-        const css = document.createElement('link');
-        css.rel = 'stylesheet';
-        css.crossOrigin = 'anonymous';
-        css.href = '/sscnapolidata/assets/index-DwlLOXI4.css';
-        document.head.appendChild(css);
+    <script>
+      // Clear legacy service worker & caches to guarantee users always receive fresh builds
+      if ('serviceWorker' in navigator) {
+        navigator.serviceWorker.getRegistrations().then(function(regs) {
+          for (var i = 0; i < regs.length; i++) {
+            regs[i].unregister();
+          }
+        });
+      }
+      if ('caches' in window) {
+        caches.keys().then(function(names) {
+          for (var i = 0; i < names.length; i++) {
+            caches.delete(names[i]);
+          }
+        });
       }
     </script>
   </head>
   <body>
     <div id="root"></div>
-    <script type="module">
-      if (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1') {
-        import('/src/main.tsx');
-      }
-    </script>
+    <script type="module" src="/src/main.tsx"></script>
   </body>
 </html>
-
